@@ -14,15 +14,18 @@ Experiments demonstrate that **SurveyForge** can outperform previous works such 
 
 &ensp;
 <p align="center">
-  <img src="./assets/framework_surveyforge" width="85%">
+  <img src="./assets/framework_surveyforge.png" width="95%">
   <div>The overview of SURVEYFORGE. The framework consists of two main stages: Outline Generation and Content Writing. In the Outline Generation stage, SURVEYFORGE utilizes heuristic learning to generate well-structured outlines by leveraging topic-relevant literature and structural patterns from existing surveys. In the Content Writing stage, a memory-driven Scholar Navigation Agent (SANA) retrieves high-quality literature for each subsection and LLM generates the content of each subsection. Finally, the content is synthesized and refined into a coherent and comprehensive survey.
 </div>
 </p>
 
 
 ## Web Demo
-Due to the limitation on API call frequency, if you want to use our SurveyForge to generate papers, please email us or open an issue in the repository.
+Due to the current limitations on API call frequency, we kindly ask that you email us or open an issue in the repository if you would like to use SurveyForge to generate papers. 
+
+At this stage, this is the best way for us to showcase the capabilities of SurveyForge. Moving forward, we are actively working to enhance our API capacity and aim to make SurveyForge publicly accessible in the near future. Thank you for your understanding and support!
+
 
 ## SurveyBench
 SurveyBench consists of approximately 100 human-written survey papers across 10 distinct topics, carefully curated by doctoral-level researchers to ensure thematic consistency and academic rigor.
-.
+
