@@ -1,0 +1,1766 @@
+{
+    "1512.03385": {
+        "arxivId": "1512.03385",
+        "title": "Deep Residual Learning for Image Recognition"
+    },
+    "1612.00593": {
+        "arxivId": "1612.00593",
+        "title": "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation"
+    },
+    "2005.12872": {
+        "arxivId": "2005.12872",
+        "title": "End-to-End Object Detection with Transformers"
+    },
+    "1706.02413": {
+        "arxivId": "1706.02413",
+        "title": "PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space"
+    },
+    "1903.11027": {
+        "arxivId": "1903.11027",
+        "title": "nuScenes: A Multimodal Dataset for Autonomous Driving"
+    },
+    "2010.04159": {
+        "arxivId": "2010.04159",
+        "title": "Deformable DETR: Deformable Transformers for End-to-End Object Detection"
+    },
+    "1711.06396": {
+        "arxivId": "1711.06396",
+        "title": "VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection"
+    },
+    "1812.05784": {
+        "arxivId": "1812.05784",
+        "title": "PointPillars: Fast Encoders for Object Detection From Point Clouds"
+    },
+    "1611.07759": {
+        "arxivId": "1611.07759",
+        "title": "Multi-view 3D Object Detection Network for Autonomous Driving"
+    },
+    "2001.05566": {
+        "arxivId": "2001.05566",
+        "title": "Image Segmentation Using Deep Learning: A Survey"
+    },
+    "1904.08189": {
+        "arxivId": "1904.08189",
+        "title": "CenterNet: Keypoint Triplets for Object Detection"
+    },
+    "1912.04838": {
+        "arxivId": "1912.04838",
+        "title": "Scalability in Perception for Autonomous Driving: Waymo Open Dataset"
+    },
+    "1812.04244": {
+        "arxivId": "1812.04244",
+        "title": "PointRCNN: 3D Object Proposal Generation and Detection From Point Cloud"
+    },
+    "1711.08488": {
+        "arxivId": "1711.08488",
+        "title": "Frustum PointNets for 3D Object Detection from RGB-D Data"
+    },
+    "1904.12848": {
+        "arxivId": "1904.12848",
+        "title": "Unsupervised Data Augmentation for Consistency Training"
+    },
+    "2012.12556": {
+        "arxivId": "2012.12556",
+        "title": "A Survey on Vision Transformer"
+    },
+    "1912.12033": {
+        "arxivId": "1912.12033",
+        "title": "Deep Learning for 3D Point Clouds: A Survey"
+    },
+    "1712.02294": {
+        "arxivId": "1712.02294",
+        "title": "Joint 3D Proposal Generation and Object Detection from View Aggregation"
+    },
+    "1911.02620": {
+        "arxivId": "1911.02620",
+        "title": "Argoverse: 3D Tracking and Forecasting With Rich Maps"
+    },
+    "2203.17270": {
+        "arxivId": "2203.17270",
+        "title": "BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers"
+    },
+    "1612.00496": {
+        "arxivId": "1612.00496",
+        "title": "3D Bounding Box Estimation Using Deep Learning and Geometry"
+    },
+    "1605.07648": {
+        "arxivId": "1605.07648",
+        "title": "FractalNet: Ultra-Deep Neural Networks without Residuals"
+    },
+    "1902.07830": {
+        "arxivId": "1902.07830",
+        "title": "Deep Multi-Modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges"
+    },
+    "2008.05711": {
+        "arxivId": "2008.05711",
+        "title": "Lift, Splat, Shoot: Encoding Images From Arbitrary Camera Rigs by Implicitly Unprojecting to 3D"
+    },
+    "2012.10992": {
+        "arxivId": "2012.10992",
+        "title": "Deep Continuous Fusion for Multi-sensor 3D Object Detection"
+    },
+    "1907.10471": {
+        "arxivId": "1907.10471",
+        "title": "STD: Sparse-to-Dense 3D Object Detector for Point Cloud"
+    },
+    "1911.10150": {
+        "arxivId": "1911.10150",
+        "title": "PointPainting: Sequential Fusion for 3D Object Detection"
+    },
+    "2205.13542": {
+        "arxivId": "2205.13542",
+        "title": "BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation"
+    },
+    "2003.01251": {
+        "arxivId": "2003.01251",
+        "title": "Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud"
+    },
+    "2104.11892": {
+        "arxivId": "2104.11892",
+        "title": "A Survey of Modern Deep Learning based Object Detection Models"
+    },
+    "1711.10871": {
+        "arxivId": "1711.10871",
+        "title": "PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation"
+    },
+    "2110.06922": {
+        "arxivId": "2110.06922",
+        "title": "DETR3D: 3d object detection from multi-view images via 3d-to-2d queries"
+    },
+    "2002.12478": {
+        "arxivId": "2002.12478",
+        "title": "Time Series Data Augmentation for Deep Learning: A Survey"
+    },
+    "2101.09671": {
+        "arxivId": "2101.09671",
+        "title": "Pruning and Quantization for Deep Neural Network Acceleration: A Survey"
+    },
+    "1609.06666": {
+        "arxivId": "1609.06666",
+        "title": "Vote3Deep: Fast object detection in 3D point clouds using efficient convolutional neural networks"
+    },
+    "2112.11790": {
+        "arxivId": "2112.11790",
+        "title": "BEVDet: High-performance Multi-camera 3D Object Detection in Bird-Eye-View"
+    },
+    "1906.11172": {
+        "arxivId": "1906.11172",
+        "title": "Learning Data Augmentation Strategies for Object Detection"
+    },
+    "2203.11496": {
+        "arxivId": "2203.11496",
+        "title": "TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers"
+    },
+    "1903.01864": {
+        "arxivId": "1903.01864",
+        "title": "Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal"
+    },
+    "1703.07570": {
+        "arxivId": "1703.07570",
+        "title": "Deep MANTA: A Coarse-to-Fine Many-Task Network for Joint 2D and 3D Vehicle Analysis from Monocular Image"
+    },
+    "2103.01100": {
+        "arxivId": "2103.01100",
+        "title": "Categorical Depth Distribution Network for Monocular 3D Object Detection"
+    },
+    "2006.06830": {
+        "arxivId": "2006.06830",
+        "title": "Data Augmentation for Graph Neural Networks"
+    },
+    "2004.12636": {
+        "arxivId": "2004.12636",
+        "title": "3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection"
+    },
+    "1811.08188": {
+        "arxivId": "1811.08188",
+        "title": "Orthographic Feature Transform for Monocular 3D Object Detection"
+    },
+    "1612.02297": {
+        "arxivId": "1612.02297",
+        "title": "Spatially Adaptive Computation Time for Residual Networks"
+    },
+    "1904.01649": {
+        "arxivId": "1904.01649",
+        "title": "MVX-Net: Multimodal VoxelNet for 3D Object Detection"
+    },
+    "2004.05224": {
+        "arxivId": "2004.05224",
+        "title": "Deep Learning for Image and Point Cloud Fusion in Autonomous Driving: A Review"
+    },
+    "2007.08856": {
+        "arxivId": "2007.08856",
+        "title": "EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection"
+    },
+    "2008.07519": {
+        "arxivId": "2008.07519",
+        "title": "V2VNet: Vehicle-to-vehicle communication for joint perception and prediction"
+    },
+    "2102.04803": {
+        "arxivId": "2102.04803",
+        "title": "DetCo: Unsupervised Contrastive Learning for Object Detection"
+    },
+    "2009.00784": {
+        "arxivId": "2009.00784",
+        "title": "CLOCs: Camera-LiDAR Object Candidates Fusion for 3D Object Detection"
+    },
+    "1604.04693": {
+        "arxivId": "1604.04693",
+        "title": "Subcategory-Aware Convolutional Neural Networks for Object Proposals and Detection"
+    },
+    "2205.13790": {
+        "arxivId": "2205.13790",
+        "title": "BEVFusion: A simple and robust lidar-camera fusion framework"
+    },
+    "1806.01963": {
+        "arxivId": "1806.01963",
+        "title": "MILD\u2010Net: Minimal information loss dilated network for gland instance segmentation in colon histology images"
+    },
+    "2203.10638": {
+        "arxivId": "2203.10638",
+        "title": "V2X-ViT: Vehicle-to-everything cooperative perception with vision transformer"
+    },
+    "2203.08195": {
+        "arxivId": "2203.08195",
+        "title": "DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection"
+    },
+    "2106.10823": {
+        "arxivId": "2106.10823",
+        "title": "3D Object Detection for Autonomous Driving: A Survey"
+    },
+    "1703.02140": {
+        "arxivId": "1703.02140",
+        "title": "Information loss"
+    },
+    "2106.11037": {
+        "arxivId": "2106.11037",
+        "title": "One Million Scenes for Autonomous Driving: ONCE Dataset"
+    },
+    "1903.01568": {
+        "arxivId": "1903.01568",
+        "title": "The H3D Dataset for Full-Surround 3D Multi-Object Detection and Tracking in Crowded Urban Scenes"
+    },
+    "2206.00630": {
+        "arxivId": "2206.00630",
+        "title": "Unifying Voxel-based Representation with Transformer for 3D Object Detection"
+    },
+    "2111.06881": {
+        "arxivId": "2111.06881",
+        "title": "Multimodal Virtual Point 3D Detection"
+    },
+    "1904.07537": {
+        "arxivId": "1904.07537",
+        "title": "Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds"
+    },
+    "2203.10642": {
+        "arxivId": "2203.10642",
+        "title": "FUTR3D: A Unified Sensor Fusion Framework for 3D Detection"
+    },
+    "1904.08601": {
+        "arxivId": "1904.08601",
+        "title": "Deep Optics for Monocular Depth Estimation and 3D Object Detection"
+    },
+    "2111.00643": {
+        "arxivId": "2111.00643",
+        "title": "Learning distilled collaboration graph for multi-agent perception"
+    },
+    "1911.06084": {
+        "arxivId": "1911.06084",
+        "title": "PI-RCNN: An Efficient Multi-sensor 3D Object Detector with Point-based Attentive Cont-conv Fusion Module"
+    },
+    "1811.03818": {
+        "arxivId": "1811.03818",
+        "title": "RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement"
+    },
+    "2204.12463": {
+        "arxivId": "2204.12463",
+        "title": "Focal Sparse Convolutional Networks for 3D Object Detection"
+    },
+    "1912.12791": {
+        "arxivId": "1912.12791",
+        "title": "Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots"
+    },
+    "2207.02202": {
+        "arxivId": "2207.02202",
+        "title": "CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers"
+    },
+    "2209.12836": {
+        "arxivId": "2209.12836",
+        "title": "Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps"
+    },
+    "1812.05276": {
+        "arxivId": "1812.05276",
+        "title": "IPOD: Intensive Point-based Object Detector for Point Cloud"
+    },
+    "2112.12610": {
+        "arxivId": "2112.12610",
+        "title": "PandaSet: Advanced Sensor Suite Dataset for Autonomous Driving"
+    },
+    "2203.09780": {
+        "arxivId": "2203.09780",
+        "title": "Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion"
+    },
+    "2107.07502": {
+        "arxivId": "2107.07502",
+        "title": "MultiBench: Multiscale Benchmarks for Multimodal Representation Learning"
+    },
+    "2108.06709": {
+        "arxivId": "2108.06709",
+        "title": "SPG: Unsupervised Domain Adaptation for 3D Object Detection via Semantic Point Generation"
+    },
+    "1909.07541": {
+        "arxivId": "1909.07541",
+        "title": "A*3D Dataset: Towards Autonomous Driving in Challenging Environments"
+    },
+    "2106.12449": {
+        "arxivId": "2106.12449",
+        "title": "FusionPainting: Multimodal Fusion with Adaptive Attention for 3D Object Detection"
+    },
+    "1901.03446": {
+        "arxivId": "1901.03446",
+        "title": "Mono3D++: Monocular 3D Vehicle Detection with Two-Scale 3D Hypotheses and Task Priors"
+    },
+    "1901.03360": {
+        "arxivId": "1901.03360",
+        "title": "Unsupervised Moving Object Detection via Contextual Information Separation"
+    },
+    "2104.03775": {
+        "arxivId": "2104.03775",
+        "title": "Geometry-based Distance Decomposition for Monocular 3D Object Detection"
+    },
+    "2103.16470": {
+        "arxivId": "2103.16470",
+        "title": "Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection"
+    },
+    "2103.12605": {
+        "arxivId": "2103.12605",
+        "title": "MonoRUn: Monocular 3D Object Detection by Reconstruction and Uncertainty Propagation"
+    },
+    "2105.13502": {
+        "arxivId": "2105.13502",
+        "title": "Unsupervised Domain Adaptation of Object Detectors: A Survey"
+    },
+    "2006.12671": {
+        "arxivId": "2006.12671",
+        "title": "AFDet: Anchor Free One Stage 3D Object Detection"
+    },
+    "1908.11069": {
+        "arxivId": "1908.11069",
+        "title": "StarNet: Targeted Computation for Object Detection in Point Clouds"
+    },
+    "2111.14382": {
+        "arxivId": "2111.14382",
+        "title": "VPFNet: Improving 3D Object Detection With Virtual Point Based LiDAR and Stereo Data Fusion"
+    },
+    "2106.04550": {
+        "arxivId": "2106.04550",
+        "title": "DETReg: Unsupervised Pretraining with Region Priors for Object Detection"
+    },
+    "2103.00236": {
+        "arxivId": "2103.00236",
+        "title": "Uncertainty-Aware Unsupervised Domain Adaptation in Object Detection"
+    },
+    "1605.07716": {
+        "arxivId": "1605.07716",
+        "title": "Deeply-Fused Nets"
+    },
+    "2202.02703": {
+        "arxivId": "2202.02703",
+        "title": "Multi-modal sensor fusion for auto driving perception: A survey"
+    },
+    "2201.06493": {
+        "arxivId": "2201.06493",
+        "title": "AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection"
+    },
+    "2106.12735": {
+        "arxivId": "2106.12735",
+        "title": "Multi-Modal 3D Object Detection in Autonomous Driving: A Survey"
+    },
+    "2207.10316": {
+        "arxivId": "2207.10316",
+        "title": "AutoAlignV2: Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection"
+    },
+    "2112.11088": {
+        "arxivId": "2112.11088",
+        "title": "EPNet++: Cascade Bi-Directional Fusion for Multi-Modal 3D Object Detection"
+    },
+    "2103.13164": {
+        "arxivId": "2103.13164",
+        "title": "M3DSSD: Monocular 3D Single Stage Object Detector"
+    },
+    "2208.03624": {
+        "arxivId": "2208.03624",
+        "title": "Graph R-CNN: Towards Accurate 3D Object Detection with Semantic-Decorated Local Graph"
+    },
+    "2205.15938": {
+        "arxivId": "2205.15938",
+        "title": "Voxel Field Fusion for 3D Object Detection"
+    },
+    "2206.09474": {
+        "arxivId": "2206.09474",
+        "title": "3D Object Detection for Autonomous Driving: A Comprehensive Survey"
+    },
+    "1808.04285": {
+        "arxivId": "1808.04285",
+        "title": "Unsupervised Hard Example Mining from Videos for Improved Object Detection"
+    },
+    "2009.04554": {
+        "arxivId": "2009.04554",
+        "title": "RoIFusion: 3D Object Detection From LiDAR and Vision"
+    },
+    "2210.01391": {
+        "arxivId": "2210.01391",
+        "title": "Bridged Transformer for Vision and Point Cloud 3D Object Detection"
+    },
+    "2011.14589": {
+        "arxivId": "2011.14589",
+        "title": "Monocular 3D Object Detection With Sequential Feature Association and Depth Hint Augmentation"
+    },
+    "1909.04163": {
+        "arxivId": "1909.04163",
+        "title": "MLOD: A multi-view 3D object detection based on robust feature fusion method"
+    },
+    "2008.10436": {
+        "arxivId": "2008.10436",
+        "title": "Cross-Modality 3D Object Detection"
+    },
+    "2011.01404": {
+        "arxivId": "2011.01404",
+        "title": "Faraway-Frustum: Dealing with Lidar Sparsity for 3D Object Detection using Fusion"
+    },
+    "1911.03576": {
+        "arxivId": "1911.03576",
+        "title": "PatchNet: Hierarchical Deep Learning-Based Stable Patch Identification for the Linux Kernel"
+    },
+    "2009.10945": {
+        "arxivId": "2009.10945",
+        "title": "MAFF-Net: Filter False Positive for 3D Vehicle Detection with Multi-modal Adaptive Feature Fusion"
+    },
+    "1907.06777": {
+        "arxivId": "1907.06777",
+        "title": "Improving 3D Object Detection for Pedestrians with Virtual Multi-View Synthesis Orientation Estimation"
+    },
+    "2012.02938": {
+        "arxivId": "2012.02938",
+        "title": "Cirrus: A Long-range Bi-pattern LiDAR Dataset"
+    },
+    "2009.12276": {
+        "arxivId": "2009.12276",
+        "title": "SemanticVoxels: Sequential Fusion for 3D Pedestrian Detection using LiDAR Point Cloud and Semantic Segmentation"
+    },
+    "2011.00652": {
+        "arxivId": "2011.00652",
+        "title": "Multi-View Adaptive Fusion Network for 3D Object Detection"
+    },
+    "2210.04801": {
+        "arxivId": "2210.04801",
+        "title": "4D Unsupervised Object Discovery"
+    },
+    "1506.01497": {
+        "arxivId": "1506.01497",
+        "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"
+    },
+    "1405.0312": {
+        "arxivId": "1405.0312",
+        "title": "Microsoft COCO: Common Objects in Context"
+    },
+    "1506.02640": {
+        "arxivId": "1506.02640",
+        "title": "You Only Look Once: Unified, Real-Time Object Detection"
+    },
+    "1311.2524": {
+        "arxivId": "1311.2524",
+        "title": "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation"
+    },
+    "1703.06870": {
+        "arxivId": "1703.06870",
+        "title": "Mask R-CNN"
+    },
+    "1504.08083": {
+        "arxivId": "1504.08083",
+        "title": "Fast R-CNN"
+    },
+    "2207.02696": {
+        "arxivId": "2207.02696",
+        "title": "YOLOv7: Trainable Bag-of-Freebies Sets New State-of-the-Art for Real-Time Object Detectors"
+    },
+    "1911.09070": {
+        "arxivId": "1911.09070",
+        "title": "EfficientDet: Scalable and Efficient Object Detection"
+    },
+    "1807.05511": {
+        "arxivId": "1807.05511",
+        "title": "Object Detection With Deep Learning: A Review"
+    },
+    "1812.07179": {
+        "arxivId": "1812.07179",
+        "title": "Pseudo-LiDAR From Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving"
+    },
+    "1907.09408": {
+        "arxivId": "1907.09408",
+        "title": "A Survey of Deep Learning-Based Object Detection"
+    },
+    "2108.05699": {
+        "arxivId": "2108.05699",
+        "title": "Oriented R-CNN for Object Detection"
+    },
+    "1902.09738": {
+        "arxivId": "1902.09738",
+        "title": "Stereo R-CNN Based 3D Object Detection for Autonomous Driving"
+    },
+    "2206.10092": {
+        "arxivId": "2206.10092",
+        "title": "BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection"
+    },
+    "1907.06038": {
+        "arxivId": "1907.06038",
+        "title": "M3D-RPN: Monocular 3D Region Proposal Network for Object Detection"
+    },
+    "1905.12365": {
+        "arxivId": "1905.12365",
+        "title": "Disentangling monocular 3d object detection"
+    },
+    "2008.13535": {
+        "arxivId": "2008.13535",
+        "title": "DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems"
+    },
+    "1907.07484": {
+        "arxivId": "1907.07484",
+        "title": "Benchmarking Robustness in Object Detection: Autonomous Driving when Winter is Coming"
+    },
+    "1906.06310": {
+        "arxivId": "1906.06310",
+        "title": "Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving"
+    },
+    "1711.07264": {
+        "arxivId": "1711.07264",
+        "title": "Light-Head R-CNN: In Defense of Two-Stage Object Detector"
+    },
+    "1608.07711": {
+        "arxivId": "1608.07711",
+        "title": "3D Object Proposals Using Stereo Imagery for Accurate Object Class Detection"
+    },
+    "1903.10955": {
+        "arxivId": "1903.10955",
+        "title": "GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving"
+    },
+    "2002.10111": {
+        "arxivId": "2002.10111",
+        "title": "SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation"
+    },
+    "1912.04799": {
+        "arxivId": "1912.04799",
+        "title": "Learning Depth-Guided Convolutions for Monocular 3D Object Detection"
+    },
+    "2108.06417": {
+        "arxivId": "2108.06417",
+        "title": "Is Pseudo-Lidar needed for Monocular 3D Object detection?"
+    },
+    "1903.11444": {
+        "arxivId": "1903.11444",
+        "title": "Accurate Monocular 3D Object Detection via Color-Embedded 3D Reconstruction for Autonomous Driving"
+    },
+    "2206.01191": {
+        "arxivId": "2206.01191",
+        "title": "EfficientFormer: Vision Transformers at MobileNet Speed"
+    },
+    "1903.09847": {
+        "arxivId": "1903.09847",
+        "title": "Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud"
+    },
+    "2003.00504": {
+        "arxivId": "2003.00504",
+        "title": "MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships"
+    },
+    "2204.05575": {
+        "arxivId": "2204.05575",
+        "title": "DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection"
+    },
+    "2212.07784": {
+        "arxivId": "2212.07784",
+        "title": "RTMDet: An Empirical Study of Designing Real-Time Object Detectors"
+    },
+    "2107.13774": {
+        "arxivId": "2107.13774",
+        "title": "Geometry uncertainty projection network for monocular 3d object detection"
+    },
+    "2001.10117": {
+        "arxivId": "2001.10117",
+        "title": "Canadian Adverse Driving Conditions dataset"
+    },
+    "2001.03398": {
+        "arxivId": "2001.03398",
+        "title": "DSGN: Deep Stereo Geometry Network for 3D Object Detection"
+    },
+    "2004.03080": {
+        "arxivId": "2004.03080",
+        "title": "End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection"
+    },
+    "1904.12681": {
+        "arxivId": "1904.12681",
+        "title": "Deep Fitting Degree Scoring Network for Monocular 3D Object Detection"
+    },
+    "2206.15398": {
+        "arxivId": "2206.15398",
+        "title": "PolarFormer: Multi-camera 3D Object Detection with Polar Transformers"
+    },
+    "2006.16471": {
+        "arxivId": "2006.16471",
+        "title": "Object Detection Under Rainy Conditions for Autonomous Vehicles: A Review of State-of-the-Art and Emerging Techniques"
+    },
+    "2102.00690": {
+        "arxivId": "2102.00690",
+        "title": "Ground-Aware Monocular 3D Object Detection for Autonomous Driving"
+    },
+    "2203.10981": {
+        "arxivId": "2203.10981",
+        "title": "MonoDTR: Monocular 3d object detection with depth-aware transformer"
+    },
+    "1906.01193": {
+        "arxivId": "1906.01193",
+        "title": "Triangulation Learning Network: From Monocular to Stereo 3D Object Detection"
+    },
+    "2106.15796": {
+        "arxivId": "2106.15796",
+        "title": "Monocular 3D Object Detection: An Extrinsic Parameter Free Approach"
+    },
+    "2203.10168": {
+        "arxivId": "2203.10168",
+        "title": "Boreas: A multi-season autonomous driving dataset"
+    },
+    "2112.04628": {
+        "arxivId": "2112.04628",
+        "title": "Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection"
+    },
+    "2004.03572": {
+        "arxivId": "2004.03572",
+        "title": "Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation"
+    },
+    "2108.08258": {
+        "arxivId": "2108.08258",
+        "title": "LIGA-Stereo: Learning LiDAR Geometry Aware Representations for Stereo-based 3D Detector"
+    },
+    "2203.03800": {
+        "arxivId": "2203.03800",
+        "title": "Unknown-Aware Object Detection: Learning What You Don't Know from Videos in the Wild"
+    },
+    "1905.09970": {
+        "arxivId": "1905.09970",
+        "title": "Shift R-CNN: Deep Monocular 3D Object Detection With Closed-Form Geometric Constraints"
+    },
+    "2108.05793": {
+        "arxivId": "2108.05793",
+        "title": "Progressive Coordinate Transforms for Monocular 3D Object Detection"
+    },
+    "2303.02314": {
+        "arxivId": "2303.02314",
+        "title": "Virtual Sparse Convolution for Multimodal 3D Object Detection"
+    },
+    "2003.00529": {
+        "arxivId": "2003.00529",
+        "title": "ZoomNet: Part-Aware Adaptive Zooming Neural Network for 3D Object Detection"
+    },
+    "2103.09422": {
+        "arxivId": "2103.09422",
+        "title": "YOLOStereo3D: A Step Back to 2D for Efficient Stereo 3D Detection"
+    },
+    "2203.02112": {
+        "arxivId": "2203.02112",
+        "title": "Pseudo-Stereo for Monocular 3D Object Detection in Autonomous Driving"
+    },
+    "1909.07701": {
+        "arxivId": "1909.07701",
+        "title": "Task-Aware Monocular Depth Estimation for 3D Object Detection"
+    },
+    "2203.13310": {
+        "arxivId": "2203.13310",
+        "title": "MonoDETR: Depth-guided transformer for monocular 3d object detection"
+    },
+    "2203.08563": {
+        "arxivId": "2203.08563",
+        "title": "MonoJSG: Joint Semantic and Geometric Cost Volume for Monocular 3D Object Detection"
+    },
+    "2003.05505": {
+        "arxivId": "2003.05505",
+        "title": "Confidence Guided Stereo 3D Object Detection with Split Depth Estimation"
+    },
+    "1904.08494": {
+        "arxivId": "1904.08494",
+        "title": "Learning 2D to 3D Lifting for Object Detection in 3D for Autonomous Vehicles"
+    },
+    "2206.07372": {
+        "arxivId": "2206.07372",
+        "title": "MonoGround: Detecting Monocular 3D Objects from the Ground"
+    },
+    "1809.06132": {
+        "arxivId": "1809.06132",
+        "title": "Real-Time Dense Mapping for Self-Driving Vehicles using Fisheye Cameras"
+    },
+    "2303.10209": {
+        "arxivId": "2303.10209",
+        "title": "CAPE: Camera View Position Embedding for Multi-View 3D Object Detection"
+    },
+    "2204.00754": {
+        "arxivId": "2204.00754",
+        "title": "Homography Loss for Monocular 3D Object Detection"
+    },
+    "2101.06594": {
+        "arxivId": "2101.06594",
+        "title": "PLUMENet: Efficient 3D Object Detection from Stereo Images"
+    },
+    "2303.17297": {
+        "arxivId": "2303.17297",
+        "title": "Understanding the Robustness of 3D Object Detection with Bird'View Representations in Autonomous Driving"
+    },
+    "2112.01914": {
+        "arxivId": "2112.01914",
+        "title": "SGM3D: Stereo Guided Monocular 3D Object Detection"
+    },
+    "2211.01142": {
+        "arxivId": "2211.01142",
+        "title": "OPA-3D: Occlusion-Aware Pixel-Wise Aggregation for Monocular 3D Object Detection"
+    },
+    "2104.05858": {
+        "arxivId": "2104.05858",
+        "title": "Exploring Geometric Consistency for Monocular 3D Object Detection"
+    },
+    "2108.09663": {
+        "arxivId": "2108.09663",
+        "title": "SIDE: Center-based Stereo 3D Detector with Structure-aware Instance Depth Estimation"
+    },
+    "2006.13084": {
+        "arxivId": "2006.13084",
+        "title": "Single-Shot 3D Detection of Vehicles from Monocular RGB Images via Geometrically Constrained Keypoints in Real-Time"
+    },
+    "2007.09836": {
+        "arxivId": "2007.09836",
+        "title": "Object-Aware Centroid Voting for Monocular 3D Object Detection"
+    },
+    "2301.10766": {
+        "arxivId": "2301.10766",
+        "title": "On the Adversarial Robustness of Camera-based 3D Object Detection"
+    },
+    "2211.13529": {
+        "arxivId": "2211.13529",
+        "title": "3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection"
+    },
+    "2006.16007": {
+        "arxivId": "2006.16007",
+        "title": "MoNet3D: Towards Accurate Monocular 3D Object Localization in Real Time"
+    },
+    "1912.01703": {
+        "arxivId": "1912.01703",
+        "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library"
+    },
+    "1803.08669": {
+        "arxivId": "1803.08669",
+        "title": "Pyramid Stereo Matching Network"
+    },
+    "2006.11275": {
+        "arxivId": "2006.11275",
+        "title": "Center-based 3D Object Detection and Tracking"
+    },
+    "1803.06184": {
+        "arxivId": "1803.06184",
+        "title": "The ApolloScape Open Dataset for Autonomous Driving and Its Application"
+    },
+    "2301.00493": {
+        "arxivId": "2301.00493",
+        "title": "Argoverse 2: Next Generation Datasets for Self-Driving Perception and Forecasting"
+    },
+    "2109.13410": {
+        "arxivId": "2109.13410",
+        "title": "KITTI-360: A novel dataset and benchmarks for urban scene understanding in 2D and 3D"
+    },
+    "1908.09492": {
+        "arxivId": "1908.09492",
+        "title": "Class-balanced Grouping and Sampling for Point Cloud 3D Object Detection"
+    },
+    "2203.05625": {
+        "arxivId": "2203.05625",
+        "title": "PETR: Position Embedding Transformation for Multi-View 3D Object Detection"
+    },
+    "2004.06320": {
+        "arxivId": "2004.06320",
+        "title": "A2D2: Audi Autonomous Driving Dataset"
+    },
+    "2206.01256": {
+        "arxivId": "2206.01256",
+        "title": "PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images"
+    },
+    "2112.06375": {
+        "arxivId": "2112.06375",
+        "title": "Embracing Single Stride 3D Object Detector with Sparse Transformer"
+    },
+    "1908.04512": {
+        "arxivId": "1908.04512",
+        "title": "Interpolated Convolutional Networks for 3D Point Cloud Understanding"
+    },
+    "2203.10314": {
+        "arxivId": "2203.10314",
+        "title": "Voxel set transformer: A set-to-set approach to 3d object detection from point clouds"
+    },
+    "2106.01178": {
+        "arxivId": "2106.01178",
+        "title": "ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection"
+    },
+    "2112.02205": {
+        "arxivId": "2112.02205",
+        "title": "Behind the Curtain: Learning Occluded Shapes for 3D Object Detection"
+    },
+    "2112.09205": {
+        "arxivId": "2112.09205",
+        "title": "AFDetV2: Rethinking the Necessity of the Second Stage for Object Detection from Point Clouds"
+    },
+    "2209.05588": {
+        "arxivId": "2209.05588",
+        "title": "CenterFormer: Center-based Transformer for 3D Object Detection"
+    },
+    "2208.11112": {
+        "arxivId": "2208.11112",
+        "title": "DeepInteraction: 3D Object Detection via Modality Interaction"
+    },
+    "2201.01976": {
+        "arxivId": "2201.01976",
+        "title": "SASA: Semantics-Augmented Set Abstraction for Point-based 3D Object Detection"
+    },
+    "2103.17202": {
+        "arxivId": "2103.17202",
+        "title": "GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection"
+    },
+    "2203.13608": {
+        "arxivId": "2203.13608",
+        "title": "Rope3D: The Roadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task"
+    },
+    "2209.09385": {
+        "arxivId": "2209.09385",
+        "title": "LidarMultiNet: Towards a Unified Multi-task Network for LiDAR Perception"
+    },
+    "2205.05979": {
+        "arxivId": "2205.05979",
+        "title": "MPPNet: Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection"
+    },
+    "2203.09704": {
+        "arxivId": "2203.09704",
+        "title": "VISTA: Boosting 3D Object Detection via Dual Cross-VIew SpaTial Attention"
+    },
+    "2106.13381": {
+        "arxivId": "2106.13381",
+        "title": "To the Point: Efficient 3D Object Detection in the Range Image with Graph Convolution Kernels"
+    },
+    "2204.06527": {
+        "arxivId": "2204.06527",
+        "title": "A9-Dataset: Multi-Sensor Infrastructure-Based Dataset for Mobility Research"
+    },
+    "2209.03102": {
+        "arxivId": "2209.03102",
+        "title": "MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection"
+    },
+    "2207.02466": {
+        "arxivId": "2207.02466",
+        "title": "GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty Estimation"
+    },
+    "2203.00871": {
+        "arxivId": "2203.00871",
+        "title": "Dense Voxel Fusion for 3D Object Detection"
+    },
+    "2207.09332": {
+        "arxivId": "2207.09332",
+        "title": "Rethinking IoU-based Optimization for Single-stage 3D Object Detection"
+    },
+    "2106.02781": {
+        "arxivId": "2106.02781",
+        "title": "IPS300+: a Challenging Multimodal Dataset for Intersection Perception System"
+    },
+    "2105.14370": {
+        "arxivId": "2105.14370",
+        "title": "BAAI-VANJEE Roadside Dataset: Towards the Connected Automated Vehicle Highway technologies in Challenging Environments of China"
+    },
+    "1706.03762": {
+        "arxivId": "1706.03762",
+        "title": "Attention is All you Need"
+    },
+    "1505.04597": {
+        "arxivId": "1505.04597",
+        "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation"
+    },
+    "1512.02325": {
+        "arxivId": "1512.02325",
+        "title": "SSD: Single Shot MultiBox Detector"
+    },
+    "1609.02907": {
+        "arxivId": "1609.02907",
+        "title": "Semi-Supervised Classification with Graph Convolutional Networks"
+    },
+    "1612.03144": {
+        "arxivId": "1612.03144",
+        "title": "Feature Pyramid Networks for Object Detection"
+    },
+    "1612.08242": {
+        "arxivId": "1612.08242",
+        "title": "YOLO9000: Better, Faster, Stronger"
+    },
+    "1706.02216": {
+        "arxivId": "1706.02216",
+        "title": "Inductive Representation Learning on Large Graphs"
+    },
+    "1406.4729": {
+        "arxivId": "1406.4729",
+        "title": "Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition"
+    },
+    "1901.00596": {
+        "arxivId": "1901.00596",
+        "title": "A Comprehensive Survey on Graph Neural Networks"
+    },
+    "1801.07829": {
+        "arxivId": "1801.07829",
+        "title": "Dynamic Graph CNN for Learning on Point Clouds"
+    },
+    "1801.07791": {
+        "arxivId": "1801.07791",
+        "title": "PointCNN: Convolution On X-Transformed Points"
+    },
+    "1905.05055": {
+        "arxivId": "1905.05055",
+        "title": "Object Detection in 20 Years: A Survey"
+    },
+    "1806.02446": {
+        "arxivId": "1806.02446",
+        "title": "Deep Ordinal Regression Network for Monocular Depth Estimation"
+    },
+    "1912.13192": {
+        "arxivId": "1912.13192",
+        "title": "PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection"
+    },
+    "1902.06326": {
+        "arxivId": "1902.06326",
+        "title": "PIXOR: Real-time 3D Object Detection from Point Clouds"
+    },
+    "2002.10187": {
+        "arxivId": "2002.10187",
+        "title": "3DSSD: Point-Based 3D Single Stage Object Detector"
+    },
+    "1907.03670": {
+        "arxivId": "1907.03670",
+        "title": "From Points to Parts: 3D Object Detection From Point Cloud With Part-Aware and Part-Aggregation Network"
+    },
+    "1502.05082": {
+        "arxivId": "1502.05082",
+        "title": "What Makes for Effective Detection Proposals?"
+    },
+    "2012.15712": {
+        "arxivId": "2012.15712",
+        "title": "Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection"
+    },
+    "1511.02300": {
+        "arxivId": "1511.02300",
+        "title": "Deep Sliding Shapes for Amodal 3D Object Detection in RGB-D Images"
+    },
+    "1907.03739": {
+        "arxivId": "1907.03739",
+        "title": "Point-Voxel CNN for Efficient 3D Deep Learning"
+    },
+    "1608.07916": {
+        "arxivId": "1608.07916",
+        "title": "Vehicle Detection from 3D Lidar Using Fully Convolutional Network"
+    },
+    "2012.12397": {
+        "arxivId": "2012.12397",
+        "title": "Multi-Task Multi-Sensor Fusion for 3D Object Detection"
+    },
+    "1811.02146": {
+        "arxivId": "1811.02146",
+        "title": "TrafficPredict: Trajectory Prediction for Heterogeneous Traffic-Agents"
+    },
+    "2109.02497": {
+        "arxivId": "2109.02497",
+        "title": "Voxel Transformer for 3D Object Detection"
+    },
+    "1908.02990": {
+        "arxivId": "1908.02990",
+        "title": "Fast Point R-CNN"
+    },
+    "1908.03851": {
+        "arxivId": "1908.03851",
+        "title": "IoU Loss for 2D/3D Object Detection"
+    },
+    "1910.06528": {
+        "arxivId": "1910.06528",
+        "title": "End-to-End Multi-View Fusion for 3D Object Detection in LiDAR Point Clouds"
+    },
+    "1912.05163": {
+        "arxivId": "1912.05163",
+        "title": "TANet: Robust 3D Object Detection from Point Clouds with Triple Attention"
+    },
+    "2104.09804": {
+        "arxivId": "2104.09804",
+        "title": "SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud"
+    },
+    "2012.03015": {
+        "arxivId": "2012.03015",
+        "title": "CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud"
+    },
+    "2104.02323": {
+        "arxivId": "2104.02323",
+        "title": "Objects are Different: Flexible Monocular 3D Object Detection"
+    },
+    "2004.00543": {
+        "arxivId": "2004.00543",
+        "title": "Physically Realizable Adversarial Examples for LiDAR Object Detection"
+    },
+    "2108.10723": {
+        "arxivId": "2108.10723",
+        "title": "Improving 3D Object Detection with Channel-wise Transformer"
+    },
+    "2103.16237": {
+        "arxivId": "2103.16237",
+        "title": "Delving into localization errors for monocular 3D object detection"
+    },
+    "2003.00186": {
+        "arxivId": "2003.00186",
+        "title": "HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection"
+    },
+    "1912.05992": {
+        "arxivId": "1912.05992",
+        "title": "IoU-aware Single-stage Object Detector for Accurate Localization"
+    },
+    "1912.04986": {
+        "arxivId": "1912.04986",
+        "title": "What You See is What You Get: Exploiting Visibility for 3D Object Detection"
+    },
+    "1804.05178": {
+        "arxivId": "1804.05178",
+        "title": "LiDAR and Camera Calibration Using Motions Estimated by Sensor Fusion Odometry"
+    },
+    "1912.00202": {
+        "arxivId": "1912.00202",
+        "title": "Relation Graph Network for 3D Object Detection in Point Clouds"
+    },
+    "1911.12236": {
+        "arxivId": "1911.12236",
+        "title": "PointRGCN: Graph Convolution Networks for 3D Vehicles Detection Refinement"
+    },
+    "2104.10330": {
+        "arxivId": "2104.10330",
+        "title": "BADET: Boundary-aware 3d object detection from point clouds"
+    },
+    "1907.05286": {
+        "arxivId": "1907.05286",
+        "title": "Voxel-FPN: multi-scale voxel feature aggregation in 3D object detection from point clouds"
+    },
+    "1906.05113": {
+        "arxivId": "1906.05113",
+        "title": "A survey of autonomous driving: Common practices and emerging technologies"
+    },
+    "2002.00444": {
+        "arxivId": "2002.00444",
+        "title": "Deep reinforcement learning for autonomous driving: A survey"
+    },
+    "2202.02980": {
+        "arxivId": "2202.02980",
+        "title": "3D Object Detection From Images for Autonomous Driving: A Survey"
+    },
+    "2312.03031": {
+        "arxivId": "2312.03031",
+        "title": "Is ego status all you need for open-loop end-to-end autonomous driving?"
+    },
+    "2306.16927": {
+        "arxivId": "2306.16927",
+        "title": "End-to-end autonomous driving: Challenges and frontiers"
+    },
+    "1711.03938": {
+        "arxivId": "1711.03938",
+        "title": "CARLA: An Open Urban Driving Simulator"
+    },
+    "2005.03778": {
+        "arxivId": "2005.03778",
+        "title": "LGSVL simulator: A high fidelity simulator for autonomous driving"
+    },
+    "1705.05065": {
+        "arxivId": "1705.05065",
+        "title": "AirSim: High-fidelity visual and physical simulation for autonomous vehicles"
+    },
+    "2304.14365": {
+        "arxivId": "2304.14365",
+        "title": "OCC3D: A large-scale 3D occupancy prediction benchmark for autonomous driving"
+    },
+    "2109.07644": {
+        "arxivId": "2109.07644",
+        "title": "OPV2V: An open benchmark dataset and fusion pipeline for perception with vehicle-to-vehicle communication"
+    },
+    "2202.08449": {
+        "arxivId": "2202.08449",
+        "title": "V2X-Sim: Multi-agent collaborative perception dataset and benchmark for autonomous driving"
+    },
+    "2403.01316": {
+        "arxivId": "2403.01316",
+        "title": "TUMTraf V2X cooperative perception dataset"
+    },
+    "1804.02767": {
+        "arxivId": "1804.02767",
+        "title": "YOLOv3: An incremental improvement"
+    },
+    "2104.10956": {
+        "arxivId": "2104.10956",
+        "title": "FCOS3D: Fully convolutional one-stage monocular 3d object detection"
+    },
+    "1904.08506": {
+        "arxivId": "1904.08506",
+        "title": "Adaptive hierarchical down-sampling for point cloud classification"
+    },
+    "2203.13394": {
+        "arxivId": "2203.13394",
+        "title": "Point2Seq: Detecting 3d objects as sequences"
+    },
+    "2303.11301": {
+        "arxivId": "2303.11301",
+        "title": "VoxelNext: Fully sparse voxelnet for 3d object detection and tracking"
+    },
+    "2403.15241": {
+        "arxivId": "2403.15241",
+        "title": "IS-Fusion: Instance-scene collaborative fusion for multimodal 3d object detection"
+    },
+    "2012.12395": {
+        "arxivId": "2012.12395",
+        "title": "Fast and furious: Real time end-to-end 3d detection, tracking and motion forecasting with a single convolutional net"
+    },
+    "2007.12392": {
+        "arxivId": "2007.12392",
+        "title": "An LSTM approach to temporal 3d object detection in lidar point clouds"
+    },
+    "2004.01389": {
+        "arxivId": "2004.01389",
+        "title": "Lidar-based online 3d video object detection with graph-based message passing and spatiotemporal transformer attention"
+    },
+    "2005.04255": {
+        "arxivId": "2005.04255",
+        "title": "STINet: Spatio-temporal-interactive network for pedestrian detection and trajectory prediction"
+    },
+    "2011.13628": {
+        "arxivId": "2011.13628",
+        "title": "Temporal-channel transformer for 3d lidar-based video object detection for autonomous driving"
+    },
+    "1811.10742": {
+        "arxivId": "1811.10742",
+        "title": "Joint monocular 3d vehicle detection and tracking"
+    },
+    "1803.01271": {
+        "arxivId": "1803.01271",
+        "title": "An empirical evaluation of generic convolutional and recurrent networks for sequence modeling"
+    },
+    "2303.11926": {
+        "arxivId": "2303.11926",
+        "title": "Exploring object-centric temporal modeling for efficient multi-view 3d object detection"
+    },
+    "1904.10666": {
+        "arxivId": "1904.10666",
+        "title": "Segmenting the future"
+    },
+    "1907.11475": {
+        "arxivId": "1907.11475",
+        "title": "Single level feature-to-feature forecasting with deformable convolutions"
+    },
+    "2303.10552": {
+        "arxivId": "2303.10552",
+        "title": "Vehicle-infrastructure cooperative 3d object detection via feature flow prediction"
+    },
+    "2311.01682": {
+        "arxivId": "2311.01682",
+        "title": "Flow-based feature fusion for vehicle-infrastructure cooperative 3d object detection"
+    },
+    "2308.16896": {
+        "arxivId": "2308.16896",
+        "title": "PointOcc: Cylindrical tri-perspective view for point-based 3d semantic occupancy prediction"
+    },
+    "2011.09141": {
+        "arxivId": "2011.09141",
+        "title": "Semantic scene completion using local deep implicit functions on lidar data"
+    },
+    "2310.11239": {
+        "arxivId": "2310.11239",
+        "title": "Lidar-based 4d occupancy completion and forecasting"
+    },
+    "2112.00726": {
+        "arxivId": "2112.00726",
+        "title": "MonoScene: Monocular 3d semantic scene completion"
+    },
+    "2302.07817": {
+        "arxivId": "2302.07817",
+        "title": "Tri-perspective view for vision-based 3d semantic occupancy prediction"
+    },
+    "2306.02851": {
+        "arxivId": "2306.02851",
+        "title": "Scene as occupancy"
+    },
+    "2311.12754": {
+        "arxivId": "2311.12754",
+        "title": "SelfOcc: Self-supervised vision-based 3d occupancy prediction"
+    },
+    "2311.17663": {
+        "arxivId": "2311.17663",
+        "title": "Cam4DOcc: Benchmark for camera-only 4d occupancy forecasting in autonomous driving applications"
+    },
+    "2303.03991": {
+        "arxivId": "2303.03991",
+        "title": "OpenOccupancy: A large scale benchmark for surrounding semantic occupancy perception"
+    },
+    "1604.07316": {
+        "arxivId": "1604.07316",
+        "title": "End to end learning for self-driving cars"
+    },
+    "1904.04375": {
+        "arxivId": "1904.04375",
+        "title": "Controlling steering angle for cooperative self-driving vehicles utilizing cnn and lstm-based deep networks"
+    },
+    "1011.0686": {
+        "arxivId": "1011.0686",
+        "title": "A reduction of imitation learning and structured prediction to no-regret online learning"
+    },
+    "1912.12294": {
+        "arxivId": "1912.12294",
+        "title": "Learning by cheating"
+    },
+    "2106.06452": {
+        "arxivId": "2106.06452",
+        "title": "Keyframe-focused visual imitation learning"
+    },
+    "2110.14118": {
+        "arxivId": "2110.14118",
+        "title": "Object-aware regularization for addressing causal confusion in imitation learning"
+    },
+    "1707.06347": {
+        "arxivId": "1707.06347",
+        "title": "Proximal policy optimization algorithms"
+    },
+    "1509.02971": {
+        "arxivId": "1509.02971",
+        "title": "Continuous control with deep reinforcement learning"
+    },
+    "2008.05930": {
+        "arxivId": "2008.05930",
+        "title": "Perceive, predict, and plan: Safe motion planning through interpretable semantic representations"
+    },
+    "2101.06806": {
+        "arxivId": "2101.06806",
+        "title": "MP3: A unified model to map, perceive, predict and plan"
+    },
+    "2212.10156": {
+        "arxivId": "2212.10156",
+        "title": "Planning-oriented autonomous driving"
+    },
+    "2205.15997": {
+        "arxivId": "2205.15997",
+        "title": "TransFuser: Imitation with transformer-based sensor fusion for autonomous driving"
+    },
+    "2402.11502": {
+        "arxivId": "2402.11502",
+        "title": "GenAD: Generative end-to-end autonomous driving"
+    },
+    "2311.12320": {
+        "arxivId": "2311.12320",
+        "title": "A survey on multimodal large language models for autonomous driving"
+    },
+    "2309.05186": {
+        "arxivId": "2309.05186",
+        "title": "HiLM-D: Towards high-resolution understanding in multimodal large language models for autonomous driving"
+    },
+    "2309.05282": {
+        "arxivId": "2309.05282",
+        "title": "Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving"
+    },
+    "2307.07162": {
+        "arxivId": "2307.07162",
+        "title": "Drive like a human: Rethinking autonomous driving with large language models"
+    },
+    "2310.01957": {
+        "arxivId": "2310.01957",
+        "title": "Driving with LLMs: Fusing object-level vector modality for explainable autonomous driving"
+    },
+    "2403.04593": {
+        "arxivId": "2403.04593",
+        "title": "Embodied understanding of driving scenarios"
+    },
+    "2303.13560": {
+        "arxivId": "2303.13560",
+        "title": "Collaboration helps camera overtake lidar in 3d detection"
+    },
+    "2202.06689": {
+        "arxivId": "2202.06689",
+        "title": "CodeFill: Multi-token code completion by jointly learning from structure and naming sequences"
+    },
+    "2301.06262": {
+        "arxivId": "2301.06262",
+        "title": "Collaborative perception in autonomous driving: Methods, datasets, and challenges"
+    },
+    "2303.03595": {
+        "arxivId": "2303.03595",
+        "title": "LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross- Modal Fusion"
+    },
+    "2306.10013": {
+        "arxivId": "2306.10013",
+        "title": "PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation"
+    },
+    "1409.1556": {
+        "arxivId": "1409.1556",
+        "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition"
+    },
+    "1605.06211": {
+        "arxivId": "1605.06211",
+        "title": "Fully convolutional networks for semantic segmentation"
+    },
+    "1608.06993": {
+        "arxivId": "1608.06993",
+        "title": "Densely Connected Convolutional Networks"
+    },
+    "1503.02531": {
+        "arxivId": "1503.02531",
+        "title": "Distilling the Knowledge in a Neural Network"
+    },
+    "1606.00915": {
+        "arxivId": "1606.00915",
+        "title": "DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs"
+    },
+    "1404.7828": {
+        "arxivId": "1404.7828",
+        "title": "Deep learning in neural networks: An overview"
+    },
+    "1408.5882": {
+        "arxivId": "1408.5882",
+        "title": "Convolutional Neural Networks for Sentence Classification"
+    },
+    "1604.01685": {
+        "arxivId": "1604.01685",
+        "title": "The Cityscapes Dataset for Semantic Urban Scene Understanding"
+    },
+    "1711.07971": {
+        "arxivId": "1711.07971",
+        "title": "Non-local Neural Networks"
+    },
+    "1411.1792": {
+        "arxivId": "1411.1792",
+        "title": "How transferable are features in deep neural networks?"
+    },
+    "1806.09055": {
+        "arxivId": "1806.09055",
+        "title": "DARTS: Differentiable Architecture Search"
+    },
+    "1611.10012": {
+        "arxivId": "1611.10012",
+        "title": "Speed/Accuracy Trade-Offs for Modern Convolutional Object Detectors"
+    },
+    "1608.02192": {
+        "arxivId": "1608.02192",
+        "title": "Playing for Data: Ground Truth from Computer Games"
+    },
+    "1802.03601": {
+        "arxivId": "1802.03601",
+        "title": "Deep Visual Domain Adaptation: A Survey"
+    },
+    "1611.05009": {
+        "arxivId": "1611.05009",
+        "title": "OctNet: Learning Deep 3D Representations at High Resolutions"
+    },
+    "1904.09664": {
+        "arxivId": "1904.09664",
+        "title": "Deep Hough Voting for 3D Object Detection in Point Clouds"
+    },
+    "1605.06457": {
+        "arxivId": "1605.06457",
+        "title": "VirtualWorlds as Proxy for Multi-object Tracking Analysis"
+    },
+    "1703.07511": {
+        "arxivId": "1703.07511",
+        "title": "Deep Photo Style Transfer"
+    },
+    "2007.16100": {
+        "arxivId": "2007.16100",
+        "title": "Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution"
+    },
+    "2101.06742": {
+        "arxivId": "2101.06742",
+        "title": "Deep Parametric Continuous Convolutional Neural Networks"
+    },
+    "1611.08069": {
+        "arxivId": "1611.08069",
+        "title": "3D fully convolutional network for vehicle detection in point cloud"
+    },
+    "1807.00652": {
+        "arxivId": "1807.00652",
+        "title": "PointSIFT: A SIFT-like Network Module for 3D Point Cloud Semantic Segmentation"
+    },
+    "2012.11409": {
+        "arxivId": "2012.11409",
+        "title": "3D Object Detection with Pointformer"
+    },
+    "1809.07941": {
+        "arxivId": "1809.07941",
+        "title": "LIDAR-Camera Fusion for Road Detection Using Fully Convolutional Neural Networks"
+    },
+    "2203.17054": {
+        "arxivId": "2203.17054",
+        "title": "BEVDet4D: Exploit Temporal Cues in Multi-camera 3D Object Detection"
+    },
+    "1810.10093": {
+        "arxivId": "1810.10093",
+        "title": "Structured Domain Randomization: Bridging the Reality Gap by Context-Aware Synthetic Data"
+    },
+    "1805.01195": {
+        "arxivId": "1805.01195",
+        "title": "BirdNet: A 3D Object Detection Framework from LiDAR Information"
+    },
+    "2011.04841": {
+        "arxivId": "2011.04841",
+        "title": "CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection"
+    },
+    "1904.11621": {
+        "arxivId": "1904.11621",
+        "title": "Meta-Sim: Learning to Generate Synthetic Datasets"
+    },
+    "2205.02833": {
+        "arxivId": "2205.02833",
+        "title": "Cross-view Transformers for real-time Map-view Semantic Segmentation"
+    },
+    "2003.13402": {
+        "arxivId": "2003.13402",
+        "title": "Predicting Semantic Map Representations From Images Using Pyramid Occupancy Networks"
+    },
+    "1811.10247": {
+        "arxivId": "1811.10247",
+        "title": "MonoGRNet: A Geometric Reasoning Network for Monocular 3D Object Localization"
+    },
+    "2006.09348": {
+        "arxivId": "2006.09348",
+        "title": "LiDARsim: Realistic LiDAR Simulation by Leveraging the Real World"
+    },
+    "2103.10039": {
+        "arxivId": "2103.10039",
+        "title": "RangeDet: In Defense of Range View for LiDAR-based 3D Object Detection"
+    },
+    "2012.14176": {
+        "arxivId": "2012.14176",
+        "title": "Deep Visual Domain Adaptation"
+    },
+    "2010.09076": {
+        "arxivId": "2010.09076",
+        "title": "RADIATE: A Radar Dataset for Automotive Perception in Bad Weather"
+    },
+    "1511.03240": {
+        "arxivId": "1511.03240",
+        "title": "Semantic Instance Annotation of Street Scenes by 3D to 2D Label Transfer"
+    },
+    "1901.10951": {
+        "arxivId": "1901.10951",
+        "title": "Distant Vehicle Detection Using Radar and Vision"
+    },
+    "1707.03167": {
+        "arxivId": "1707.03167",
+        "title": "RegNet: Multimodal sensor registration using deep neural networks"
+    },
+    "2004.00448": {
+        "arxivId": "2004.00448",
+        "title": "Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy"
+    },
+    "1902.03334": {
+        "arxivId": "1902.03334",
+        "title": "Photorealistic Image Synthesis for Object Instance Detection"
+    },
+    "1905.00526": {
+        "arxivId": "1905.00526",
+        "title": "RRPN: Radar Region Proposal Network for Object Detection in Autonomous Vehicles"
+    },
+    "1811.10800": {
+        "arxivId": "1811.10800",
+        "title": "Probabilistic Object Detection: Definition and Evaluation"
+    },
+    "2104.11896": {
+        "arxivId": "2104.11896",
+        "title": "M3DETR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers"
+    },
+    "2007.14366": {
+        "arxivId": "2007.14366",
+        "title": "RadarNet: Exploiting Radar for Robust Perception of Dynamic Objects"
+    },
+    "2105.04619": {
+        "arxivId": "2105.04619",
+        "title": "Enhancing Photorealism Enhancement"
+    },
+    "1901.02237": {
+        "arxivId": "1901.02237",
+        "title": "3D Object Detection Using Scale Invariant and Feature Reweighting Networks"
+    },
+    "1909.07566": {
+        "arxivId": "1909.07566",
+        "title": "Object-Centric Stereo Matching for 3D Object Detection"
+    },
+    "2009.00206": {
+        "arxivId": "2009.00206",
+        "title": "RangeRCNN: Towards Fast and Accurate 3D Object Detection with Range Image Representation"
+    },
+    "2107.14391": {
+        "arxivId": "2107.14391",
+        "title": "From Multi-View to Hollow-3D: Hallucinated Hollow-3D R-CNN for 3D Object Detection"
+    },
+    "2006.07864": {
+        "arxivId": "2006.07864",
+        "title": "Cityscapes 3D: Dataset and Benchmark for 9 DoF Vehicle Detection"
+    },
+    "2206.10555": {
+        "arxivId": "2206.10555",
+        "title": "Scaling up Kernels in 3D CNNs"
+    },
+    "2109.00892": {
+        "arxivId": "2109.00892",
+        "title": "KITTI-CARLA: a KITTI-like dataset generated by CARLA Simulator"
+    },
+    "2103.02093": {
+        "arxivId": "2103.02093",
+        "title": "Pseudo-labeling for Scalable 3D Object Detection"
+    },
+    "2103.16694": {
+        "arxivId": "2103.16694",
+        "title": "Geometric Unsupervised Domain Adaptation for Semantic Segmentation"
+    },
+    "2006.15505": {
+        "arxivId": "2006.15505",
+        "title": "1st Place Solution for Waymo Open Dataset Challenge - 3D Detection and Domain Adaptation"
+    },
+    "2012.12741": {
+        "arxivId": "2012.12741",
+        "title": "Multi-Modality Cut and Paste for 3D Object Detection"
+    },
+    "2003.00851": {
+        "arxivId": "2003.00851",
+        "title": "Deep Learning on Radar Centric 3D Object Detection"
+    },
+    "2107.02493": {
+        "arxivId": "2107.02493",
+        "title": "Neighbor-Vote: Improving Monocular 3D Object Detection through Neighbor Distance Voting"
+    },
+    "1709.07492": {
+        "arxivId": "1709.07492",
+        "title": "Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image"
+    },
+    "1702.05374": {
+        "arxivId": "1702.05374",
+        "title": "Domain Adaptation for Visual Applications: A Comprehensive Survey"
+    },
+    "2301.06051": {
+        "arxivId": "2301.06051",
+        "title": "DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets"
+    },
+    "2212.05867": {
+        "arxivId": "2212.05867",
+        "title": "ALSO: Automotive Lidar Self-Supervision by Occupancy Estimation"
+    },
+    "2301.10222": {
+        "arxivId": "2301.10222",
+        "title": "RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving"
+    },
+    "2201.07706": {
+        "arxivId": "2201.07706",
+        "title": "Object Detection in Autonomous Vehicles: Status and Open Challenges"
+    },
+    "2304.00670": {
+        "arxivId": "2304.00670",
+        "title": "CRN: Camera Radar Net for Accurate, Robust, Efficient 3D Perception"
+    },
+    "2308.07732": {
+        "arxivId": "2308.07732",
+        "title": "UniTR: A Unified and Efficient Multi-Modal Transformer for Bird\u2019s-Eye-View Representation"
+    },
+    "2010.15614": {
+        "arxivId": "2010.15614",
+        "title": "An Overview Of 3D Object Detection"
+    },
+    "2303.02203": {
+        "arxivId": "2303.02203",
+        "title": "X3KD: Knowledge Distillation Across Modalities, Tasks and Stages for Multi-Camera 3D Object Detection"
+    },
+    "2103.00550": {
+        "arxivId": "2103.00550",
+        "title": "A Survey on Deep Semi-Supervised Learning"
+    },
+    "2006.07529": {
+        "arxivId": "2006.07529",
+        "title": "Rethinking the Value of Labels for Improving Class-Imbalanced Learning"
+    },
+    "2102.00463": {
+        "arxivId": "2102.00463",
+        "title": "PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection"
+    },
+    "2006.14480": {
+        "arxivId": "2006.14480",
+        "title": "One Thousand and One Hours: Self-driving Motion Prediction Dataset"
+    },
+    "1802.00036": {
+        "arxivId": "1802.00036",
+        "title": "In Defense of Classical Image Processing: Fast Depth Completion on the CPU"
+    },
+    "2008.13719": {
+        "arxivId": "2008.13719",
+        "title": "RESA: Recurrent Feature-Shift Aggregator for Lane Detection"
+    },
+    "2106.04538": {
+        "arxivId": "2106.04538",
+        "title": "What Makes Multimodal Learning Better than Single (Provably)"
+    },
+    "2203.11089": {
+        "arxivId": "2203.11089",
+        "title": "PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark"
+    },
+    "1803.00387": {
+        "arxivId": "1803.00387",
+        "title": "A General Pipeline for 3D Detection of Vehicles"
+    },
+    "1904.01206": {
+        "arxivId": "1904.01206",
+        "title": "Progressive LiDAR adaptation for road detection"
+    },
+    "2004.02774": {
+        "arxivId": "2004.02774",
+        "title": "SSN: Shape Signature Networks for Multi-class Object Detection from Point Clouds"
+    },
+    "2207.12654": {
+        "arxivId": "2207.12654",
+        "title": "ProposalContrast: Unsupervised Pre-training for LiDAR-based 3D Object Detection"
+    },
+    "2207.12655": {
+        "arxivId": "2207.12655",
+        "title": "Semi-supervised 3D Object Detection with Proficient Teachers"
+    },
+    "2211.07171": {
+        "arxivId": "2211.07171",
+        "title": "Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection"
+    },
+    "2202.13589": {
+        "arxivId": "2202.13589",
+        "title": "Unsupervised Point Cloud Representation Learning With Deep Neural Networks: A Survey"
+    },
+    "1812.11478": {
+        "arxivId": "1812.11478",
+        "title": "DART: Domain-Adversarial Residual-Transfer Networks for Unsupervised Cross-Domain Image Classification"
+    },
+    "2210.09615": {
+        "arxivId": "2210.09615",
+        "title": "Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection"
+    },
+    "2009.11345": {
+        "arxivId": "2009.11345",
+        "title": "TDR-OBCA: A Reliable Planner for Autonomous Driving in Free-Space Environment"
+    },
+    "1505.00256": {
+        "arxivId": "1505.00256",
+        "title": "DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving"
+    },
+    "1803.03243": {
+        "arxivId": "1803.03243",
+        "title": "Domain Adaptive Faster R-CNN for Object Detection in the Wild"
+    },
+    "1708.07819": {
+        "arxivId": "1708.07819",
+        "title": "Semantic Foggy Scene Understanding with Synthetic Data"
+    },
+    "1609.07769": {
+        "arxivId": "1609.07769",
+        "title": "Deep Joint Rain Detection and Removal from a Single Image"
+    },
+    "1612.02649": {
+        "arxivId": "1612.02649",
+        "title": "FCNs in the Wild: Pixel-level Adversarial and Constraint-based Adaptation"
+    },
+    "1901.09221": {
+        "arxivId": "1901.09221",
+        "title": "Progressive Image Deraining Networks: A Better and Simpler Baseline"
+    },
+    "1711.10098": {
+        "arxivId": "1711.10098",
+        "title": "Attentive Generative Adversarial Network for Raindrop Removal from A Single Image"
+    },
+    "1904.01538": {
+        "arxivId": "1904.01538",
+        "title": "Spatial Attentive Single-Image Deraining With a High Quality Real Rain Dataset"
+    },
+    "2004.08467": {
+        "arxivId": "2004.08467",
+        "title": "Lidar for Autonomous Driving: The Principles, Challenges, and Trends for Automotive Lidar and Perception Systems"
+    },
+    "1909.01300": {
+        "arxivId": "1909.01300",
+        "title": "The Oxford Radar RobotCar Dataset: A Radar Extension to the Oxford RobotCar Dataset"
+    },
+    "1903.08701": {
+        "arxivId": "1903.08701",
+        "title": "LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving"
+    },
+    "2003.14338": {
+        "arxivId": "2003.14338",
+        "title": "TartanAir: A Dataset to Push the Limits of Visual SLAM"
+    },
+    "1904.01690": {
+        "arxivId": "1904.01690",
+        "title": "Monocular 3D Object Detection Leveraging Accurate Proposals and Shape Reconstruction"
+    },
+    "1912.03874": {
+        "arxivId": "1912.03874",
+        "title": "CNN-Based Lidar Point Cloud De-Noising in Adverse Weather"
+    },
+    "1904.11466": {
+        "arxivId": "1904.11466",
+        "title": "Sensor Fusion for Joint 3D Object Detection and Semantic Segmentation"
+    },
+    "2009.03683": {
+        "arxivId": "2009.03683",
+        "title": "Rain Rendering for Evaluating and Improving Robustness to Bad Weather"
+    },
+    "2003.06660": {
+        "arxivId": "2003.06660",
+        "title": "What Happens for a ToF LiDAR in Fog?"
+    },
+    "1910.05395": {
+        "arxivId": "1910.05395",
+        "title": "FuseMODNet: Real-Time Camera and LiDAR Based Moving Object Detection for Robust Low-Light Autonomous Driving"
+    },
+    "2009.02672": {
+        "arxivId": "2009.02672",
+        "title": "Approaches, Challenges, and Applications for Deep Visual Odometry: Toward Complicated and Emerging Areas"
+    },
+    "2007.13281": {
+        "arxivId": "2007.13281",
+        "title": "The Adaptability and Challenges of Autonomous Vehicles to Pedestrians in Urban China"
+    },
+    "1910.03997": {
+        "arxivId": "1910.03997",
+        "title": "Semantic Understanding of Foggy Scenes with Purely Synthetic Data"
+    },
+    "1807.02323": {
+        "arxivId": "1807.02323",
+        "title": "Optimal Sensor Data Fusion Architecture for Object Detection in Adverse Weather Conditions"
+    },
+    "2106.14087": {
+        "arxivId": "2106.14087",
+        "title": "Radar Voxel Fusion for 3D Object Detection"
+    },
+    "2103.11071": {
+        "arxivId": "2103.11071",
+        "title": "Stereo CenterNet based 3D Object Detection for Autonomous Driving"
+    },
+    "1605.02196": {
+        "arxivId": "1605.02196",
+        "title": "All Weather Perception: Joint Data Association, Tracking, and Classification for Autonomous Ground Vehicles"
+    },
+    "2008.08136": {
+        "arxivId": "2008.08136",
+        "title": "DeepLiDARFlow: A Deep Learning Architecture For Scene Flow Estimation Using Monocular Camera and Sparse LiDAR"
+    },
+    "2008.01942": {
+        "arxivId": "2008.01942",
+        "title": "A feature-supervised generative adversarial network for environmental monitoring during hazy days"
+    },
+    "2204.00106": {
+        "arxivId": "2204.00106",
+        "title": "A Survey of Robust 3D Object Detection Methods in Point Clouds"
+    },
+    "2108.12863": {
+        "arxivId": "2108.12863",
+        "title": "MBDF-Net: Multi-Branch Deep Fusion Network for 3D Object Detection"
+    }
+}

@@ -1,0 +1,766 @@
+{
+    "1706.03762": {
+        "arxivId": "1706.03762",
+        "title": "Attention is All you Need"
+    },
+    "2005.14165": {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+    },
+    "1910.10683": {
+        "arxivId": "1910.10683",
+        "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
+    },
+    "2203.02155": {
+        "arxivId": "2203.02155",
+        "title": "Training language models to follow instructions with human feedback"
+    },
+    "2307.09288": {
+        "arxivId": "2307.09288",
+        "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models"
+    },
+    "1606.05250": {
+        "arxivId": "1606.05250",
+        "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text"
+    },
+    "2201.11903": {
+        "arxivId": "2201.11903",
+        "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models"
+    },
+    "2005.11401": {
+        "arxivId": "2005.11401",
+        "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks"
+    },
+    "2001.08361": {
+        "arxivId": "2001.08361",
+        "title": "Scaling Laws for Neural Language Models"
+    },
+    "2004.04906": {
+        "arxivId": "2004.04906",
+        "title": "Dense Passage Retrieval for Open-Domain Question Answering"
+    },
+    "2301.12597": {
+        "arxivId": "2301.12597",
+        "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models"
+    },
+    "2009.03300": {
+        "arxivId": "2009.03300",
+        "title": "Measuring Massive Multitask Language Understanding"
+    },
+    "2110.14168": {
+        "arxivId": "2110.14168",
+        "title": "Training Verifiers to Solve Math Word Problems"
+    },
+    "1611.09268": {
+        "arxivId": "1611.09268",
+        "title": "MS MARCO: A Human Generated MAchine Reading COmprehension Dataset"
+    },
+    "1909.01066": {
+        "arxivId": "1909.01066",
+        "title": "Language Models as Knowledge Bases?"
+    },
+    "1609.07843": {
+        "arxivId": "1609.07843",
+        "title": "Pointer Sentinel Mixture Models"
+    },
+    "1905.00537": {
+        "arxivId": "1905.00537",
+        "title": "SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems"
+    },
+    "1705.03551": {
+        "arxivId": "1705.03551",
+        "title": "TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension"
+    },
+    "1809.09600": {
+        "arxivId": "1809.09600",
+        "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering"
+    },
+    "1602.01585": {
+        "arxivId": "1602.01585",
+        "title": "Ups and Downs: Modeling the Visual Evolution of Fashion Trends with One-Class Collaborative Filtering"
+    },
+    "1803.05457": {
+        "arxivId": "1803.05457",
+        "title": "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge"
+    },
+    "1905.07830": {
+        "arxivId": "1905.07830",
+        "title": "HellaSwag: Can a Machine Really Finish Your Sentence?"
+    },
+    "1511.06732": {
+        "arxivId": "1511.06732",
+        "title": "Sequence Level Training with Recurrent Neural Networks"
+    },
+    "1808.08745": {
+        "arxivId": "1808.08745",
+        "title": "Don\u2019t Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization"
+    },
+    "1803.05355": {
+        "arxivId": "1803.05355",
+        "title": "FEVER: a Large-scale Dataset for Fact Extraction and VERification"
+    },
+    "2206.04615": {
+        "arxivId": "2206.04615",
+        "title": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models"
+    },
+    "1811.00937": {
+        "arxivId": "1811.00937",
+        "title": "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge"
+    },
+    "1905.07129": {
+        "arxivId": "1905.07129",
+        "title": "ERNIE: Enhanced Language Representation with Informative Entities"
+    },
+    "1911.11641": {
+        "arxivId": "1911.11641",
+        "title": "PIQA: Reasoning about Physical Commonsense in Natural Language"
+    },
+    "2302.04761": {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+    },
+    "1905.10044": {
+        "arxivId": "1905.10044",
+        "title": "BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions"
+    },
+    "2302.04023": {
+        "arxivId": "2302.04023",
+        "title": "A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity"
+    },
+    "2212.08073": {
+        "arxivId": "2212.08073",
+        "title": "Constitutional AI: Harmlessness from AI Feedback"
+    },
+    "2004.12832": {
+        "arxivId": "2004.12832",
+        "title": "ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT"
+    },
+    "1808.07042": {
+        "arxivId": "1808.07042",
+        "title": "CoQA: A Conversational Question Answering Challenge"
+    },
+    "2112.09332": {
+        "arxivId": "2112.09332",
+        "title": "WebGPT: Browser-assisted question-answering with human feedback"
+    },
+    "1909.09436": {
+        "arxivId": "1909.09436",
+        "title": "CodeSearchNet Challenge: Evaluating the State of Semantic Code Search"
+    },
+    "1811.01241": {
+        "arxivId": "1811.01241",
+        "title": "Wizard of Wikipedia: Knowledge-Powered Conversational agents"
+    },
+    "2307.03172": {
+        "arxivId": "2307.03172",
+        "title": "Lost in the Middle: How Language Models Use Long Contexts"
+    },
+    "2205.10625": {
+        "arxivId": "2205.10625",
+        "title": "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models"
+    },
+    "2112.04426": {
+        "arxivId": "2112.04426",
+        "title": "Improving language models by retrieving from trillions of tokens"
+    },
+    "1911.00172": {
+        "arxivId": "1911.00172",
+        "title": "Generalization through Memorization: Nearest Neighbor Language Models"
+    },
+    "cs/0609058": {
+        "arxivId": "cs/0609058",
+        "title": "The JRC-Acquis: A Multilingual Aligned Parallel Corpus with 20+ Languages"
+    },
+    "1712.07040": {
+        "arxivId": "1712.07040",
+        "title": "The NarrativeQA Reading Comprehension Challenge"
+    },
+    "1706.04115": {
+        "arxivId": "1706.04115",
+        "title": "Zero-Shot Relation Extraction via Reading Comprehension"
+    },
+    "2208.03299": {
+        "arxivId": "2208.03299",
+        "title": "Few-shot Learning with Retrieval Augmented Language Models"
+    },
+    "2101.02235": {
+        "arxivId": "2101.02235",
+        "title": "Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies"
+    },
+    "2104.07567": {
+        "arxivId": "2104.07567",
+        "title": "Retrieval Augmentation Reduces Hallucination in Conversation"
+    },
+    "1907.09190": {
+        "arxivId": "1907.09190",
+        "title": "ELI5: Long Form Question Answering"
+    },
+    "2301.12652": {
+        "arxivId": "2301.12652",
+        "title": "REPLUG: Retrieval-Augmented Black-Box Language Models"
+    },
+    "2302.00093": {
+        "arxivId": "2302.00093",
+        "title": "Large Language Models Can Be Easily Distracted by Irrelevant Context"
+    },
+    "2302.00083": {
+        "arxivId": "2302.00083",
+        "title": "In-Context Retrieval-Augmented Language Models"
+    },
+    "2309.17453": {
+        "arxivId": "2309.17453",
+        "title": "Efficient Streaming Language Models with Attention Sinks"
+    },
+    "2309.01219": {
+        "arxivId": "2309.01219",
+        "title": "Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models"
+    },
+    "2310.11511": {
+        "arxivId": "2310.11511",
+        "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection"
+    },
+    "2110.06207": {
+        "arxivId": "2110.06207",
+        "title": "Open-Set Recognition: A Good Closed-Set Classifier is All You Need"
+    },
+    "2104.05938": {
+        "arxivId": "2104.05938",
+        "title": "QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization"
+    },
+    "2209.10063": {
+        "arxivId": "2209.10063",
+        "title": "Generate rather than Retrieve: Large Language Models are Strong Context Generators"
+    },
+    "2211.08411": {
+        "arxivId": "2211.08411",
+        "title": "Large Language Models Struggle to Learn Long-Tail Knowledge"
+    },
+    "2212.10509": {
+        "arxivId": "2212.10509",
+        "title": "Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions"
+    },
+    "2104.05919": {
+        "arxivId": "2104.05919",
+        "title": "Document-Level Event Argument Extraction by Conditional Generation"
+    },
+    "2011.01060": {
+        "arxivId": "2011.01060",
+        "title": "Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of Reasoning Steps"
+    },
+    "2105.03011": {
+        "arxivId": "2105.03011",
+        "title": "A Dataset of Information-Seeking Questions and Answers Anchored in Research Papers"
+    },
+    "2010.09926": {
+        "arxivId": "2010.09926",
+        "title": "Explainable Automated Fact-Checking for Public Health Claims"
+    },
+    "2212.14024": {
+        "arxivId": "2212.14024",
+        "title": "Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP"
+    },
+    "1801.10314": {
+        "arxivId": "1801.10314",
+        "title": "Complex Sequential Question Answering: Towards Learning to Converse Over Linked Question Answer Pairs with a Knowledge Graph"
+    },
+    "2303.14524": {
+        "arxivId": "2303.14524",
+        "title": "Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System"
+    },
+    "2212.10496": {
+        "arxivId": "2212.10496",
+        "title": "Precise Zero-Shot Dense Retrieval without Relevance Labels"
+    },
+    "2209.11755": {
+        "arxivId": "2209.11755",
+        "title": "Promptagator: Few-shot Dense Retrieval From 8 Examples"
+    },
+    "2308.07107": {
+        "arxivId": "2308.07107",
+        "title": "Large Language Models for Information Retrieval: A Survey"
+    },
+    "2004.06870": {
+        "arxivId": "2004.06870",
+        "title": "Coreferential Reasoning Learning for Language Representation"
+    },
+    "2108.00573": {
+        "arxivId": "2108.00573",
+        "title": "\u266b MuSiQue: Multihop Questions via Single-hop Question Composition"
+    },
+    "1911.03766": {
+        "arxivId": "1911.03766",
+        "title": "Multi-Sentence Argument Linking"
+    },
+    "2309.01431": {
+        "arxivId": "2309.01431",
+        "title": "Benchmarking Large Language Models in Retrieval-Augmented Generation"
+    },
+    "2302.14115": {
+        "arxivId": "2302.14115",
+        "title": "Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning"
+    },
+    "2305.06983": {
+        "arxivId": "2305.06983",
+        "title": "Active Retrieval Augmented Generation"
+    },
+    "2109.08535": {
+        "arxivId": "2109.08535",
+        "title": "Simple Entity-Centric Questions Challenge Dense Retrievers"
+    },
+    "2003.11288": {
+        "arxivId": "2003.11288",
+        "title": "SCATTER: Selective Context Attentional Scene Text Recognizer"
+    },
+    "2205.12674": {
+        "arxivId": "2205.12674",
+        "title": "Training Language Models with Memory Augmentation"
+    },
+    "2305.15294": {
+        "arxivId": "2305.15294",
+        "title": "Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy"
+    },
+    "2204.06092": {
+        "arxivId": "2204.06092",
+        "title": "ASQA: Factoid Questions Meet Long-Form Answers"
+    },
+    "2310.01558": {
+        "arxivId": "2310.01558",
+        "title": "Making Retrieval-Augmented Language Models Robust to Irrelevant Context"
+    },
+    "2310.01061": {
+        "arxivId": "2310.01061",
+        "title": "Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning"
+    },
+    "2112.08608": {
+        "arxivId": "2112.08608",
+        "title": "QuALITY: Question Answering with Long Input Texts, Yes!"
+    },
+    "2012.12624": {
+        "arxivId": "2012.12624",
+        "title": "Learning Dense Representations of Phrases at Scale"
+    },
+    "2310.06839": {
+        "arxivId": "2310.06839",
+        "title": "LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression"
+    },
+    "2309.11495": {
+        "arxivId": "2309.11495",
+        "title": "Chain-of-Verification Reduces Hallucination in Large Language Models"
+    },
+    "2306.16092": {
+        "arxivId": "2306.16092",
+        "title": "Chatlaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model"
+    },
+    "2303.08559": {
+        "arxivId": "2303.08559",
+        "title": "Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!"
+    },
+    "2310.04408": {
+        "arxivId": "2310.04408",
+        "title": "RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation"
+    },
+    "2309.15217": {
+        "arxivId": "2309.15217",
+        "title": "RAGAs: Automated Evaluation of Retrieval Augmented Generation"
+    },
+    "2203.05797": {
+        "arxivId": "2203.05797",
+        "title": "Long Time No See! Open-Domain Conversation with Long-Term Persona Memory"
+    },
+    "2306.02224": {
+        "arxivId": "2306.02224",
+        "title": "Auto-GPT for Online Decision Making: Benchmarks and Additional Opinions"
+    },
+    "2105.11269": {
+        "arxivId": "2105.11269",
+        "title": "Neural Machine Translation with Monolingual Translation Memory"
+    },
+    "2310.01469": {
+        "arxivId": "2310.01469",
+        "title": "LLM Lies: Hallucinations are not Bugs, but Features as Adversarial Examples"
+    },
+    "2307.11019": {
+        "arxivId": "2307.11019",
+        "title": "Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation"
+    },
+    "2203.08773": {
+        "arxivId": "2203.08773",
+        "title": "Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data"
+    },
+    "2403.10131": {
+        "arxivId": "2403.10131",
+        "title": "RAFT: Adapting Language Model to Domain Specific RAG"
+    },
+    "2212.10511": {
+        "arxivId": "2212.10511",
+        "title": "When Not to Trust Language Models: Investigating Effectiveness and Limitations of Parametric and Non-Parametric Memories"
+    },
+    "1606.03352": {
+        "arxivId": "1606.03352",
+        "title": "Conditional Generation and Snapshot Learning in Neural Dialogue Systems"
+    },
+    "2310.01352": {
+        "arxivId": "2310.01352",
+        "title": "RA-DIT: Retrieval-Augmented Dual Instruction Tuning"
+    },
+    "2210.02627": {
+        "arxivId": "2210.02627",
+        "title": "Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering"
+    },
+    "2211.12561": {
+        "arxivId": "2211.12561",
+        "title": "Retrieval-Augmented Multimodal Language Modeling"
+    },
+    "2311.09210": {
+        "arxivId": "2311.09210",
+        "title": "Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models"
+    },
+    "2310.08560": {
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems"
+    },
+    "2312.05934": {
+        "arxivId": "2312.05934",
+        "title": "Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs"
+    },
+    "2401.14887": {
+        "arxivId": "2401.14887",
+        "title": "The Power of Noise: Redefining Retrieval for RAG Systems"
+    },
+    "2310.06117": {
+        "arxivId": "2310.06117",
+        "title": "Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models"
+    },
+    "2304.05684": {
+        "arxivId": "2304.05684",
+        "title": "InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions"
+    },
+    "2310.05736": {
+        "arxivId": "2310.05736",
+        "title": "LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models"
+    },
+    "2304.11116": {
+        "arxivId": "2304.11116",
+        "title": "Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT"
+    },
+    "2303.07678": {
+        "arxivId": "2303.07678",
+        "title": "Query2doc: Query Expansion with Large Language Models"
+    },
+    "2309.12871": {
+        "arxivId": "2309.12871",
+        "title": "AnglE-optimized Text Embeddings"
+    },
+    "2401.18059": {
+        "arxivId": "2401.18059",
+        "title": "RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval"
+    },
+    "2305.14045": {
+        "arxivId": "2305.14045",
+        "title": "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning"
+    },
+    "2210.01296": {
+        "arxivId": "2210.01296",
+        "title": "Recitation-Augmented Language Models"
+    },
+    "2011.07832": {
+        "arxivId": "2011.07832",
+        "title": "WikiAsp: A Dataset for Multi-domain Aspect-based Summarization"
+    },
+    "2311.09476": {
+        "arxivId": "2311.09476",
+        "title": "ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems"
+    },
+    "2201.12431": {
+        "arxivId": "2201.12431",
+        "title": "Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval"
+    },
+    "2310.03025": {
+        "arxivId": "2310.03025",
+        "title": "Retrieval meets Long Context Large Language Models"
+    },
+    "2308.11730": {
+        "arxivId": "2308.11730",
+        "title": "Knowledge Graph Prompting for Multi-Document Question Answering"
+    },
+    "2305.02437": {
+        "arxivId": "2305.02437",
+        "title": "Lift Yourself Up: Retrieval-augmented Text Generation with Self Memory"
+    },
+    "2310.05029": {
+        "arxivId": "2310.05029",
+        "title": "Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading"
+    },
+    "2308.08833": {
+        "arxivId": "2308.08833",
+        "title": "CMB: A Comprehensive Medical Benchmark in Chinese"
+    },
+    "2305.14283": {
+        "arxivId": "2305.14283",
+        "title": "Query Rewriting for Retrieval-Augmented Large Language Models"
+    },
+    "2304.06762": {
+        "arxivId": "2304.06762",
+        "title": "Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study"
+    },
+    "2305.13269": {
+        "arxivId": "2305.13269",
+        "title": "Chain of Knowledge: A Framework for Grounding Large Language Models with Structured Knowledge Bases"
+    },
+    "2303.08518": {
+        "arxivId": "2303.08518",
+        "title": "UPRISE: Universal Prompt Retrieval for Improving Zero-Shot Evaluation"
+    },
+    "2112.07622": {
+        "arxivId": "2112.07622",
+        "title": "ISEEQ: Information Seeking Question Generation using Dynamic Meta-Information Retrieval and Knowledge Graphs"
+    },
+    "2311.08377": {
+        "arxivId": "2311.08377",
+        "title": "Learning to Filter Context for Retrieval-Augmented Generation"
+    },
+    "2305.05065": {
+        "arxivId": "2305.05065",
+        "title": "Recommender Systems with Generative Retrieval"
+    },
+    "2305.17331": {
+        "arxivId": "2305.17331",
+        "title": "Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In"
+    },
+    "2401.15884": {
+        "arxivId": "2401.15884",
+        "title": "Corrective Retrieval Augmented Generation"
+    },
+    "2305.04757": {
+        "arxivId": "2305.04757",
+        "title": "Augmented Large Language Models with Parametric Knowledge Guiding"
+    },
+    "2312.07559": {
+        "arxivId": "2312.07559",
+        "title": "PaperQA: Retrieval-Augmented Generative Agent for Scientific Research"
+    },
+    "2310.07554": {
+        "arxivId": "2310.07554",
+        "title": "Retrieve Anything To Augment Large Language Models"
+    },
+    "2307.08674": {
+        "arxivId": "2307.08674",
+        "title": "TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT"
+    },
+    "2305.18846": {
+        "arxivId": "2305.18846",
+        "title": "Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation"
+    },
+    "2210.03765": {
+        "arxivId": "2210.03765",
+        "title": "Visualize Before You Write: Imagination-Guided Open-Ended Text Generation"
+    },
+    "2108.13934": {
+        "arxivId": "2108.13934",
+        "title": "Robust Retrieval Augmented Generation for Zero-shot Slot Filling"
+    },
+    "2310.07713": {
+        "arxivId": "2310.07713",
+        "title": "InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining"
+    },
+    "2211.07067": {
+        "arxivId": "2211.07067",
+        "title": "Retrieval-Augmented Generative Question Answering for Event Argument Extraction"
+    },
+    "2311.05876": {
+        "arxivId": "2311.05876",
+        "title": "Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications"
+    },
+    "2310.13243": {
+        "arxivId": "2310.13243",
+        "title": "Open-source Large Language Models are Strong Zero-shot Query Likelihood Models for Document Ranking"
+    },
+    "2308.07922": {
+        "arxivId": "2308.07922",
+        "title": "RAVEN: In-Context Learning with Retrieval Augmented Encoder-Decoder Language Models"
+    },
+    "2307.07164": {
+        "arxivId": "2307.07164",
+        "title": "Learning to Retrieve In-Context Examples for Large Language Models"
+    },
+    "2305.14322": {
+        "arxivId": "2305.14322",
+        "title": "RET-LLM: Towards a General Read-Write Memory for Large Language Models"
+    },
+    "2205.04260": {
+        "arxivId": "2205.04260",
+        "title": "EASE: Entity-Aware Contrastive Learning of Sentence Embedding"
+    },
+    "2308.11761": {
+        "arxivId": "2308.11761",
+        "title": "KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases"
+    },
+    "2402.07630": {
+        "arxivId": "2402.07630",
+        "title": "G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering"
+    },
+    "2310.12150": {
+        "arxivId": "2310.12150",
+        "title": "Understanding Retrieval Augmentation for Long-Form Question Answering"
+    },
+    "2310.05002": {
+        "arxivId": "2310.05002",
+        "title": "Self-Knowledge Guided Retrieval Augmentation for Large Language Models"
+    },
+    "2304.12986": {
+        "arxivId": "2304.12986",
+        "title": "Measuring Massive Multitask Chinese Understanding"
+    },
+    "2307.06962": {
+        "arxivId": "2307.06962",
+        "title": "Copy is All You Need"
+    },
+    "2311.08147": {
+        "arxivId": "2311.08147",
+        "title": "RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge"
+    },
+    "2310.18347": {
+        "arxivId": "2310.18347",
+        "title": "PRCA: Fitting Black-Box Large Language Models for Retrieval Question Answering via Pluggable Reward-Driven Contextual Adapter"
+    },
+    "2310.14696": {
+        "arxivId": "2310.14696",
+        "title": "Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models"
+    },
+    "2310.05149": {
+        "arxivId": "2310.05149",
+        "title": "Retrieval-Generation Synergy Augmented Large Language Models"
+    },
+    "2401.06954": {
+        "arxivId": "2401.06954",
+        "title": "Bridging the Preference Gap between Retrievers and LLMs"
+    },
+    "2312.06648": {
+        "arxivId": "2312.06648",
+        "title": "Dense X Retrieval: What Retrieval Granularity Should We Use?"
+    },
+    "2311.03758": {
+        "arxivId": "2311.03758",
+        "title": "Large Language Model based Long-tail Query Rewriting in Taobao Search"
+    },
+    "2402.09727": {
+        "arxivId": "2402.09727",
+        "title": "A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts"
+    },
+    "2401.17043": {
+        "arxivId": "2401.17043",
+        "title": "CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models"
+    },
+    "2310.20158": {
+        "arxivId": "2310.20158",
+        "title": "GAR-meets-RAG Paradigm for Zero-Shot Information Retrieval"
+    },
+    "2312.15883": {
+        "arxivId": "2312.15883",
+        "title": "HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and Reliable Medical LLMs Responses"
+    },
+    "2305.19912": {
+        "arxivId": "2305.19912",
+        "title": "Structure-Aware Language Model Pretraining Improves Dense Retrieval on Structured Data"
+    },
+    "2305.17653": {
+        "arxivId": "2305.17653",
+        "title": "Prompt-Guided Retrieval Augmentation for Non-Knowledge-Intensive Tasks"
+    },
+    "2401.13256": {
+        "arxivId": "2401.13256",
+        "title": "UniMS-RAG: A Unified Multi-source Retrieval-Augmented Generation for Personalized Dialogue Systems"
+    },
+    "2310.13682": {
+        "arxivId": "2310.13682",
+        "title": "Optimizing Retrieval-augmented Reader Models via Token Elimination"
+    },
+    "2312.11361": {
+        "arxivId": "2312.11361",
+        "title": "NoMIRACL: Knowing When You Don't Know for Robust Multilingual Retrieval-Augmented Generation"
+    },
+    "2212.03140": {
+        "arxivId": "2212.03140",
+        "title": "Neural Machine Translation with Contrastive Translation Memories"
+    },
+    "2311.18397": {
+        "arxivId": "2311.18397",
+        "title": "IAG: Induction-Augmented Generation Framework for Answering Reasoning Questions"
+    },
+    "2310.07815": {
+        "arxivId": "2310.07815",
+        "title": "Language Models As Semantic Indexers"
+    },
+    "2210.00185": {
+        "arxivId": "2210.00185",
+        "title": "Zemi: Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks"
+    },
+    "2312.05708": {
+        "arxivId": "2312.05708",
+        "title": "Context Tuning for Retrieval Augmented Generation"
+    },
+    "2311.04177": {
+        "arxivId": "2311.04177",
+        "title": "Enhancing LLM Intelligence with ARM-RAG: Auxiliary Rationale Memory for Retrieval Augmented Generation"
+    },
+    "2310.09536": {
+        "arxivId": "2310.09536",
+        "title": "CarExpert: Leveraging Large Language Models for In-Car Conversational Question Answering"
+    },
+    "2311.06595": {
+        "arxivId": "2311.06595",
+        "title": "From Classification to Generation: Insights into Crosslingual Retrieval Augmented ICL"
+    },
+    "2310.14503": {
+        "arxivId": "2310.14503",
+        "title": "Diversify Question Generation with Retrieval-Augmented Style Transfer"
+    },
+    "2310.13848": {
+        "arxivId": "2310.13848",
+        "title": "FABULA: Intelligence Report Generation Using Retrieval-Augmented Narrative Construction"
+    },
+    "2310.08840": {
+        "arxivId": "2310.08840",
+        "title": "Large Language Models as Source Planner for Personalized Knowledge-grounded Dialogue"
+    },
+    "2301.02736": {
+        "arxivId": "2301.02736",
+        "title": "Using External Off-Policy Speech-To-Text Mappings in Contextual End-To-End Automated Speech Recognition"
+    },
+    "2402.13482": {
+        "arxivId": "2402.13482",
+        "title": "Retrieval-Augmented Data Augmentation for Low-Resource Domain Tasks"
+    },
+    "2310.16568": {
+        "arxivId": "2310.16568",
+        "title": "1-PAGER: One Pass Answer Generation and Evidence Retrieval"
+    },
+    "2310.12836": {
+        "arxivId": "2310.12836",
+        "title": "Knowledge-Augmented Language Model Verification"
+    },
+    "2310.08877": {
+        "arxivId": "2310.08877",
+        "title": "Retrieval-Generation Alignment for End-to-End Task-Oriented Dialogue System"
+    },
+    "2308.10633": {
+        "arxivId": "2308.10633",
+        "title": "RaLLe: A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models"
+    },
+    "2210.08174": {
+        "arxivId": "2210.08174",
+        "title": "Generating Synthetic Speech from SpokenVocab for Speech Translation"
+    },
+    "2310.14528": {
+        "arxivId": "2310.14528",
+        "title": "Dual-Feedback Knowledge Retrieval for Task-Oriented Dialogue Systems"
+    },
+    "2311.02616": {
+        "arxivId": "2311.02616",
+        "title": "Divide & Conquer for Entailment-aware Multi-hop Evidence Retrieval"
+    },
+    "2308.12574": {
+        "arxivId": "2308.12574",
+        "title": "Modeling Uncertainty and Using Post-fusion as Fallback Improves Retrieval Augmented Generation with LLMs"
+    }
+}

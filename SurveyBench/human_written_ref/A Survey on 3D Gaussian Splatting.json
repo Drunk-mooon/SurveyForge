@@ -1,0 +1,1086 @@
+{
+    "2006.11239": {
+        "arxivId": "2006.11239",
+        "title": "Denoising Diffusion Probabilistic Models"
+    },
+    "2112.10752": {
+        "arxivId": "2112.10752",
+        "title": "High-Resolution Image Synthesis with Latent Diffusion Models"
+    },
+    "1801.03924": {
+        "arxivId": "1801.03924",
+        "title": "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric"
+    },
+    "1610.06475": {
+        "arxivId": "1610.06475",
+        "title": "ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo, and RGB-D Cameras"
+    },
+    "1903.11027": {
+        "arxivId": "1903.11027",
+        "title": "nuScenes: A Multimodal Dataset for Autonomous Driving"
+    },
+    "1711.00937": {
+        "arxivId": "1711.00937",
+        "title": "Neural Discrete Representation Learning"
+    },
+    "1901.05103": {
+        "arxivId": "1901.05103",
+        "title": "DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation"
+    },
+    "2201.05989": {
+        "arxivId": "2201.05989",
+        "title": "Instant neural graphics primitives with a multiresolution hash encoding"
+    },
+    "2302.05543": {
+        "arxivId": "2302.05543",
+        "title": "Adding Conditional Control to Text-to-Image Diffusion Models"
+    },
+    "1812.03828": {
+        "arxivId": "1812.03828",
+        "title": "Occupancy Networks: Learning 3D Reconstruction in Function Space"
+    },
+    "1912.04838": {
+        "arxivId": "1912.04838",
+        "title": "Scalability in Perception for Autonomous Driving: Waymo Open Dataset"
+    },
+    "2308.04079": {
+        "arxivId": "2308.04079",
+        "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+    },
+    "2103.13415": {
+        "arxivId": "2103.13415",
+        "title": "Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields"
+    },
+    "2012.02190": {
+        "arxivId": "2012.02190",
+        "title": "pixelNeRF: Neural Radiance Fields from One or Few Images"
+    },
+    "2011.13961": {
+        "arxivId": "2011.13961",
+        "title": "D-NeRF: Neural Radiance Fields for Dynamic Scenes"
+    },
+    "2111.12077": {
+        "arxivId": "2111.12077",
+        "title": "Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields"
+    },
+    "2312.00752": {
+        "arxivId": "2312.00752",
+        "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces"
+    },
+    "2203.09517": {
+        "arxivId": "2203.09517",
+        "title": "TensoRF: Tensorial Radiance Fields"
+    },
+    "2011.12948": {
+        "arxivId": "2011.12948",
+        "title": "Nerfies: Deformable Neural Radiance Fields"
+    },
+    "2111.11215": {
+        "arxivId": "2111.11215",
+        "title": "Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction"
+    },
+    "2103.13744": {
+        "arxivId": "2103.13744",
+        "title": "KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs"
+    },
+    "1605.03557": {
+        "arxivId": "1605.03557",
+        "title": "View Synthesis by Appearance Flow"
+    },
+    "1906.05797": {
+        "arxivId": "1906.05797",
+        "title": "The Replica Dataset: A Digital Replica of Indoor Spaces"
+    },
+    "1812.01024": {
+        "arxivId": "1812.01024",
+        "title": "DeepVoxels: Learning Persistent 3D Feature Embeddings"
+    },
+    "1506.06825": {
+        "arxivId": "1506.06825",
+        "title": "Deep Stereo: Learning to Predict New Views from the World's Imagery"
+    },
+    "2012.15838": {
+        "arxivId": "2012.15838",
+        "title": "Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans"
+    },
+    "2111.11426": {
+        "arxivId": "2111.11426",
+        "title": "Neural Fields in Visual Computing and Beyond"
+    },
+    "2103.10380": {
+        "arxivId": "2103.10380",
+        "title": "FastNeRF: High-Fidelity Neural Rendering at 200FPS"
+    },
+    "2112.12130": {
+        "arxivId": "2112.12130",
+        "title": "NICE-SLAM: Neural Implicit Scalable Encoding for SLAM"
+    },
+    "2103.12352": {
+        "arxivId": "2103.12352",
+        "title": "iMAP: Implicit Mapping and Positioning in Real-Time"
+    },
+    "2101.10994": {
+        "arxivId": "2101.10994",
+        "title": "Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes"
+    },
+    "2003.10983": {
+        "arxivId": "2003.10983",
+        "title": "Deep Local Shapes: Learning Local SDF Priors for Detailed 3D Reconstruction"
+    },
+    "1912.08804": {
+        "arxivId": "1912.08804",
+        "title": "SynSin: End-to-End View Synthesis From a Single Image"
+    },
+    "2111.05849": {
+        "arxivId": "2111.05849",
+        "title": "Advances in Neural Rendering"
+    },
+    "2212.10156": {
+        "arxivId": "2212.10156",
+        "title": "Planning-oriented Autonomous Driving"
+    },
+    "2309.16653": {
+        "arxivId": "2309.16653",
+        "title": "DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation"
+    },
+    "1906.08240": {
+        "arxivId": "1906.08240",
+        "title": "Neural Point-Based Graphics"
+    },
+    "2201.04127": {
+        "arxivId": "2201.04127",
+        "title": "HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video"
+    },
+    "2301.10241": {
+        "arxivId": "2301.10241",
+        "title": "K-Planes: Explicit Radiance Fields in Space, Time, and Appearance"
+    },
+    "2105.02872": {
+        "arxivId": "2105.02872",
+        "title": "Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies"
+    },
+    "2008.05511": {
+        "arxivId": "2008.05511",
+        "title": "Free View Synthesis"
+    },
+    "1906.06543": {
+        "arxivId": "1906.06543",
+        "title": "Image-Based 3D Object Reconstruction: State-of-the-Art and Trends in the Deep Learning Era"
+    },
+    "2310.08528": {
+        "arxivId": "2310.08528",
+        "title": "4D Gaussian Splatting for Real-Time Dynamic Scene Rendering"
+    },
+    "2301.09632": {
+        "arxivId": "2301.09632",
+        "title": "HexPlane: A Fast Representation for Dynamic Scenes"
+    },
+    "2308.09713": {
+        "arxivId": "2308.09713",
+        "title": "Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis"
+    },
+    "2303.09824": {
+        "arxivId": "2303.09824",
+        "title": "Motion Planning for Autonomous Driving: The State of the Art and Future Perspectives"
+    },
+    "2111.14643": {
+        "arxivId": "2111.14643",
+        "title": "Urban Radiance Fields"
+    },
+    "1906.04173": {
+        "arxivId": "1906.04173",
+        "title": "Differentiable surface splatting for point-based geometry processing"
+    },
+    "2205.15285": {
+        "arxivId": "2205.15285",
+        "title": "Fast Dynamic Radiance Fields with Time-Aware Neural Voxels"
+    },
+    "1811.11606": {
+        "arxivId": "1811.11606",
+        "title": "Escaping Plato\u2019s Cave: 3D Shape From Adversarial Rendering"
+    },
+    "2309.13101": {
+        "arxivId": "2309.13101",
+        "title": "Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction"
+    },
+    "2311.12775": {
+        "arxivId": "2311.12775",
+        "title": "SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering"
+    },
+    "2109.02369": {
+        "arxivId": "2109.02369",
+        "title": "Point\u2010Based Neural Rendering with Per\u2010View Optimization"
+    },
+    "2402.05054": {
+        "arxivId": "2402.05054",
+        "title": "LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation"
+    },
+    "2309.16585": {
+        "arxivId": "2309.16585",
+        "title": "Text-to-3D using Gaussian Splatting"
+    },
+    "2109.07448": {
+        "arxivId": "2109.07448",
+        "title": "Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering"
+    },
+    "2403.17888": {
+        "arxivId": "2403.17888",
+        "title": "2D Gaussian Splatting for Geometrically Accurate Radiance Fields"
+    },
+    "2311.16493": {
+        "arxivId": "2311.16493",
+        "title": "Mip-Splatting: Alias-Free 3D Gaussian Splatting"
+    },
+    "2310.10642": {
+        "arxivId": "2310.10642",
+        "title": "Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting"
+    },
+    "2312.02126": {
+        "arxivId": "2312.02126",
+        "title": "SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM"
+    },
+    "2310.08529": {
+        "arxivId": "2310.08529",
+        "title": "GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors"
+    },
+    "2207.00254": {
+        "arxivId": "2207.00254",
+        "title": "A Survey on Active Simultaneous Localization and Mapping: State of the Art and New Frontiers"
+    },
+    "2210.15858": {
+        "arxivId": "2210.15858",
+        "title": "Vox-Fusion: Dense Tracking and Mapping with Voxel-based Neural Implicit Representation"
+    },
+    "2304.14377": {
+        "arxivId": "2304.14377",
+        "title": "Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM"
+    },
+    "2206.09474": {
+        "arxivId": "2206.09474",
+        "title": "3D Object Detection for Autonomous Driving: A Comprehensive Survey"
+    },
+    "2312.06741": {
+        "arxivId": "2312.06741",
+        "title": "Gaussian Splatting SLAM"
+    },
+    "2307.07162": {
+        "arxivId": "2307.07162",
+        "title": "Drive Like a Human: Rethinking Autonomous Driving with Large Language Models"
+    },
+    "2312.00109": {
+        "arxivId": "2312.00109",
+        "title": "Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering"
+    },
+    "2311.11284": {
+        "arxivId": "2311.11284",
+        "title": "LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching"
+    },
+    "2312.09147": {
+        "arxivId": "2312.09147",
+        "title": "Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers"
+    },
+    "2211.11704": {
+        "arxivId": "2211.11704",
+        "title": "ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields"
+    },
+    "2311.14521": {
+        "arxivId": "2311.14521",
+        "title": "GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting"
+    },
+    "2311.11700": {
+        "arxivId": "2311.11700",
+        "title": "GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting"
+    },
+    "2206.15255": {
+        "arxivId": "2206.15255",
+        "title": "Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery"
+    },
+    "2312.12337": {
+        "arxivId": "2312.12337",
+        "title": "PixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction"
+    },
+    "2311.13681": {
+        "arxivId": "2311.13681",
+        "title": "Compact 3D Gaussian Representation for Radiance Field"
+    },
+    "2311.12198": {
+        "arxivId": "2311.12198",
+        "title": "PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics"
+    },
+    "2312.13150": {
+        "arxivId": "2312.13150",
+        "title": "Splatter Image: Ultra-Fast Single-View 3D Reconstruction"
+    },
+    "2304.04278": {
+        "arxivId": "2304.04278",
+        "title": "Point-SLAM: Dense Neural Point Cloud-based SLAM"
+    },
+    "2312.00732": {
+        "arxivId": "2312.00732",
+        "title": "Gaussian Grouping: Segment and Edit Anything in 3D Scenes"
+    },
+    "2303.14536": {
+        "arxivId": "2303.14536",
+        "title": "SUDS: Scalable Urban Dynamic Scenes"
+    },
+    "2312.16084": {
+        "arxivId": "2312.16084",
+        "title": "LangSplat: 3D Language Gaussian Splatting"
+    },
+    "2312.02069": {
+        "arxivId": "2312.02069",
+        "title": "GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians"
+    },
+    "2311.17245": {
+        "arxivId": "2311.17245",
+        "title": "LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS"
+    },
+    "2312.07920": {
+        "arxivId": "2312.07920",
+        "title": "DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes"
+    },
+    "2109.06061": {
+        "arxivId": "2109.06061",
+        "title": "Learning Indoor Inverse Rendering with 3D Spatially-Varying Lighting"
+    },
+    "2312.13763": {
+        "arxivId": "2312.13763",
+        "title": "Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models"
+    },
+    "2311.17977": {
+        "arxivId": "2311.17977",
+        "title": "GaussianShader: 3D Gaussian Splatting with Shading Functions for Reflective Surfaces"
+    },
+    "2202.02980": {
+        "arxivId": "2202.02980",
+        "title": "3D Object Detection From Images for Autonomous Driving: A Survey"
+    },
+    "2312.03203": {
+        "arxivId": "2312.03203",
+        "title": "Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields"
+    },
+    "2312.10070": {
+        "arxivId": "2312.10070",
+        "title": "Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting"
+    },
+    "2303.00749": {
+        "arxivId": "2303.00749",
+        "title": "S-NeRF: Neural Radiance Fields for Street Views"
+    },
+    "2312.00451": {
+        "arxivId": "2312.00451",
+        "title": "FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting"
+    },
+    "2312.14937": {
+        "arxivId": "2312.14937",
+        "title": "SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes"
+    },
+    "2312.03029": {
+        "arxivId": "2312.03029",
+        "title": "Gaussian Head Avatar: Ultra High-Fidelity Head Avatar via Dynamic Gaussians"
+    },
+    "2403.14621": {
+        "arxivId": "2403.14621",
+        "title": "GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation"
+    },
+    "2311.13384": {
+        "arxivId": "2311.13384",
+        "title": "LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes"
+    },
+    "2311.08581": {
+        "arxivId": "2311.08581",
+        "title": "Drivable 3D Gaussian Avatars"
+    },
+    "2312.16812": {
+        "arxivId": "2312.16812",
+        "title": "Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis"
+    },
+    "1909.04250": {
+        "arxivId": "1909.04250",
+        "title": "Real-time Scalable Dense Surfel Mapping"
+    },
+    "2312.17142": {
+        "arxivId": "2312.17142",
+        "title": "DreamGaussian4D: Generative 4D Gaussian Splatting"
+    },
+    "2311.16037": {
+        "arxivId": "2311.16037",
+        "title": "GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions"
+    },
+    "2311.16473": {
+        "arxivId": "2311.16473",
+        "title": "GS-IR: 3D Gaussian Splatting for Inverse Rendering"
+    },
+    "2402.17427": {
+        "arxivId": "2402.17427",
+        "title": "VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction"
+    },
+    "2312.09228": {
+        "arxivId": "2312.09228",
+        "title": "3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting"
+    },
+    "2311.16728": {
+        "arxivId": "2311.16728",
+        "title": "Photo-SLAM: Real-Time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras"
+    },
+    "2312.07504": {
+        "arxivId": "2312.07504",
+        "title": "COLMAP-Free 3D Gaussian Splatting"
+    },
+    "2312.02134": {
+        "arxivId": "2312.02134",
+        "title": "GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians"
+    },
+    "2402.14650": {
+        "arxivId": "2402.14650",
+        "title": "GaussianPro: 3D Gaussian Splatting with Progressive Propagation"
+    },
+    "2312.02973": {
+        "arxivId": "2312.02973",
+        "title": "GauHuman: Articulated Gaussian Splatting from Monocular Human Videos"
+    },
+    "2311.17910": {
+        "arxivId": "2311.17910",
+        "title": "HUGS: Human Gaussian Splats"
+    },
+    "2311.17061": {
+        "arxivId": "2311.17061",
+        "title": "HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting"
+    },
+    "2307.16142": {
+        "arxivId": "2307.16142",
+        "title": "Implicit Neural Representation in Medical Imaging: A Comparative Survey"
+    },
+    "2312.02155": {
+        "arxivId": "2312.02155",
+        "title": "GPS-Gaussian: Generalizable Pixel-Wise 3D Gaussian Splatting for Real-Time Human Novel View Synthesis"
+    },
+    "2312.17225": {
+        "arxivId": "2312.17225",
+        "title": "4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency"
+    },
+    "2312.00846": {
+        "arxivId": "2312.00846",
+        "title": "NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance"
+    },
+    "2302.12237": {
+        "arxivId": "2302.12237",
+        "title": "Learning Neural Volumetric Representations of Dynamic Humans in Minutes"
+    },
+    "2312.03431": {
+        "arxivId": "2312.03431",
+        "title": "Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle"
+    },
+    "2311.17089": {
+        "arxivId": "2311.17089",
+        "title": "Multi-Scale 3D Gaussian Splatting for Anti-Aliased Rendering"
+    },
+    "2311.13398": {
+        "arxivId": "2311.13398",
+        "title": "Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images"
+    },
+    "2312.00860": {
+        "arxivId": "2312.00860",
+        "title": "Segment Any 3D Gaussians"
+    },
+    "2312.00206": {
+        "arxivId": "2312.00206",
+        "title": "SparseGS: Real-Time 360\u00b0 Sparse View Synthesis using Gaussian Splatting"
+    },
+    "2307.11307": {
+        "arxivId": "2307.11307",
+        "title": "EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos"
+    },
+    "2311.16043": {
+        "arxivId": "2311.16043",
+        "title": "Relightable 3D Gaussians: Realistic Point Cloud Relighting with BRDF Decomposition and Ray Tracing"
+    },
+    "2311.17113": {
+        "arxivId": "2311.17113",
+        "title": "Human Gaussian Splatting: Real-Time Rendering of Animatable Avatars"
+    },
+    "2311.18159": {
+        "arxivId": "2311.18159",
+        "title": "Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector Quantization"
+    },
+    "2305.20082": {
+        "arxivId": "2305.20082",
+        "title": "Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor"
+    },
+    "2403.14627": {
+        "arxivId": "2403.14627",
+        "title": "MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images"
+    },
+    "2402.08682": {
+        "arxivId": "2402.08682",
+        "title": "IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation"
+    },
+    "2401.16663": {
+        "arxivId": "2401.16663",
+        "title": "VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality"
+    },
+    "2312.05941": {
+        "arxivId": "2312.05941",
+        "title": "ASH: Animatable Gaussian Splats for Efficient and Photoreal Human Rendering"
+    },
+    "2311.16099": {
+        "arxivId": "2311.16099",
+        "title": "GART: Gaussian Articulated Template Models"
+    },
+    "2403.06912": {
+        "arxivId": "2403.06912",
+        "title": "DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization"
+    },
+    "2312.03704": {
+        "arxivId": "2312.03704",
+        "title": "Relightable Gaussian Codec Avatars"
+    },
+    "2311.18482": {
+        "arxivId": "2311.18482",
+        "title": "Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding"
+    },
+    "2312.00112": {
+        "arxivId": "2312.00112",
+        "title": "DynMF: Neural Motion Factorization for Real-time Dynamic View Synthesis with 3D Gaussian Splatting"
+    },
+    "2401.04099": {
+        "arxivId": "2401.04099",
+        "title": "AGG: Amortized Generative 3D Gaussians for Single Image to 3D"
+    },
+    "2312.13299": {
+        "arxivId": "2312.13299",
+        "title": "Compact 3D Scene Representation via Self-Organizing Gaussian Grids"
+    },
+    "2312.05133": {
+        "arxivId": "2312.05133",
+        "title": "GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization"
+    },
+    "2305.19906": {
+        "arxivId": "2305.19906",
+        "title": "Neural LerPlane Representations for Fast 4D Reconstruction of Deformable Tissues"
+    },
+    "2406.12080": {
+        "arxivId": "2406.12080",
+        "title": "A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets"
+    },
+    "2312.04564": {
+        "arxivId": "2312.04564",
+        "title": "EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS"
+    },
+    "2311.18561": {
+        "arxivId": "2311.18561",
+        "title": "Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering"
+    },
+    "1811.10266": {
+        "arxivId": "1811.10266",
+        "title": "OVPC Mesh: 3D Free-space Representation for Local Ground Vehicle Navigation"
+    },
+    "1709.03763": {
+        "arxivId": "1709.03763",
+        "title": "Efficient Online Surface Correction for Real-time Large-Scale 3D Reconstruction"
+    },
+    "2312.04558": {
+        "arxivId": "2312.04558",
+        "title": "MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar"
+    },
+    "2402.03246": {
+        "arxivId": "2402.03246",
+        "title": "SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM"
+    },
+    "2312.01196": {
+        "arxivId": "2312.01196",
+        "title": "Neural Parametric Gaussians for Monocular Non-Rigid Object Reconstruction"
+    },
+    "2311.17857": {
+        "arxivId": "2311.17857",
+        "title": "Gaussian Shell Maps for Efficient 3D Human Generation"
+    },
+    "2311.17907": {
+        "arxivId": "2311.17907",
+        "title": "CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting"
+    },
+    "2204.01287": {
+        "arxivId": "2204.01287",
+        "title": "Software Rasterization of 2 Billion Points in Real Time"
+    },
+    "2401.12561": {
+        "arxivId": "2401.12561",
+        "title": "EndoGaussian: Gaussian Splatting for Deformable Surgical Scene Reconstruction"
+    },
+    "2403.17898": {
+        "arxivId": "2403.17898",
+        "title": "Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians"
+    },
+    "2202.07135": {
+        "arxivId": "2202.07135",
+        "title": "Compositional Scene Representation Learning via Reconstruction: A Survey"
+    },
+    "2403.18795": {
+        "arxivId": "2403.18795",
+        "title": "Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction"
+    },
+    "2403.01444": {
+        "arxivId": "2403.01444",
+        "title": "3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos"
+    },
+    "2309.17390": {
+        "arxivId": "2309.17390",
+        "title": "Forward Flow for Novel View Synthesis of Dynamic Scenes"
+    },
+    "2312.11461": {
+        "arxivId": "2312.11461",
+        "title": "GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning"
+    },
+    "2403.16292": {
+        "arxivId": "2403.16292",
+        "title": "latentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction"
+    },
+    "2401.01970": {
+        "arxivId": "2401.01970",
+        "title": "FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding"
+    },
+    "2312.11458": {
+        "arxivId": "2312.11458",
+        "title": "GauFRe: Gaussian Deformation Fields for Real-time Dynamic Novel View Synthesis"
+    },
+    "2404.01133": {
+        "arxivId": "2404.01133",
+        "title": "CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians"
+    },
+    "2403.14530": {
+        "arxivId": "2403.14530",
+        "title": "HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression"
+    },
+    "2402.15870": {
+        "arxivId": "2402.15870",
+        "title": "Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting"
+    },
+    "2402.13255": {
+        "arxivId": "2402.13255",
+        "title": "How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey"
+    },
+    "2401.09720": {
+        "arxivId": "2401.09720",
+        "title": "GaussianBody: Clothed Human Reconstruction via 3d Gaussian Splatting"
+    },
+    "2311.11221": {
+        "arxivId": "2311.11221",
+        "title": "GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise"
+    },
+    "2403.06908": {
+        "arxivId": "2403.06908",
+        "title": "FreGS: 3D Gaussian Splatting with Progressive Frequency Regularization"
+    },
+    "2402.06149": {
+        "arxivId": "2402.06149",
+        "title": "HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting"
+    },
+    "2401.08742": {
+        "arxivId": "2401.08742",
+        "title": "Efficient4D: Fast Dynamic 3D Object Generation from a Single-view Video"
+    },
+    "2401.00834": {
+        "arxivId": "2401.00834",
+        "title": "Deblurring 3D Gaussian Splatting"
+    },
+    "2312.13271": {
+        "arxivId": "2312.13271",
+        "title": "Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting"
+    },
+    "2402.10259": {
+        "arxivId": "2402.10259",
+        "title": "GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting"
+    },
+    "2312.03461": {
+        "arxivId": "2312.03461",
+        "title": "HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting"
+    },
+    "2312.02902": {
+        "arxivId": "2312.02902",
+        "title": "HeadGaS: Real-Time Animatable Head Avatars via 3D Gaussian Splatting"
+    },
+    "2311.10812": {
+        "arxivId": "2311.10812",
+        "title": "SplatArmor: Articulated Gaussian splatting for animatable humans from monocular RGB videos"
+    },
+    "2401.15318": {
+        "arxivId": "2401.15318",
+        "title": "Gaussian Splashing: Dynamic Fluid Synthesis with Gaussian Splatting"
+    },
+    "2401.17857": {
+        "arxivId": "2401.17857",
+        "title": "Semantic Anything in 3D Gaussians"
+    },
+    "2406.17074": {
+        "arxivId": "2406.17074",
+        "title": "Reducing the Memory Footprint of 3D Gaussian Splatting"
+    },
+    "2403.16964": {
+        "arxivId": "2403.16964",
+        "title": "GSDF: 3DGS Meets SDF for Improved Rendering and Reconstruction"
+    },
+    "2403.12722": {
+        "arxivId": "2403.12722",
+        "title": "HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting"
+    },
+    "2401.14828": {
+        "arxivId": "2401.14828",
+        "title": "TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts"
+    },
+    "2312.15258": {
+        "arxivId": "2312.15258",
+        "title": "Human101: Training 100+FPS Human Gaussians in 100s from 1 View"
+    },
+    "2312.15059": {
+        "arxivId": "2312.15059",
+        "title": "Deformable 3D Gaussian Splatting for Animatable Human Avatars"
+    },
+    "2312.00583": {
+        "arxivId": "2312.00583",
+        "title": "DeformGS: Scene Flow in Highly Deformable Scenes for Deformable Object Manipulation"
+    },
+    "2404.06270": {
+        "arxivId": "2404.06270",
+        "title": "3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis"
+    },
+    "2403.11247": {
+        "arxivId": "2403.11247",
+        "title": "Compact 3D Gaussian Splatting For Dense Visual SLAM"
+    },
+    "2401.11535": {
+        "arxivId": "2401.11535",
+        "title": "Deformable Endoscopic Tissues Reconstruction with Gaussian Splatting"
+    },
+    "2312.09242": {
+        "arxivId": "2312.09242",
+        "title": "Text2Immersion: Generative Immersive Scene with 3D Gaussians"
+    },
+    "2312.04820": {
+        "arxivId": "2312.04820",
+        "title": "Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting"
+    },
+    "2403.16095": {
+        "arxivId": "2403.16095",
+        "title": "CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field"
+    },
+    "2403.08321": {
+        "arxivId": "2403.08321",
+        "title": "ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation"
+    },
+    "2311.17874": {
+        "arxivId": "2311.17874",
+        "title": "FisherRF: Active View Selection and Uncertainty Quantification for Radiance Fields using Fisher Information"
+    },
+    "2403.14166": {
+        "arxivId": "2403.14166",
+        "title": "Mini-Splatting: Representing Scenes with a Constrained Number of Gaussians"
+    },
+    "2403.02751": {
+        "arxivId": "2403.02751",
+        "title": "Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps"
+    },
+    "2401.14857": {
+        "arxivId": "2401.14857",
+        "title": "LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-Time 3D Radiance Field Map Rendering"
+    },
+    "2311.16737": {
+        "arxivId": "2311.16737",
+        "title": "Point'n Move: Interactive Scene Object Manipulation on Gaussian Splatting Radiance Fields"
+    },
+    "2310.17527": {
+        "arxivId": "2310.17527",
+        "title": "Masked Space-Time Hash Encoding for Efficient Dynamic Scene Reconstruction"
+    },
+    "2403.19615": {
+        "arxivId": "2403.19615",
+        "title": "SA-GS: Scale-Adaptive Gaussian Splatting for Training-Free Anti-Aliasing"
+    },
+    "2403.07494": {
+        "arxivId": "2403.07494",
+        "title": "SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM"
+    },
+    "2404.19706": {
+        "arxivId": "2404.19706",
+        "title": "RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting"
+    },
+    "2404.06903": {
+        "arxivId": "2404.06903",
+        "title": "DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting"
+    },
+    "2403.11831": {
+        "arxivId": "2403.11831",
+        "title": "BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting"
+    },
+    "2403.10427": {
+        "arxivId": "2403.10427",
+        "title": "SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians"
+    },
+    "2402.10483": {
+        "arxivId": "2402.10483",
+        "title": "GaussianHair: Hair Modeling and Rendering with Light-aware Gaussians"
+    },
+    "2402.00525": {
+        "arxivId": "2402.00525",
+        "title": "StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time Rendering"
+    },
+    "2312.02214": {
+        "arxivId": "2312.02214",
+        "title": "FlashAvatar: High-Fidelity Digital Avatar Rendering at 300FPS"
+    },
+    "2404.03575": {
+        "arxivId": "2404.03575",
+        "title": "DreamScene: 3D Gaussian-based Text-to-3D Scene Generation via Formation Pattern Sampling"
+    },
+    "2403.19655": {
+        "arxivId": "2403.19655",
+        "title": "GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling"
+    },
+    "2403.11447": {
+        "arxivId": "2403.11447",
+        "title": "Motion-aware 3D Gaussian Splatting for Efficient Dynamic Scene Reconstruction"
+    },
+    "2403.11056": {
+        "arxivId": "2403.11056",
+        "title": "Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration"
+    },
+    "2403.09413": {
+        "arxivId": "2403.09413",
+        "title": "Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting"
+    },
+    "2312.05664": {
+        "arxivId": "2312.05664",
+        "title": "CoGS: Controllable Gaussian Splatting"
+    },
+    "2403.13327": {
+        "arxivId": "2403.13327",
+        "title": "Gaussian Splatting on the Move: Blur and Rolling Shutter Compensation for Natural Camera Motion"
+    },
+    "2403.12957": {
+        "arxivId": "2403.12957",
+        "title": "GVGEN: Text-to-3D Generation with Volumetric Representation"
+    },
+    "2403.10242": {
+        "arxivId": "2403.10242",
+        "title": "FDGaussian: Fast Gaussian Splatting from Single Image via Geometric-aware Diffusion Model"
+    },
+    "2403.09981": {
+        "arxivId": "2403.09981",
+        "title": "Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting"
+    },
+    "2311.13404": {
+        "arxivId": "2311.13404",
+        "title": "Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions"
+    },
+    "2404.06091": {
+        "arxivId": "2404.06091",
+        "title": "Hash3D: Training-free Acceleration for 3D Generation"
+    },
+    "2404.05220": {
+        "arxivId": "2404.05220",
+        "title": "StylizedGS: Controllable Stylization for 3D Gaussian Splatting"
+    },
+    "2404.01223": {
+        "arxivId": "2404.01223",
+        "title": "Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing"
+    },
+    "2403.11679": {
+        "arxivId": "2403.11679",
+        "title": "NEDS-SLAM: A Neural Explicit Dense Semantic SLAM Framework Using 3D Gaussian Splatting"
+    },
+    "2403.11324": {
+        "arxivId": "2403.11324",
+        "title": "GeoGaussian: Geometry-aware Gaussian Splatting for Scene Rendering"
+    },
+    "2403.10814": {
+        "arxivId": "2403.10814",
+        "title": "DarkGS: Learning Neural Illumination and 3D Gaussians Relighting for Robotic Exploration in the Dark"
+    },
+    "2403.05154": {
+        "arxivId": "2403.05154",
+        "title": "GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting"
+    },
+    "2403.04116": {
+        "arxivId": "2403.04116",
+        "title": "Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis"
+    },
+    "2312.16047": {
+        "arxivId": "2312.16047",
+        "title": "2D-Guided 3D Gaussian Segmentation"
+    },
+    "2405.17872": {
+        "arxivId": "2405.17872",
+        "title": "HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction"
+    },
+    "2404.04308": {
+        "arxivId": "2404.04308",
+        "title": "Visual Knowledge in the Big Model Era: Retrospect and Prospect"
+    },
+    "2404.04026": {
+        "arxivId": "2404.04026",
+        "title": "MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes"
+    },
+    "2404.03736": {
+        "arxivId": "2404.03736",
+        "title": "SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer"
+    },
+    "2404.01168": {
+        "arxivId": "2404.01168",
+        "title": "Mirror-3DGS: Incorporating Mirror Reflections into 3D Gaussian Splatting"
+    },
+    "2403.11273": {
+        "arxivId": "2403.11273",
+        "title": "BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis"
+    },
+    "2403.09434": {
+        "arxivId": "2403.09434",
+        "title": "Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians"
+    },
+    "2402.03723": {
+        "arxivId": "2402.03723",
+        "title": "Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos"
+    },
+    "2401.06116": {
+        "arxivId": "2401.06116",
+        "title": "Gaussian Shadow Casting for Neural Characters"
+    },
+    "2312.15676": {
+        "arxivId": "2312.15676",
+        "title": "Sparse-view CT Reconstruction with 3D Gaussian Volumetric Representation"
+    },
+    "2404.06926": {
+        "arxivId": "2404.06926",
+        "title": "Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting"
+    },
+    "2405.12218": {
+        "arxivId": "2405.12218",
+        "title": "Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo"
+    },
+    "2405.12110": {
+        "arxivId": "2405.12110",
+        "title": "CoR-GS: Sparse-View 3D Gaussian Splatting via Co-Regularization"
+    },
+    "2403.20159": {
+        "arxivId": "2403.20159",
+        "title": "HGS-Mapping: Online Dense Mapping Using Hybrid Gaussian Representation in Urban Scenes"
+    },
+    "2403.20079": {
+        "arxivId": "2403.20079",
+        "title": "SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior"
+    },
+    "2403.18118": {
+        "arxivId": "2403.18118",
+        "title": "EgoLifter: Open-world 3D Segmentation for Egocentric Perception"
+    },
+    "2403.12535": {
+        "arxivId": "2403.12535",
+        "title": "High-Fidelity SLAM Using Gaussian Splatting with Rendering-Guided Densification and Regularized Optimization"
+    },
+    "2403.09875": {
+        "arxivId": "2403.09875",
+        "title": "Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting"
+    },
+    "2403.08498": {
+        "arxivId": "2403.08498",
+        "title": "Gaussian Splatting in Style"
+    },
+    "2403.04926": {
+        "arxivId": "2403.04926",
+        "title": "BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling"
+    },
+    "2401.14032": {
+        "arxivId": "2401.14032",
+        "title": "GauU-Scene: A Scene Reconstruction Benchmark on Large Scale 3D Reconstruction Dataset Using Gaussian Splatting"
+    },
+    "2401.02281": {
+        "arxivId": "2401.02281",
+        "title": "PEGASUS: Physically Enhanced Gaussian Splatting Simulation System for 6DOF Object Pose Dataset Generation"
+    },
+    "2404.11613": {
+        "arxivId": "2404.11613",
+        "title": "InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior"
+    },
+    "2404.07977": {
+        "arxivId": "2404.07977",
+        "title": "Gaga: Group Any Gaussians via 3D-aware Memory Bank"
+    },
+    "2403.08551": {
+        "arxivId": "2403.08551",
+        "title": "GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting"
+    },
+    "2407.05254": {
+        "arxivId": "2407.05254",
+        "title": "GaussReg: Fast 3D Registration with Gaussian Splatting"
+    },
+    "2404.15264": {
+        "arxivId": "2404.15264",
+        "title": "TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting"
+    },
+    "2403.19586": {
+        "arxivId": "2403.19586",
+        "title": "TOGS: Gaussian Splatting with Temporal Opacity Offset for Real-Time 4D DSA Rendering"
+    },
+    "2403.15124": {
+        "arxivId": "2403.15124",
+        "title": "EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting"
+    },
+    "2403.11625": {
+        "arxivId": "2403.11625",
+        "title": "GaussNav: Gaussian Splatting for Visual Navigation"
+    },
+    "2403.09143": {
+        "arxivId": "2403.09143",
+        "title": "A New Split Algorithm for 3D Gaussian Splatting"
+    },
+    "2312.09031": {
+        "arxivId": "2312.09031",
+        "title": "iComMa: Inverting 3D Gaussian Splatting for Camera Pose Estimation via Comparing and Matching"
+    },
+    "2406.18533": {
+        "arxivId": "2406.18533",
+        "title": "On Scaling Up 3D Gaussian Splatting Training"
+    },
+    "2405.16923": {
+        "arxivId": "2405.16923",
+        "title": "SA-GS: Semantic-Aware Gaussian Splatting for Large Scene Reconstruction with Geometry Constrain"
+    },
+    "2404.13679": {
+        "arxivId": "2404.13679",
+        "title": "GScream: Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal"
+    },
+    "2404.10625": {
+        "arxivId": "2404.10625",
+        "title": "Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks"
+    },
+    "2407.09822": {
+        "arxivId": "2407.09822",
+        "title": "VividDreamer: Invariant Score Distillation For Hyper-Realistic Text-to-3D Generation"
+    },
+    "2406.02370": {
+        "arxivId": "2406.02370",
+        "title": "Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning"
+    },
+    "2404.08966": {
+        "arxivId": "2404.08966",
+        "title": "LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field"
+    },
+    "2404.06128": {
+        "arxivId": "2404.06128",
+        "title": "Gaussian Pancakes: Geometrically-Regularized 3D Gaussian Splatting for Realistic Endoscopic Reconstruction"
+    },
+    "2403.14370": {
+        "arxivId": "2403.14370",
+        "title": "SyncTweedies: A General Generative Framework Based on Synchronized Diffusions"
+    },
+    "2404.07950": {
+        "arxivId": "2404.07950",
+        "title": "Reinforcement Learning with Generalizable Gaussian Splatting"
+    },
+    "2407.04237": {
+        "arxivId": "2407.04237",
+        "title": "GSD: View-Guided Gaussian Splatting Diffusion for 3D Reconstruction"
+    },
+    "2404.04908": {
+        "arxivId": "2404.04908",
+        "title": "Dual-Camera Smooth Zoom on Mobile Phones"
+    }
+}

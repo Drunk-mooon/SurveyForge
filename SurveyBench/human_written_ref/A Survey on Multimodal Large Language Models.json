@@ -1,0 +1,810 @@
+{
+    "1706.03762": {
+        "arxivId": "1706.03762",
+        "title": "Attention is All you Need"
+    },
+    "1405.0312": {
+        "arxivId": "1405.0312",
+        "title": "Microsoft COCO: Common Objects in Context"
+    },
+    "2005.14165": {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+    },
+    "2103.00020": {
+        "arxivId": "2103.00020",
+        "title": "Learning Transferable Visual Models From Natural Language Supervision"
+    },
+    "2006.11239": {
+        "arxivId": "2006.11239",
+        "title": "Denoising Diffusion Probabilistic Models"
+    },
+    "2112.10752": {
+        "arxivId": "2112.10752",
+        "title": "High-Resolution Image Synthesis with Latent Diffusion Models"
+    },
+    "2005.12872": {
+        "arxivId": "2005.12872",
+        "title": "End-to-End Object Detection with Transformers"
+    },
+    "2203.02155": {
+        "arxivId": "2203.02155",
+        "title": "Training language models to follow instructions with human feedback"
+    },
+    "2302.13971": {
+        "arxivId": "2302.13971",
+        "title": "LLaMA: Open and Efficient Foundation Language Models"
+    },
+    "2303.08774": {
+        "arxivId": "2303.08774",
+        "title": "GPT-4 Technical Report"
+    },
+    "2307.09288": {
+        "arxivId": "2307.09288",
+        "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models"
+    },
+    "2201.11903": {
+        "arxivId": "2201.11903",
+        "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models"
+    },
+    "1412.2306": {
+        "arxivId": "1412.2306",
+        "title": "Deep visual-semantic alignments for generating image descriptions"
+    },
+    "1602.07332": {
+        "arxivId": "1602.07332",
+        "title": "Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations"
+    },
+    "1505.00468": {
+        "arxivId": "1505.00468",
+        "title": "VQA: Visual Question Answering"
+    },
+    "2304.02643": {
+        "arxivId": "2304.02643",
+        "title": "Segment Anything"
+    },
+    "1411.5726": {
+        "arxivId": "1411.5726",
+        "title": "CIDEr: Consensus-based image description evaluation"
+    },
+    "1707.07998": {
+        "arxivId": "1707.07998",
+        "title": "Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering"
+    },
+    "2205.11916": {
+        "arxivId": "2205.11916",
+        "title": "Large Language Models are Zero-Shot Reasoners"
+    },
+    "2109.01652": {
+        "arxivId": "2109.01652",
+        "title": "Finetuned Language Models Are Zero-Shot Learners"
+    },
+    "2201.12086": {
+        "arxivId": "2201.12086",
+        "title": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation"
+    },
+    "2301.12597": {
+        "arxivId": "2301.12597",
+        "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models"
+    },
+    "2210.11416": {
+        "arxivId": "2210.11416",
+        "title": "Scaling Instruction-Finetuned Language Models"
+    },
+    "2204.14198": {
+        "arxivId": "2204.14198",
+        "title": "Flamingo: a Visual Language Model for Few-Shot Learning"
+    },
+    "2304.08485": {
+        "arxivId": "2304.08485",
+        "title": "Visual Instruction Tuning"
+    },
+    "2210.08402": {
+        "arxivId": "2210.08402",
+        "title": "LAION-5B: An open large-scale dataset for training next generation image-text models"
+    },
+    "2305.18290": {
+        "arxivId": "2305.18290",
+        "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model"
+    },
+    "1505.04870": {
+        "arxivId": "1505.04870",
+        "title": "Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models"
+    },
+    "2303.18223": {
+        "arxivId": "2303.18223",
+        "title": "A Survey of Large Language Models"
+    },
+    "2304.07193": {
+        "arxivId": "2304.07193",
+        "title": "DINOv2: Learning Robust Visual Features without Supervision"
+    },
+    "2101.03961": {
+        "arxivId": "2101.03961",
+        "title": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity"
+    },
+    "2212.10560": {
+        "arxivId": "2212.10560",
+        "title": "Self-Instruct: Aligning Language Models with Self-Generated Instructions"
+    },
+    "2107.07651": {
+        "arxivId": "2107.07651",
+        "title": "Align before Fuse: Vision and Language Representation Learning with Momentum Distillation"
+    },
+    "2009.01325": {
+        "arxivId": "2009.01325",
+        "title": "Learning to summarize from human feedback"
+    },
+    "2110.08207": {
+        "arxivId": "2110.08207",
+        "title": "Multitask Prompted Training Enables Zero-Shot Task Generalization"
+    },
+    "2310.03744": {
+        "arxivId": "2310.03744",
+        "title": "Improved Baselines with Visual Instruction Tuning"
+    },
+    "2305.06500": {
+        "arxivId": "2305.06500",
+        "title": "InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning"
+    },
+    "2304.10592": {
+        "arxivId": "2304.10592",
+        "title": "MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models"
+    },
+    "1312.6211": {
+        "arxivId": "1312.6211",
+        "title": "An Empirical Investigation of Catastrophic Forgeting in Gradient-Based Neural Networks"
+    },
+    "1909.08593": {
+        "arxivId": "1909.08593",
+        "title": "Fine-Tuning Language Models from Human Preferences"
+    },
+    "2302.04761": {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+    },
+    "2303.03378": {
+        "arxivId": "2303.03378",
+        "title": "PaLM-E: An Embodied Multimodal Language Model"
+    },
+    "2111.02114": {
+        "arxivId": "2111.02114",
+        "title": "LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs"
+    },
+    "2112.09332": {
+        "arxivId": "2112.09332",
+        "title": "WebGPT: Browser-assisted question-answering with human feedback"
+    },
+    "2203.03605": {
+        "arxivId": "2203.03605",
+        "title": "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection"
+    },
+    "2104.08786": {
+        "arxivId": "2104.08786",
+        "title": "Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity"
+    },
+    "2102.08981": {
+        "arxivId": "2102.08981",
+        "title": "Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts"
+    },
+    "2309.16609": {
+        "arxivId": "2309.16609",
+        "title": "Qwen Technical Report"
+    },
+    "2205.10625": {
+        "arxivId": "2205.10625",
+        "title": "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models"
+    },
+    "1811.10830": {
+        "arxivId": "1811.10830",
+        "title": "From Recognition to Cognition: Visual Commonsense Reasoning"
+    },
+    "2202.03052": {
+        "arxivId": "2202.03052",
+        "title": "OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework"
+    },
+    "1906.10770": {
+        "arxivId": "1906.10770",
+        "title": "Deep Modular Co-Attention Networks for Visual Question Answering"
+    },
+    "1709.05522": {
+        "arxivId": "1709.05522",
+        "title": "AISHELL-1: An open-source Mandarin speech corpus and a speech recognition baseline"
+    },
+    "2209.09513": {
+        "arxivId": "2209.09513",
+        "title": "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering"
+    },
+    "2304.14178": {
+        "arxivId": "2304.14178",
+        "title": "mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality"
+    },
+    "2108.10904": {
+        "arxivId": "2108.10904",
+        "title": "SimVLM: Simple Visual Language Model Pretraining with Weak Supervision"
+    },
+    "2308.12966": {
+        "arxivId": "2308.12966",
+        "title": "Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities"
+    },
+    "2303.17580": {
+        "arxivId": "2303.17580",
+        "title": "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face"
+    },
+    "2106.13884": {
+        "arxivId": "2106.13884",
+        "title": "Multimodal Few-Shot Learning with Frozen Language Models"
+    },
+    "2303.16199": {
+        "arxivId": "2303.16199",
+        "title": "LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention"
+    },
+    "2305.05665": {
+        "arxivId": "2305.05665",
+        "title": "ImageBind One Embedding Space to Bind Them All"
+    },
+    "2306.02858": {
+        "arxivId": "2306.02858",
+        "title": "Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding"
+    },
+    "2303.04671": {
+        "arxivId": "2303.04671",
+        "title": "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models"
+    },
+    "2307.06281": {
+        "arxivId": "2307.06281",
+        "title": "MMBench: Is Your Multi-modal Model an All-around Player?"
+    },
+    "2211.07636": {
+        "arxivId": "2211.07636",
+        "title": "EVA: Exploring the Limits of Masked Visual Representation Learning at Scale"
+    },
+    "2204.00598": {
+        "arxivId": "2204.00598",
+        "title": "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language"
+    },
+    "2212.07143": {
+        "arxivId": "2212.07143",
+        "title": "Reproducible Scaling Laws for Contrastive Language-Image Learning"
+    },
+    "2306.14824": {
+        "arxivId": "2306.14824",
+        "title": "Kosmos-2: Grounding Multimodal Large Language Models to the World"
+    },
+    "2102.02779": {
+        "arxivId": "2102.02779",
+        "title": "Unifying Vision-and-Language Tasks via Text Generation"
+    },
+    "2304.03277": {
+        "arxivId": "2304.03277",
+        "title": "Instruction Tuning with GPT-4"
+    },
+    "2306.13394": {
+        "arxivId": "2306.13394",
+        "title": "MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models"
+    },
+    "2304.15010": {
+        "arxivId": "2304.15010",
+        "title": "LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model"
+    },
+    "2305.03726": {
+        "arxivId": "2305.03726",
+        "title": "Otter: A Multi-Modal Model with In-Context Instruction Tuning"
+    },
+    "2309.17421": {
+        "arxivId": "2309.17421",
+        "title": "The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)"
+    },
+    "2306.15195": {
+        "arxivId": "2306.15195",
+        "title": "Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic"
+    },
+    "2210.03493": {
+        "arxivId": "2210.03493",
+        "title": "Automatic Chain of Thought Prompting in Large Language Models"
+    },
+    "2305.10355": {
+        "arxivId": "2305.10355",
+        "title": "Evaluating Object Hallucination in Large Vision-Language Models"
+    },
+    "1812.08658": {
+        "arxivId": "1812.08658",
+        "title": "nocaps: novel object captioning at scale"
+    },
+    "2306.00890": {
+        "arxivId": "2306.00890",
+        "title": "LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day"
+    },
+    "2311.16502": {
+        "arxivId": "2311.16502",
+        "title": "MMMU: A Massive Multi-Discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI"
+    },
+    "2308.02490": {
+        "arxivId": "2308.02490",
+        "title": "MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities"
+    },
+    "2211.10435": {
+        "arxivId": "2211.10435",
+        "title": "PAL: Program-aided Language Models"
+    },
+    "1812.05252": {
+        "arxivId": "1812.05252",
+        "title": "Dynamic Fusion With Intra- and Inter-Modality Attention Flow for Visual Question Answering"
+    },
+    "2109.05014": {
+        "arxivId": "2109.05014",
+        "title": "An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA"
+    },
+    "2305.11175": {
+        "arxivId": "2305.11175",
+        "title": "VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks"
+    },
+    "2305.06355": {
+        "arxivId": "2305.06355",
+        "title": "VideoChat: Chat-Centric Video Understanding"
+    },
+    "2311.12793": {
+        "arxivId": "2311.12793",
+        "title": "ShareGPT4V: Improving Large Multi-Modal Models with Better Captions"
+    },
+    "2307.16125": {
+        "arxivId": "2307.16125",
+        "title": "SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension"
+    },
+    "1809.02156": {
+        "arxivId": "1809.02156",
+        "title": "Object Hallucination in Image Captioning"
+    },
+    "2306.05424": {
+        "arxivId": "2306.05424",
+        "title": "Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models"
+    },
+    "2303.11381": {
+        "arxivId": "2303.11381",
+        "title": "MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action"
+    },
+    "2303.15389": {
+        "arxivId": "2303.15389",
+        "title": "EVA-CLIP: Improved Training Techniques for CLIP at Scale"
+    },
+    "2211.11559": {
+        "arxivId": "2211.11559",
+        "title": "Visual Programming: Compositional visual reasoning without training"
+    },
+    "1901.06706": {
+        "arxivId": "1901.06706",
+        "title": "Visual Entailment: A Novel Task for Fine-Grained Image Understanding"
+    },
+    "2311.03079": {
+        "arxivId": "2311.03079",
+        "title": "CogVLM: Visual Expert for Pretrained Language Models"
+    },
+    "2308.01390": {
+        "arxivId": "2308.01390",
+        "title": "OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models"
+    },
+    "2302.00923": {
+        "arxivId": "2302.00923",
+        "title": "Multimodal Chain-of-Thought Reasoning in Language Models"
+    },
+    "2309.05519": {
+        "arxivId": "2309.05519",
+        "title": "NExT-GPT: Any-to-Any Multimodal LLM"
+    },
+    "1808.10583": {
+        "arxivId": "1808.10583",
+        "title": "AISHELL-2: Transforming Mandarin ASR Research Into Industrial Scale"
+    },
+    "2310.02255": {
+        "arxivId": "2310.02255",
+        "title": "MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts"
+    },
+    "2212.12017": {
+        "arxivId": "2212.12017",
+        "title": "OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization"
+    },
+    "2304.09842": {
+        "arxivId": "2304.09842",
+        "title": "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models"
+    },
+    "2308.00692": {
+        "arxivId": "2308.00692",
+        "title": "LISA: Reasoning Segmentation via Large Language Model"
+    },
+    "2305.16355": {
+        "arxivId": "2305.16355",
+        "title": "PandaGPT: One Model To Instruction-Follow Them All"
+    },
+    "1510.01431": {
+        "arxivId": "1510.01431",
+        "title": "SentiCap: Generating Image Descriptions with Sentiments"
+    },
+    "2305.04790": {
+        "arxivId": "2305.04790",
+        "title": "MultiModal-GPT: A Vision and Language Model for Dialogue with Humans"
+    },
+    "2305.11000": {
+        "arxivId": "2305.11000",
+        "title": "SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities"
+    },
+    "2209.14610": {
+        "arxivId": "2209.14610",
+        "title": "Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning"
+    },
+    "2310.07704": {
+        "arxivId": "2310.07704",
+        "title": "Ferret: Refer and Ground Anything Anywhere at Any Granularity"
+    },
+    "2306.12925": {
+        "arxivId": "2306.12925",
+        "title": "AudioPaLM: A Large Language Model That Can Speak and Listen"
+    },
+    "2309.14525": {
+        "arxivId": "2309.14525",
+        "title": "Aligning Large Multimodal Models with Factually Augmented RLHF"
+    },
+    "2306.05425": {
+        "arxivId": "2306.05425",
+        "title": "MIMIC-IT: Multi-Modal In-Context Instruction Tuning"
+    },
+    "2307.03601": {
+        "arxivId": "2307.03601",
+        "title": "GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest"
+    },
+    "2102.09542": {
+        "arxivId": "2102.09542",
+        "title": "Slake: A Semantically-Labeled Knowledge-Enhanced Dataset For Medical Visual Question Answering"
+    },
+    "2307.12981": {
+        "arxivId": "2307.12981",
+        "title": "3D-LLM: Injecting the 3D World into Large Language Models"
+    },
+    "2305.18752": {
+        "arxivId": "2305.18752",
+        "title": "GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction"
+    },
+    "2311.06607": {
+        "arxivId": "2311.06607",
+        "title": "Monkey: Image Resolution and Text Label are Important Things for Large Multi-Modal Models"
+    },
+    "2306.14565": {
+        "arxivId": "2306.14565",
+        "title": "Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning"
+    },
+    "2305.15021": {
+        "arxivId": "2305.15021",
+        "title": "EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought"
+    },
+    "2311.07575": {
+        "arxivId": "2311.07575",
+        "title": "SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models"
+    },
+    "2307.15189": {
+        "arxivId": "2307.15189",
+        "title": "Med-Flamingo: a Multimodal Medical Few-shot Learner"
+    },
+    "2303.17395": {
+        "arxivId": "2303.17395",
+        "title": "WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset for Audio-Language Multimodal Research"
+    },
+    "1711.06475": {
+        "arxivId": "1711.06475",
+        "title": "AI Challenger : A Large-scale Dataset for Going Deeper in Image Understanding"
+    },
+    "2003.10286": {
+        "arxivId": "2003.10286",
+        "title": "PathVQA: 30000+ Questions for Medical Visual Question Answering"
+    },
+    "2303.02151": {
+        "arxivId": "2303.02151",
+        "title": "Prompt, Generate, Then Cache: Cascade of Foundation Models Makes Strong Few-Shot Learners"
+    },
+    "2403.09611": {
+        "arxivId": "2403.09611",
+        "title": "MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training"
+    },
+    "2205.12255": {
+        "arxivId": "2205.12255",
+        "title": "TALM: Tool Augmented Language Models"
+    },
+    "2306.06687": {
+        "arxivId": "2306.06687",
+        "title": "LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark"
+    },
+    "2306.09093": {
+        "arxivId": "2306.09093",
+        "title": "Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration"
+    },
+    "2306.09265": {
+        "arxivId": "2306.09265",
+        "title": "LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models"
+    },
+    "2305.11834": {
+        "arxivId": "2305.11834",
+        "title": "Pengi: An Audio Language Model for Audio Tasks"
+    },
+    "2309.07915": {
+        "arxivId": "2309.07915",
+        "title": "MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning"
+    },
+    "2311.16922": {
+        "arxivId": "2311.16922",
+        "title": "Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding"
+    },
+    "2307.05222": {
+        "arxivId": "2307.05222",
+        "title": "Generative Pretraining in Multimodality"
+    },
+    "2310.00754": {
+        "arxivId": "2310.00754",
+        "title": "Analyzing and Mitigating Object Hallucination in Large Vision-Language Models"
+    },
+    "2312.13771": {
+        "arxivId": "2312.13771",
+        "title": "AppAgent: Multimodal Agents as Smartphone Users"
+    },
+    "2306.04387": {
+        "arxivId": "2306.04387",
+        "title": "M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning"
+    },
+    "2212.10773": {
+        "arxivId": "2212.10773",
+        "title": "MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning"
+    },
+    "2305.16934": {
+        "arxivId": "2305.16934",
+        "title": "On Evaluating Adversarial Robustness of Large Vision-Language Models"
+    },
+    "2401.15947": {
+        "arxivId": "2401.15947",
+        "title": "MoE-LLaVA: Mixture of Experts for Large Vision-Language Models"
+    },
+    "2312.00849": {
+        "arxivId": "2312.00849",
+        "title": "RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-Grained Correctional Human Feedback"
+    },
+    "2311.03356": {
+        "arxivId": "2311.03356",
+        "title": "GLaMM: Pixel Grounding Large Multimodal Model"
+    },
+    "2309.03905": {
+        "arxivId": "2309.03905",
+        "title": "ImageBind-LLM: Multi-modality Instruction Tuning"
+    },
+    "2308.16911": {
+        "arxivId": "2308.16911",
+        "title": "PointLLM: Empowering Large Language Models to Understand Point Clouds"
+    },
+    "2305.10415": {
+        "arxivId": "2305.10415",
+        "title": "PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering"
+    },
+    "2310.14566": {
+        "arxivId": "2310.14566",
+        "title": "HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models"
+    },
+    "2212.10846": {
+        "arxivId": "2212.10846",
+        "title": "From Images to Textual Prompts: Zero-shot Visual Question Answering with Frozen Large Language Models"
+    },
+    "2305.04160": {
+        "arxivId": "2305.04160",
+        "title": "X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages"
+    },
+    "2303.06594": {
+        "arxivId": "2303.06594",
+        "title": "ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions"
+    },
+    "2307.02499": {
+        "arxivId": "2307.02499",
+        "title": "mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding"
+    },
+    "2305.14167": {
+        "arxivId": "2305.14167",
+        "title": "DetGPT: Detect What You Need via Reasoning"
+    },
+    "2211.11682": {
+        "arxivId": "2211.11682",
+        "title": "PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning"
+    },
+    "2309.16058": {
+        "arxivId": "2309.16058",
+        "title": "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model"
+    },
+    "2402.11684": {
+        "arxivId": "2402.11684",
+        "title": "ALLaVA: Harnessing GPT4V-Synthesized Data for Lite Vision-Language Models"
+    },
+    "2211.16198": {
+        "arxivId": "2211.16198",
+        "title": "SuS-X: Training-Free Name-Only Transfer of Vision-Language Models"
+    },
+    "2310.16045": {
+        "arxivId": "2310.16045",
+        "title": "Woodpecker: Hallucination Correction for Multimodal Large Language Models"
+    },
+    "2311.07574": {
+        "arxivId": "2311.07574",
+        "title": "To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning"
+    },
+    "2307.14539": {
+        "arxivId": "2307.14539",
+        "title": "Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models"
+    },
+    "2305.15023": {
+        "arxivId": "2305.15023",
+        "title": "Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models"
+    },
+    "2305.02677": {
+        "arxivId": "2305.02677",
+        "title": "Caption Anything: Interactive Image Description with Diverse Multimodal Controls"
+    },
+    "2311.07397": {
+        "arxivId": "2311.07397",
+        "title": "An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation"
+    },
+    "2311.05332": {
+        "arxivId": "2311.05332",
+        "title": "On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving"
+    },
+    "2307.02469": {
+        "arxivId": "2307.02469",
+        "title": "What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?"
+    },
+    "2402.03766": {
+        "arxivId": "2402.03766",
+        "title": "MobileVLM V2: Faster and Stronger Baseline for Vision Language Model"
+    },
+    "2312.14135": {
+        "arxivId": "2312.14135",
+        "title": "V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs"
+    },
+    "2202.06767": {
+        "arxivId": "2202.06767",
+        "title": "Wukong: A 100 Million Large-scale Chinese Cross-modal Pre-training Benchmark"
+    },
+    "2403.12895": {
+        "arxivId": "2403.12895",
+        "title": "mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding"
+    },
+    "2311.12871": {
+        "arxivId": "2311.12871",
+        "title": "An Embodied Generalist Agent in 3D World"
+    },
+    "2310.16436": {
+        "arxivId": "2310.16436",
+        "title": "DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models"
+    },
+    "2402.12226": {
+        "arxivId": "2402.12226",
+        "title": "AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling"
+    },
+    "2310.05126": {
+        "arxivId": "2310.05126",
+        "title": "UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model"
+    },
+    "2308.15126": {
+        "arxivId": "2308.15126",
+        "title": "Evaluation and Analysis of Hallucination in Large Vision-Language Models"
+    },
+    "2401.16158": {
+        "arxivId": "2401.16158",
+        "title": "Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception"
+    },
+    "2403.04473": {
+        "arxivId": "2403.04473",
+        "title": "TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document"
+    },
+    "2309.09971": {
+        "arxivId": "2309.09971",
+        "title": "MindAgent: Emergent Gaming Interaction"
+    },
+    "2308.12067": {
+        "arxivId": "2308.12067",
+        "title": "InstructionGPT-4: A 200-Instruction Paradigm for Fine-Tuning MiniGPT-4"
+    },
+    "2312.12436": {
+        "arxivId": "2312.12436",
+        "title": "A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise"
+    },
+    "2312.10665": {
+        "arxivId": "2312.10665",
+        "title": "Silkie: Preference Distillation for Large Visual Language Models"
+    },
+    "2312.10032": {
+        "arxivId": "2312.10032",
+        "title": "Osprey: Pixel Understanding with Visual Instruction Tuning"
+    },
+    "2305.16103": {
+        "arxivId": "2305.16103",
+        "title": "ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst"
+    },
+    "2305.14705": {
+        "arxivId": "2305.14705",
+        "title": "Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models"
+    },
+    "2310.01779": {
+        "arxivId": "2310.01779",
+        "title": "HallE-Switch: Rethinking and Controlling Object Existence Hallucinations in Large Vision Language Models for Detailed Caption"
+    },
+    "2305.14985": {
+        "arxivId": "2305.14985",
+        "title": "IdealGPT: Iteratively Decomposing Vision and Language Reasoning via Large Language Models"
+    },
+    "2311.18651": {
+        "arxivId": "2311.18651",
+        "title": "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning"
+    },
+    "2308.12038": {
+        "arxivId": "2308.12038",
+        "title": "Large Multilingual Models Pivot Zero-Shot Multimodal Learning across Languages"
+    },
+    "2311.16103": {
+        "arxivId": "2311.16103",
+        "title": "Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models"
+    },
+    "2310.00582": {
+        "arxivId": "2310.00582",
+        "title": "Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs"
+    },
+    "2312.06968": {
+        "arxivId": "2312.06968",
+        "title": "Hallucination Augmented Contrastive Learning for Multimodal Large Language Model"
+    },
+    "2309.09958": {
+        "arxivId": "2309.09958",
+        "title": "An Empirical Study of Scaling Instruct-Tuned Large Multimodal Models"
+    },
+    "2305.02317": {
+        "arxivId": "2305.02317",
+        "title": "Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings"
+    },
+    "2311.01477": {
+        "arxivId": "2311.01477",
+        "title": "FAITHSCORE: Evaluating Hallucinations in Large Vision-Language Models"
+    },
+    "2309.15564": {
+        "arxivId": "2309.15564",
+        "title": "Jointly Training Large Autoregressive Multimodal Models"
+    },
+    "2304.07919": {
+        "arxivId": "2304.07919",
+        "title": "Chain of Thought Prompt Tuning in Vision Language Models"
+    },
+    "2401.12915": {
+        "arxivId": "2401.12915",
+        "title": "Red Teaming Visual Language Models"
+    },
+    "2311.18248": {
+        "arxivId": "2311.18248",
+        "title": "mPLUG-PaperOwl: Scientific Diagram Analysis with the Multimodal Large Language Model"
+    },
+    "2312.02153": {
+        "arxivId": "2312.02153",
+        "title": "Aligning and Prompting Everything All at Once for Universal Visual Perception"
+    },
+    "2311.01487": {
+        "arxivId": "2311.01487",
+        "title": "What Makes for Good Visual Instructions? Synthesizing Complex Visual Reasoning Instructions for Visual Instruction Tuning"
+    },
+    "2308.07891": {
+        "arxivId": "2308.07891",
+        "title": "Link-Context Learning for Multimodal LLMs"
+    },
+    "2401.06395": {
+        "arxivId": "2401.06395",
+        "title": "ModaVerse: Efficiently Transforming Modalities with LLMs"
+    },
+    "2312.07553": {
+        "arxivId": "2312.07553",
+        "title": "Hijacking Context in Large Multi-modal Models"
+    },
+    "2312.02520": {
+        "arxivId": "2312.02520",
+        "title": "Towards More Unified In-Context Visual Understanding"
+    },
+    "2305.13903": {
+        "arxivId": "2305.13903",
+        "title": "Let's Think Frame by Frame: Evaluating Video Chain of Thought with Video Infilling and Prediction"
+    }
+}

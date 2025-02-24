@@ -29,3 +29,24 @@ At this stage, this is the best way for us to showcase the capabilities of Surve
 ## SurveyBench
 SurveyBench consists of approximately 100 human-written survey papers across 10 distinct topics, carefully curated by doctoral-level researchers to ensure thematic consistency and academic rigor.
 
+You can evaluate the reference coverage by:
+
+```
+cd SurveyBench && python test.py --is_human_eval
+```
+Note set `is_human_eval` True for human survey evaluation, False for generated surveys.
+
+If you want to evaluate your method on SurveyBench, please follow the format:
+
+```
+generated_surveys
+|-- 3D Gaussian Splatting
+    |-- exp_1
+        |-- ref.json
+    |-- exp_2
+        |-- ref.json
+...
+|-- Graph Neural Networks
+...
+
+```

@@ -1,0 +1,694 @@
+{
+    "2005.14165": {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+    },
+    "1707.06347": {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+    },
+    "1509.02971": {
+        "arxivId": "1509.02971",
+        "title": "Continuous control with deep reinforcement learning"
+    },
+    "2302.13971": {
+        "arxivId": "2302.13971",
+        "title": "LLaMA: Open and Efficient Foundation Language Models"
+    },
+    "cs/9605103": {
+        "arxivId": "cs/9605103",
+        "title": "Reinforcement Learning: A Survey"
+    },
+    "2303.08774": {
+        "arxivId": "2303.08774",
+        "title": "GPT-4 Technical Report"
+    },
+    "2307.09288": {
+        "arxivId": "2307.09288",
+        "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models"
+    },
+    "1801.01290": {
+        "arxivId": "1801.01290",
+        "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor"
+    },
+    "2201.11903": {
+        "arxivId": "2201.11903",
+        "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models"
+    },
+    "2107.03374": {
+        "arxivId": "2107.03374",
+        "title": "Evaluating Large Language Models Trained on Code"
+    },
+    "2205.11916": {
+        "arxivId": "2205.11916",
+        "title": "Large Language Models are Zero-Shot Reasoners"
+    },
+    "2203.11171": {
+        "arxivId": "2203.11171",
+        "title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models"
+    },
+    "2303.18223": {
+        "arxivId": "2303.18223",
+        "title": "A Survey of Large Language Models"
+    },
+    "2202.03629": {
+        "arxivId": "2202.03629",
+        "title": "Survey of Hallucination in Natural Language Generation"
+    },
+    "2210.03629": {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+    },
+    "2204.01691": {
+        "arxivId": "2204.01691",
+        "title": "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances"
+    },
+    "1701.07274": {
+        "arxivId": "1701.07274",
+        "title": "Deep Reinforcement Learning: An Overview"
+    },
+    "2302.04761": {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+    },
+    "2304.03442": {
+        "arxivId": "2304.03442",
+        "title": "Generative Agents: Interactive Simulacra of Human Behavior"
+    },
+    "2305.10601": {
+        "arxivId": "2305.10601",
+        "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models"
+    },
+    "2112.09332": {
+        "arxivId": "2112.09332",
+        "title": "WebGPT: Browser-assisted question-answering with human feedback"
+    },
+    "2303.17651": {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+    },
+    "2201.07207": {
+        "arxivId": "2201.07207",
+        "title": "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents"
+    },
+    "2307.03109": {
+        "arxivId": "2307.03109",
+        "title": "A Survey on Evaluation of Large Language Models"
+    },
+    "2207.05608": {
+        "arxivId": "2207.05608",
+        "title": "Inner Monologue: Embodied Reasoning through Planning with Language Models"
+    },
+    "2303.11366": {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+    },
+    "2303.17580": {
+        "arxivId": "2303.17580",
+        "title": "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face"
+    },
+    "2208.03299": {
+        "arxivId": "2208.03299",
+        "title": "Few-shot Learning with Retrieval Augmented Language Models"
+    },
+    "2305.16291": {
+        "arxivId": "2305.16291",
+        "title": "Voyager: An Open-Ended Embodied Agent with Large Language Models"
+    },
+    "2209.11302": {
+        "arxivId": "2209.11302",
+        "title": "ProgPrompt: Generating Situated Robot Task Plans using Large Language Models"
+    },
+    "2301.12652": {
+        "arxivId": "2301.12652",
+        "title": "REPLUG: Retrieval-Augmented Black-Box Language Models"
+    },
+    "2212.10403": {
+        "arxivId": "2212.10403",
+        "title": "Towards Reasoning in Large Language Models: A Survey"
+    },
+    "2304.13712": {
+        "arxivId": "2304.13712",
+        "title": "Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond"
+    },
+    "2307.16789": {
+        "arxivId": "2307.16789",
+        "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs"
+    },
+    "2308.00352": {
+        "arxivId": "2308.00352",
+        "title": "MetaGPT: Meta Programming for Multi-Agent Collaborative Framework"
+    },
+    "2308.08155": {
+        "arxivId": "2308.08155",
+        "title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework"
+    },
+    "2305.14325": {
+        "arxivId": "2305.14325",
+        "title": "Improving Factuality and Reasoning in Language Models through Multiagent Debate"
+    },
+    "2209.06899": {
+        "arxivId": "2209.06899",
+        "title": "Out of One, Many: Using Language Models to Simulate Human Samples"
+    },
+    "2308.09687": {
+        "arxivId": "2308.09687",
+        "title": "Graph of Thoughts: Solving Elaborate Problems with Large Language Models"
+    },
+    "2103.14023": {
+        "arxivId": "2103.14023",
+        "title": "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting"
+    },
+    "2305.15334": {
+        "arxivId": "2305.15334",
+        "title": "Gorilla: Large Language Model Connected with Massive APIs"
+    },
+    "2303.08128": {
+        "arxivId": "2303.08128",
+        "title": "ViperGPT: Visual Inference via Python Execution for Reasoning"
+    },
+    "2305.14992": {
+        "arxivId": "2305.14992",
+        "title": "Reasoning with Language Model is Planning with World Model"
+    },
+    "2303.11381": {
+        "arxivId": "2303.11381",
+        "title": "MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action"
+    },
+    "2302.07842": {
+        "arxivId": "2302.07842",
+        "title": "Augmented Language Models: a Survey"
+    },
+    "2207.01206": {
+        "arxivId": "2207.01206",
+        "title": "WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"
+    },
+    "2304.11477": {
+        "arxivId": "2304.11477",
+        "title": "LLM+P: Empowering Large Language Models with Optimal Planning Proficiency"
+    },
+    "2212.04088": {
+        "arxivId": "2212.04088",
+        "title": "LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models"
+    },
+    "2308.07201": {
+        "arxivId": "2308.07201",
+        "title": "ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate"
+    },
+    "2304.05335": {
+        "arxivId": "2304.05335",
+        "title": "Toxicity in ChatGPT: Analyzing Persona-assigned Language Models"
+    },
+    "2302.01560": {
+        "arxivId": "2302.01560",
+        "title": "Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents"
+    },
+    "2303.17491": {
+        "arxivId": "2303.17491",
+        "title": "Language Models can Solve Computer Tasks"
+    },
+    "2303.17760": {
+        "arxivId": "2303.17760",
+        "title": "CAMEL: Communicative Agents for \"Mind\" Exploration of Large Scale Language Model Society"
+    },
+    "2208.10264": {
+        "arxivId": "2208.10264",
+        "title": "Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies"
+    },
+    "2307.13854": {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents"
+    },
+    "2307.12966": {
+        "arxivId": "2307.12966",
+        "title": "Aligning Large Language Models with Human: A Survey"
+    },
+    "2306.06070": {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web"
+    },
+    "2305.19118": {
+        "arxivId": "2305.19118",
+        "title": "Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate"
+    },
+    "2304.05376": {
+        "arxivId": "2304.05376",
+        "title": "Augmenting large language models with chemistry tools"
+    },
+    "2305.05658": {
+        "arxivId": "2305.05658",
+        "title": "TidyBot: Personalized Robot Assistance with Large Language Models"
+    },
+    "2307.07924": {
+        "arxivId": "2307.07924",
+        "title": "Communicative Agents for Software Development"
+    },
+    "2208.04024": {
+        "arxivId": "2208.04024",
+        "title": "Social Simulacra: Creating Populated Prototypes for Social Computing Systems"
+    },
+    "1812.10613": {
+        "arxivId": "1812.10613",
+        "title": "Generative Adversarial User Model for Reinforcement Learning Based Recommendation System"
+    },
+    "2304.07590": {
+        "arxivId": "2304.07590",
+        "title": "Self-collaboration Code Generation via ChatGPT"
+    },
+    "2308.03688": {
+        "arxivId": "2308.03688",
+        "title": "AgentBench: Evaluating LLMs as Agents"
+    },
+    "2305.17144": {
+        "arxivId": "2305.17144",
+        "title": "Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory"
+    },
+    "2304.08354": {
+        "arxivId": "2304.08354",
+        "title": "Tool Learning with Foundation Models"
+    },
+    "2305.03514": {
+        "arxivId": "2305.03514",
+        "title": "Can Large Language Models Transform Computational Social Science?"
+    },
+    "2303.16434": {
+        "arxivId": "2303.16434",
+        "title": "TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs"
+    },
+    "2305.17126": {
+        "arxivId": "2305.17126",
+        "title": "Large Language Models as Tool Makers"
+    },
+    "2307.06135": {
+        "arxivId": "2307.06135",
+        "title": "SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning"
+    },
+    "2301.07543": {
+        "arxivId": "2301.07543",
+        "title": "Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?"
+    },
+    "2304.04370": {
+        "arxivId": "2304.04370",
+        "title": "OpenAGI: When LLM Meets Domain Experts"
+    },
+    "2302.03287": {
+        "arxivId": "2302.03287",
+        "title": "ChatGPT and Software Testing Education: Promises & Perils"
+    },
+    "2112.15594": {
+        "arxivId": "2112.15594",
+        "title": "A neural network solves, explains, and generates university math problems by program synthesis and few-shot learning at human level"
+    },
+    "2304.01904": {
+        "arxivId": "2304.01904",
+        "title": "REFINER: Reasoning Feedback on Intermediate Representations"
+    },
+    "2209.11515": {
+        "arxivId": "2209.11515",
+        "title": "Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction"
+    },
+    "2308.10144": {
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners"
+    },
+    "2302.02676": {
+        "arxivId": "2302.02676",
+        "title": "Chain of Hindsight Aligns Language Models with Feedback"
+    },
+    "2307.02485": {
+        "arxivId": "2307.02485",
+        "title": "Building Cooperative Embodied Agents Modularly with Large Language Models"
+    },
+    "2305.17390": {
+        "arxivId": "2305.17390",
+        "title": "SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks"
+    },
+    "2306.16092": {
+        "arxivId": "2306.16092",
+        "title": "Chatlaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model"
+    },
+    "2304.05332": {
+        "arxivId": "2304.05332",
+        "title": "Emergent autonomous scientific research capabilities of large language models"
+    },
+    "2312.13771": {
+        "arxivId": "2312.13771",
+        "title": "AppAgent: Multimodal Agents as Smartphone Users"
+    },
+    "2305.16960": {
+        "arxivId": "2305.16960",
+        "title": "Training Socially Aligned Language Models in Simulated Human Society"
+    },
+    "2305.16867": {
+        "arxivId": "2305.16867",
+        "title": "Playing repeated games with Large Language Models"
+    },
+    "2308.03427": {
+        "arxivId": "2308.03427",
+        "title": "TPTU: Task Planning and Tool Usage of Large Language Model-based AI Agents"
+    },
+    "2304.08244": {
+        "arxivId": "2304.08244",
+        "title": "API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs"
+    },
+    "2307.00184": {
+        "arxivId": "2307.00184",
+        "title": "Personality Traits in Large Language Models"
+    },
+    "2307.14984": {
+        "arxivId": "2307.14984",
+        "title": "S3: Social-network Simulation System with Large Language Model-Empowered Agents"
+    },
+    "2306.03901": {
+        "arxivId": "2306.03901",
+        "title": "ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory"
+    },
+    "2308.00436": {
+        "arxivId": "2308.00436",
+        "title": "SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning"
+    },
+    "2212.09746": {
+        "arxivId": "2212.09746",
+        "title": "Evaluating Human-Language Model Interaction"
+    },
+    "2307.04738": {
+        "arxivId": "2307.04738",
+        "title": "RoCo: Dialectic Multi-Robot Collaboration with Large Language Models"
+    },
+    "2305.18323": {
+        "arxivId": "2305.18323",
+        "title": "ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models"
+    },
+    "2308.06921": {
+        "arxivId": "2308.06921",
+        "title": "CodeHelp: Using Large Language Models with Guardrails for Scalable Support in Programming Classes"
+    },
+    "2308.05960": {
+        "arxivId": "2308.05960",
+        "title": "BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents"
+    },
+    "2305.10250": {
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory"
+    },
+    "2303.11504": {
+        "arxivId": "2303.11504",
+        "title": "Language Model Behavior: A Comprehensive Survey"
+    },
+    "2308.02773": {
+        "arxivId": "2308.02773",
+        "title": "EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education"
+    },
+    "2305.10626": {
+        "arxivId": "2305.10626",
+        "title": "Language Models Meet World Models: Embodied Experiences Enhance Language Models"
+    },
+    "2301.12050": {
+        "arxivId": "2301.12050",
+        "title": "Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making using Language Guided World Modelling"
+    },
+    "2205.00445": {
+        "arxivId": "2205.00445",
+        "title": "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning"
+    },
+    "2308.10204": {
+        "arxivId": "2308.10204",
+        "title": "ChatEDA: A Large Language Model Powered Autonomous Agent for EDA"
+    },
+    "2302.00763": {
+        "arxivId": "2302.00763",
+        "title": "Collaborating with language models for embodied reasoning"
+    },
+    "2307.15810": {
+        "arxivId": "2307.15810",
+        "title": "Understanding the Benefits and Challenges of Using Large Language Model-based Conversational Agents for Mental Well-being Support"
+    },
+    "2305.17066": {
+        "arxivId": "2305.17066",
+        "title": "Mindstorms in Natural Language-Based Societies of Mind"
+    },
+    "2308.16505": {
+        "arxivId": "2308.16505",
+        "title": "Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations"
+    },
+    "2308.14296": {
+        "arxivId": "2308.14296",
+        "title": "RecMind: Large Language Model Powered Agent For Recommendation"
+    },
+    "2306.06624": {
+        "arxivId": "2306.06624",
+        "title": "RestGPT: Connecting Large Language Models with Real-World Applications via RESTful APIs"
+    },
+    "2303.17071": {
+        "arxivId": "2303.17071",
+        "title": "DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents"
+    },
+    "2308.02151": {
+        "arxivId": "2308.02151",
+        "title": "Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization"
+    },
+    "2305.14938": {
+        "arxivId": "2305.14938",
+        "title": "Do LLMs Understand Social Knowledge? Evaluating the Sociability of Large Language Models with SocKET Benchmark"
+    },
+    "2308.11339": {
+        "arxivId": "2308.11339",
+        "title": "ProAgent: Building Proactive Cooperative Agents with Large Language Models"
+    },
+    "2307.09668": {
+        "arxivId": "2307.09668",
+        "title": "Towards A Unified Agent with Foundation Models"
+    },
+    "2306.00924": {
+        "arxivId": "2306.00924",
+        "title": "Minding Language Models\u2019 (Lack of) Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker"
+    },
+    "2306.00739": {
+        "arxivId": "2306.00739",
+        "title": "SQL-PaLM: Improved Large Language Model Adaptation for Text-to-SQL"
+    },
+    "2308.10379": {
+        "arxivId": "2308.10379",
+        "title": "Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models"
+    },
+    "2308.06782": {
+        "arxivId": "2308.06782",
+        "title": "PentestGPT: An LLM-empowered Automatic Penetration Testing Tool"
+    },
+    "2301.12868": {
+        "arxivId": "2301.12868",
+        "title": "On Robustness of Prompt-based Semantic Parsing with Large Pre-trained Language Model: An Empirical Study on Codex"
+    },
+    "2307.01848": {
+        "arxivId": "2307.01848",
+        "title": "Embodied Task Planning with Large Language Models"
+    },
+    "2306.02552": {
+        "arxivId": "2306.02552",
+        "title": "RecAgent: A Novel Simulation Paradigm for Recommender Systems"
+    },
+    "2308.04026": {
+        "arxivId": "2308.04026",
+        "title": "AgentSims: An Open-Source Sandbox for Large Language Model Evaluation"
+    },
+    "2301.04589": {
+        "arxivId": "2301.04589",
+        "title": "Memory Augmented Large Language Models are Computationally Universal"
+    },
+    "2305.05252": {
+        "arxivId": "2305.05252",
+        "title": "Distilling Script Knowledge from Large Language Models for Constrained Language Planning"
+    },
+    "2304.13835": {
+        "arxivId": "2304.13835",
+        "title": "Multi-Party Chat: Conversational Agents in Group Settings with Humans and Models"
+    },
+    "2304.14721": {
+        "arxivId": "2304.14721",
+        "title": "Towards autonomous system: flexible modular production system enhanced with large language model agents"
+    },
+    "2308.03656": {
+        "arxivId": "2308.03656",
+        "title": "Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench"
+    },
+    "2301.05327": {
+        "arxivId": "2301.05327",
+        "title": "Blind Judgement: Agent-Based Supreme Court Modelling With GPT"
+    },
+    "2305.02412": {
+        "arxivId": "2305.02412",
+        "title": "Plan, Eliminate, and Track - Language Models are Good Teachers for Embodied Agents"
+    },
+    "2305.14322": {
+        "arxivId": "2305.14322",
+        "title": "RET-LLM: Towards a General Read-Write Memory for Large Language Models"
+    },
+    "2308.06391": {
+        "arxivId": "2308.06391",
+        "title": "Dynamic Planning with a LLM"
+    },
+    "2307.11760": {
+        "arxivId": "2307.11760",
+        "title": "EmotionPrompt: Leveraging Psychology for Large Language Models Enhancement via Emotional Stimulus"
+    },
+    "2306.09299": {
+        "arxivId": "2306.09299",
+        "title": "Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind"
+    },
+    "2307.06187": {
+        "arxivId": "2307.06187",
+        "title": "Self-Adaptive Large Language Model (LLM)-Based Multiagent Systems"
+    },
+    "2304.13343": {
+        "arxivId": "2304.13343",
+        "title": "Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System"
+    },
+    "2307.04986": {
+        "arxivId": "2307.04986",
+        "title": "Epidemic Modeling with Generative Agents"
+    },
+    "2305.13455": {
+        "arxivId": "2305.13455",
+        "title": "clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents"
+    },
+    "2308.01542": {
+        "arxivId": "2308.01542",
+        "title": "Memory Sandbox: Transparent and Interactive Memory Management for Conversational Agents"
+    },
+    "2308.00245": {
+        "arxivId": "2308.00245",
+        "title": "The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models"
+    },
+    "2305.20076": {
+        "arxivId": "2305.20076",
+        "title": "Decision-Oriented Dialogue for Human-AI Collaboration"
+    },
+    "2308.12503": {
+        "arxivId": "2308.12503",
+        "title": "CGMI: Configurable General Multi-Agent Interaction Framework"
+    },
+    "2305.14279": {
+        "arxivId": "2305.14279",
+        "title": "Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs"
+    },
+    "2305.14323": {
+        "arxivId": "2305.14323",
+        "title": "ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models"
+    },
+    "2305.11598": {
+        "arxivId": "2305.11598",
+        "title": "Introspective Tips: Large Language Model for In-Context Decision Making"
+    },
+    "2210.04964": {
+        "arxivId": "2210.04964",
+        "title": "Generating Executable Action Plans with Environmentally-Aware Language Models"
+    },
+    "2306.03604": {
+        "arxivId": "2306.03604",
+        "title": "Enabling Intelligent Interactions between an Agent and an LLM: A Reinforcement Learning Approach"
+    },
+    "2308.04030": {
+        "arxivId": "2308.04030",
+        "title": "Gentopia: A Collaborative Platform for Tool-Augmented LLMs"
+    },
+    "2306.05152": {
+        "arxivId": "2306.05152",
+        "title": "Towards Autonomous Testing Agents via Conversational Large Language Models"
+    },
+    "2308.02439": {
+        "arxivId": "2308.02439",
+        "title": "A large language model-assisted education tool to provide feedback on open-ended responses"
+    },
+    "2308.04624": {
+        "arxivId": "2308.04624",
+        "title": "Benchmarking LLM powered Chatbots: Methods and Metrics"
+    },
+    "2308.03313": {
+        "arxivId": "2308.03313",
+        "title": "Quantifying the Impact of Large Language Models on Collective Opinion Dynamics"
+    },
+    "2304.14354": {
+        "arxivId": "2304.14354",
+        "title": "Industrial Engineering with Large Language Models: A Case Study of ChatGPT's Performance on Oil & Gas Problems"
+    },
+    "2308.12033": {
+        "arxivId": "2308.12033",
+        "title": "PREFER: Prompt Ensemble Learning via Feedback-Reflect-Refine"
+    },
+    "2308.07540": {
+        "arxivId": "2308.07540",
+        "title": "CALYPSO: LLMs as Dungeon Masters' Assistants"
+    },
+    "2308.05391": {
+        "arxivId": "2308.05391",
+        "title": "Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges"
+    },
+    "2307.07871": {
+        "arxivId": "2307.07871",
+        "title": "The SocialAI School: Insights from Developmental Psychology Towards Artificial Socio-Cultural Agents"
+    },
+    "2305.12487": {
+        "arxivId": "2305.12487",
+        "title": "Augmenting Autotelic Agents with Large Language Models"
+    },
+    "2304.14106": {
+        "arxivId": "2304.14106",
+        "title": "ChatLog: Carefully Evaluating the Evolution of ChatGPT Across Time"
+    },
+    "2308.05481": {
+        "arxivId": "2308.05481",
+        "title": "LLM As DBA"
+    },
+    "2308.01552": {
+        "arxivId": "2308.01552",
+        "title": "InterAct: Exploring the Potentials of ChatGPT as a Cooperative Agent"
+    },
+    "2304.10750": {
+        "arxivId": "2304.10750",
+        "title": "Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback"
+    },
+    "2307.10337": {
+        "arxivId": "2307.10337",
+        "title": "Are you in a Masquerade? Exploring the Behavior and Impact of Large Language Model Driven Social Bots in Online Social Networks"
+    },
+    "2306.07929": {
+        "arxivId": "2306.07929",
+        "title": "Large Language Model Is Semi-Parametric Reinforcement Learning Agent"
+    },
+    "2305.12647": {
+        "arxivId": "2305.12647",
+        "title": "Reflective Linguistic Programming (RLP): A Stepping Stone in Socially-Aware AGI (SocialAGI)"
+    },
+    "2308.01423": {
+        "arxivId": "2308.01423",
+        "title": "ChatMOF: An Autonomous AI System for Predicting and Generating Metal-Organic Frameworks"
+    },
+    "2308.03983": {
+        "arxivId": "2308.03983",
+        "title": "SimplyRetrieve: A Private and Lightweight Retrieval-Centric Generative AI Tool"
+    },
+    "2307.02502": {
+        "arxivId": "2307.02502",
+        "title": "Math Agents: Computational Infrastructure, Mathematical Embedding, and Genomics"
+    },
+    "2307.15833": {
+        "arxivId": "2307.15833",
+        "title": "Dialogue Shaping: Empowering Agents through NPC Interaction"
+    },
+    "2307.08962": {
+        "arxivId": "2307.08962",
+        "title": "REX: Rapid Exploration and eXploitation for AI Agents"
+    },
+    "2308.09904": {
+        "arxivId": "2308.09904",
+        "title": "RAH! RecSys-Assistant-Human: A Human-Central Recommendation Framework with Large Language Models"
+    },
+    "2206.14796": {
+        "arxivId": "2206.14796",
+        "title": "On the Robustness of Dialogue History Representation in Conversational Question Answering: A Comprehensive Study and a New Prompt-based Method"
+    },
+    "2307.12573": {
+        "arxivId": "2307.12573",
+        "title": "Tachikuma: Understading Complex Interactions with Multi-Character and Novel Objects by Large Language Models"
+    }
+}
