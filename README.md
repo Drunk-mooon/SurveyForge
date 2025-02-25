@@ -27,6 +27,8 @@ At this stage, this is the best way for us to showcase the capabilities of Surve
 
 
 ## SurveyBench
+[SurveyBench Download](https://huggingface.co/datasets/U4R/SurveyBench)
+
 SurveyBench consists of approximately 100 human-written survey papers across 10 distinct topics, carefully curated by doctoral-level researchers to ensure thematic consistency and academic rigor.
 
 You can evaluate the reference coverage by:
