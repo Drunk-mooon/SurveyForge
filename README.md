@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>
-  Code, demos, and benchmarks are all available now!
+  Demos, and benchmarks are all available now! Codes coming soon.
   </i>
   <br>
   <a href="https://arxiv.org/abs/xxxx.xxxxx">
@@ -35,14 +35,15 @@ Moreover, to achieve a comprehensive evaluation, we construct **SurveyBench**, w
 
 ## 🤔How to try out SurveyForge?
 
-* You can clone our source code and deploy it locally. Make sure you've got a GPU ready for loading the embedding model and an API set up for calling the LLM. Please refer to the [guidelines](assets/code_doc.md) for more details
-* If you're just curious about how the generated survey paper look, **please kindly send us an email or open an issue** in the repository to inform us of the **survey topic** you intend to generate. At this stage, this is the best way for us to showcase the capabilities of SurveyForge. Moving forward, we are actively working to enhance our API capacity and aim to make SurveyForge publicly accessible in the near future. Thank you for your understanding and support!
+Due to the current limitations on API call frequency, **please kindly send us an email or open an issue** in the repository to inform us of the **survey topic** you intend to generate.
 
 ⏱️Surveyforge only takes about 10 minutes to generate a survey paper. There may be a wait time as the number of users increases, so submit your topic early!
 
 🌟Don’t forget to click the STAR to track if your survey is ready!
 
-## 🕵️‍♂️How do I know if the Survey is good or not?
+At this stage, this is the best way for us to showcase the capabilities of SurveyForge. Moving forward, we are actively working to enhance our API capacity and aim to make SurveyForge publicly accessible in the near future. Thank you for your understanding and support!
+
+## 🕵️‍♂️How do I know if the survey paper is good or not?
 
 We offer **SurveyBench**, a benchmark for **academic research** and **evaluating the quality of AI-generated surveys.**
 
@@ -101,3 +102,11 @@ generated_surveys
 | LLM-based Multi-Agent                                    |      |
 | Graph Neural Networks                                    |      |
 | Retrieval-Augmented Generation for Large Language Models |      |
+
+## Citations
+
+```
+{}
+```
+
+## Acknowledgement
