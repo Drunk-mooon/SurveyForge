@@ -3,3 +3,5 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Alpha-Innovator/SmartSurvey/pulls)
 
 # Deployment Guide
+
+coming soon

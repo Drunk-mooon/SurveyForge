@@ -35,12 +35,12 @@ Moreover, to achieve a comprehensive evaluation, we construct **SurveyBench**, w
 
 ## 🤔How to try out SurveyForge?
 
-* You can clone our source code and deploy it locally. Make sure you've got a GPU ready for loading the embedding model and an API set up for calling the LLM. Please refer to the [guidelines](code_doc.md) for more details
+* You can clone our source code and deploy it locally. Make sure you've got a GPU ready for loading the embedding model and an API set up for calling the LLM. Please refer to the [guidelines](assets/code_doc.md) for more details
 * If you're just curious about how the generated survey paper look, **please kindly send us an email or open an issue** in the repository to inform us of the **survey topic** you intend to generate. At this stage, this is the best way for us to showcase the capabilities of SurveyForge. Moving forward, we are actively working to enhance our API capacity and aim to make SurveyForge publicly accessible in the near future. Thank you for your understanding and support!
 
-⏱️Surveyforge only takes about 10 minutes to generate a review paper. There may be a wait time as the number of users increases, so submit your topic early!
+⏱️Surveyforge only takes about 10 minutes to generate a survey paper. There may be a wait time as the number of users increases, so submit your topic early!
 
-🌟Don’t forget to click the STAR to track if your survey is ready for launch!
+🌟Don’t forget to click the STAR to track if your survey is ready!
 
 ## 🕵️‍♂️How do I know if the Survey is good or not?
 
