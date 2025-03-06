@@ -1,30 +1,18 @@
-# SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing
+<div align="center">
+<h1>SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing</h1>
 
-<p align="center">
-  <i>
-  Demos, and benchmarks are all available now! Codes coming soon.
-  </i>
-  <br>
-  <a href="https://arxiv.org/abs/xxxx.xxxxx">
-      <img src="https://img.shields.io/badge/arXiv-Paper-red.svg?logo=arxiv" alt="arxiv paper">
-  </a>
-  <a href="https://huggingface.co/papers/xxxx.xxxxx">
-    <img src="https://img.shields.io/badge/Huggingface-🤗-yellow?style=flat" alt="huggingface paper">
-  </a>
-  <!-- <a href="https://github.com/IAAR-Shanghai/SurveyX">
-    <img src="https://img.shields.io/github/stars/IAAR-Shanghai/SurveyX?style=flat&logo=github&color=yellow" alt="github stars">
-  </a> -->
-    <!-- <img src="https://img.shields.io/github/last-commit/IAAR-Shanghai/SurveyX?display_timestamp=author&style=flat&color=green" alt="last commit"> -->
-  </a>
-  </a>
-</p>
+[[ Paper 📓 ]](https://arxiv.org/abs/xxxx.xxxxx) [[ Website 🏠 ]](https://huggingface.co/papers/xxxx.xxxxx) [[ SurveyBench Benchmark 🤗 ]](https://huggingface.co/datasets/U4R/SurveyBench) 
 
-🤩Tired of chaotic structures and inaccurate references in AI-generated survey paper? **SurveyForge** is here to revolutionize your research experience!
+<i>
+🤩 Tired of chaotic structures and inaccurate references in AI-generated survey paper? <b>SurveyForge</b> is here to revolutionize your research experience!
+</i>
+</div>
+
 
 ## Introduction
 
 <p align="center">
-  <img src="./assets/framework_surveyforge.png" width="95%">
+  <img src="./assets/framework_surveyforge.png" width="99%">
   <!-- <div>The overview of SURVEYFORGE. The framework consists of two main stages: Outline Generation and Content Writing. In the Outline Generation stage, SURVEYFORGE utilizes heuristic learning to generate well-structured outlines by leveraging topic-relevant literature and structural patterns from existing surveys. In the Content Writing stage, a memory-driven Scholar Navigation Agent (SANA) retrieves high-quality literature for each subsection and LLM generates the content of each subsection. Finally, the content is synthesized and refined into a coherent and comprehensive survey.
 </div> -->
 </p>
