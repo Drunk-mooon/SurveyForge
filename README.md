@@ -1,7 +1,7 @@
 <div align="center">
 <h1>SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing</h1>
 
-[[ Paper 📓 ]](https://arxiv.org/abs/xxxx.xxxxx) [[ Website 🏠 ]](https://huggingface.co/papers/xxxx.xxxxx) [[ SurveyBench Benchmark 🤗 ]](https://huggingface.co/datasets/U4R/SurveyBench) 
+[[ Paper 📓 ]](https://arxiv.org/abs/2503.04629) [[ SurveyBench Benchmark 🤗 ]](https://huggingface.co/datasets/U4R/SurveyBench) 
 
 <i>
 🤩 Tired of chaotic structures and inaccurate references in AI-generated survey paper? <b>SurveyForge</b> is here to revolutionize your research experience!
@@ -104,6 +104,14 @@ generated_surveys
 ## Citations
 
 ```
-{}
+@misc{yan2025surveyforgeoutlineheuristicsmemorydriven,
+      title={SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing}, 
+      author={Xiangchao Yan and Shiyang Feng and Jiakang Yuan and Renqiu Xia and Bin Wang and Bo Zhang and Lei Bai},
+      year={2025},
+      eprint={2503.04629},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.04629}, 
+}
 ```
 
