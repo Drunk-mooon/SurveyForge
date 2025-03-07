@@ -55,6 +55,7 @@ At this stage, this is the best way for us to showcase the capabilities of Surve
 | AI-Powered Autonomous Scientific Discovery               | [AI-Powered Autonomous Scientific Discovery Challenges, Innovations, and Future Directions.pdf](demo_papers/AI-Powered%20Autonomous%20Scientific%20Discovery%20Challenges,%20Innovations,%20and%20Future%20Directions.pdf) |
 | LLMs in Mental Health Services                           | [Applications of Large Language Models in Mental Health Services Capabilities, Challenges, and Future Directions.pdf](demo_papers/Applications%20of%20Large%20Language%20Models%20in%20Mental%20Health%20Services%20Capabilities,%20Challenges,%20and%20Future%20Directions.pdf) |
 | Quantum Computing Algorithms                             | [Quantum Computing Algorithms Foundations, Advancements, and Frontier Perspectives.pdf](demo_papers/Quantum%20Computing%20Algorithms%20Foundations,%20Advancements,%20and%20Frontier%20Perspectives.pdf) |
+| Quantitative Trading with AI in Cryptocurrency                            | [A Comprehensive Survey on Quantitative Trading with Artificial Intelligence in Cryptocurrency.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Quantitative%20Trading%20with%20Artificial%20Intelligence%20in%20Cryptocurrency.pdf) |
 
 ## 🕵️‍♂️How to evaluate the quality of the survey paper?
 
