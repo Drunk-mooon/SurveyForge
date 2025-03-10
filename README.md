@@ -56,7 +56,10 @@ At this stage, this is the best way for us to showcase the capabilities of Surve
 | LLMs in Mental Health Services                           | [Applications of Large Language Models in Mental Health Services Capabilities, Challenges, and Future Directions.pdf](demo_papers/Applications%20of%20Large%20Language%20Models%20in%20Mental%20Health%20Services%20Capabilities,%20Challenges,%20and%20Future%20Directions.pdf) |
 | Quantum Computing Algorithms                             | [Quantum Computing Algorithms Foundations, Advancements, and Frontier Perspectives.pdf](demo_papers/Quantum%20Computing%20Algorithms%20Foundations,%20Advancements,%20and%20Frontier%20Perspectives.pdf) |
 | Quantitative Trading with AI in Cryptocurrency                            | [A Comprehensive Survey on Quantitative Trading with Artificial Intelligence in Cryptocurrency.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Quantitative%20Trading%20with%20Artificial%20Intelligence%20in%20Cryptocurrency.pdf) |
-
+| Large Language Models for Task-Oriented Dialogue Systems | [A Comprehensive Survey on Large Language Models for Task-Oriented Dialogue Systems.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Large%20Language%20Models%20for%20Task-Oriented%20Dialogue%20Systems.pdf) |
+| Human Feedback in Video Generation | [Improving Video Generation with Human Feedback A Comprehensive Survey.pdf](demo_papers/Improving%20Video%20Generation%20with%20Human%20Feedback%20A%20Comprehensive%20Survey.pdf) |
+| Efficient Video Generation | [A Comprehensive Survey on Efficient Video Generation.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Efficient%20Video%20Generation.pdf) |
+| Chinese to Malay Speech Translation Based on Fine-Tuning Large Multilingual Translation Models| [A Comprehensive Survey on Chinese to Malay Speech Translation System Based on Fine-Tuning Large Multilingual Translation Models.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Chinese%20to%20Malay%20Speech%20Translation%20System%20Based%20on%20Fine-Tuning%20Large%20Multilingual%20Translation%20Models.pdf) |
 ## 🕵️‍♂️How to evaluate the quality of the survey paper?
 
 We offer **SurveyBench**, a benchmark for **academic research** and **evaluating the quality of AI-generated surveys.**
