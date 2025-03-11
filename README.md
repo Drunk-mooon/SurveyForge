@@ -60,6 +60,10 @@ At this stage, this is the best way for us to showcase the capabilities of Surve
 | Human Feedback in Video Generation | [Improving Video Generation with Human Feedback A Comprehensive Survey.pdf](demo_papers/Improving%20Video%20Generation%20with%20Human%20Feedback%20A%20Comprehensive%20Survey.pdf) |
 | Efficient Video Generation | [A Comprehensive Survey on Efficient Video Generation.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Efficient%20Video%20Generation.pdf) |
 | Chinese to Malay Speech Translation Based on Fine-Tuning Large Multilingual Translation Models| [A Comprehensive Survey on Chinese to Malay Speech Translation System Based on Fine-Tuning Large Multilingual Translation Models.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Chinese%20to%20Malay%20Speech%20Translation%20System%20Based%20on%20Fine-Tuning%20Large%20Multilingual%20Translation%20Models.pdf) |
+| Controllable Text Generation for Large Language Models | [A Comprehensive Survey on Controllable Text Generation for Large Language Models: Methods, Challenges, and Future Directions.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Controllable%20Text%20Generation%20for%20Large%20Language%20Models%20Methods,%20Challenges,%20and%20Future%20Directions.pdf) |
+| Synthetic Data Generation with Diffusion Models | [A Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Synthetic%20Data%20Generation%20with%20Diffusion%20Models%20for%20Object%20Detection.pdf) |
+
+
 ## 🕵️‍♂️How to evaluate the quality of the survey paper?
 
 We offer **SurveyBench**, a benchmark for **academic research** and **evaluating the quality of AI-generated surveys.**
