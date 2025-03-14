@@ -63,7 +63,7 @@ At this stage, this is the best way for us to showcase the capabilities of Surve
 | Controllable Text Generation for Large Language Models | [A Comprehensive Survey on Controllable Text Generation for Large Language Models: Methods, Challenges, and Future Directions.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Controllable%20Text%20Generation%20for%20Large%20Language%20Models%20Methods,%20Challenges,%20and%20Future%20Directions.pdf) |
 | Synthetic Data Generation with Diffusion Models | [A Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Synthetic%20Data%20Generation%20with%20Diffusion%20Models%20for%20Object%20Detection.pdf) |
 | Expressive Whole-Body Control for Humanoid Robotic Motions | [Expressive Whole-Body Control for Humanoid Robotic Motions Using Model Predictive Control and Reinforcement Learning.pdf](demo_papers/Expressive%20Whole-Body%20Control%20for%20Humanoid%20Robotic%20Motions%20Using%20Model%20Predictive%20Control%20and%20Reinforcement%20Learning.pdf) |
-
+| Layout-Guided Controllable Image Synthesis | [A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Layout-Guided%20Controllable%20Image%20Synthesis.pdf) |
 
 ## 🕵️‍♂️How to evaluate the quality of the survey paper?
 
