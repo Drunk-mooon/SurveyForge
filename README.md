@@ -29,7 +29,7 @@ Due to the current limitations on API call frequency, **please kindly send us an
 
 🌟Don’t forget to click the STAR to track if your survey is ready!
 
-At this stage, this is the best way for us to showcase the capabilities of SurveyForge. Moving forward, we are actively working to enhance our API capacity and aim to make SurveyForge publicly accessible in the near future. Thank you for your understanding and support!
+**Note:** Our initial version currently supports survey generation only in the **computer science domain**, as we need to align with previous evaluation benchmarks in this field. We're actively working on expanding to other academic disciplines, and integration is already in progress. Thank you for your understanding and support!
 
 ## 📝Examples
 
