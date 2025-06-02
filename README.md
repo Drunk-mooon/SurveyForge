@@ -1,5 +1,5 @@
 <div align="center">
-<h1>SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing</h1>
+<h1>(ACL-2025) SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing</h1>
 
 [[ Paper 📓 ]](https://arxiv.org/abs/2503.04629) [[ SurveyBench Benchmark 🤗 ]](https://huggingface.co/datasets/U4R/SurveyBench) 
 
@@ -8,6 +8,8 @@
 </i>
 </div>
 
+# 🔥 News
+  - <p style='text-align:justify'><i>2025.05</i>: &nbsp;🎉🎉 Congratulations: SurveyForge was accepted by ACL-2025 main conference.</p>
 
 ## Introduction
 
