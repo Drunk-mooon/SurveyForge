@@ -1,7 +1,7 @@
 <div align="center">
 <h1>(ACL-2025) SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing</h1>
 
-[[ Paper 📓 ]](https://arxiv.org/abs/2503.04629) [[ SurveyBench Benchmark 🤗 ]](https://huggingface.co/datasets/U4R/SurveyBench) 
+[[ Paper 📓 ]](https://arxiv.org/abs/2503.04629) [[ SurveyBench Benchmark 🤗 ]](https://huggingface.co/datasets/U4R/SurveyBench)  [[SurveyForge Database 🤗]](https://huggingface.co/datasets/U4R/SurveyForge_database/tree/main)
 
 <i>
 🤩 Tired of chaotic structures and inaccurate references in AI-generated survey paper? <b>SurveyForge</b> is here to revolutionize your research experience!
@@ -9,6 +9,9 @@
 </div>
 
 # 🔥 News
+  - <p style='text-align:justify'><i>Coming soon</i>: &nbsp;🎉🎉 Support the generation of comprehensive surveys in all fields on the online website.</p>
+
+  - <p style='text-align:justify'><i>2025.06</i>: &nbsp;🎉🎉 We released the code of SurveyForge.</p>
   - <p style='text-align:justify'><i>2025.05</i>: &nbsp;🎉🎉 Congratulations: SurveyForge was accepted by ACL-2025 main conference.</p>
 
 ## Introduction
@@ -24,48 +27,20 @@ Survey papers are vital in scientific research, especially with the rapid increa
 Moreover, to achieve a comprehensive evaluation, we construct **SurveyBench**, which includes 100 human-written survey papers for win-rate comparison and assesses AI-generated survey papers across three dimensions: reference, outline, and content quality.
 
 ## 🤔How to try out SurveyForge?
+- First you need to download the database from [[SurveyForge Database]](https://huggingface.co/datasets/U4R/SurveyForge_database/tree/main).
 
-Due to the current limitations on API call frequency, **please kindly send us an email or open an issue** in the repository to inform us of the **survey topic** you intend to generate.
 
-⏱️Surveyforge only takes about **10 minutes** to generate a survey paper. There may be a wait time as the number of users increases, so submit your topic early!
 
-🌟Don’t forget to click the STAR to track if your survey is ready!
+- Then you need to download the embedding model from [[gte-large-en-v1.5]](https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5/tree/main)
 
-**Note:** Our initial version currently supports survey generation only in the **computer science domain**, as we need to align with previous evaluation benchmarks in this field. We're actively working on expanding to other academic disciplines, and integration is already in progress. Thank you for your understanding and support!
 
-## 📝Examples
 
-| Topics                                                   | Links |
-| -------------------------------------------------------- | :---: |
-| Multimodal Large Language Models                         | [Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf](demo_papers/Comprehensive%20Survey%20on%20Multimodal%20Large%20Language%20Models%20Advances,%20Challenges,%20and%20Future%20Directions.pdf) |
-| 3D Object Detection in Autonomous Driving                | [Comprehensive Survey on 3D Object Detection in Autonomous Driving.pdf](demo_papers/Comprehensive%20Survey%20on%203D%20Object%20Detection%20in%20Autonomous%20Driving.pdf) |
-| Vision Transformers                                      | [A Comprehensive Survey on Vision Transformers Foundations, Advances, Applications, and Future Directions.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Vision%20Transformers%20Foundations,%20Advances,%20Applications,%20and%20Future%20Directions.pdf) |
-| Generative Diffusion Models                              | [Comprehensive Survey on Generative Diffusion Models Foundations, Innovations, and Applications.pdf](demo_papers/Comprehensive%20Survey%20on%20Generative%20Diffusion%20Models%20Foundations,%20Innovations,%20and%20Applications.pdf) |
-| LLM-based Multi-Agent                                    | [Comprehensive Survey of Large Language Model-Based Multi-Agent Systems.pdf](demo_papers/Comprehensive%20Survey%20of%20Large%20Language%20Model-Based%20Multi-Agent%20Systems.pdf) |
-| Self-Supervised Learning in Computer Vision              | [A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Self-Supervised%20Learning%20in%20Computer%20Vision.pdf) |
-| Embodied Artificial Intelligence                         | [A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Embodied%20Artificial%20Intelligence%20Foundations,%20Advances,%20and%20Future%20Directions.pdf) |
-| Vector Database Management Systems                       | [A Comprehensive Survey of Vector Database Management Systems Foundations, Architectures, and Future Directions.pdf](demo_papers/A%20Comprehensive%20Survey%20of%20Vector%20Database%20Management%20Systems%20Foundations,%20Architectures,%20and%20Future%20Directions.pdf) |
-| Gradient Descent and Its Expanding Frontier              | [Comprehensive Survey of Gradient Descent and Its Expanding Frontier.pdf](demo_papers/Comprehensive%20Survey%20of%20Gradient%20Descent%20and%20Its%20Expanding%20Frontier.pdf) |
-| Formal Verification of Neural Networks                   | [Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf](demo_papers/Comprehensive%20Survey%20on%20Formal%20Verification%20of%20Neural%20Networks%20Foundations,%20Methods,%20and%20Future%20Directions.pdf) |
-| Edge Computing Paradigms and Technologies                | [A Survey on Edge Computing Paradigms and Technologies.pdf](demo_papers/A%20Survey%20on%20Edge%20Computing%20Paradigms%20and%20Technologies.pdf) |
-| Automated Machine Learning                               | [Automated Machine Learning Foundations, Advancements, Applications, and Future Directions.pdf](demo_papers/Automated%20Machine%20Learning%20Foundations,%20Advancements,%20Applications,%20and%20Future%20Directions.pdf) |
-| AI in Facial Recognition                                 | [Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf](demo_papers/Applications%20of%20Artificial%20Intelligence%20in%20Facial%20Recognition%20Techniques,%20Challenges,%20and%20Future%20Directions.pdf) |
-| Natural Language Processing                              | [Advancements in Natural Language Processing Developments, Trends, and Future Directions.pdf](demo_papers/Advancements%20in%20Natural%20Language%20Processing%20Developments,%20Trends,%20and%20Future%20Directions.pdf) |
-| Adversarial Machine Learning                             | [Adversarial Machine Learning Attack Methods and Defense Mechanisms.pdf](demo_papers/Adversarial%20Machine%20Learning%20Attack%20Methods%20and%20Defense%20Mechanisms.pdf) |
-| Federated Learning                                       | [Federated Learning Privacy-Preserving Collaborative Machine Learning.pdf](demo_papers/Federated%20Learning%20Privacy-Preserving%20Collaborative%20Machine%20Learning.pdf) |
-| Human-Computer Intelligent Interaction                   | [Human-Computer Intelligent Interaction Foundations, Technologies, and Future Perspectives.pdf](demo_papers/Human-Computer%20Intelligent%20Interaction%20Foundations,%20Technologies,%20and%20Future%20Perspectives.pdf) |
-| AI-Powered Autonomous Scientific Discovery               | [AI-Powered Autonomous Scientific Discovery Challenges, Innovations, and Future Directions.pdf](demo_papers/AI-Powered%20Autonomous%20Scientific%20Discovery%20Challenges,%20Innovations,%20and%20Future%20Directions.pdf) |
-| LLMs in Mental Health Services                           | [Applications of Large Language Models in Mental Health Services Capabilities, Challenges, and Future Directions.pdf](demo_papers/Applications%20of%20Large%20Language%20Models%20in%20Mental%20Health%20Services%20Capabilities,%20Challenges,%20and%20Future%20Directions.pdf) |
-| Quantum Computing Algorithms                             | [Quantum Computing Algorithms Foundations, Advancements, and Frontier Perspectives.pdf](demo_papers/Quantum%20Computing%20Algorithms%20Foundations,%20Advancements,%20and%20Frontier%20Perspectives.pdf) |
-| Quantitative Trading with AI in Cryptocurrency                            | [A Comprehensive Survey on Quantitative Trading with Artificial Intelligence in Cryptocurrency.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Quantitative%20Trading%20with%20Artificial%20Intelligence%20in%20Cryptocurrency.pdf) |
-| Large Language Models for Task-Oriented Dialogue Systems | [A Comprehensive Survey on Large Language Models for Task-Oriented Dialogue Systems.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Large%20Language%20Models%20for%20Task-Oriented%20Dialogue%20Systems.pdf) |
-| Human Feedback in Video Generation | [Improving Video Generation with Human Feedback A Comprehensive Survey.pdf](demo_papers/Improving%20Video%20Generation%20with%20Human%20Feedback%20A%20Comprehensive%20Survey.pdf) |
-| Efficient Video Generation | [A Comprehensive Survey on Efficient Video Generation.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Efficient%20Video%20Generation.pdf) |
-| Chinese to Malay Speech Translation Based on Fine-Tuning Large Multilingual Translation Models| [A Comprehensive Survey on Chinese to Malay Speech Translation System Based on Fine-Tuning Large Multilingual Translation Models.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Chinese%20to%20Malay%20Speech%20Translation%20System%20Based%20on%20Fine-Tuning%20Large%20Multilingual%20Translation%20Models.pdf) |
-| Controllable Text Generation for Large Language Models | [A Comprehensive Survey on Controllable Text Generation for Large Language Models: Methods, Challenges, and Future Directions.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Controllable%20Text%20Generation%20for%20Large%20Language%20Models%20Methods,%20Challenges,%20and%20Future%20Directions.pdf) |
-| Synthetic Data Generation with Diffusion Models | [A Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Synthetic%20Data%20Generation%20with%20Diffusion%20Models%20for%20Object%20Detection.pdf) |
-| Expressive Whole-Body Control for Humanoid Robotic Motions | [Expressive Whole-Body Control for Humanoid Robotic Motions Using Model Predictive Control and Reinforcement Learning.pdf](demo_papers/Expressive%20Whole-Body%20Control%20for%20Humanoid%20Robotic%20Motions%20Using%20Model%20Predictive%20Control%20and%20Reinforcement%20Learning.pdf) |
-| Layout-Guided Controllable Image Synthesis | [A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Layout-Guided%20Controllable%20Image%20Synthesis.pdf) |
+- Finally, configure your **API KEY** and **data path** in [code/run_demo.py](./code/run_demo.py) and run the command as follows:
+
+
+```
+cd code && python run_demo.py
+```
 
 ## 🕵️‍♂️How to evaluate the quality of the survey paper?
 
@@ -112,17 +87,37 @@ generated_surveys
 ...
 ```
 
+
+
+## 📝Examples
+
+| Topics                                                   | Links |
+| -------------------------------------------------------- | :---: |
+| Multimodal Large Language Models                         | [Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf](demo_papers/Comprehensive%20Survey%20on%20Multimodal%20Large%20Language%20Models%20Advances,%20Challenges,%20and%20Future%20Directions.pdf) |
+| 3D Object Detection in Autonomous Driving                | [Comprehensive Survey on 3D Object Detection in Autonomous Driving.pdf](demo_papers/Comprehensive%20Survey%20on%203D%20Object%20Detection%20in%20Autonomous%20Driving.pdf) |
+| Vision Transformers                                      | [A Comprehensive Survey on Vision Transformers Foundations, Advances, Applications, and Future Directions.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Vision%20Transformers%20Foundations,%20Advances,%20Applications,%20and%20Future%20Directions.pdf) |
+| Generative Diffusion Models                              | [Comprehensive Survey on Generative Diffusion Models Foundations, Innovations, and Applications.pdf](demo_papers/Comprehensive%20Survey%20on%20Generative%20Diffusion%20Models%20Foundations,%20Innovations,%20and%20Applications.pdf) |
+| LLM-based Multi-Agent                                    | [Comprehensive Survey of Large Language Model-Based Multi-Agent Systems.pdf](demo_papers/Comprehensive%20Survey%20of%20Large%20Language%20Model-Based%20Multi-Agent%20Systems.pdf) |
+| Self-Supervised Learning in Computer Vision              | [A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Self-Supervised%20Learning%20in%20Computer%20Vision.pdf) |
+| Embodied Artificial Intelligence                         | [A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf](demo_papers/A%20Comprehensive%20Survey%20on%20Embodied%20Artificial%20Intelligence%20Foundations,%20Advances,%20and%20Future%20Directions.pdf) |
+............
+
+
+
+## Acknowledgements
+
+We sincerely thank the [AutoSurvey](https://github.com/AutoSurveys/AutoSurvey) for laying the foundation in automated survey generation and analysis. SurveyForge is developed on top of the AutoSurvey framework, and we remain committed to continuous innovation and delivering ever more powerful, flexible solutions for automated survey research.
+
 ## Citations
 
 ```
-@misc{yan2025surveyforgeoutlineheuristicsmemorydriven,
-      title={SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing}, 
-      author={Xiangchao Yan and Shiyang Feng and Jiakang Yuan and Renqiu Xia and Bin Wang and Bo Zhang and Lei Bai},
-      year={2025},
-      eprint={2503.04629},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2503.04629}, 
+@article{yan2025surveyforge,
+  title={Surveyforge: On the outline heuristics, memory-driven generation, and multi-dimensional evaluation for automated survey writing},
+  author={Yan, Xiangchao and Feng, Shiyang and Yuan, Jiakang and Xia, Renqiu and Wang, Bin and Zhang, Bo and Bai, Lei},
+  journal={arXiv preprint arXiv:2503.04629},
+  year={2025}
 }
 ```
+
+
 
