@@ -37,7 +37,7 @@ class GeneralRAG_langchain():
         # load embedding fucntion
         self.embedding_function = HuggingFaceEmbeddings(
             model_name=self.embedding_model,
-            model_kwargs={'device': 'cuda', 'trust_remote_code': True},
+            model_kwargs={'device': 'cpu', 'trust_remote_code': True},
         )
      
         # load local rag database
@@ -171,6 +171,7 @@ class GeneralRAG_langchain():
                 types: types of the input (query, document)
             Returns:
                 results: list[list[Document]], list of retrieved documents for each query
+                yzy: 直接返回检索到的信息
         """
         start = time.time()
         self._init_RAG(retriever_cfg={'search_type':search_type, 
@@ -189,7 +190,11 @@ class GeneralRAG_langchain():
         return results
     
     def retrieve_id(self, query, search_type='similarity', rerank='raw', top_k=10, max_out=10000, filter=None, fetch_k=20, **kwargs):
-        
+        """
+        yzy: 现根据query调用retrieve函数检索之后, 去重
+        将搜索结果按照citation、影响力或是其他 重排序
+        最后返回的是论文ids的列表而非直接检索到的原文本
+        """
         results = self.retrieve(query, search_type=search_type, top_k=top_k, filter=filter, fetch_k=fetch_k, **kwargs)
         # print(f"RAG retrieve number: {top_k * len(query)}")
 
