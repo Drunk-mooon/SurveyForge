@@ -8,11 +8,13 @@ import faiss
 
 from langchain_core.documents import Document
 from langchain_community.docstore.in_memory import InMemoryDocstore
+import os
 
 
 class tokenCounter():
 
     def __init__(self) -> None:
+        os.environ["TIKTOKEN_CACHE_DIR"] = "/public/home/sjtu_normal/users/ziyue.yang/sci-agent/SurveyForge/tiktoken_cache"
         self.encoding = tiktoken.encoding_for_model("gpt-3.5-turbo")
         self.model_price = {}
         

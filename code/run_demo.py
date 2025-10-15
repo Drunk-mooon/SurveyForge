@@ -48,7 +48,7 @@ def run_experiment(topic, exp_num, base_path):
     
 
     cmd = [
-        "python", "main.py",
+        "python3", "main.py",
         "--topic", topic,
         "--gpu", "0",
         "--saving_path", save_path,
@@ -57,12 +57,12 @@ def run_experiment(topic, exp_num, base_path):
         "--subsection_len", "500",
         "--rag_num", "100",
         "--rag_max_out", "60",
-        "--outline_reference_num", "1500",
+        "--outline_reference_num", "5",
         "--survey_outline_path", "./",
-        "--db_path", "./database",
-        "--embedding_model", "./gte-large-en-v1.5",
-        "--api_key", "",
-        "--api_url", "https://api.openai.com/v1/chat/completions"
+        "--db_path", "../database/database",
+        "--embedding_model", "../gte-large-en-v1.5",
+        "--api_key", "sk-UCfwgl63Xg27JF8W33D746F3B80d4862979c82A51951485f",
+        "--api_url", "https://api.xi-ai.cn/v1/chat/completions"
     ]
 
     
