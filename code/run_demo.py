@@ -58,7 +58,7 @@ def run_experiment(topic, exp_num, base_path):
         "--rag_num", "100",
         "--rag_max_out", "60",
         "--outline_reference_num", "5",
-        "--survey_outline_path", "./",
+        "--survey_outline_path", "../database",
         "--db_path", "../database/database",
         "--embedding_model", "../gte-large-en-v1.5",
         "--api_key", "sk-UCfwgl63Xg27JF8W33D746F3B80d4862979c82A51951485f",

@@ -37,7 +37,7 @@ class GeneralRAG_langchain():
         # load embedding fucntion
         self.embedding_function = HuggingFaceEmbeddings(
             model_name=self.embedding_model,
-            model_kwargs={'device': 'cpu', 'trust_remote_code': True},
+            model_kwargs={'device': 'cpu', 'trust_remote_code': True}, ##yzy tempral change to cpu 
         )
      
         # load local rag database

@@ -1,5 +1,4 @@
 
-torch==2.1.0
 transformers==4.44.2
 sentence-transformers==2.7.0
 accelerate==0.33.0
@@ -24,7 +23,7 @@ anthropic==0.34.2
 faiss-cpu==1.9.0
 faiss-gpu==1.7.2
 pandas==2.2.2
-numpy==1.23.5
+numpy==1.25.0
 scipy==1.14.1
 scikit-learn==1.5.1
 pypdf==4.3.1
