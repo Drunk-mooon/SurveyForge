@@ -1,0 +1,858 @@
+{
+    "1706.03762": {
+        "arxivId": "1706.03762",
+        "title": "Attention is All you Need"
+    },
+    "1810.04805": {
+        "arxivId": "1810.04805",
+        "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+    },
+    "1405.0312": {
+        "arxivId": "1405.0312",
+        "title": "Microsoft COCO: Common Objects in Context"
+    },
+    "2005.14165": {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+    },
+    "1910.13461": {
+        "arxivId": "1910.13461",
+        "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension"
+    },
+    "2203.02155": {
+        "arxivId": "2203.02155",
+        "title": "Training language models to follow instructions with human feedback"
+    },
+    "2302.13971": {
+        "arxivId": "2302.13971",
+        "title": "LLaMA: Open and Efficient Foundation Language Models"
+    },
+    "1804.07461": {
+        "arxivId": "1804.07461",
+        "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding"
+    },
+    "1706.04599": {
+        "arxivId": "1706.04599",
+        "title": "On Calibration of Modern Neural Networks"
+    },
+    "2204.02311": {
+        "arxivId": "2204.02311",
+        "title": "PaLM: Scaling Language Modeling with Pathways"
+    },
+    "1904.09675": {
+        "arxivId": "1904.09675",
+        "title": "BERTScore: Evaluating Text Generation with BERT"
+    },
+    "1610.02413": {
+        "arxivId": "1610.02413",
+        "title": "Equality of Opportunity in Supervised Learning"
+    },
+    "2107.03374": {
+        "arxivId": "2107.03374",
+        "title": "Evaluating Large Language Models Trained on Code"
+    },
+    "2108.07258": {
+        "arxivId": "2108.07258",
+        "title": "On the Opportunities and Risks of Foundation Models"
+    },
+    "2205.01068": {
+        "arxivId": "2205.01068",
+        "title": "OPT: Open Pre-trained Transformer Language Models"
+    },
+    "2009.03300": {
+        "arxivId": "2009.03300",
+        "title": "Measuring Massive Multitask Language Understanding"
+    },
+    "1706.03741": {
+        "arxivId": "1706.03741",
+        "title": "Deep Reinforcement Learning from Human Preferences"
+    },
+    "2303.12712": {
+        "arxivId": "2303.12712",
+        "title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4"
+    },
+    "2306.05685": {
+        "arxivId": "2306.05685",
+        "title": "Judging LLM-as-a-judge with MT-Bench and Chatbot Arena"
+    },
+    "1905.00537": {
+        "arxivId": "1905.00537",
+        "title": "SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems"
+    },
+    "1705.03551": {
+        "arxivId": "1705.03551",
+        "title": "TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension"
+    },
+    "2206.07682": {
+        "arxivId": "2206.07682",
+        "title": "Emergent Abilities of Large Language Models"
+    },
+    "2303.18223": {
+        "arxivId": "2303.18223",
+        "title": "A Survey of Large Language Models"
+    },
+    "2012.15723": {
+        "arxivId": "2012.15723",
+        "title": "Making Pre-trained Language Models Better Few-shot Learners"
+    },
+    "2212.13138": {
+        "arxivId": "2212.13138",
+        "title": "Large language models encode clinical knowledge"
+    },
+    "2206.04615": {
+        "arxivId": "2206.04615",
+        "title": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models"
+    },
+    "2201.08239": {
+        "arxivId": "2201.08239",
+        "title": "LaMDA: Language Models for Dialog Applications"
+    },
+    "1909.08593": {
+        "arxivId": "1909.08593",
+        "title": "Fine-Tuning Language Models from Human Preferences"
+    },
+    "2109.07958": {
+        "arxivId": "2109.07958",
+        "title": "TruthfulQA: Measuring How Models Mimic Human Falsehoods"
+    },
+    "1708.08559": {
+        "arxivId": "1708.08559",
+        "title": "DeepTest: Automated Testing of Deep-Neural-Network-Driven Autonomous Cars"
+    },
+    "2302.04761": {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+    },
+    "2109.00859": {
+        "arxivId": "2109.00859",
+        "title": "CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation"
+    },
+    "2302.04023": {
+        "arxivId": "2302.04023",
+        "title": "A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity"
+    },
+    "2103.03874": {
+        "arxivId": "2103.03874",
+        "title": "Measuring Mathematical Problem Solving With the MATH Dataset"
+    },
+    "2210.02414": {
+        "arxivId": "2210.02414",
+        "title": "GLM-130B: An Open Bilingual Pre-trained Model"
+    },
+    "2005.04118": {
+        "arxivId": "2005.04118",
+        "title": "Beyond Accuracy: Behavioral Testing of NLP Models with CheckList"
+    },
+    "2009.11462": {
+        "arxivId": "2009.11462",
+        "title": "RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models"
+    },
+    "2103.03097": {
+        "arxivId": "2103.03097",
+        "title": "Generalizing to Unseen Domains: A Survey on Domain Generalization"
+    },
+    "1910.14599": {
+        "arxivId": "1910.14599",
+        "title": "Adversarial NLI: A New Benchmark for Natural Language Understanding"
+    },
+    "2203.13474": {
+        "arxivId": "2203.13474",
+        "title": "CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis"
+    },
+    "2104.08663": {
+        "arxivId": "2104.08663",
+        "title": "BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models"
+    },
+    "2302.11382": {
+        "arxivId": "2302.11382",
+        "title": "A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT"
+    },
+    "2201.11990": {
+        "arxivId": "2201.11990",
+        "title": "Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model"
+    },
+    "2303.17580": {
+        "arxivId": "2303.17580",
+        "title": "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face"
+    },
+    "2211.01910": {
+        "arxivId": "2211.01910",
+        "title": "Large Language Models Are Human-Level Prompt Engineers"
+    },
+    "2112.00861": {
+        "arxivId": "2112.00861",
+        "title": "A General Language Assistant as a Laboratory for Alignment"
+    },
+    "2302.06476": {
+        "arxivId": "2302.06476",
+        "title": "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?"
+    },
+    "2207.05221": {
+        "arxivId": "2207.05221",
+        "title": "Language Models (Mostly) Know What They Know"
+    },
+    "2307.06281": {
+        "arxivId": "2307.06281",
+        "title": "MMBench: Is Your Multi-modal Model an All-around Player?"
+    },
+    "1705.08500": {
+        "arxivId": "1705.08500",
+        "title": "Selective Classification for Deep Neural Networks"
+    },
+    "2105.09938": {
+        "arxivId": "2105.09938",
+        "title": "Measuring Coding Challenge Competence With APPS"
+    },
+    "2306.13394": {
+        "arxivId": "2306.13394",
+        "title": "MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models"
+    },
+    "2305.01210": {
+        "arxivId": "2305.01210",
+        "title": "Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation"
+    },
+    "2306.08302": {
+        "arxivId": "2306.08302",
+        "title": "Unifying Large Language Models and Knowledge Graphs: A Roadmap"
+    },
+    "2302.14045": {
+        "arxivId": "2302.14045",
+        "title": "Language Is Not All You Need: Aligning Perception with Language Models"
+    },
+    "1707.06875": {
+        "arxivId": "1707.06875",
+        "title": "Why We Need New Evaluation Metrics for NLG"
+    },
+    "2008.02275": {
+        "arxivId": "2008.02275",
+        "title": "Aligning AI With Shared Human Values"
+    },
+    "2307.16789": {
+        "arxivId": "2307.16789",
+        "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs"
+    },
+    "2305.14387": {
+        "arxivId": "2305.14387",
+        "title": "AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback"
+    },
+    "2305.10355": {
+        "arxivId": "2305.10355",
+        "title": "Evaluating Object Hallucination in Large Vision-Language Models"
+    },
+    "2305.14251": {
+        "arxivId": "2305.14251",
+        "title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation"
+    },
+    "2305.17926": {
+        "arxivId": "2305.17926",
+        "title": "Large Language Models are not Fair Evaluators"
+    },
+    "2305.08322": {
+        "arxivId": "2305.08322",
+        "title": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models"
+    },
+    "2308.02490": {
+        "arxivId": "2308.02490",
+        "title": "MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities"
+    },
+    "2304.06364": {
+        "arxivId": "2304.06364",
+        "title": "AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models"
+    },
+    "2303.04048": {
+        "arxivId": "2303.04048",
+        "title": "Is ChatGPT a Good NLG Evaluator? A Preliminary Study"
+    },
+    "2309.01219": {
+        "arxivId": "2309.01219",
+        "title": "Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models"
+    },
+    "2104.14337": {
+        "arxivId": "2104.14337",
+        "title": "Dynabench: Rethinking Benchmarking in NLP"
+    },
+    "2307.16125": {
+        "arxivId": "2307.16125",
+        "title": "SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension"
+    },
+    "2301.13867": {
+        "arxivId": "2301.13867",
+        "title": "Mathematical Capabilities of ChatGPT"
+    },
+    "2101.11718": {
+        "arxivId": "2101.11718",
+        "title": "BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation"
+    },
+    "2306.11698": {
+        "arxivId": "2306.11698",
+        "title": "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models"
+    },
+    "2303.08896": {
+        "arxivId": "2303.08896",
+        "title": "SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models"
+    },
+    "2307.04657": {
+        "arxivId": "2307.04657",
+        "title": "BeaverTails: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset"
+    },
+    "2304.05335": {
+        "arxivId": "2304.05335",
+        "title": "Toxicity in ChatGPT: Analyzing Persona-assigned Language Models"
+    },
+    "2110.08193": {
+        "arxivId": "2110.08193",
+        "title": "BBQ: A hand-built bias benchmark for question answering"
+    },
+    "2309.05922": {
+        "arxivId": "2309.05922",
+        "title": "A Survey of Hallucination in Large Foundation Models"
+    },
+    "2207.08143": {
+        "arxivId": "2207.08143",
+        "title": "Can large language models reason about medical questions?"
+    },
+    "2204.04991": {
+        "arxivId": "2204.04991",
+        "title": "TRUE: Re-evaluating Factual Consistency Evaluation"
+    },
+    "2304.01852": {
+        "arxivId": "2304.01852",
+        "title": "Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models"
+    },
+    "2304.05613": {
+        "arxivId": "2304.05613",
+        "title": "ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning"
+    },
+    "2301.12867": {
+        "arxivId": "2301.12867",
+        "title": "Exploring AI Ethics of ChatGPT: A Diagnostic Analysis"
+    },
+    "2309.12284": {
+        "arxivId": "2309.12284",
+        "title": "MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models"
+    },
+    "2304.03439": {
+        "arxivId": "2304.03439",
+        "title": "Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4"
+    },
+    "2305.14975": {
+        "arxivId": "2305.14975",
+        "title": "Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback"
+    },
+    "2304.09542": {
+        "arxivId": "2304.09542",
+        "title": "Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent"
+    },
+    "2303.12528": {
+        "arxivId": "2303.12528",
+        "title": "MEGA: Multilingual Evaluation of Generative AI"
+    },
+    "2210.07197": {
+        "arxivId": "2210.07197",
+        "title": "Towards a Unified Multi-Dimensional Evaluator for Text Generation"
+    },
+    "2302.12095": {
+        "arxivId": "2302.12095",
+        "title": "On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective"
+    },
+    "2304.03738": {
+        "arxivId": "2304.03738",
+        "title": "Should ChatGPT be Biased? Challenges and Risks of Bias in Large Language Models"
+    },
+    "2307.02046": {
+        "arxivId": "2307.02046",
+        "title": "Recommender Systems in the Era of Large Language Models (LLMs)"
+    },
+    "2305.09645": {
+        "arxivId": "2305.09645",
+        "title": "StructGPT: A General Framework for Large Language Model to Reason over Structured Data"
+    },
+    "2111.02840": {
+        "arxivId": "2111.02840",
+        "title": "Adversarial GLUE: A Multi-Task Benchmark for Robustness Evaluation of Language Models"
+    },
+    "2105.04054": {
+        "arxivId": "2105.04054",
+        "title": "Societal Biases in Language Generation: Progress and Challenges"
+    },
+    "2304.08354": {
+        "arxivId": "2304.08354",
+        "title": "Tool Learning with Foundation Models"
+    },
+    "2305.03514": {
+        "arxivId": "2305.03514",
+        "title": "Can Large Language Models Transform Computational Social Science?"
+    },
+    "2203.03580": {
+        "arxivId": "2203.03580",
+        "title": "The Unsurprising Effectiveness of Pre-Trained Vision Models for Control"
+    },
+    "2306.09212": {
+        "arxivId": "2306.09212",
+        "title": "CMMLU: Measuring massive multitask language understanding in Chinese"
+    },
+    "2306.05087": {
+        "arxivId": "2306.05087",
+        "title": "PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization"
+    },
+    "2305.15005": {
+        "arxivId": "2305.15005",
+        "title": "Sentiment Analysis in the Era of Large Language Models: A Reality Check"
+    },
+    "2305.15771": {
+        "arxivId": "2305.15771",
+        "title": "On the Planning Abilities of Large Language Models - A Critical Investigation"
+    },
+    "2303.09038": {
+        "arxivId": "2303.09038",
+        "title": "Translating radiology reports into plain language using ChatGPT and GPT-4 with prompt learning: results, limitations, and potential"
+    },
+    "2305.18486": {
+        "arxivId": "2305.18486",
+        "title": "A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets"
+    },
+    "2301.01768": {
+        "arxivId": "2301.01768",
+        "title": "The political ideology of conversational AI: Converging evidence on ChatGPT's pro-environmental, left-libertarian orientation"
+    },
+    "2103.06268": {
+        "arxivId": "2103.06268",
+        "title": "CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review"
+    },
+    "2305.02182": {
+        "arxivId": "2305.02182",
+        "title": "Uncovering ChatGPT\u2019s Capabilities in Recommender Systems"
+    },
+    "2306.14565": {
+        "arxivId": "2306.14565",
+        "title": "Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning"
+    },
+    "2306.04528": {
+        "arxivId": "2306.04528",
+        "title": "PromptRobust: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts"
+    },
+    "2307.02477": {
+        "arxivId": "2307.02477",
+        "title": "Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks"
+    },
+    "2303.17466": {
+        "arxivId": "2303.17466",
+        "title": "Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study"
+    },
+    "2305.07609": {
+        "arxivId": "2305.07609",
+        "title": "Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation"
+    },
+    "2205.12615": {
+        "arxivId": "2205.12615",
+        "title": "Autoformalization with Large Language Models"
+    },
+    "2205.12255": {
+        "arxivId": "2205.12255",
+        "title": "TALM: Tool Augmented Language Models"
+    },
+    "2306.06687": {
+        "arxivId": "2306.06687",
+        "title": "LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark"
+    },
+    "2304.04339": {
+        "arxivId": "2304.04339",
+        "title": "Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study"
+    },
+    "2310.03214": {
+        "arxivId": "2310.03214",
+        "title": "FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation"
+    },
+    "2306.09265": {
+        "arxivId": "2306.09265",
+        "title": "LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models"
+    },
+    "2304.07619": {
+        "arxivId": "2304.07619",
+        "title": "Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models"
+    },
+    "2303.13835": {
+        "arxivId": "2303.13835",
+        "title": "Where to Go Next for Recommender Systems? ID- vs. Modality-based Recommender Models Revisited"
+    },
+    "2309.07915": {
+        "arxivId": "2309.07915",
+        "title": "MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning"
+    },
+    "2309.10691": {
+        "arxivId": "2309.10691",
+        "title": "MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback"
+    },
+    "1804.02667": {
+        "arxivId": "1804.02667",
+        "title": "J-PLUS: The Javalambre Photometric Local Universe Survey"
+    },
+    "2304.02015": {
+        "arxivId": "2304.02015",
+        "title": "How well do Large Language Models perform in Arithmetic tasks?"
+    },
+    "2305.16934": {
+        "arxivId": "2305.16934",
+        "title": "On Evaluating Adversarial Robustness of Large Vision-Language Models"
+    },
+    "2309.11998": {
+        "arxivId": "2309.11998",
+        "title": "LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset"
+    },
+    "2304.01938": {
+        "arxivId": "2304.01938",
+        "title": "Evaluating large language models on a highly-specialized topic, radiation oncology physics"
+    },
+    "2305.17306": {
+        "arxivId": "2305.17306",
+        "title": "Chain-of-Thought Hub: A Continuous Effort to Measure Large Language Models' Reasoning Performance"
+    },
+    "2306.04181": {
+        "arxivId": "2306.04181",
+        "title": "Benchmarking Foundation Models with Language-Model-as-an-Examiner"
+    },
+    "2307.00184": {
+        "arxivId": "2307.00184",
+        "title": "Personality Traits in Large Language Models"
+    },
+    "2304.02210": {
+        "arxivId": "2304.02210",
+        "title": "Document-Level Machine Translation with Large Language Models"
+    },
+    "2306.05715": {
+        "arxivId": "2306.05715",
+        "title": "Exploring the Responses of Large Language Models to Beginner Programmers\u2019 Help Requests"
+    },
+    "2305.13711": {
+        "arxivId": "2305.13711",
+        "title": "LLM-Eval: Unified Multi-Dimensional Automatic Evaluation for Open-Domain Conversations with Large Language Models"
+    },
+    "2304.07333": {
+        "arxivId": "2304.07333",
+        "title": "The Self-Perception and Political Biases of ChatGPT"
+    },
+    "2303.16421": {
+        "arxivId": "2303.16421",
+        "title": "ChatGPT Is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models"
+    },
+    "2308.01862": {
+        "arxivId": "2308.01862",
+        "title": "Wider and Deeper LLM Networks are Fairer LLM Evaluators"
+    },
+    "2211.08073": {
+        "arxivId": "2211.08073",
+        "title": "GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective"
+    },
+    "2305.12474": {
+        "arxivId": "2305.12474",
+        "title": "Evaluating the Performance of Large Language Models on GAOKAO Benchmark"
+    },
+    "2307.09705": {
+        "arxivId": "2307.09705",
+        "title": "CValues: Measuring the Values of Chinese Large Language Models from Safety to Responsibility"
+    },
+    "2306.05179": {
+        "arxivId": "2306.05179",
+        "title": "M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models"
+    },
+    "2302.06706": {
+        "arxivId": "2302.06706",
+        "title": "On the Planning Abilities of Large Language Models (A Critical Investigation with a Proposed Benchmark)"
+    },
+    "2205.00445": {
+        "arxivId": "2205.00445",
+        "title": "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning"
+    },
+    "2305.15269": {
+        "arxivId": "2305.15269",
+        "title": "Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples"
+    },
+    "2305.11171": {
+        "arxivId": "2305.11171",
+        "title": "TrueTeacher: Learning Factual Consistency Evaluation with Large Language Models"
+    },
+    "2304.00723": {
+        "arxivId": "2304.00723",
+        "title": "Exploring the Use of Large Language Models for Reference-Free Text Quality Evaluation: A Preliminary Empirical Study"
+    },
+    "2106.06052": {
+        "arxivId": "2106.06052",
+        "title": "Dynaboard: An Evaluation-As-A-Service Platform for Holistic Next-Generation Benchmarking"
+    },
+    "2309.07045": {
+        "arxivId": "2309.07045",
+        "title": "SafetyBench: Evaluating the Safety of Large Language Models with Multiple Choice Questions"
+    },
+    "2308.08833": {
+        "arxivId": "2308.08833",
+        "title": "CMB: A Comprehensive Medical Benchmark in Chinese"
+    },
+    "2305.14938": {
+        "arxivId": "2305.14938",
+        "title": "Do LLMs Understand Social Knowledge? Evaluating the Sociability of Large Language Models with SocKET Benchmark"
+    },
+    "2306.07799": {
+        "arxivId": "2306.07799",
+        "title": "ChatGPT vs Human-authored Text: Insights into Controllable Text Summarization and Sentence Style Transfer"
+    },
+    "2306.09296": {
+        "arxivId": "2306.09296",
+        "title": "KoLA: Carefully Benchmarking World Knowledge of Large Language Models"
+    },
+    "2306.04757": {
+        "arxivId": "2306.04757",
+        "title": "InstructEval: Towards Holistic Evaluation of Instruction-Tuned Large Language Models"
+    },
+    "2306.09841": {
+        "arxivId": "2306.09841",
+        "title": "Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation From Deductive, Inductive and Abductive Views"
+    },
+    "2307.09042": {
+        "arxivId": "2307.09042",
+        "title": "Emotional intelligence of Large Language Models"
+    },
+    "2306.01248": {
+        "arxivId": "2306.01248",
+        "title": "How Ready are Pre-trained Abstractive Models and LLMs for Legal Case Judgement Summarization?"
+    },
+    "2306.05783": {
+        "arxivId": "2306.05783",
+        "title": "Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation"
+    },
+    "2306.03090": {
+        "arxivId": "2306.03090",
+        "title": "Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction"
+    },
+    "2301.12868": {
+        "arxivId": "2301.12868",
+        "title": "On Robustness of Prompt-based Semantic Parsing with Large Pre-trained Language Model: An Empirical Study on Codex"
+    },
+    "2209.12106": {
+        "arxivId": "2209.12106",
+        "title": "Moral Mimicry: Large Language Models Produce Moral Rationalizations Tailored to Political Identity"
+    },
+    "2306.04618": {
+        "arxivId": "2306.04618",
+        "title": "Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations"
+    },
+    "2306.01337": {
+        "arxivId": "2306.01337",
+        "title": "MathChat: Converse to Tackle Challenging Math Problems with LLM Agents"
+    },
+    "2306.07075": {
+        "arxivId": "2306.07075",
+        "title": "Large language models as tax attorneys: a case study in legal capabilities emergence"
+    },
+    "2305.11700": {
+        "arxivId": "2305.11700",
+        "title": "Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights"
+    },
+    "2305.18365": {
+        "arxivId": "2305.18365",
+        "title": "What indeed can GPT models do in chemistry? A comprehensive benchmark on eight tasks"
+    },
+    "2305.15074": {
+        "arxivId": "2305.15074",
+        "title": "Have LLMs Advanced Enough? A Challenging Problem Solving Benchmark For Large Language Models"
+    },
+    "2303.02155": {
+        "arxivId": "2303.02155",
+        "title": "ChatGPT and Other Large Language Models as Evolutionary Engines for Online Interactive Collaborative Game Design"
+    },
+    "2301.11596": {
+        "arxivId": "2301.11596",
+        "title": "ThoughtSource: A central hub for large language model reasoning data"
+    },
+    "2306.11507": {
+        "arxivId": "2306.11507",
+        "title": "TrustGPT: A Benchmark for Trustworthy and Responsible Large Language Models"
+    },
+    "2305.16151": {
+        "arxivId": "2305.16151",
+        "title": "Understanding the Capabilities of Large Language Models for Automated Planning"
+    },
+    "2308.03656": {
+        "arxivId": "2308.03656",
+        "title": "Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench"
+    },
+    "2306.01694": {
+        "arxivId": "2306.01694",
+        "title": "Evaluating Language Models for Mathematics through Interactions"
+    },
+    "2309.09150": {
+        "arxivId": "2309.09150",
+        "title": "Can Large Language Models Understand Real-World Complex Instructions?"
+    },
+    "2303.07142": {
+        "arxivId": "2303.07142",
+        "title": "Large Language Models in the Workplace: A Case Study on Prompt Engineering for Job Type Classification"
+    },
+    "2205.09148": {
+        "arxivId": "2205.09148",
+        "title": "DDXPlus: A New Dataset For Automatic Medical Diagnosis"
+    },
+    "2307.13692": {
+        "arxivId": "2307.13692",
+        "title": "ARB: Advanced Reasoning Benchmark for Large Language Models"
+    },
+    "2305.16837": {
+        "arxivId": "2305.16837",
+        "title": "ChatGPT: A Study on its Utility for Ubiquitous Software Engineering Tasks"
+    },
+    "2306.10512": {
+        "arxivId": "2306.10512",
+        "title": "From Static Benchmarks to Adaptive Testing: Psychometrics in AI Evaluation"
+    },
+    "2301.12307": {
+        "arxivId": "2301.12307",
+        "title": "MQAG: Multiple-choice Question Answering and Generation for Assessing Information Consistency in Summarization"
+    },
+    "2212.02774": {
+        "arxivId": "2212.02774",
+        "title": "Adaptive Testing of Computer Vision Models"
+    },
+    "2306.02408": {
+        "arxivId": "2306.02408",
+        "title": "Evaluating and Improving Tool-Augmented Computation-Intensive Math Reasoning"
+    },
+    "2307.01135": {
+        "arxivId": "2307.01135",
+        "title": "ChatGPT vs. Google: A Comparative Study of Search Performance and User Experience"
+    },
+    "2304.00228": {
+        "arxivId": "2304.00228",
+        "title": "Accuracy and Political Bias of News Source Credibility Ratings by Large Language Models"
+    },
+    "2306.16636": {
+        "arxivId": "2306.16636",
+        "title": "CMATH: Can Your Language Model Pass Chinese Elementary School Math Test?"
+    },
+    "2306.04504": {
+        "arxivId": "2306.04504",
+        "title": "Evaluation of ChatGPT on Biomedical Tasks: A Zero-Shot Comparison with Fine-Tuned Generative Transformers"
+    },
+    "2306.04308": {
+        "arxivId": "2306.04308",
+        "title": "Personality testing of GPT-3: Limited temporal reliability, but highlighted social desirability of GPT-3's personality instruments results"
+    },
+    "2305.10263": {
+        "arxivId": "2305.10263",
+        "title": "M3KE: A Massive Multi-Level Multi-Subject Knowledge Evaluation Benchmark for Chinese Large Language Models"
+    },
+    "2305.01181": {
+        "arxivId": "2305.01181",
+        "title": "A Paradigm Shift: The Future of Machine Translation Lies with Large Language Models"
+    },
+    "2306.13651": {
+        "arxivId": "2306.13651",
+        "title": "Bring Your Own Data! Self-Supervised Evaluation for Large Language Models"
+    },
+    "2306.06331": {
+        "arxivId": "2306.06331",
+        "title": "Investigating the Effectiveness of ChatGPT in Mathematical Reasoning and Problem Solving: Evidence from the Vietnamese National High School Graduation Examination"
+    },
+    "2305.11792": {
+        "arxivId": "2305.11792",
+        "title": "Chain-of-thought prompting for responding to in-depth dialogue questions with LLM"
+    },
+    "2306.04563": {
+        "arxivId": "2306.04563",
+        "title": "ChatGPT is fun, but it is not funny! Humor is still challenging Large Language Models"
+    },
+    "2306.07622": {
+        "arxivId": "2306.07622",
+        "title": "Human-Like Intuitive Behavior and Reasoning Biases Emerged in Language Models - and Disappeared in GPT-4"
+    },
+    "2303.12057": {
+        "arxivId": "2303.12057",
+        "title": "Large Language Models Can Be Used to Estimate the Ideologies of Politicians in a Zero-Shot Learning Setting"
+    },
+    "2304.01457": {
+        "arxivId": "2304.01457",
+        "title": "Exploring Vision-Language Models for Imbalanced Learning"
+    },
+    "2307.00112": {
+        "arxivId": "2307.00112",
+        "title": "Performance of ChatGPT on USMLE: Unlocking the Potential of Large Language Models for AI-Assisted Medical Education"
+    },
+    "2306.08997": {
+        "arxivId": "2306.08997",
+        "title": "Exploring the MIT Mathematics and EECS Curriculum Using Large Language Models"
+    },
+    "2305.14693": {
+        "arxivId": "2305.14693",
+        "title": "Have Large Language Models Developed a Personality?: Applicability of Self-Assessment Tests in Measuring Personality in LLMs"
+    },
+    "2311.15296": {
+        "arxivId": "2311.15296",
+        "title": "UHGEval: Benchmarking the Hallucination of Chinese Large Language Models via Unconstrained Generation"
+    },
+    "2305.11262": {
+        "arxivId": "2305.11262",
+        "title": "CHBias: Bias Evaluation and Mitigation of Chinese Conversational Language Models"
+    },
+    "2306.01590": {
+        "arxivId": "2306.01590",
+        "title": "An Evaluation of Log Parsing with ChatGPT"
+    },
+    "2306.15261": {
+        "arxivId": "2306.15261",
+        "title": "A Survey on Out-of-Distribution Evaluation of Neural NLP Models"
+    },
+    "2306.06264": {
+        "arxivId": "2306.06264",
+        "title": "Measuring and Modifying Factual Knowledge in Large Language Models"
+    },
+    "2306.02864": {
+        "arxivId": "2306.02864",
+        "title": "Leveraging Large Language Models for Topic Classification in the Domain of Public Affairs"
+    },
+    "2302.12297": {
+        "arxivId": "2302.12297",
+        "title": "Dynamic Benchmarking of Masked Language Models on Temporal Concept Drift with Multiple Views"
+    },
+    "2306.02549": {
+        "arxivId": "2306.02549",
+        "title": "Evaluation of AI Chatbots for Patient-Specific EHR Questions"
+    },
+    "2204.01906": {
+        "arxivId": "2204.01906",
+        "title": "Dynatask: A Framework for Creating Dynamic AI Benchmark Tasks"
+    },
+    "2306.01499": {
+        "arxivId": "2306.01499",
+        "title": "Can LLMs like GPT-4 outperform traditional AI tools in dementia diagnosis? Maybe, but not today"
+    },
+    "2304.07849": {
+        "arxivId": "2304.07849",
+        "title": "ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human"
+    },
+    "2111.08181": {
+        "arxivId": "2111.08181",
+        "title": "Adversarially Constructed Evaluation Sets Are More Challenging, but May Not Be Fair"
+    },
+    "2305.12421": {
+        "arxivId": "2305.12421",
+        "title": "Evaluating Open Question Answering Evaluation"
+    },
+    "2310.02174": {
+        "arxivId": "2310.02174",
+        "title": "Ask Again, Then Fail: Large Language Models' Vacillations in Judgement"
+    },
+    "2309.11737": {
+        "arxivId": "2309.11737",
+        "title": "Choice-75: A Dataset on Decision Branching in Script Learning"
+    },
+    "2305.15268": {
+        "arxivId": "2305.15268",
+        "title": "EvEval: A Comprehensive Evaluation of Event Semantics for Large Language Models"
+    },
+    "2306.04926": {
+        "arxivId": "2306.04926",
+        "title": "covLLM: Large Language Models for COVID-19 Biomedical Literature"
+    },
+    "2306.04610": {
+        "arxivId": "2306.04610",
+        "title": "The Two Word Test: A Semantic Benchmark for Large Language Models"
+    }
+}

@@ -1,0 +1,3294 @@
+{
+    "2201.11903": {
+        "arxivId": "2201.11903",
+        "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models"
+    },
+    "2005.11401": {
+        "arxivId": "2005.11401",
+        "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks"
+    },
+    "2009.03300": {
+        "arxivId": "2009.03300",
+        "title": "Measuring Massive Multitask Language Understanding"
+    },
+    "2110.14168": {
+        "arxivId": "2110.14168",
+        "title": "Training verifiers to solve math word problems"
+    },
+    "2304.03442": {
+        "arxivId": "2304.03442",
+        "title": "Generative agents: Interactive simulacra of human behavior"
+    },
+    "2305.10601": {
+        "arxivId": "2305.10601",
+        "title": "Tree of thoughts: Deliberate problem solving with large language models"
+    },
+    "2312.10997": {
+        "arxivId": "2312.10997",
+        "title": "Retrieval-Augmented Generation for Large Language Models: A Survey"
+    },
+    "2303.11366": {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: an autonomous agent with dynamic memory and self-reflection"
+    },
+    "2308.11432": {
+        "arxivId": "2308.11432",
+        "title": "A survey on large language model based autonomous agents"
+    },
+    "2101.02235": {
+        "arxivId": "2101.02235",
+        "title": "Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies"
+    },
+    "2309.07864": {
+        "arxivId": "2309.07864",
+        "title": "The Rise and Potential of Large Language Model Based Agents: A Survey"
+    },
+    "2308.00352": {
+        "arxivId": "2308.00352",
+        "title": "MetaGPT: Meta programming for multi-agent collaborative framework"
+    },
+    "2308.08155": {
+        "arxivId": "2308.08155",
+        "title": "AutoGen: Enabling next-gen LLM applications via multi-agent conversation framework"
+    },
+    "2305.14325": {
+        "arxivId": "2305.14325",
+        "title": "Improving factuality and reasoning in language models through multiagent debate"
+    },
+    "2210.02406": {
+        "arxivId": "2210.02406",
+        "title": "Decomposed Prompting: A Modular Approach for Solving Complex Tasks"
+    },
+    "2311.05232": {
+        "arxivId": "2311.05232",
+        "title": "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions"
+    },
+    "2308.07201": {
+        "arxivId": "2308.07201",
+        "title": "ChatEval: Towards better LLM-based evaluators through multi-agent debate"
+    },
+    "2303.17760": {
+        "arxivId": "2303.17760",
+        "title": "CAMEL: Communicative Agents for \"Mind\" Exploration of Large Scale Language Model Society"
+    },
+    "2208.10264": {
+        "arxivId": "2208.10264",
+        "title": "Using large language models to simulate multiple humans and replicate human subject studies"
+    },
+    "2307.07924": {
+        "arxivId": "2307.07924",
+        "title": "Communicative agents for software development"
+    },
+    "2208.04024": {
+        "arxivId": "2208.04024",
+        "title": "Social simulacra: Creating populated prototypes for social computing systems"
+    },
+    "2304.07590": {
+        "arxivId": "2304.07590",
+        "title": "Self-collaboration code generation via ChatGPT"
+    },
+    "2305.03514": {
+        "arxivId": "2305.03514",
+        "title": "Can large language models transform computational social science?"
+    },
+    "2308.10848": {
+        "arxivId": "2308.10848",
+        "title": "AgentVerse: Facilitating multi-agent collaboration and exploring emergent behaviors in agents"
+    },
+    "2301.07543": {
+        "arxivId": "2301.07543",
+        "title": "Large language models as simulated economic agents: What can we learn from homo silicus?"
+    },
+    "2309.04658": {
+        "arxivId": "2309.04658",
+        "title": "Exploring large language models for communication games: An empirical study on werewolf"
+    },
+    "2307.02485": {
+        "arxivId": "2307.02485",
+        "title": "Building cooperative embodied agents modularly with large language models"
+    },
+    "2309.02427": {
+        "arxivId": "2309.02427",
+        "title": "Cognitive architectures for language agents"
+    },
+    "2305.16867": {
+        "arxivId": "2305.16867",
+        "title": "Playing repeated games with large language models"
+    },
+    "2304.08244": {
+        "arxivId": "2304.08244",
+        "title": "API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs"
+    },
+    "2310.02170": {
+        "arxivId": "2310.02170",
+        "title": "Dynamic LLM-agent network: An LLM-agent collaboration framework with agent team optimization"
+    },
+    "2307.14984": {
+        "arxivId": "2307.14984",
+        "title": "S3: Social-network simulation system with large language model-empowered agents"
+    },
+    "2311.10537": {
+        "arxivId": "2311.10537",
+        "title": "MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning"
+    },
+    "2310.02124": {
+        "arxivId": "2310.02124",
+        "title": "Exploring collaboration mechanisms for LLM agents: A social psychology view"
+    },
+    "2307.04738": {
+        "arxivId": "2307.04738",
+        "title": "RoCo: Dialectic multi-robot collaboration with large language models"
+    },
+    "2103.04044": {
+        "arxivId": "2103.04044",
+        "title": "Putting humans in the natural language processing loop: A survey"
+    },
+    "2310.11667": {
+        "arxivId": "2310.11667",
+        "title": "SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents"
+    },
+    "2309.07870": {
+        "arxivId": "2309.07870",
+        "title": "Agents: An open-source framework for autonomous language agents"
+    },
+    "2311.17227": {
+        "arxivId": "2311.17227",
+        "title": "War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars"
+    },
+    "2310.06500": {
+        "arxivId": "2310.06500",
+        "title": "MetaAgents: Simulating interactions of human behaviors for LLM-based task-oriented coordination via collaborative generative agents"
+    },
+    "2312.13010": {
+        "arxivId": "2312.13010",
+        "title": "AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation"
+    },
+    "2310.10634": {
+        "arxivId": "2310.10634",
+        "title": "OpenAgents: An open platform for language agents in the wild"
+    },
+    "2302.00763": {
+        "arxivId": "2302.00763",
+        "title": "Collaborating with language models for embodied reasoning"
+    },
+    "2307.15810": {
+        "arxivId": "2307.15810",
+        "title": "Understanding the benefits and challenges of using large language model-based conversational agents for mental well-being support"
+    },
+    "2309.17288": {
+        "arxivId": "2309.17288",
+        "title": "AutoAgents: A Framework for Automatic Agent Generation"
+    },
+    "2310.18940": {
+        "arxivId": "2310.18940",
+        "title": "Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game"
+    },
+    "2308.11339": {
+        "arxivId": "2308.11339",
+        "title": "ProAgent: Building Proactive Cooperative Agents with Large Language Models"
+    },
+    "2309.09971": {
+        "arxivId": "2309.09971",
+        "title": "MindAgent: Emergent gaming interaction"
+    },
+    "2310.01320": {
+        "arxivId": "2310.01320",
+        "title": "Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation"
+    },
+    "2309.15943": {
+        "arxivId": "2309.15943",
+        "title": "Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems?"
+    },
+    "2310.17512": {
+        "arxivId": "2310.17512",
+        "title": "CompeteAI: Understanding the Competition Behaviors in Large Language Model-based Agents"
+    },
+    "2312.05488": {
+        "arxivId": "2312.05488",
+        "title": "Can Large Language Models Serve as Rational Players in Game Theory? A Systematic Analysis"
+    },
+    "2305.18365": {
+        "arxivId": "2305.18365",
+        "title": "What indeed can GPT models do in chemistry? A comprehensive benchmark on eight tasks"
+    },
+    "2310.10701": {
+        "arxivId": "2310.10701",
+        "title": "Theory of Mind for Multi-Agent Collaboration via Large Language Models"
+    },
+    "2305.11595": {
+        "arxivId": "2305.11595",
+        "title": "Examining the inter-consistency of large language models: An in-depth analysis via debate"
+    },
+    "2310.09233": {
+        "arxivId": "2310.09233",
+        "title": "AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems"
+    },
+    "2310.10436": {
+        "arxivId": "2310.10436",
+        "title": "Large Language Model-Empowered Agents for Simulating Macroeconomic Activities"
+    },
+    "2305.14386": {
+        "arxivId": "2305.14386",
+        "title": "Let GPT be a Math Tutor: Teaching Math Word Problem Solvers with Customized Exercise Generation"
+    },
+    "2307.06187": {
+        "arxivId": "2307.06187",
+        "title": "Self-Adaptive Large Language Model (LLM)-Based Multiagent Systems"
+    },
+    "2310.10108": {
+        "arxivId": "2310.10108",
+        "title": "On generative agents in recommendation"
+    },
+    "2307.04986": {
+        "arxivId": "2307.04986",
+        "title": "Epidemic modeling with generative agents"
+    },
+    "2308.03427": {
+        "arxivId": "2308.03427",
+        "title": "TPTU: Task planning and tool usage of large language model-based AI agents"
+    },
+    "2309.03736": {
+        "arxivId": "2309.03736",
+        "title": "TradingGPT: Multi-agent system with layered memory and distinct characters for enhanced financial trading performance"
+    },
+    "2310.02172": {
+        "arxivId": "2310.02172",
+        "title": "Lyfe agents: Generative agents for low-cost real-time social interactions"
+    },
+    "2311.08562": {
+        "arxivId": "2311.08562",
+        "title": "MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration"
+    },
+    "2310.07937": {
+        "arxivId": "2310.07937",
+        "title": "Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation using Large Language Models"
+    },
+    "2310.08901": {
+        "arxivId": "2310.08901",
+        "title": "Welfare diplomacy: Benchmarking language model cooperation"
+    },
+    "2308.03313": {
+        "arxivId": "2308.03313",
+        "title": "Quantifying the impact of large language models on collective opinion dynamics"
+    },
+    "2307.07871": {
+        "arxivId": "2307.07871",
+        "title": "The SocialAI School: Insights from developmental psychology towards artificial socio-cultural agents"
+    },
+    "2310.20151": {
+        "arxivId": "2310.20151",
+        "title": "Multi-Agent Consensus Seeking via Large Language Models"
+    },
+    "2307.10337": {
+        "arxivId": "2307.10337",
+        "title": "Are you in a masquerade? Exploring the behavior and impact of large language model driven social bots in online social networks"
+    },
+    "1612.00796": {
+        "arxivId": "1612.00796",
+        "title": "Overcoming catastrophic forgetting in neural networks"
+    },
+    "2104.08691": {
+        "arxivId": "2104.08691",
+        "title": "The Power of Scale for Parameter-Efficient Prompt Tuning"
+    },
+    "2004.07780": {
+        "arxivId": "2004.07780",
+        "title": "Shortcut learning in deep neural networks"
+    },
+    "2202.03629": {
+        "arxivId": "2202.03629",
+        "title": "Survey of hallucination in natural language generation"
+    },
+    "2212.13138": {
+        "arxivId": "2212.13138",
+        "title": "Large language models encode clinical knowledge"
+    },
+    "2109.07958": {
+        "arxivId": "2109.07958",
+        "title": "TruthfulQA: Measuring How Models Mimic Human Falsehoods"
+    },
+    "2302.04023": {
+        "arxivId": "2302.04023",
+        "title": "A multitask, multilingual, multimodal evaluation of chatgpt on reasoning, hallucination, and interactivity"
+    },
+    "2104.08786": {
+        "arxivId": "2104.08786",
+        "title": "Fantastically ordered prompts and where to find them: Overcoming few-shot prompt order sensitivity"
+    },
+    "2106.10199": {
+        "arxivId": "2106.10199",
+        "title": "BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models"
+    },
+    "2306.02858": {
+        "arxivId": "2306.02858",
+        "title": "Video-LLaMA: An instruction-tuned audio-visual language model for video understanding"
+    },
+    "2005.00052": {
+        "arxivId": "2005.00052",
+        "title": "MAD-X: An Adapter-based Framework for Multi-task Cross-lingual Transfer"
+    },
+    "2202.13169": {
+        "arxivId": "2202.13169",
+        "title": "A systematic evaluation of large language models of code"
+    },
+    "2212.10403": {
+        "arxivId": "2212.10403",
+        "title": "Towards reasoning in large language models: A survey"
+    },
+    "2209.06899": {
+        "arxivId": "2209.06899",
+        "title": "Out of one, many: Using language models to simulate human samples"
+    },
+    "2308.09687": {
+        "arxivId": "2308.09687",
+        "title": "Graph of thoughts: Solving elaborate problems with large language models"
+    },
+    "2108.11896": {
+        "arxivId": "2108.11896",
+        "title": "A Survey on Automated Fact-Checking"
+    },
+    "2010.15980": {
+        "arxivId": "2010.15980",
+        "title": "Eliciting Knowledge from Language Models Using Automatically Generated Prompts"
+    },
+    "2305.14992": {
+        "arxivId": "2305.14992",
+        "title": "Reasoning with language model is planning with world model"
+    },
+    "2112.07916": {
+        "arxivId": "2112.07916",
+        "title": "LongT5: Efficient text-to-text transformer for long sequences"
+    },
+    "2309.00770": {
+        "arxivId": "2309.00770",
+        "title": "Bias and Fairness in Large Language Models: A Survey"
+    },
+    "2212.10509": {
+        "arxivId": "2212.10509",
+        "title": "Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions"
+    },
+    "2304.05376": {
+        "arxivId": "2304.05376",
+        "title": "Augmenting large language models with chemistry tools"
+    },
+    "2305.05658": {
+        "arxivId": "2305.05658",
+        "title": "TidyBot: Personalized Robot Assistance with Large Language Models"
+    },
+    "2210.08726": {
+        "arxivId": "2210.08726",
+        "title": "RARR: Researching and Revising What Language Models Say, Using Language Models"
+    },
+    "2305.00447": {
+        "arxivId": "2305.00447",
+        "title": "TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation"
+    },
+    "2305.13172": {
+        "arxivId": "2305.13172",
+        "title": "Editing large language models: Problems, methods, and opportunities"
+    },
+    "2305.11000": {
+        "arxivId": "2305.11000",
+        "title": "SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities"
+    },
+    "2104.06683": {
+        "arxivId": "2104.06683",
+        "title": "The Curious Case of Hallucinations in Neural Machine Translation"
+    },
+    "2210.07128": {
+        "arxivId": "2210.07128",
+        "title": "Language models of code are few-shot commonsense learners"
+    },
+    "2303.16434": {
+        "arxivId": "2303.16434",
+        "title": "TaskMatrix.AI: Completing tasks by connecting foundation models with millions of APIs"
+    },
+    "2301.13379": {
+        "arxivId": "2301.13379",
+        "title": "Faithful chain-of-thought reasoning"
+    },
+    "2305.02182": {
+        "arxivId": "2305.02182",
+        "title": "Uncovering ChatGPT\u2019s Capabilities in Recommender Systems"
+    },
+    "2304.01933": {
+        "arxivId": "2304.01933",
+        "title": "LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models"
+    },
+    "2304.12995": {
+        "arxivId": "2304.12995",
+        "title": "AudioGPT: Understanding and generating speech, music, sound, and talking head"
+    },
+    "2305.06983": {
+        "arxivId": "2305.06983",
+        "title": "Active Retrieval Augmented Generation"
+    },
+    "2305.14739": {
+        "arxivId": "2305.14739",
+        "title": "Trusting Your Evidence: Hallucinate Less with Context-aware Decoding"
+    },
+    "1910.10486": {
+        "arxivId": "1910.10486",
+        "title": "Does Gender Matter? Towards Fairness in Dialogue Systems"
+    },
+    "2305.15294": {
+        "arxivId": "2305.15294",
+        "title": "Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy"
+    },
+    "2308.14921": {
+        "arxivId": "2308.14921",
+        "title": "Gender bias and stereotypes in Large Language Models"
+    },
+    "2308.10144": {
+        "arxivId": "2308.10144",
+        "title": "Expel: LLM agents are experiential learners"
+    },
+    "2309.11495": {
+        "arxivId": "2309.11495",
+        "title": "Chain-of-verification reduces hallucination in large language models"
+    },
+    "2402.01680": {
+        "arxivId": "2402.01680",
+        "title": "Large Language Model based Multi-Agents: A Survey of Progress and Challenges"
+    },
+    "2311.00423": {
+        "arxivId": "2311.00423",
+        "title": "LLMRec: Large Language Models with Graph Augmentation for Recommendation"
+    },
+    "2310.09219": {
+        "arxivId": "2310.09219",
+        "title": "\"Kelly is a Warm Person, Joseph is a Role Model\": Gender Biases in LLM-Generated Reference Letters"
+    },
+    "2308.08742": {
+        "arxivId": "2308.08742",
+        "title": "PMET: Precise Model Editing in a Transformer"
+    },
+    "2305.13661": {
+        "arxivId": "2305.13661",
+        "title": "On the Risk of Misinformation Pollution with Large Language Models"
+    },
+    "2305.16843": {
+        "arxivId": "2305.16843",
+        "title": "Randomized positional encodings boost length generalization of transformers"
+    },
+    "2307.05300": {
+        "arxivId": "2307.05300",
+        "title": "Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration"
+    },
+    "2305.10250": {
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing large language models with long-term memory"
+    },
+    "2203.07540": {
+        "arxivId": "2203.07540",
+        "title": "Scienceworld: Is your agent smarter than a 5th grader?"
+    },
+    "2208.11857": {
+        "arxivId": "2208.11857",
+        "title": "Shortcut Learning of Large Language Models in Natural Language Understanding"
+    },
+    "1802.01604": {
+        "arxivId": "1802.01604",
+        "title": "Learning from richer human guidance: Augmenting comparison-based learning with feature queries"
+    },
+    "2308.14296": {
+        "arxivId": "2308.14296",
+        "title": "RecMind: Large Language Model Powered Agent For Recommendation"
+    },
+    "2303.09752": {
+        "arxivId": "2303.09752",
+        "title": "ColT5: Faster long-range transformers with conditional computation"
+    },
+    "2205.12586": {
+        "arxivId": "2205.12586",
+        "title": "Perturbation Augmentation for Fairer NLP"
+    },
+    "2204.02515": {
+        "arxivId": "2204.02515",
+        "title": "Inferring rewards from language in context"
+    },
+    "2309.09709": {
+        "arxivId": "2309.09709",
+        "title": "CATR: Combinatorial-Dependence Audio-Queried Transformer for Audio-Visual Video Segmentation"
+    },
+    "2305.17256": {
+        "arxivId": "2305.17256",
+        "title": "Large Language Models Can be Lazy Learners: Analyze Shortcuts in In-Context Learning"
+    },
+    "2308.00121": {
+        "arxivId": "2308.00121",
+        "title": "Getting pwn\u2019d by AI: Penetration Testing with Large Language Models"
+    },
+    "2311.13314": {
+        "arxivId": "2311.13314",
+        "title": "Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting"
+    },
+    "2211.07067": {
+        "arxivId": "2211.07067",
+        "title": "Retrieval-Augmented Generative Question Answering for Event Argument Extraction"
+    },
+    "2310.13243": {
+        "arxivId": "2310.13243",
+        "title": "Open-source Large Language Models are Strong Zero-shot Query Likelihood Models for Document Ranking"
+    },
+    "2305.17590": {
+        "arxivId": "2305.17590",
+        "title": "Integrating action knowledge and LLMs for task planning and situation handling in open worlds"
+    },
+    "2201.08643": {
+        "arxivId": "2201.08643",
+        "title": "Text Style Transfer for Bias Mitigation using Masked Language Modeling"
+    },
+    "2109.11708": {
+        "arxivId": "2109.11708",
+        "title": "Detect and Perturb: Neutral Rewriting of Biased and Sensitive Text via Gradient-based Decoding"
+    },
+    "2104.07429": {
+        "arxivId": "2104.07429",
+        "title": "First the Worst: Finding Better Gender Translations During Beam Search"
+    },
+    "2401.02500": {
+        "arxivId": "2401.02500",
+        "title": "On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS)"
+    },
+    "2308.01542": {
+        "arxivId": "2308.01542",
+        "title": "Memory sandbox: Transparent and interactive memory management for conversational agents"
+    },
+    "2310.18347": {
+        "arxivId": "2310.18347",
+        "title": "PRCA: Fitting Black-Box Large Language Models for Retrieval Question Answering via Pluggable Reward-Driven Contextual Adapter"
+    },
+    "2305.15212": {
+        "arxivId": "2305.15212",
+        "title": "Towards Adaptive Prefix Tuning for Parameter-Efficient Language Model Fine-tuning"
+    },
+    "2305.02012": {
+        "arxivId": "2305.02012",
+        "title": "A Perspective on Explainable Artificial Intelligence Methods: SHAP and LIME"
+    },
+    "2211.11109": {
+        "arxivId": "2211.11109",
+        "title": "Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness"
+    },
+    "2311.08648": {
+        "arxivId": "2311.08648",
+        "title": "Explore Spurious Correlations at the Concept Level in Language Models for Text Classification"
+    },
+    "2305.19912": {
+        "arxivId": "2305.19912",
+        "title": "Structure-Aware Language Model Pretraining Improves Dense Retrieval on Structured Data"
+    },
+    "2210.05499": {
+        "arxivId": "2210.05499",
+        "title": "Capturing global structural information in long document question answering with compressive graph selector network"
+    },
+    "2203.14207": {
+        "arxivId": "2203.14207",
+        "title": "Text Adversarial Purification as Defense against Adversarial Attacks"
+    },
+    "1706.03762": {
+        "arxivId": "1706.03762",
+        "title": "Attention is all you need"
+    },
+    "2307.09288": {
+        "arxivId": "2307.09288",
+        "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models"
+    },
+    "2106.09685": {
+        "arxivId": "2106.09685",
+        "title": "LoRA: Low-Rank Adaptation of Large Language Models"
+    },
+    "2204.02311": {
+        "arxivId": "2204.02311",
+        "title": "PaLM: Scaling Language Modeling with Pathways"
+    },
+    "1706.02275": {
+        "arxivId": "1706.02275",
+        "title": "Multi-agent actor-critic for mixed cooperative-competitive environments"
+    },
+    "2107.03374": {
+        "arxivId": "2107.03374",
+        "title": "Evaluating large language models trained on code"
+    },
+    "1706.03741": {
+        "arxivId": "1706.03741",
+        "title": "Deep reinforcement learning from human preferences"
+    },
+    "1605.06676": {
+        "arxivId": "1605.06676",
+        "title": "Learning to Communicate with Deep Multi-Agent Reinforcement Learning"
+    },
+    "2204.01691": {
+        "arxivId": "2204.01691",
+        "title": "Do as I can, not as I say: Grounding language in robotic affordances"
+    },
+    "2108.07732": {
+        "arxivId": "2108.07732",
+        "title": "Program synthesis with large language models"
+    },
+    "2303.03378": {
+        "arxivId": "2303.03378",
+        "title": "Palm-e: An embodied multimodal language model"
+    },
+    "1605.07736": {
+        "arxivId": "1605.07736",
+        "title": "Learning Multiagent Communication with Backpropagation"
+    },
+    "2103.03874": {
+        "arxivId": "2103.03874",
+        "title": "Measuring Mathematical Problem Solving With the MATH Dataset"
+    },
+    "2103.01955": {
+        "arxivId": "2103.01955",
+        "title": "The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games"
+    },
+    "2201.07207": {
+        "arxivId": "2201.07207",
+        "title": "Language models as zero-shot planners: Extracting actionable knowledge for embodied agents"
+    },
+    "1610.03295": {
+        "arxivId": "1610.03295",
+        "title": "Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving"
+    },
+    "1905.05408": {
+        "arxivId": "1905.05408",
+        "title": "QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning"
+    },
+    "1703.04908": {
+        "arxivId": "1703.04908",
+        "title": "Emergence of Grounded Compositional Language in Multi-Agent Populations"
+    },
+    "1812.11794": {
+        "arxivId": "1812.11794",
+        "title": "Deep Reinforcement Learning for Multiagent Systems: A Review of Challenges, Solutions, and Applications"
+    },
+    "2003.08839": {
+        "arxivId": "2003.08839",
+        "title": "Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning"
+    },
+    "1810.05587": {
+        "arxivId": "1810.05587",
+        "title": "A survey and critique of multiagent deep reinforcement learning"
+    },
+    "1805.07733": {
+        "arxivId": "1805.07733",
+        "title": "Learning Attentional Communication for Multi-Agent Cooperation"
+    },
+    "2008.02275": {
+        "arxivId": "2008.02275",
+        "title": "Aligning AI With Shared Human Values"
+    },
+    "2008.01062": {
+        "arxivId": "2008.01062",
+        "title": "QPLEX: Duplex Dueling Multi-Agent Q-Learning"
+    },
+    "1810.11187": {
+        "arxivId": "1810.11187",
+        "title": "TarMAC: Targeted Multi-Agent Communication"
+    },
+    "2006.10800": {
+        "arxivId": "2006.10800",
+        "title": "Weighted QMIX: Expanding Monotonic Value Function Factorisation"
+    },
+    "2109.08238": {
+        "arxivId": "2109.08238",
+        "title": "Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI"
+    },
+    "1906.03926": {
+        "arxivId": "1906.03926",
+        "title": "A Survey of Reinforcement Learning Informed by Natural Language"
+    },
+    "1706.06122": {
+        "arxivId": "1706.06122",
+        "title": "VAIN: Attentional Multi-agent Predictive Modeling"
+    },
+    "1906.07343": {
+        "arxivId": "1906.07343",
+        "title": "Language as an Abstraction for Hierarchical Deep Reinforcement Learning"
+    },
+    "2006.02419": {
+        "arxivId": "2006.02419",
+        "title": "Emergent Multi-Agent Communication in the Deep Learning Era"
+    },
+    "2007.12322": {
+        "arxivId": "2007.12322",
+        "title": "Off-Policy Multi-Agent Decomposed Policy Gradients"
+    },
+    "2304.01904": {
+        "arxivId": "2304.01904",
+        "title": "REFINER: Reasoning Feedback on Intermediate Representations"
+    },
+    "2010.09890": {
+        "arxivId": "2010.09890",
+        "title": "Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration"
+    },
+    "1910.01465": {
+        "arxivId": "1910.01465",
+        "title": "Reducing Overestimation Bias in Multi-Agent Domains Using Double Centralized Critics"
+    },
+    "1701.04079": {
+        "arxivId": "1701.04079",
+        "title": "Agent-Agnostic Human-in-the-Loop Reinforcement Learning"
+    },
+    "2308.02151": {
+        "arxivId": "2308.02151",
+        "title": "Retroformer: Retrospective large language agents with policy gradient optimization"
+    },
+    "2402.02242": {
+        "arxivId": "2402.02242",
+        "title": "Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey"
+    },
+    "2311.05772": {
+        "arxivId": "2311.05772",
+        "title": "ADaPT: As-Needed Decomposition and Planning with Language Models"
+    },
+    "2309.10062": {
+        "arxivId": "2309.10062",
+        "title": "SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models"
+    },
+    "2209.15189": {
+        "arxivId": "2209.15189",
+        "title": "Learning by Distilling Context"
+    },
+    "2008.06924": {
+        "arxivId": "2008.06924",
+        "title": "Inverse Reinforcement Learning with Natural Language Goals"
+    },
+    "2312.08636": {
+        "arxivId": "2312.08636",
+        "title": "MmAP : Multi-modal Alignment Prompt for Cross-domain Multi-task Learning"
+    },
+    "2312.08733": {
+        "arxivId": "2312.08733",
+        "title": "VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense Scene Understanding"
+    },
+    "2403.17343": {
+        "arxivId": "2403.17343",
+        "title": "Residual-based Language Models are Free Boosters for Biomedical Imaging Tasks"
+    },
+    "2212.10670": {
+        "arxivId": "2212.10670",
+        "title": "In-context Learning Distillation: Transferring Few-shot Learning Ability of Pre-trained Language Models"
+    },
+    "2004.02780": {
+        "arxivId": "2004.02780",
+        "title": "Networked Multi-Agent Reinforcement Learning with Emergent Communication"
+    },
+    "2404.00282": {
+        "arxivId": "2404.00282",
+        "title": "Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods"
+    },
+    "2403.11807": {
+        "arxivId": "2403.11807",
+        "title": "How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments"
+    },
+    "2403.13786": {
+        "arxivId": "2403.13786",
+        "title": "Chain-of-Interaction: Enhancing Large Language Models for Psychiatric Behavior Understanding by Dyadic Contexts"
+    },
+    "2403.19839": {
+        "arxivId": "2403.19839",
+        "title": "The New Agronomists: Language Models are Experts in Crop Management"
+    },
+    "2403.12482": {
+        "arxivId": "2403.12482",
+        "title": "Embodied LLM Agents Learn to Cooperate in Organized Teams"
+    },
+    "2112.10752": {
+        "arxivId": "2112.10752",
+        "title": "High-Resolution Image Synthesis with Latent Diffusion Models"
+    },
+    "2304.02643": {
+        "arxivId": "2304.02643",
+        "title": "Segment Anything"
+    },
+    "2201.12086": {
+        "arxivId": "2201.12086",
+        "title": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation"
+    },
+    "2301.12597": {
+        "arxivId": "2301.12597",
+        "title": "BLIP-2: Bootstrapping language-image pre-training with frozen image encoders and large language models"
+    },
+    "2305.06500": {
+        "arxivId": "2305.06500",
+        "title": "InstructBLIP: Towards general-purpose vision-language models with instruction tuning"
+    },
+    "2302.04761": {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language models can teach themselves to use tools"
+    },
+    "2303.05499": {
+        "arxivId": "2303.05499",
+        "title": "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
+    },
+    "2303.17580": {
+        "arxivId": "2303.17580",
+        "title": "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face"
+    },
+    "2303.04671": {
+        "arxivId": "2303.04671",
+        "title": "Visual ChatGPT: Talking, drawing and editing with visual foundation models"
+    },
+    "2307.16789": {
+        "arxivId": "2307.16789",
+        "title": "ToolLLM: Facilitating large language models to master 16000+ real-world APIs"
+    },
+    "2303.08128": {
+        "arxivId": "2303.08128",
+        "title": "ViperGPT: Visual Inference via Python Execution for Reasoning"
+    },
+    "2303.11381": {
+        "arxivId": "2303.11381",
+        "title": "MM-REACT: Prompting ChatGPT for multimodal reasoning and action"
+    },
+    "2211.11559": {
+        "arxivId": "2211.11559",
+        "title": "Visual Programming: Compositional visual reasoning without training"
+    },
+    "2203.11991": {
+        "arxivId": "2203.11991",
+        "title": "Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework"
+    },
+    "2302.01560": {
+        "arxivId": "2302.01560",
+        "title": "Describe, explain, plan and select: Interactive planning with large language models enables open-world multi-task agents"
+    },
+    "2304.09842": {
+        "arxivId": "2304.09842",
+        "title": "Chameleon: Plug-and-play compositional reasoning with large language models"
+    },
+    "2305.18752": {
+        "arxivId": "2305.18752",
+        "title": "GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction"
+    },
+    "2310.01415": {
+        "arxivId": "2310.01415",
+        "title": "GPT-Driver: Learning to Drive with GPT"
+    },
+    "2307.07162": {
+        "arxivId": "2307.07162",
+        "title": "Drive Like a Human: Rethinking Autonomous Driving with Large Language Models"
+    },
+    "2312.13771": {
+        "arxivId": "2312.13771",
+        "title": "AppAgent: Multimodal Agents as Smartphone Users"
+    },
+    "2311.12983": {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+    },
+    "2401.13649": {
+        "arxivId": "2401.13649",
+        "title": "VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks"
+    },
+    "2311.05437": {
+        "arxivId": "2311.05437",
+        "title": "LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents"
+    },
+    "2311.07562": {
+        "arxivId": "2311.07562",
+        "title": "GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation"
+    },
+    "2402.01622": {
+        "arxivId": "2402.01622",
+        "title": "TravelPlanner: A Benchmark for Real-World Planning with Language Agents"
+    },
+    "2311.05997": {
+        "arxivId": "2311.05997",
+        "title": "JARVIS-1: Open-world multi-task agents with memory-augmented multimodal language models"
+    },
+    "2101.06175": {
+        "arxivId": "2101.06175",
+        "title": "PaddleSeg: A High-Efficient Development Toolkit for Image Segmentation"
+    },
+    "2311.05332": {
+        "arxivId": "2311.05332",
+        "title": "On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving"
+    },
+    "2306.07691": {
+        "arxivId": "2306.07691",
+        "title": "StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models"
+    },
+    "2309.11436": {
+        "arxivId": "2309.11436",
+        "title": "You Only Look at Screens: Multimodal Chain-of-Action Agents"
+    },
+    "2306.08640": {
+        "arxivId": "2306.08640",
+        "title": "AssistGPT: A general multi-modal assistant that can plan, execute, inspect, and learn"
+    },
+    "2310.16436": {
+        "arxivId": "2310.16436",
+        "title": "DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models"
+    },
+    "2401.16158": {
+        "arxivId": "2401.16158",
+        "title": "Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception"
+    },
+    "2111.00607": {
+        "arxivId": "2111.00607",
+        "title": "A Systematic Investigation of Commonsense Knowledge in Large Language Models"
+    },
+    "2402.07456": {
+        "arxivId": "2402.07456",
+        "title": "OS-Copilot: Towards Generalist Computer Agents with Self-Improvement"
+    },
+    "2308.06374": {
+        "arxivId": "2308.06374",
+        "title": "Large Language Models and Knowledge Graphs: Opportunities and Challenges"
+    },
+    "2310.14414": {
+        "arxivId": "2310.14414",
+        "title": "Vision Language Models in Autonomous Driving and Intelligent Transportation Systems"
+    },
+    "2310.10021": {
+        "arxivId": "2310.10021",
+        "title": "Bootstrap your own skills: Learning to solve new tasks with large language model guidance"
+    },
+    "2310.01557": {
+        "arxivId": "2310.01557",
+        "title": "SmartPlay : A Benchmark for LLMs as Intelligent Agents"
+    },
+    "2304.14407": {
+        "arxivId": "2304.14407",
+        "title": "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System"
+    },
+    "2309.17428": {
+        "arxivId": "2309.17428",
+        "title": "CRAFT: Customizing LLMs by creating and retrieving from specialized toolsets"
+    },
+    "2310.15166": {
+        "arxivId": "2310.15166",
+        "title": "Large Language Models are Visual Reasoning Coordinators"
+    },
+    "2308.15272": {
+        "arxivId": "2308.15272",
+        "title": "AutoDroid: LLM-powered Task Automation in Android"
+    },
+    "2310.08588": {
+        "arxivId": "2310.08588",
+        "title": "Octopus: Embodied Vision-Language Programmer from Environmental Feedback"
+    },
+    "2402.05930": {
+        "arxivId": "2402.05930",
+        "title": "WebLINX: Real-World Website Navigation with Multi-Turn Dialogue"
+    },
+    "2309.11382": {
+        "arxivId": "2309.11382",
+        "title": "Discuss Before Moving: Visual Language Navigation via Multi-expert Discussions"
+    },
+    "2311.00571": {
+        "arxivId": "2311.00571",
+        "title": "LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing"
+    },
+    "2304.07061": {
+        "arxivId": "2304.07061",
+        "title": "DroidBot-GPT: GPT-powered UI Automation for Android"
+    },
+    "2310.09291": {
+        "arxivId": "2310.09291",
+        "title": "Vision-by-Language for Training-Free Compositional Image Retrieval"
+    },
+    "2401.08392": {
+        "arxivId": "2401.08392",
+        "title": "DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models"
+    },
+    "2312.07472": {
+        "arxivId": "2312.07472",
+        "title": "MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception"
+    },
+    "2307.14335": {
+        "arxivId": "2307.14335",
+        "title": "WavJourney: Compositional Audio Creation with Large Language Models"
+    },
+    "2312.13108": {
+        "arxivId": "2312.13108",
+        "title": "ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation"
+    },
+    "2311.16714": {
+        "arxivId": "2311.16714",
+        "title": "Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld"
+    },
+    "2311.15209": {
+        "arxivId": "2311.15209",
+        "title": "See and Think: Embodied Agent in Virtual Environment"
+    },
+    "2312.10908": {
+        "arxivId": "2312.10908",
+        "title": "CLOVA: A Closed-LOop Visual Assistant with Tool Usage and Update"
+    },
+    "2310.07343": {
+        "arxivId": "2310.07343",
+        "title": "How Do Large Language Models Capture the Ever-changing World Knowledge? A Review of Recent Advances"
+    },
+    "2310.12404": {
+        "arxivId": "2310.12404",
+        "title": "Loop Copilot: Conducting AI Ensembles for Music Generation and Iterative Editing"
+    },
+    "2312.15918": {
+        "arxivId": "2312.15918",
+        "title": "Supervised Knowledge Makes Large Language Models Better In-context Learners"
+    },
+    "cs/9605103": {
+        "arxivId": "cs/9605103",
+        "title": "Reinforcement learning: A survey"
+    },
+    "2002.00444": {
+        "arxivId": "2002.00444",
+        "title": "Deep reinforcement learning for autonomous driving: A survey"
+    },
+    "2303.18223": {
+        "arxivId": "2303.18223",
+        "title": "A survey of large language models"
+    },
+    "2303.12712": {
+        "arxivId": "2303.12712",
+        "title": "Sparks of artificial general intelligence: Early experiments with GPT-4"
+    },
+    "1810.04805": {
+        "arxivId": "1810.04805",
+        "title": "BERT: Pre-training of deep bidirectional transformers for language understanding"
+    },
+    "2303.08774": {
+        "arxivId": "2303.08774",
+        "title": "GPT-4 technical report"
+    },
+    "2305.17066": {
+        "arxivId": "2305.17066",
+        "title": "Mindstorms in natural language-based societies of mind"
+    },
+    "2301.05327": {
+        "arxivId": "2301.05327",
+        "title": "Blind judgement: Agent-based supreme court modelling with GPT"
+    },
+    "2112.15594": {
+        "arxivId": "2112.15594",
+        "title": "A neural network solves, explains, and generates university math problems by program synthesis and few-shot learning at human level"
+    },
+    "2304.10750": {
+        "arxivId": "2304.10750",
+        "title": "Improving grounded language understanding in a collaborative environment by interacting with agents through help feedback"
+    },
+    "2304.14354": {
+        "arxivId": "2304.14354",
+        "title": "Industrial engineering with large language models: A case study of chatgpt's performance on oil & gas problems"
+    },
+    "2301.12050": {
+        "arxivId": "2301.12050",
+        "title": "Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making using Language Guided World Modelling"
+    },
+    "2212.04088": {
+        "arxivId": "2212.04088",
+        "title": "LLM-planner: Few-shot grounded planning for embodied agents with large language models"
+    },
+    "2305.16291": {
+        "arxivId": "2305.16291",
+        "title": "Voyager: An open-ended embodied agent with large language models"
+    },
+    "2306.07929": {
+        "arxivId": "2306.07929",
+        "title": "Large language model is semi-parametric reinforcement learning agent"
+    },
+    "2307.09668": {
+        "arxivId": "2307.09668",
+        "title": "Towards a unified agent with foundation models"
+    },
+    "2304.05332": {
+        "arxivId": "2304.05332",
+        "title": "Emergent autonomous scientific research capabilities of large language models"
+    },
+    "2304.14721": {
+        "arxivId": "2304.14721",
+        "title": "Towards autonomous system: flexible modular production system enhanced with large language model agents"
+    },
+    "2210.00720": {
+        "arxivId": "2210.00720",
+        "title": "Complexity-based prompting for multi-step reasoning"
+    },
+    "2210.03493": {
+        "arxivId": "2210.03493",
+        "title": "Automatic chain of thought prompting in large language models"
+    },
+    "2205.11916": {
+        "arxivId": "2205.11916",
+        "title": "Large language models are zero-shot reasoners"
+    },
+    "2203.11171": {
+        "arxivId": "2203.11171",
+        "title": "Self-consistency improves chain of thought reasoning in language models"
+    },
+    "2205.10625": {
+        "arxivId": "2205.10625",
+        "title": "Least-to-most prompting enables complex reasoning in large language models"
+    },
+    "2307.15337": {
+        "arxivId": "2307.15337",
+        "title": "Skeleton-of-thought: Large language models can do parallel decoding"
+    },
+    "2304.09797": {
+        "arxivId": "2304.09797",
+        "title": "Progressive-hint prompting improves reasoning in large language models"
+    },
+    "2303.17651": {
+        "arxivId": "2303.17651",
+        "title": "Self-refine: Iterative refinement with self-feedback"
+    },
+    "2304.11477": {
+        "arxivId": "2304.11477",
+        "title": "LLM+P: empowering large language models with optimal planning proficiency"
+    },
+    "2308.06391": {
+        "arxivId": "2308.06391",
+        "title": "Dynamic planning with a LLM"
+    },
+    "2308.09830": {
+        "arxivId": "2308.09830",
+        "title": "Synergistic integration of large language models and cognitive architectures for robust AI: An exploratory analysis"
+    },
+    "2305.17390": {
+        "arxivId": "2305.17390",
+        "title": "SwiftSage: A generative agent with fast and slow thinking for complex interactive tasks"
+    },
+    "2301.00234": {
+        "arxivId": "2301.00234",
+        "title": "A survey for in-context learning"
+    },
+    "2305.14909": {
+        "arxivId": "2305.14909",
+        "title": "Leveraging pre-trained large language models to construct and utilize world models for model-based task planning"
+    },
+    "2305.14078": {
+        "arxivId": "2305.14078",
+        "title": "Large language models as commonsense knowledge for large-scale task planning"
+    },
+    "2310.03051": {
+        "arxivId": "2310.03051",
+        "title": "How far are large language models from agents with theory-of-mind?"
+    },
+    "2310.04406": {
+        "arxivId": "2310.04406",
+        "title": "Language agent tree search unifies reasoning acting and planning in language models"
+    },
+    "2307.07697": {
+        "arxivId": "2307.07697",
+        "title": "Think-on-graph: Deep and responsible reasoning of large language model on knowledge graph"
+    },
+    "2310.08560": {
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as operating systems"
+    },
+    "2306.07863": {
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-exemplar prompting with memory for computer control"
+    },
+    "2210.03629": {
+        "arxivId": "2210.03629",
+        "title": "React: Synergizing reasoning and acting in language models"
+    },
+    "2302.02676": {
+        "arxivId": "2302.02676",
+        "title": "Chain of hindsight aligns language models with feedback"
+    },
+    "2305.20050": {
+        "arxivId": "2305.20050",
+        "title": "Let's verify step by step"
+    },
+    "2305.11598": {
+        "arxivId": "2305.11598",
+        "title": "Introspective tips: Large language model for in-context decision making"
+    },
+    "2308.07921": {
+        "arxivId": "2308.07921",
+        "title": "Solving challenging math word problems using GPT-4 code interpreter with code-based self-verification"
+    },
+    "2210.03821": {
+        "arxivId": "2210.03821",
+        "title": "Large language models can implement policy iteration"
+    },
+    "2206.02336": {
+        "arxivId": "2206.02336",
+        "title": "On the advance of making language models better reasoners"
+    },
+    "2309.17382": {
+        "arxivId": "2309.17382",
+        "title": "Reason for future, act for now: A principled framework for autonomous LLM agents with provable sample efficiency"
+    },
+    "1707.06347": {
+        "arxivId": "1707.06347",
+        "title": "Proximal policy optimization algorithms"
+    },
+    "2303.17491": {
+        "arxivId": "2303.17491",
+        "title": "Language models can solve computer tasks"
+    },
+    "2307.13854": {
+        "arxivId": "2307.13854",
+        "title": "Webarena: A realistic web environment for building autonomous agents"
+    },
+    "2112.09332": {
+        "arxivId": "2112.09332",
+        "title": "Webgpt: Browser-assisted question-answering with human feedback"
+    },
+    "2305.19308": {
+        "arxivId": "2305.19308",
+        "title": "SheetCopilot: Bringing software productivity to the next level through large language models"
+    },
+    "2308.04026": {
+        "arxivId": "2308.04026",
+        "title": "AgentSims: An open-source sandbox for large language model evaluation"
+    },
+    "2309.17234": {
+        "arxivId": "2309.17234",
+        "title": "LLM-Deliberation: Evaluating LLMs with Interactive Multi-Agent Negotiation Games"
+    },
+    "2308.00245": {
+        "arxivId": "2308.00245",
+        "title": "The hitchhiker's guide to program analysis: A journey with large language models"
+    },
+    "2307.01848": {
+        "arxivId": "2307.01848",
+        "title": "Embodied task planning with large language models"
+    },
+    "2309.06719": {
+        "arxivId": "2309.06719",
+        "title": "TrafficGPT: Viewing, processing and interacting with traffic foundation models"
+    },
+    "2310.05746": {
+        "arxivId": "2310.05746",
+        "title": "Put your money where your mouth is: Evaluating strategic planning and execution of LLM agents in an auction arena"
+    },
+    "2205.00445": {
+        "arxivId": "2205.00445",
+        "title": "MRKL systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning"
+    },
+    "2205.12255": {
+        "arxivId": "2205.12255",
+        "title": "TALM: Tool augmented language models"
+    },
+    "2305.15334": {
+        "arxivId": "2305.15334",
+        "title": "Gorilla: Large language model connected with massive APIs"
+    },
+    "2306.06624": {
+        "arxivId": "2306.06624",
+        "title": "RestGPT: Connecting large language models with real-world applications via RESTful APIs"
+    },
+    "2308.05481": {
+        "arxivId": "2308.05481",
+        "title": "LLM as DBA"
+    },
+    "2305.14323": {
+        "arxivId": "2305.14323",
+        "title": "ChatCoT: Tool-augmented chain-of-thought reasoning on chat-based large language models"
+    },
+    "2308.04030": {
+        "arxivId": "2308.04030",
+        "title": "Gentopia: A collaborative platform for tool-augmented LLMs"
+    },
+    "2305.17126": {
+        "arxivId": "2305.17126",
+        "title": "Large language models as tool makers"
+    },
+    "2308.05960": {
+        "arxivId": "2308.05960",
+        "title": "BOLAA: Benchmarking and orchestrating LLM-augmented autonomous agents"
+    },
+    "2308.12503": {
+        "arxivId": "2308.12503",
+        "title": "CGMI: configurable general multi-agent interaction framework"
+    },
+    "2305.19118": {
+        "arxivId": "2305.19118",
+        "title": "Encouraging divergent thinking in large language models through multi-agent debate"
+    },
+    "2307.02757": {
+        "arxivId": "2307.02757",
+        "title": "Wireless multi-agent generative AI: From connected intelligence to collective intelligence"
+    },
+    "2308.01552": {
+        "arxivId": "2308.01552",
+        "title": "Interact: Exploring the potentials of chatgpt as a cooperative agent"
+    },
+    "2010.03768": {
+        "arxivId": "2010.03768",
+        "title": "ALFWorld: Aligning text and embodied environments for interactive learning"
+    },
+    "2310.00280": {
+        "arxivId": "2310.00280",
+        "title": "CoreX: Pushing the boundaries of complex reasoning through multi-model collaboration"
+    },
+    "1910.05789": {
+        "arxivId": "1910.05789",
+        "title": "On the utility of learning about humans for human-ai coordination"
+    },
+    "1906.00744": {
+        "arxivId": "1906.00744",
+        "title": "Hierarchical decision making by generating and following natural language instructions"
+    },
+    "2308.03958": {
+        "arxivId": "2308.03958",
+        "title": "Simple synthetic data reduces sycophancy in large language models"
+    },
+    "2309.05922": {
+        "arxivId": "2309.05922",
+        "title": "A survey of hallucination in large foundation models"
+    },
+    "1809.09600": {
+        "arxivId": "1809.09600",
+        "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering"
+    },
+    "2105.09938": {
+        "arxivId": "2105.09938",
+        "title": "Measuring coding challenge competence with APPS"
+    },
+    "2207.01206": {
+        "arxivId": "2207.01206",
+        "title": "Webshop: Towards scalable real-world web interaction with grounded language agents"
+    },
+    "1803.05355": {
+        "arxivId": "1803.05355",
+        "title": "FEVER: A large-scale dataset for fact extraction and verification"
+    },
+    "2304.08354": {
+        "arxivId": "2304.08354",
+        "title": "Tool learning with foundation models"
+    },
+    "1910.11215": {
+        "arxivId": "1910.11215",
+        "title": "RoboNet: Large-scale multi-robot learning"
+    },
+    "2308.12952": {
+        "arxivId": "2308.12952",
+        "title": "BridgeData v2: A dataset for robot learning at scale"
+    },
+    "2310.03128": {
+        "arxivId": "2310.03128",
+        "title": "MetaTool benchmark for large language models: Deciding whether to use tools and which to use"
+    },
+    "2306.15626": {
+        "arxivId": "2306.15626",
+        "title": "LeanDojo: Theorem proving with retrieval-augmented language models"
+    },
+    "2309.05689": {
+        "arxivId": "2309.05689",
+        "title": "Large language model for science: A study on P vs. NP"
+    },
+    "2309.02726": {
+        "arxivId": "2309.02726",
+        "title": "Large language models for automated open-domain scientific hypotheses discovery"
+    },
+    "2309.17452": {
+        "arxivId": "2309.17452",
+        "title": "TORA: A tool-integrated reasoning agent for mathematical problem solving"
+    },
+    "1810.08678": {
+        "arxivId": "1810.08678",
+        "title": "Optimization of molecules via deep reinforcement learning"
+    },
+    "1806.02473": {
+        "arxivId": "1806.02473",
+        "title": "Graph convolutional policy network for goal-directed molecular graph generation"
+    },
+    "2310.04292": {
+        "arxivId": "2310.04292",
+        "title": "Towards foundational models for molecular learning on large-scale multi-task datasets"
+    },
+    "2203.04115": {
+        "arxivId": "2203.04115",
+        "title": "Biological sequence design with GFlowNets"
+    },
+    "2310.02031": {
+        "arxivId": "2310.02031",
+        "title": "OceanGPT: A large language model for ocean science tasks"
+    },
+    "2304.00116": {
+        "arxivId": "2304.00116",
+        "title": "Enhancing large language models with climate resources"
+    },
+    "2309.00986": {
+        "arxivId": "2309.00986",
+        "title": "ModelScope-Agent: Building your customizable agent system with open-source large language models"
+    },
+    "2305.12487": {
+        "arxivId": "2305.12487",
+        "title": "Augmenting autotelic agents with large language models"
+    },
+    "2305.15393": {
+        "arxivId": "2305.15393",
+        "title": "LayoutGPT: Compositional visual planning and generation with large language models"
+    },
+    "2310.05029": {
+        "arxivId": "2310.05029",
+        "title": "Walking down the memory maze: Beyond context limit through interactive reading"
+    },
+    "2205.06760": {
+        "arxivId": "2205.06760",
+        "title": "Emergent bartering behaviour in multi-agent reinforcement learning"
+    },
+    "2004.13332": {
+        "arxivId": "2004.13332",
+        "title": "The AI Economist: Improving equality and productivity with AI-driven tax policies"
+    },
+    "2308.00016": {
+        "arxivId": "2308.00016",
+        "title": "Alpha-GPT: Human-AI interactive alpha mining for quantitative investment"
+    },
+    "2108.02904": {
+        "arxivId": "2108.02904",
+        "title": "Building a foundation for data-driven, interpretable, and robust policy design using the AI Economist"
+    },
+    "2305.16960": {
+        "arxivId": "2305.16960",
+        "title": "Training socially aligned language models in simulated human society"
+    },
+    "2304.13835": {
+        "arxivId": "2304.13835",
+        "title": "Multi-party chat: Conversational agents in group settings with humans and models"
+    },
+    "2308.15197": {
+        "arxivId": "2308.15197",
+        "title": "Where would I go next? Large language models as human mobility predictors"
+    },
+    "2310.11761": {
+        "arxivId": "2310.11761",
+        "title": "A comprehensive evaluation of large language models on legal judgment prediction"
+    },
+    "2310.05418": {
+        "arxivId": "2310.05418",
+        "title": "Humanoid agents: Platform for simulating human-like generative agents"
+    },
+    "2305.20076": {
+        "arxivId": "2305.20076",
+        "title": "Decision-oriented dialogue for human-ai collaboration"
+    },
+    "2307.12856": {
+        "arxivId": "2307.12856",
+        "title": "A real-world webagent with planning, long context understanding, and program synthesis"
+    },
+    "2305.03403": {
+        "arxivId": "2305.03403",
+        "title": "LLMs for semi-automated data science: Introducing CAAFE for context-aware automated feature engineering"
+    },
+    "2306.05152": {
+        "arxivId": "2306.05152",
+        "title": "Towards autonomous testing agents via conversational large language models"
+    },
+    "2310.16340": {
+        "arxivId": "2310.16340",
+        "title": "RCAgent: Cloud root cause analysis by autonomous agents with tool-augmented large language models"
+    },
+    "2306.02552": {
+        "arxivId": "2306.02552",
+        "title": "RecAgent: A novel simulation paradigm for recommender systems"
+    },
+    "2305.13455": {
+        "arxivId": "2305.13455",
+        "title": "CLEMBench: Using game play to evaluate chat-optimized language models as conversational agents"
+    },
+    "2310.08067": {
+        "arxivId": "2310.08067",
+        "title": "GameGPT: Multi-agent collaborative framework for game development"
+    },
+    "2209.11302": {
+        "arxivId": "2209.11302",
+        "title": "ProgPrompt: Generating situated robot task plans using large language models"
+    },
+    "2207.05608": {
+        "arxivId": "2207.05608",
+        "title": "Inner monologue: Embodied reasoning through planning with language models"
+    },
+    "2305.10626": {
+        "arxivId": "2305.10626",
+        "title": "Language models meet world models: Embodied experiences enhance language models"
+    },
+    "2307.12981": {
+        "arxivId": "2307.12981",
+        "title": "3D-LLM: Injecting the 3D world into large language models"
+    },
+    "1903.04527": {
+        "arxivId": "1903.04527",
+        "title": "Multi-agent deep reinforcement learning for large-scale traffic signal control"
+    },
+    "2309.16292": {
+        "arxivId": "2309.16292",
+        "title": "Dilu: A knowledge-driven approach to autonomous driving with large language models"
+    },
+    "2308.10435": {
+        "arxivId": "2308.10435",
+        "title": "GPT-in-the-loop: Adaptive decision-making for multiagent systems"
+    },
+    "2308.03688": {
+        "arxivId": "2308.03688",
+        "title": "AgentBench: Evaluating LLMs as agents"
+    },
+    "2308.03656": {
+        "arxivId": "2308.03656",
+        "title": "Emotionally numb or empathetic? Evaluating how LLMs feel using EmotionBench"
+    },
+    "2305.14985": {
+        "arxivId": "2305.14985",
+        "title": "IdealGPT: Iteratively decomposing vision and language reasoning via large language models"
+    },
+    "2309.17421": {
+        "arxivId": "2309.17421",
+        "title": "The dawn of LMMs: Preliminary explorations with GPT-4V(ision)"
+    },
+    "2310.09478": {
+        "arxivId": "2310.09478",
+        "title": "MiniGPT-v2: Large language model as a unified interface for vision-language multi-task learning"
+    },
+    "2304.08485": {
+        "arxivId": "2304.08485",
+        "title": "Visual instruction tuning"
+    },
+    "2307.03172": {
+        "arxivId": "2307.03172",
+        "title": "Lost in the Middle: How Language Models Use Long Contexts"
+    },
+    "2309.01219": {
+        "arxivId": "2309.01219",
+        "title": "Siren's song in the AI ocean: A survey on hallucination in large language models"
+    },
+    "2310.03094": {
+        "arxivId": "2310.03094",
+        "title": "Large language model cascades with mixture of thoughts representations for cost-efficient reasoning"
+    },
+    "2308.05391": {
+        "arxivId": "2308.05391",
+        "title": "Enhancing trust in LLM-based AI automation agents: New considerations and future challenges"
+    },
+    "2309.15817": {
+        "arxivId": "2309.15817",
+        "title": "Identifying the risks of LM agents with an LM-emulated sandbox"
+    },
+    "2305.17144": {
+        "arxivId": "2305.17144",
+        "title": "Ghost in the Minecraft: Generally capable agents for open-world environments via large language models with text-based knowledge and memory"
+    },
+    "2305.02412": {
+        "arxivId": "2305.02412",
+        "title": "Plan, eliminate, and track - language models are good teachers for embodied agents"
+    },
+    "2306.08129": {
+        "arxivId": "2306.08129",
+        "title": "AVIS: Autonomous Visual Information Seeking with Large Language Models"
+    },
+    "2310.04353": {
+        "arxivId": "2310.04353",
+        "title": "An In-Context Learning Agent for Formal Theorem-Proving"
+    },
+    "2309.17277": {
+        "arxivId": "2309.17277",
+        "title": "Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4"
+    },
+    "2308.14284": {
+        "arxivId": "2308.14284",
+        "title": "Prompt to Transfer: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning"
+    },
+    "2305.13246": {
+        "arxivId": "2305.13246",
+        "title": "Interactive natural language processing"
+    },
+    "2203.02155": {
+        "arxivId": "2203.02155",
+        "title": "Training language models to follow instructions with human feedback"
+    },
+    "2206.07682": {
+        "arxivId": "2206.07682",
+        "title": "Emergent abilities of large language models"
+    },
+    "2004.10151": {
+        "arxivId": "2004.10151",
+        "title": "Experience grounds language"
+    },
+    "2005.14165": {
+        "arxivId": "2005.14165",
+        "title": "Language models are few-shot learners"
+    },
+    "2010.11939": {
+        "arxivId": "2010.11939",
+        "title": "Limitations of autoregressive models and their alternatives"
+    },
+    "2212.01681": {
+        "arxivId": "2212.01681",
+        "title": "Language models as agent models"
+    },
+    "2306.12672": {
+        "arxivId": "2306.12672",
+        "title": "From word models to world models: Translating from natural language to the probabilistic language of thought"
+    },
+    "1704.01444": {
+        "arxivId": "1704.01444",
+        "title": "Learning to generate reviews and discovering sentiment"
+    },
+    "2106.00737": {
+        "arxivId": "2106.00737",
+        "title": "Implicit representations of meaning in neural language models"
+    },
+    "1701.07274": {
+        "arxivId": "1701.07274",
+        "title": "Deep reinforcement learning: An overview"
+    },
+    "1312.5602": {
+        "arxivId": "1312.5602",
+        "title": "Playing atari with deep reinforcement learning"
+    },
+    "1810.00123": {
+        "arxivId": "1810.00123",
+        "title": "Generalization and regularization in DQN"
+    },
+    "1804.06893": {
+        "arxivId": "1804.06893",
+        "title": "A study on overfitting in deep reinforcement learning"
+    },
+    "1806.10729": {
+        "arxivId": "1806.10729",
+        "title": "Illuminating generalization in deep reinforcement learning through procedural level generation"
+    },
+    "2107.06277": {
+        "arxivId": "2107.06277",
+        "title": "Why generalization in RL is difficult: Epistemic pomdps and implicit partial observability"
+    },
+    "1511.06342": {
+        "arxivId": "1511.06342",
+        "title": "Actor-mimic: Deep multitask and transfer reinforcement learning"
+    },
+    "2009.07888": {
+        "arxivId": "2009.07888",
+        "title": "Transfer learning in deep reinforcement learning: A survey"
+    },
+    "1703.03400": {
+        "arxivId": "1703.03400",
+        "title": "Model-agnostic meta-learning for fast adaptation of deep networks"
+    },
+    "1802.07245": {
+        "arxivId": "1802.07245",
+        "title": "Meta-reinforcement learning of structured exploration strategies"
+    },
+    "1903.08254": {
+        "arxivId": "1903.08254",
+        "title": "Efficient off-policy meta-reinforcement learning via probabilistic context variables"
+    },
+    "1910.00125": {
+        "arxivId": "1910.00125",
+        "title": "Meta-q-learning"
+    },
+    "1810.03548": {
+        "arxivId": "1810.03548",
+        "title": "Meta-learning: A survey"
+    },
+    "1805.10886": {
+        "arxivId": "1805.10886",
+        "title": "Importance weighted transfer of samples in reinforcement learning"
+    },
+    "2301.08028": {
+        "arxivId": "2301.08028",
+        "title": "A survey of meta-reinforcement learning"
+    },
+    "2305.14497": {
+        "arxivId": "2305.14497",
+        "title": "Self-polish: Enhance reasoning in large language models via problem refinement"
+    },
+    "2305.08844": {
+        "arxivId": "2305.08844",
+        "title": "RL4F: generating natural language feedback with reinforcement learning for repairing model outputs"
+    },
+    "2302.12813": {
+        "arxivId": "2302.12813",
+        "title": "Check your facts and try again: Improving large language models with external knowledge and automated feedback"
+    },
+    "2109.01652": {
+        "arxivId": "2109.01652",
+        "title": "Finetuned language models are zero-shot learners"
+    },
+    "2110.08207": {
+        "arxivId": "2110.08207",
+        "title": "Multitask prompted training enables zero-shot task generalization"
+    },
+    "2210.11416": {
+        "arxivId": "2210.11416",
+        "title": "Scaling instruction-finetuned language models"
+    },
+    "2304.00008": {
+        "arxivId": "2304.00008",
+        "title": "On the creativity of large language models"
+    },
+    "2304.10592": {
+        "arxivId": "2304.10592",
+        "title": "Minigpt-4: Enhancing vision-language understanding with advanced large language models"
+    },
+    "2306.13549": {
+        "arxivId": "2306.13549",
+        "title": "A survey on multimodal large language models"
+    },
+    "2305.15021": {
+        "arxivId": "2305.15021",
+        "title": "EmbodiedGPT: Vision-language pre-training via embodied chain of thought"
+    },
+    "2302.06706": {
+        "arxivId": "2302.06706",
+        "title": "On the planning abilities of large language models (A critical investigation with a proposed benchmark)"
+    },
+    "2305.13711": {
+        "arxivId": "2305.13711",
+        "title": "LLM-eval: Unified multi-dimensional automatic evaluation for open-domain conversations with large language models"
+    },
+    "2305.10142": {
+        "arxivId": "2305.10142",
+        "title": "Improving language model negotiation with self-play and in-context learning from AI feedback"
+    },
+    "2304.01746": {
+        "arxivId": "2304.01746",
+        "title": "Is chatgpt a highly fluent grammatical error correction system? A comprehensive evaluation"
+    },
+    "2302.09185": {
+        "arxivId": "2302.09185",
+        "title": "Bounding the capabilities of large language models in open text generation with prompt constraints"
+    },
+    "2305.14763": {
+        "arxivId": "2305.14763",
+        "title": "Clever hans or neural theory of mind? stress testing social reasoning in large language models"
+    },
+    "1602.03483": {
+        "arxivId": "1602.03483",
+        "title": "Learning distributed representations of sentences from unlabelled data"
+    },
+    "1103.0398": {
+        "arxivId": "1103.0398",
+        "title": "Natural language processing (almost) from scratch"
+    },
+    "2001.08361": {
+        "arxivId": "2001.08361",
+        "title": "Scaling laws for neural language models"
+    },
+    "2002.08910": {
+        "arxivId": "2002.08910",
+        "title": "How much knowledge can you pack into the parameters of a language model?"
+    },
+    "2010.05731": {
+        "arxivId": "2010.05731",
+        "title": "Probing pretrained language models for lexical semantics"
+    },
+    "2110.04984": {
+        "arxivId": "2110.04984",
+        "title": "Advances in multi-turn dialogue comprehension: A survey"
+    },
+    "2104.05837": {
+        "arxivId": "2104.05837",
+        "title": "Relational world knowledge representation in contextual language models: A review"
+    },
+    "2211.11501": {
+        "arxivId": "2211.11501",
+        "title": "DS-1000: A natural and reliable benchmark for data science code generation"
+    },
+    "2204.06031": {
+        "arxivId": "2204.06031",
+        "title": "A review on language models as knowledge bases"
+    },
+    "1708.02072": {
+        "arxivId": "1708.02072",
+        "title": "Measuring catastrophic forgetting in neural networks"
+    },
+    "2104.08164": {
+        "arxivId": "2104.08164",
+        "title": "Editing factual knowledge in language models"
+    },
+    "2206.06520": {
+        "arxivId": "2206.06520",
+        "title": "Memory-based model editing at scale"
+    },
+    "2303.08896": {
+        "arxivId": "2303.08896",
+        "title": "SelfCheckGPT: Zero-resource black-box hallucination detection for generative large language models"
+    },
+    "2305.14623": {
+        "arxivId": "2305.14623",
+        "title": "Self-checker: Plug-and-play modules for fact-checking with large language models"
+    },
+    "2305.11738": {
+        "arxivId": "2305.11738",
+        "title": "CRITIC: large language models can self-correct with tool-interactive critiquing"
+    },
+    "1910.13461": {
+        "arxivId": "1910.13461",
+        "title": "BART: denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension"
+    },
+    "2203.11258": {
+        "arxivId": "2203.11258",
+        "title": "Efficient classification of long documents using transformers"
+    },
+    "2304.13343": {
+        "arxivId": "2304.13343",
+        "title": "Unleashing infinite-length input capacity for large-scale language models with self-controlled memory system"
+    },
+    "2305.14322": {
+        "arxivId": "2305.14322",
+        "title": "RET-LLM: towards a general read-write memory for large language models"
+    },
+    "2306.03901": {
+        "arxivId": "2306.03901",
+        "title": "ChatDB: Augmenting LLMs with databases as their symbolic memory"
+    },
+    "2205.09712": {
+        "arxivId": "2205.09712",
+        "title": "Selection-inference: Exploiting large language models for interpretable logical reasoning"
+    },
+    "2110.01691": {
+        "arxivId": "2110.01691",
+        "title": "AI chains: Transparent and controllable human-ai interaction by chaining large language model prompts"
+    },
+    "2303.08268": {
+        "arxivId": "2303.08268",
+        "title": "Chat with the environment: Interactive multimodal perception using large language models"
+    },
+    "2308.00436": {
+        "arxivId": "2308.00436",
+        "title": "SelfCheck: Using LLMs to zero-shot check their own step-by-step reasoning"
+    },
+    "2212.02499": {
+        "arxivId": "2212.02499",
+        "title": "Images speak in images: A generalist painter for in-context visual learning"
+    },
+    "2301.02111": {
+        "arxivId": "2301.02111",
+        "title": "Neural codec language models are zero-shot text to speech synthesizers"
+    },
+    "2211.12701": {
+        "arxivId": "2211.12701",
+        "title": "Continual learning of natural language processing tasks: A survey"
+    },
+    "2302.00487": {
+        "arxivId": "2302.00487",
+        "title": "A comprehensive survey of continual learning: Theory, method and application"
+    },
+    "2301.12314": {
+        "arxivId": "2301.12314",
+        "title": "Progressive prompts: Continual learning for language models"
+    },
+    "2302.13971": {
+        "arxivId": "2302.13971",
+        "title": "LLaMA: Open and efficient foundation language models"
+    },
+    "2211.05100": {
+        "arxivId": "2211.05100",
+        "title": "BLOOM: A 176B-parameter open-access multilingual language model"
+    },
+    "1611.06216": {
+        "arxivId": "1611.06216",
+        "title": "Generative deep neural networks for dialogue: A short review"
+    },
+    "1506.05869": {
+        "arxivId": "1506.05869",
+        "title": "A neural conversational model"
+    },
+    "2001.09977": {
+        "arxivId": "2001.09977",
+        "title": "Towards a human-like open-domain chatbot"
+    },
+    "2004.13637": {
+        "arxivId": "2004.13637",
+        "title": "Recipes for building an open-domain chatbot"
+    },
+    "1910.10683": {
+        "arxivId": "1910.10683",
+        "title": "Exploring the limits of transfer learning with a unified text-to-text transformer"
+    },
+    "2304.04370": {
+        "arxivId": "2304.04370",
+        "title": "OpenAGI: When LLM meets domain experts"
+    },
+    "1606.05250": {
+        "arxivId": "1606.05250",
+        "title": "SQuAD: 100,000+ questions for machine comprehension of text"
+    },
+    "2303.12528": {
+        "arxivId": "2303.12528",
+        "title": "MEGA: Multilingual evaluation of generative AI"
+    },
+    "1909.10705": {
+        "arxivId": "1909.10705",
+        "title": "Do massively pretrained language models make better storytellers?"
+    },
+    "2111.09509": {
+        "arxivId": "2111.09509",
+        "title": "How much do language models copy from their training data? Evaluating linguistic novelty in text generation using RAVEN"
+    },
+    "2009.14715": {
+        "arxivId": "2009.14715",
+        "title": "Learning rewards from linguistic feedback"
+    },
+    "2002.04833": {
+        "arxivId": "2002.04833",
+        "title": "Reward-rational (implicit) choice: A unifying formalism for reward learning"
+    },
+    "2302.00093": {
+        "arxivId": "2302.00093",
+        "title": "Large language models can be easily distracted by irrelevant context"
+    },
+    "2302.07842": {
+        "arxivId": "2302.07842",
+        "title": "Augmented language models: a survey"
+    },
+    "2307.11019": {
+        "arxivId": "2307.11019",
+        "title": "Investigating the factual knowledge boundary of large language models with retrieval augmentation"
+    },
+    "cs/0004001": {
+        "arxivId": "cs/0004001",
+        "title": "A theory of universal artificial intelligence based on algorithmic complexity"
+    },
+    "1905.06566": {
+        "arxivId": "1905.06566",
+        "title": "HIBERT: Document level pre-training of hierarchical bidirectional transformers for document summarization"
+    },
+    "2305.16300": {
+        "arxivId": "2305.16300",
+        "title": "Landmark attention: Random-access infinite context length for transformers"
+    },
+    "2210.05529": {
+        "arxivId": "2210.05529",
+        "title": "An exploration of hierarchical attention transformers for efficient long document classification"
+    },
+    "2305.01625": {
+        "arxivId": "2305.01625",
+        "title": "Unlimiformer: Long-range transformers with unlimited length input"
+    },
+    "2007.14062": {
+        "arxivId": "2007.14062",
+        "title": "Big Bird: Transformers for longer sequences"
+    },
+    "2212.09196": {
+        "arxivId": "2212.09196",
+        "title": "Emergent analogical reasoning in large language models"
+    },
+    "2305.15408": {
+        "arxivId": "2305.15408",
+        "title": "Towards revealing the mystery behind chain of thought: a theoretical perspective"
+    },
+    "2305.18323": {
+        "arxivId": "2305.18323",
+        "title": "ReWOO: Decoupling reasoning from observations for efficient augmented language models"
+    },
+    "2307.06135": {
+        "arxivId": "2307.06135",
+        "title": "SayPlan: Grounding large language models using 3D scene graphs for scalable task planning"
+    },
+    "1802.05365": {
+        "arxivId": "1802.05365",
+        "title": "Deep contextualized word representations"
+    },
+    "2106.10328": {
+        "arxivId": "2106.10328",
+        "title": "Process for adapting language models to society (PALMS) with values-targeted datasets"
+    },
+    "2202.01279": {
+        "arxivId": "2202.01279",
+        "title": "PromptSource: An integrated development environment and repository for natural language prompts"
+    },
+    "2212.12017": {
+        "arxivId": "2212.12017",
+        "title": "OPT-IML: Scaling language model instruction meta learning through the lens of generalization"
+    },
+    "2106.13884": {
+        "arxivId": "2106.13884",
+        "title": "Multimodal few-shot learning with frozen language models"
+    },
+    "2209.00647": {
+        "arxivId": "2209.00647",
+        "title": "Visual prompting via image inpainting"
+    },
+    "2304.04675": {
+        "arxivId": "2304.04675",
+        "title": "Multilingual machine translation with large language models: Empirical results and analysis"
+    },
+    "2303.03926": {
+        "arxivId": "2303.03926",
+        "title": "Speak foreign languages with your own voice: Cross-lingual neural codec language modeling"
+    },
+    "1606.09282": {
+        "arxivId": "1606.09282",
+        "title": "Learning without forgetting"
+    },
+    "1910.07104": {
+        "arxivId": "1910.07104",
+        "title": "Orthogonal gradient descent for continual learning"
+    },
+    "2304.06027": {
+        "arxivId": "2304.06027",
+        "title": "Continual diffusion: Continual customization of text-to-image diffusion with C-LoRA"
+    },
+    "1706.08840": {
+        "arxivId": "1706.08840",
+        "title": "Gradient episodic memory for continual learning"
+    },
+    "1906.01076": {
+        "arxivId": "1906.01076",
+        "title": "Episodic memory in lifelong language learning"
+    },
+    "1811.11682": {
+        "arxivId": "1811.11682",
+        "title": "Experience replay for continual learning"
+    },
+    "1801.01423": {
+        "arxivId": "1801.01423",
+        "title": "Overcoming catastrophic forgetting with hard attention to the task"
+    },
+    "2010.11929": {
+        "arxivId": "2010.11929",
+        "title": "An image is worth 16x16 words: Transformers for image recognition at scale"
+    },
+    "1711.00937": {
+        "arxivId": "1711.00937",
+        "title": "Neural discrete representation learning"
+    },
+    "2110.02178": {
+        "arxivId": "2110.02178",
+        "title": "MobileViT: Light-weight, general-purpose, and mobile-friendly vision transformer"
+    },
+    "2105.01601": {
+        "arxivId": "2105.01601",
+        "title": "MLP-Mixer: An all-MLP architecture for vision"
+    },
+    "2302.14045": {
+        "arxivId": "2302.14045",
+        "title": "Language is not all you need: Aligning perception with language models"
+    },
+    "2305.04790": {
+        "arxivId": "2305.04790",
+        "title": "Multimodal-GPT: A vision and language model for dialogue with humans"
+    },
+    "2204.14198": {
+        "arxivId": "2204.14198",
+        "title": "Flamingo: a visual language model for few-shot learning"
+    },
+    "2305.16355": {
+        "arxivId": "2305.16355",
+        "title": "PandaGPT: One model to instruction-follow them all"
+    },
+    "2104.01778": {
+        "arxivId": "2104.01778",
+        "title": "AST: Audio spectrogram transformer"
+    },
+    "2106.07447": {
+        "arxivId": "2106.07447",
+        "title": "HuBERT: Self-supervised speech representation learning by masked prediction of hidden units"
+    },
+    "2305.04160": {
+        "arxivId": "2305.04160",
+        "title": "X-LLM: Bootstrapping advanced large language models by treating multi-modalities as foreign languages"
+    },
+    "2305.05662": {
+        "arxivId": "2305.05662",
+        "title": "InternGPT: Solving vision-centric tasks by interacting with chatbots beyond language"
+    },
+    "1908.06954": {
+        "arxivId": "1908.06954",
+        "title": "Attention on attention for image captioning"
+    },
+    "2003.14080": {
+        "arxivId": "2003.14080",
+        "title": "X-linear attention networks for image captioning"
+    },
+    "2305.06355": {
+        "arxivId": "2305.06355",
+        "title": "VideoChat: Chat-centric video understanding"
+    },
+    "2308.01399": {
+        "arxivId": "2308.01399",
+        "title": "Learning to model the world with language"
+    },
+    "2012.12877": {
+        "arxivId": "2012.12877",
+        "title": "Training data-efficient image transformers & distillation through attention"
+    },
+    "2206.08916": {
+        "arxivId": "2206.08916",
+        "title": "UNIFIED-IO: A unified model for vision, language, and multi-modal tasks"
+    },
+    "2306.14824": {
+        "arxivId": "2306.14824",
+        "title": "Kosmos-2: Grounding multimodal large language models to the world"
+    },
+    "2306.09093": {
+        "arxivId": "2306.09093",
+        "title": "Macaw-LLM: Multi-modal language modeling with image, audio, video, and text integration"
+    },
+    "2306.05424": {
+        "arxivId": "2306.05424",
+        "title": "Video-ChatGPT: Towards detailed video understanding via large vision and language models"
+    },
+    "2304.03373": {
+        "arxivId": "2304.03373",
+        "title": "Training-free layout control with cross-attention guidance"
+    },
+    "2212.04356": {
+        "arxivId": "2212.04356",
+        "title": "Robust speech recognition via large-scale weak supervision"
+    },
+    "2204.11792": {
+        "arxivId": "2204.11792",
+        "title": "SyntaSpeech: Syntax-aware generative adversarial text-to-speech"
+    },
+    "2106.06103": {
+        "arxivId": "2106.06103",
+        "title": "Conditional variational autoencoder with adversarial learning for end-to-end text-to-speech"
+    },
+    "2211.12433": {
+        "arxivId": "2211.12433",
+        "title": "TF-GridNet: Integrating full- and sub-band modeling for speech separation"
+    },
+    "2105.02446": {
+        "arxivId": "2105.02446",
+        "title": "DiffSinger: Singing voice synthesis via shallow diffusion mechanism"
+    },
+    "2109.12804": {
+        "arxivId": "2109.12804",
+        "title": "Fast-MD: Fast multi-decoder end-to-end speech translation with non-autoregressive hidden intermediates"
+    },
+    "2304.05128": {
+        "arxivId": "2304.05128",
+        "title": "Teaching large language models to self-debug"
+    },
+    "2210.13431": {
+        "arxivId": "2210.13431",
+        "title": "Instruction-following agents with jointly pre-trained vision-language models"
+    },
+    "2210.06407": {
+        "arxivId": "2210.06407",
+        "title": "Interactive language: Talking to robots in real time"
+    },
+    "2305.18898": {
+        "arxivId": "2305.18898",
+        "title": "AlphaBlock: Embodied finetuning for vision-language reasoning in robot manipulation"
+    },
+    "2207.04429": {
+        "arxivId": "2207.04429",
+        "title": "LM-Nav: Robotic navigation with large pre-trained models of language, vision, and action"
+    },
+    "2305.16986": {
+        "arxivId": "2305.16986",
+        "title": "NavGPT: Explicit reasoning in vision-and-language navigation with large language models"
+    },
+    "2206.08853": {
+        "arxivId": "2206.08853",
+        "title": "MineDojo: Building open-ended embodied agents with internet-scale knowledge"
+    },
+    "2106.14876": {
+        "arxivId": "2106.14876",
+        "title": "Multi-task curriculum learning in a complex, visual, hard-exploration domain: Minecraft"
+    },
+    "2301.12507": {
+        "arxivId": "2301.12507",
+        "title": "Distilling internet-scale vision-language models into embodied agents"
+    },
+    "2301.13188": {
+        "arxivId": "2301.13188",
+        "title": "Extracting training data from diffusion models"
+    },
+    "2305.18703": {
+        "arxivId": "2305.18703",
+        "title": "Domain specialization as the key to make large language models disruptive: A comprehensive survey"
+    },
+    "2307.15043": {
+        "arxivId": "2307.15043",
+        "title": "Universal and transferable adversarial attacks on aligned language models"
+    },
+    "1707.03374": {
+        "arxivId": "1707.03374",
+        "title": "Imitation from observation: Learning to imitate behaviors from raw video via context translation"
+    },
+    "2206.11795": {
+        "arxivId": "2206.11795",
+        "title": "Video pretraining (VPT): Learning to act by watching unlabeled online videos"
+    },
+    "2307.04964": {
+        "arxivId": "2307.04964",
+        "title": "Secrets of RLHF in large language models part I: PPO"
+    },
+    "2306.08302": {
+        "arxivId": "2306.08302",
+        "title": "Unifying large language models and knowledge graphs: A roadmap"
+    },
+    "2103.04918": {
+        "arxivId": "2103.04918",
+        "title": "A survey of embodied AI: from simulators to research tasks"
+    },
+    "1806.10293": {
+        "arxivId": "1806.10293",
+        "title": "Qt-opt: Scalable deep reinforcement learning for vision-based robotic manipulation"
+    },
+    "1806.07011": {
+        "arxivId": "1806.07011",
+        "title": "Virtualhome: Simulating household activities via programs"
+    },
+    "2108.04927": {
+        "arxivId": "2108.04927",
+        "title": "Embodied BERT: A transformer model for embodied, language-guided visual task completion"
+    },
+    "1911.05892": {
+        "arxivId": "1911.05892",
+        "title": "Reinforcement learning for market making in a multi-agent dealer market"
+    },
+    "1904.01201": {
+        "arxivId": "1904.01201",
+        "title": "Habitat: A platform for embodied AI research"
+    },
+    "2301.13688": {
+        "arxivId": "2301.13688",
+        "title": "The flan collection: Designing data and methods for effective instruction tuning"
+    },
+    "2209.07753": {
+        "arxivId": "2209.07753",
+        "title": "Code as policies: Language model programs for embodied control"
+    },
+    "1910.11432": {
+        "arxivId": "1910.11432",
+        "title": "HRL4IN: hierarchical reinforcement learning for interactive navigation with mobile manipulators"
+    },
+    "2210.07940": {
+        "arxivId": "2210.07940",
+        "title": "AVLEN: audio-visual-language embodied navigation in 3d environments"
+    },
+    "2306.03604": {
+        "arxivId": "2306.03604",
+        "title": "Enabling intelligent interactions between an agent and an LLM: A reinforcement learning approach"
+    },
+    "2012.09812": {
+        "arxivId": "2012.09812",
+        "title": "Ving: Learning open-world navigation with visual goals"
+    },
+    "2210.05714": {
+        "arxivId": "2210.05714",
+        "title": "Visual language maps for robot navigation"
+    },
+    "2203.05137": {
+        "arxivId": "2203.05137",
+        "title": "Cross-modal map learning for vision and language navigation"
+    },
+    "2112.03857": {
+        "arxivId": "2112.03857",
+        "title": "Grounded language-image pre-training"
+    },
+    "1912.11684": {
+        "arxivId": "1912.11684",
+        "title": "Look, listen, and act: Towards audio-visual embodied navigation"
+    },
+    "2212.06817": {
+        "arxivId": "2212.06817",
+        "title": "RT-1: robotics transformer for real-world control at scale"
+    },
+    "2307.15818": {
+        "arxivId": "2307.15818",
+        "title": "RT-2: vision-language-action models transfer web knowledge to robotic control"
+    },
+    "2306.06070": {
+        "arxivId": "2306.06070",
+        "title": "Mind2web: Towards a generalist agent for the web"
+    },
+    "2305.11854": {
+        "arxivId": "2305.11854",
+        "title": "Multimodal web navigation with instruction-finetuned foundation models"
+    },
+    "2210.04964": {
+        "arxivId": "2210.04964",
+        "title": "Generating executable action plans with environmentally-aware language models"
+    },
+    "2303.16563": {
+        "arxivId": "2303.16563",
+        "title": "Plan4mc: Skill reinforcement learning and planning for open-world minecraft tasks"
+    },
+    "2304.12998": {
+        "arxivId": "2304.12998",
+        "title": "ChatLLM network: More brains, more intelligence"
+    },
+    "2303.17071": {
+        "arxivId": "2303.17071",
+        "title": "DERA: enhancing large language model completions with dialog-enabled resolving agents"
+    },
+    "2306.03314": {
+        "arxivId": "2306.03314",
+        "title": "Multi-agent collaboration: Harnessing the power of intelligent LLM agents"
+    },
+    "2305.15075": {
+        "arxivId": "2305.15075",
+        "title": "HuatuoGPT, towards taming language model to be a doctor"
+    },
+    "2308.03549": {
+        "arxivId": "2308.03549",
+        "title": "ZhongJing: Enhancing the chinese medical capabilities of large language model through expert feedback and real-world multi-turn dialogue"
+    },
+    "2208.11663": {
+        "arxivId": "2208.11663",
+        "title": "PEER: A collaborative language model"
+    },
+    "2210.05492": {
+        "arxivId": "2210.05492",
+        "title": "Mastering the game of no-press diplomacy via human-regularized reinforcement learning and planning"
+    },
+    "2012.02757": {
+        "arxivId": "2012.02757",
+        "title": "Playing text-based games with common sense"
+    },
+    "2107.08408": {
+        "arxivId": "2107.08408",
+        "title": "Pre-trained language models as prior knowledge for playing text-based games"
+    },
+    "2010.00685": {
+        "arxivId": "2010.00685",
+        "title": "How to motivate your dragon: Teaching goal-driven agents to speak and act in fantasy worlds"
+    },
+    "2103.16057": {
+        "arxivId": "2103.16057",
+        "title": "Grounding open-domain instructions to automate web support tasks"
+    },
+    "2007.02701": {
+        "arxivId": "2007.02701",
+        "title": "Scaling imitation learning in minecraft"
+    },
+    "2011.00583": {
+        "arxivId": "2011.00583",
+        "title": "An overview of multi-agent reinforcement learning from game theoretical perspective"
+    },
+    "2305.13657": {
+        "arxivId": "2305.13657",
+        "title": "ChatGPT as your personal data scientist"
+    },
+    "1706.05125": {
+        "arxivId": "1706.05125",
+        "title": "Deal or no deal? end-to-end learning of negotiation dialogues"
+    },
+    "2103.14659": {
+        "arxivId": "2103.14659",
+        "title": "Alignment of language agents"
+    },
+    "2209.00626": {
+        "arxivId": "2209.00626",
+        "title": "The alignment problem from a deep learning perspective"
+    },
+    "1706.07230": {
+        "arxivId": "1706.07230",
+        "title": "Gated-attention architectures for task-oriented language grounding"
+    },
+    "1611.09823": {
+        "arxivId": "1611.09823",
+        "title": "Dialogue learning with human-in-the-loop"
+    },
+    "1704.08760": {
+        "arxivId": "1704.08760",
+        "title": "Learning a neural semantic parser from user feedback"
+    },
+    "1604.06045": {
+        "arxivId": "1604.06045",
+        "title": "Dialog-based language learning"
+    },
+    "2208.03188": {
+        "arxivId": "2208.03188",
+        "title": "Blenderbot 3: a deployed conversational agent that continually learns to responsibly engage"
+    },
+    "2204.03685": {
+        "arxivId": "2204.03685",
+        "title": "Read, revise, repeat: A system demonstration for human-in-the-loop iterative text revision"
+    },
+    "1804.05958": {
+        "arxivId": "1804.05958",
+        "title": "Can neural machine translation be improved with user feedback?"
+    },
+    "1910.05389": {
+        "arxivId": "1910.05389",
+        "title": "Model-based interactive semantic parsing: A unified framework and A text-to-sql case study"
+    },
+    "1905.04655": {
+        "arxivId": "1905.04655",
+        "title": "Improving natural language interaction with robots using advice"
+    },
+    "2103.14540": {
+        "arxivId": "2103.14540",
+        "title": "NL-EDIT: correcting semantic parse errors through natural language interaction"
+    },
+    "2112.09737": {
+        "arxivId": "2112.09737",
+        "title": "Learning to repair: Repairing model output errors after deployment using a dynamic memory of feedback"
+    },
+    "2303.16755": {
+        "arxivId": "2303.16755",
+        "title": "Training language models with language feedback at scale"
+    },
+    "2208.03270": {
+        "arxivId": "2208.03270",
+        "title": "Learning new skills after deployment: Improving open-domain internet-driven dialogue with human feedback"
+    },
+    "2306.07932": {
+        "arxivId": "2306.07932",
+        "title": "Human-in-the-loop through chain-of-thought"
+    },
+    "1901.05415": {
+        "arxivId": "1901.05415",
+        "title": "Learning from dialogue after deployment: Feed yourself, chatbot!"
+    },
+    "1711.04090": {
+        "arxivId": "1711.04090",
+        "title": "MojiTalk: Generating emotional responses at scale"
+    },
+    "1908.07687": {
+        "arxivId": "1908.07687",
+        "title": "MoEL: Mixture of empathetic listeners"
+    },
+    "2010.01454": {
+        "arxivId": "2010.01454",
+        "title": "MIME: Mimicking emotions for empathetic response generation"
+    },
+    "2109.05739": {
+        "arxivId": "2109.05739",
+        "title": "CEM: Commonsense-aware empathetic response generation"
+    },
+    "1902.00506": {
+        "arxivId": "1902.00506",
+        "title": "The hanabi challenge: A new frontier for ai research"
+    },
+    "1906.06725": {
+        "arxivId": "1906.06725",
+        "title": "Persuasion for good: Towards a personalized persuasive dialogue system for social good"
+    },
+    "2206.14576": {
+        "arxivId": "2206.14576",
+        "title": "Using cognitive psychology to understand GPT-3"
+    },
+    "2207.07051": {
+        "arxivId": "2207.07051",
+        "title": "Language models show human-like content effects on reasoning"
+    },
+    "2303.11436": {
+        "arxivId": "2303.11436",
+        "title": "Mind meets machine: Unravelling GPT-4's cognitive psychology"
+    },
+    "2303.13988": {
+        "arxivId": "2303.13988",
+        "title": "Machine psychology: Investigating emergent capabilities and behavior in large language models using psychological methods"
+    },
+    "2307.09042": {
+        "arxivId": "2307.09042",
+        "title": "Emotional intelligence of large language models"
+    },
+    "2212.10276": {
+        "arxivId": "2212.10276",
+        "title": "Identifying and manipulating the personality traits of language models"
+    },
+    "2307.16180": {
+        "arxivId": "2307.16180",
+        "title": "Do LLMs possess a personality? Making the MBTI test an amazing evaluation for large language models"
+    },
+    "2307.00184": {
+        "arxivId": "2307.00184",
+        "title": "Personality traits in large language models"
+    },
+    "1806.11532": {
+        "arxivId": "1806.11532",
+        "title": "TextWorld: A learning environment for text-based games"
+    },
+    "1903.03094": {
+        "arxivId": "1903.03094",
+        "title": "Learning to speak and act in a fantasy text adventure game"
+    },
+    "1909.05398": {
+        "arxivId": "1909.05398",
+        "title": "Interactive fiction games: A colossal adventure"
+    },
+    "2308.01404": {
+        "arxivId": "2308.01404",
+        "title": "Hoodwinked: Deception and cooperation in a text-based game for language models"
+    },
+    "2309.01918": {
+        "arxivId": "2309.01918",
+        "title": "RoboAgent: Generalization and efficiency in robot manipulation via semantic augmentations and action chunking"
+    },
+    "2110.05352": {
+        "arxivId": "2110.05352",
+        "title": "All one needs to know about metaverse: A complete survey on technological singularity, virtual ecosystem, and research agenda"
+    },
+    "2112.00861": {
+        "arxivId": "2112.00861",
+        "title": "A general language assistant as a laboratory for alignment"
+    },
+    "2206.07550": {
+        "arxivId": "2206.07550",
+        "title": "MPI: evaluating and inducing personality in pre-trained language models"
+    },
+    "2302.02083": {
+        "arxivId": "2302.02083",
+        "title": "Theory of mind may have spontaneously emerged in large language models"
+    },
+    "2306.06548": {
+        "arxivId": "2306.06548",
+        "title": "Inductive reasoning in humans and large language models"
+    },
+    "2306.07622": {
+        "arxivId": "2306.07622",
+        "title": "Human-like intuitive behavior and reasoning biases emerged in language models - and disappeared in GPT-4"
+    },
+    "2204.12000": {
+        "arxivId": "2204.12000",
+        "title": "AI personification: Estimating the personality of language models"
+    },
+    "1801.07243": {
+        "arxivId": "1801.07243",
+        "title": "Personalizing dialogue agents: I have a dog, do you have pets too?"
+    },
+    "2302.10646": {
+        "arxivId": "2302.10646",
+        "title": "Playing the werewolf game with artificial intelligence for language understanding"
+    },
+    "2112.04359": {
+        "arxivId": "2112.04359",
+        "title": "Ethical and social risks of harm from language models"
+    },
+    "2304.05335": {
+        "arxivId": "2304.05335",
+        "title": "Toxicity in ChatGPT: Analyzing persona-assigned language models"
+    },
+    "2102.04130": {
+        "arxivId": "2102.04130",
+        "title": "Bias out-of-the-box: An empirical analysis of intersectional occupational biases in popular generative language models"
+    },
+    "2004.09456": {
+        "arxivId": "2004.09456",
+        "title": "StereoSet: Measuring stereotypical bias in pretrained language models"
+    },
+    "2211.08411": {
+        "arxivId": "2211.08411",
+        "title": "Large language models struggle to learn long-tail knowledge"
+    },
+    "2304.03738": {
+        "arxivId": "2304.03738",
+        "title": "Should ChatGPT be biased? Challenges and risks of bias in large language models"
+    },
+    "2309.03876": {
+        "arxivId": "2309.03876",
+        "title": "OpinionGPT: Modelling explicit biases in instruction-tuned LLMs"
+    },
+    "2305.14930": {
+        "arxivId": "2305.14930",
+        "title": "In-context impersonation reveals large language models' strengths and biases"
+    },
+    "2304.00416": {
+        "arxivId": "2304.00416",
+        "title": "Towards healthy AI: large language models need therapists too"
+    },
+    "2106.13219": {
+        "arxivId": "2106.13219",
+        "title": "Towards understanding and mitigating social biases in language models"
+    },
+    "1711.09050": {
+        "arxivId": "1711.09050",
+        "title": "Ethical challenges in data-driven dialogue systems"
+    },
+    "2202.05520": {
+        "arxivId": "2202.05520",
+        "title": "What does it mean for a language model to preserve privacy?"
+    },
+    "2210.13382": {
+        "arxivId": "2210.13382",
+        "title": "Emergent world representations: Exploring a sequence model trained on a synthetic task"
+    },
+    "2212.08073": {
+        "arxivId": "2212.08073",
+        "title": "Constitutional AI: harmlessness from AI feedback"
+    },
+    "2204.05862": {
+        "arxivId": "2204.05862",
+        "title": "Training a helpful and harmless assistant with reinforcement learning from human feedback"
+    },
+    "2305.14938": {
+        "arxivId": "2305.14938",
+        "title": "Do LLMs understand social knowledge? Evaluating the sociability of large language models with SOCKET benchmark"
+    },
+    "2112.05843": {
+        "arxivId": "2112.05843",
+        "title": "Am I me or you? State-of-the-art dialogue models cannot maintain an identity"
+    },
+    "2209.07858": {
+        "arxivId": "2209.07858",
+        "title": "Red teaming language models to reduce harms: Methods, scaling behaviors, and lessons learned"
+    },
+    "2207.05221": {
+        "arxivId": "2207.05221",
+        "title": "Language models (mostly) know what they know"
+    },
+    "1801.10112": {
+        "arxivId": "1801.10112",
+        "title": "Riemannian walk for incremental learning: Understanding forgetting and intransigence"
+    },
+    "1312.6199": {
+        "arxivId": "1312.6199",
+        "title": "Intriguing properties of neural networks"
+    },
+    "1412.6572": {
+        "arxivId": "1412.6572",
+        "title": "Explaining and harnessing adversarial examples"
+    },
+    "1706.06083": {
+        "arxivId": "1706.06083",
+        "title": "Towards deep learning models resistant to adversarial attacks"
+    },
+    "2112.00639": {
+        "arxivId": "2112.00639",
+        "title": "A systematic review of robustness in deep learning for computer vision: Mind the gap?"
+    },
+    "1903.12261": {
+        "arxivId": "1903.12261",
+        "title": "Benchmarking neural network robustness to common corruptions and perturbations"
+    },
+    "2112.08313": {
+        "arxivId": "2112.08313",
+        "title": "Measure and improve robustness in NLP models: A survey"
+    },
+    "1812.05271": {
+        "arxivId": "1812.05271",
+        "title": "TextBugger: Generating adversarial text against real-world applications"
+    },
+    "1909.11764": {
+        "arxivId": "1909.11764",
+        "title": "FreeLB: Enhanced adversarial training for natural language understanding"
+    },
+    "1703.02702": {
+        "arxivId": "1703.02702",
+        "title": "Robust adversarial reinforcement learning"
+    },
+    "2204.12581": {
+        "arxivId": "2204.12581",
+        "title": "RAMBO-RL: robust adversarial model-based offline reinforcement learning"
+    },
+    "2208.05129": {
+        "arxivId": "2208.05129",
+        "title": "Robust reinforcement learning using offline data"
+    },
+    "1907.11932": {
+        "arxivId": "1907.11932",
+        "title": "Is BERT really robust? A strong baseline for natural language attack on text classification and entailment"
+    },
+    "2306.04528": {
+        "arxivId": "2306.04528",
+        "title": "PromptBench: Towards evaluating the robustness of large language models on adversarial prompts"
+    },
+    "2303.00293": {
+        "arxivId": "2303.00293",
+        "title": "How robust is GPT-3.5 to predecessors? A comprehensive study on language understanding tasks"
+    },
+    "1708.06733": {
+        "arxivId": "1708.06733",
+        "title": "BadNets: Identifying vulnerabilities in the machine learning model supply chain"
+    },
+    "2006.01043": {
+        "arxivId": "2006.01043",
+        "title": "BadNL: Backdoor attacks against NLP models with semantic-preserving improvements"
+    },
+    "2109.10855": {
+        "arxivId": "2109.10855",
+        "title": "BFClass: A backdoor-free text classification framework"
+    },
+    "2209.01882": {
+        "arxivId": "2209.01882",
+        "title": "PromptAttack: Prompt-based attack for language models via gradient search"
+    },
+    "2211.09527": {
+        "arxivId": "2211.09527",
+        "title": "Ignore previous prompt: Attack techniques for language models"
+    },
+    "2201.10474": {
+        "arxivId": "2201.10474",
+        "title": "Whose language counts as high quality? measuring language ideologies in text data selection"
+    },
+    "2306.05499": {
+        "arxivId": "2306.05499",
+        "title": "Prompt injection attack against LLM-integrated applications"
+    },
+    "1801.01944": {
+        "arxivId": "1801.01944",
+        "title": "Audio adversarial examples: Targeted attacks on speech-to-text"
+    },
+    "2012.15699": {
+        "arxivId": "2012.15699",
+        "title": "Better robustness by more coverage: Adversarial and mixup data augmentation for robust finetuning"
+    },
+    "1805.12152": {
+        "arxivId": "1805.12152",
+        "title": "Robustness may be at odds with accuracy"
+    },
+    "1901.08573": {
+        "arxivId": "1901.08573",
+        "title": "Theoretically principled trade-off between robustness and accuracy"
+    },
+    "2009.05835": {
+        "arxivId": "2009.05835",
+        "title": "How much can we really trust you? towards simple, interpretable trust quantification metrics for deep neural networks"
+    },
+    "2305.11391": {
+        "arxivId": "2305.11391",
+        "title": "A survey of safety and trustworthiness of large language models through the lens of verification and validation"
+    },
+    "2211.00151": {
+        "arxivId": "2211.00151",
+        "title": "A close look into the calibration of pre-trained language models"
+    },
+    "2006.03955": {
+        "arxivId": "2006.03955",
+        "title": "Detecting emergent intersectional biases: Contextualized word embeddings contain a distribution of human-like biases"
+    },
+    "1607.06520": {
+        "arxivId": "1607.06520",
+        "title": "Man is to computer programmer as woman is to homemaker? debiasing word embeddings"
+    },
+    "1608.07187": {
+        "arxivId": "1608.07187",
+        "title": "Semantics derived automatically from language corpora contain human-like biases"
+    },
+    "2305.15852": {
+        "arxivId": "2305.15852",
+        "title": "Self-contradictory hallucinations of large language models: Evaluation, detection and mitigation"
+    },
+    "2005.00661": {
+        "arxivId": "2005.00661",
+        "title": "On faithfulness and factuality in abstractive summarization"
+    },
+    "2307.03987": {
+        "arxivId": "2307.03987",
+        "title": "A stitch in time saves nine: Detecting and mitigating hallucinations of LLMs by validating low-confidence generation"
+    },
+    "1802.07228": {
+        "arxivId": "1802.07228",
+        "title": "The malicious use of artificial intelligence: Forecasting, prevention, and mitigation"
+    },
+    "2108.07258": {
+        "arxivId": "2108.07258",
+        "title": "On the opportunities and risks of foundation models"
+    },
+    "2305.15336": {
+        "arxivId": "2305.15336",
+        "title": "From text to MITRE techniques: Exploring the malicious use of large language models for generating cyber attack payloads"
+    },
+    "2201.03514": {
+        "arxivId": "2201.03514",
+        "title": "Black-box tuning for language-model-as-a-service"
+    },
+    "1611.02779": {
+        "arxivId": "1611.02779",
+        "title": "RL$^2$: Fast Reinforcement Learning via Slow Reinforcement Learning"
+    },
+    "1911.12543": {
+        "arxivId": "1911.12543",
+        "title": "How Can We Know What Language Models Know?"
+    },
+    "2004.10964": {
+        "arxivId": "2004.10964",
+        "title": "Don\u2019t Stop Pretraining: Adapt Language Models to Domains and Tasks"
+    },
+    "1912.08226": {
+        "arxivId": "1912.08226",
+        "title": "Meshed-Memory Transformer for Image Captioning"
+    },
+    "2305.14318": {
+        "arxivId": "2305.14318",
+        "title": "CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning of Large Language Models"
+    },
+    "2011.13922": {
+        "arxivId": "2011.13922",
+        "title": "VLN\u21bbBERT: A Recurrent Vision-and-Language BERT for Navigation"
+    },
+    "2212.10560": {
+        "arxivId": "2212.10560",
+        "title": "Self-Instruct: Aligning Language Models with Self-Generated Instructions"
+    },
+    "2303.03480": {
+        "arxivId": "2303.03480",
+        "title": "Can an Embodied Agent Find Your \u201cCat-shaped Mug\u201d? LLM-Based Zero-Shot Object Navigation"
+    },
+    "1907.12108": {
+        "arxivId": "1907.12108",
+        "title": "CAiRE: An Empathetic Neural Chatbot."
+    },
+    "2212.10529": {
+        "arxivId": "2212.10529",
+        "title": "Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological Perspective"
+    },
+    "2205.10228": {
+        "arxivId": "2205.10228",
+        "title": "You Don\u2019t Know My Favorite Color: Preventing Dialogue Representations from Revealing Speakers\u2019 Private Personas"
+    },
+    "2210.03735": {
+        "arxivId": "2210.03735",
+        "title": "\"Help Me Help the AI\": Understanding How Explainability Can Support Human-AI Interaction"
+    },
+    "2203.01677": {
+        "arxivId": "2203.01677",
+        "title": "Detection of Word Adversarial Examples in Text Classification: Benchmark and Baseline via Robust Density Estimation"
+    },
+    "2011.10492": {
+        "arxivId": "2011.10492",
+        "title": "A Sweet Rabbit Hole by DARCY: Using Honeypots to Detect Universal Trigger\u2019s Adversarial Attacks"
+    },
+    "2005.14050": {
+        "arxivId": "2005.14050",
+        "title": "Language (Technology) is Power: A Critical Survey of \u201cBias\u201d in NLP"
+    },
+    "2103.00020": {
+        "arxivId": "2103.00020",
+        "title": "Learning Transferable Visual Models From Natural Language Supervision"
+    },
+    "1908.02265": {
+        "arxivId": "1908.02265",
+        "title": "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks"
+    },
+    "2306.05685": {
+        "arxivId": "2306.05685",
+        "title": "Judging LLM-as-a-judge with MT-Bench and Chatbot Arena"
+    },
+    "1908.08530": {
+        "arxivId": "1908.08530",
+        "title": "VL-BERT: Pre-training of Generic Visual-Linguistic Representations"
+    },
+    "2009.01325": {
+        "arxivId": "2009.01325",
+        "title": "Learning to summarize from human feedback"
+    },
+    "2310.03744": {
+        "arxivId": "2310.03744",
+        "title": "Improved Baselines with Visual Instruction Tuning"
+    },
+    "1811.00937": {
+        "arxivId": "1811.00937",
+        "title": "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge"
+    },
+    "2003.02320": {
+        "arxivId": "2003.02320",
+        "title": "Knowledge Graphs"
+    },
+    "1502.05698": {
+        "arxivId": "1502.05698",
+        "title": "Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks"
+    },
+    "2303.16634": {
+        "arxivId": "2303.16634",
+        "title": "G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment"
+    },
+    "2308.12966": {
+        "arxivId": "2308.12966",
+        "title": "Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities"
+    },
+    "2403.05530": {
+        "arxivId": "2403.05530",
+        "title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context"
+    },
+    "2209.06794": {
+        "arxivId": "2209.06794",
+        "title": "PaLI: A Jointly-Scaled Multilingual Language-Image Model"
+    },
+    "2208.10442": {
+        "arxivId": "2208.10442",
+        "title": "Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks"
+    },
+    "1810.02338": {
+        "arxivId": "1810.02338",
+        "title": "Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding"
+    },
+    "2209.03143": {
+        "arxivId": "2209.03143",
+        "title": "AudioLM: A Language Modeling Approach to Audio Generation"
+    },
+    "2111.02358": {
+        "arxivId": "2111.02358",
+        "title": "VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts"
+    },
+    "2305.01937": {
+        "arxivId": "2305.01937",
+        "title": "Can Large Language Models Be an Alternative to Human Evaluations?"
+    },
+    "2305.17926": {
+        "arxivId": "2305.17926",
+        "title": "Large Language Models are not Fair Evaluators"
+    },
+    "2303.04048": {
+        "arxivId": "2303.04048",
+        "title": "Is ChatGPT a Good NLG Evaluator? A Preliminary Study"
+    },
+    "1903.04497": {
+        "arxivId": "1903.04497",
+        "title": "Searching for long-lived particles beyond the Standard Model at the Large Hadron Collider"
+    },
+    "1809.02156": {
+        "arxivId": "1809.02156",
+        "title": "Object Hallucination in Image Captioning"
+    },
+    "2002.05867": {
+        "arxivId": "2002.05867",
+        "title": "Transformers as Soft Reasoners over Language"
+    },
+    "2109.01247": {
+        "arxivId": "2109.01247",
+        "title": "Do Prompt-Based Models Really Understand the Meaning of Their Prompts?"
+    },
+    "2309.00267": {
+        "arxivId": "2309.00267",
+        "title": "RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback"
+    },
+    "2311.03079": {
+        "arxivId": "2311.03079",
+        "title": "CogVLM: Visual Expert for Pretrained Language Models"
+    },
+    "2308.01390": {
+        "arxivId": "2308.01390",
+        "title": "OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models"
+    },
+    "2304.15004": {
+        "arxivId": "2304.15004",
+        "title": "Are Emergent Abilities of Large Language Models a Mirage?"
+    },
+    "2004.07347": {
+        "arxivId": "2004.07347",
+        "title": "HybridQA: A Dataset of Multi-Hop Question Answering over Tabular and Textual Data"
+    },
+    "2007.08124": {
+        "arxivId": "2007.08124",
+        "title": "LogiQA: A Challenge Dataset for Machine Reading Comprehension with Logical Reasoning"
+    },
+    "2212.09597": {
+        "arxivId": "2212.09597",
+        "title": "Reasoning with Language Model Prompting: A Survey"
+    },
+    "2306.13063": {
+        "arxivId": "2306.13063",
+        "title": "Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs"
+    },
+    "2302.04166": {
+        "arxivId": "2302.04166",
+        "title": "GPTScore: Evaluate as You Desire"
+    },
+    "2309.14525": {
+        "arxivId": "2309.14525",
+        "title": "Aligning Large Multimodal Models with Factually Augmented RLHF"
+    },
+    "1908.06177": {
+        "arxivId": "1908.06177",
+        "title": "CLUTRR: A Diagnostic Benchmark for Inductive Reasoning from Text"
+    },
+    "2210.02875": {
+        "arxivId": "2210.02875",
+        "title": "Binding Language Models in Symbolic Languages"
+    },
+    "2012.11014": {
+        "arxivId": "2012.11014",
+        "title": "KRISP: Integrating Implicit and Symbolic Knowledge for Open-Domain Knowledge-Based VQA"
+    },
+    "2309.10020": {
+        "arxivId": "2309.10020",
+        "title": "Multimodal Foundation Models: From Specialists to General-Purpose Assistants"
+    },
+    "2305.15771": {
+        "arxivId": "2305.15771",
+        "title": "On the Planning Abilities of Large Language Models - A Critical Investigation"
+    },
+    "2401.14159": {
+        "arxivId": "2401.14159",
+        "title": "Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks"
+    },
+    "2112.12870": {
+        "arxivId": "2112.12870",
+        "title": "Measuring Attribution in Natural Language Generation Models"
+    },
+    "2305.11747": {
+        "arxivId": "2305.11747",
+        "title": "HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models"
+    },
+    "2305.12295": {
+        "arxivId": "2305.12295",
+        "title": "Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning"
+    },
+    "2311.12320": {
+        "arxivId": "2311.12320",
+        "title": "A Survey on Multimodal Large Language Models for Autonomous Driving"
+    },
+    "2309.03882": {
+        "arxivId": "2309.03882",
+        "title": "Large Language Models Are Not Robust Multiple Choice Selectors"
+    },
+    "2306.05301": {
+        "arxivId": "2306.05301",
+        "title": "ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases"
+    },
+    "2109.09784": {
+        "arxivId": "2109.09784",
+        "title": "Hallucinated but Factual! Inspecting the Factuality of Hallucinations in Abstractive Summarization"
+    },
+    "2304.13731": {
+        "arxivId": "2304.13731",
+        "title": "Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model"
+    },
+    "2310.01558": {
+        "arxivId": "2310.01558",
+        "title": "Making Retrieval-Augmented Language Models Robust to Irrelevant Context"
+    },
+    "2401.01614": {
+        "arxivId": "2401.01614",
+        "title": "GPT-4V(ision) is a Generalist Web Agent, if Grounded"
+    },
+    "2303.16104": {
+        "arxivId": "2303.16104",
+        "title": "Hallucinations in Large Multilingual Translation Models"
+    },
+    "2304.02554": {
+        "arxivId": "2304.02554",
+        "title": "Human-like Summarization Evaluation with ChatGPT"
+    },
+    "2310.05694": {
+        "arxivId": "2310.05694",
+        "title": "A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics"
+    },
+    "2306.04181": {
+        "arxivId": "2306.04181",
+        "title": "Benchmarking Foundation Models with Language-Model-as-an-Examiner"
+    },
+    "2305.13281": {
+        "arxivId": "2305.13281",
+        "title": "LM vs LM: Detecting Factual Errors via Cross Examination"
+    },
+    "2310.00704": {
+        "arxivId": "2310.00704",
+        "title": "UniAudio: An Audio Foundation Model Toward Universal Audio Generation"
+    },
+    "2311.10723": {
+        "arxivId": "2311.10723",
+        "title": "Large Language Models in Finance: A Survey"
+    },
+    "2204.10757": {
+        "arxivId": "2204.10757",
+        "title": "FaithDial: A Faithful Benchmark for Information-Seeking Dialogue"
+    },
+    "2105.00071": {
+        "arxivId": "2105.00071",
+        "title": "Evaluating Attribution in Dialogue Systems: The BEGIN Benchmark"
+    },
+    "2305.19187": {
+        "arxivId": "2305.19187",
+        "title": "Generating with Confidence: Uncertainty Quantification for Black-box Large Language Models"
+    },
+    "2311.04850": {
+        "arxivId": "2311.04850",
+        "title": "Rethinking Benchmark and Contamination for Language Models with Rephrased Samples"
+    },
+    "2210.04714": {
+        "arxivId": "2210.04714",
+        "title": "Uncertainty Quantification with Pre-trained Language Models: A Large-Scale Empirical Analysis"
+    },
+    "2311.07574": {
+        "arxivId": "2311.07574",
+        "title": "To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning"
+    },
+    "2404.13076": {
+        "arxivId": "2404.13076",
+        "title": "LLM Evaluators Recognize and Favor Their Own Generations"
+    },
+    "2303.15621": {
+        "arxivId": "2303.15621",
+        "title": "ChatGPT as a Factual Inconsistency Evaluator for Abstractive Text Summarization"
+    },
+    "2110.08222": {
+        "arxivId": "2110.08222",
+        "title": "DialFact: A Benchmark for Fact-Checking in Dialogue"
+    },
+    "2305.13269": {
+        "arxivId": "2305.13269",
+        "title": "Chain of Knowledge: A Framework for Grounding Large Language Models with Structured Knowledge Bases"
+    },
+    "2304.10513": {
+        "arxivId": "2304.10513",
+        "title": "Why Does ChatGPT Fall Short in Providing Truthful Answers?"
+    },
+    "2306.00924": {
+        "arxivId": "2306.00924",
+        "title": "Minding Language Models\u2019 (Lack of) Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker"
+    },
+    "2305.18404": {
+        "arxivId": "2305.18404",
+        "title": "Conformal Prediction with Large Language Models for Multi-Choice Question Answering"
+    },
+    "2110.01705": {
+        "arxivId": "2110.01705",
+        "title": "Let there be a clock on the beach: Reducing Object Hallucination in Image Captioning"
+    },
+    "2404.00971": {
+        "arxivId": "2404.00971",
+        "title": "Exploring and Evaluating Hallucinations in LLM-Powered Code Generation"
+    },
+    "2401.10529": {
+        "arxivId": "2401.10529",
+        "title": "Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences"
+    },
+    "2308.04152": {
+        "arxivId": "2308.04152",
+        "title": "Fine-tuning Multimodal LLMs to Follow Zero-shot Demonstrative Instructions"
+    },
+    "2212.10561": {
+        "arxivId": "2212.10561",
+        "title": "Parsel\ud83e\udd86: Algorithmic Reasoning with Language Models by Composing Decompositions"
+    },
+    "2404.13565": {
+        "arxivId": "2404.13565",
+        "title": "Exploring Diverse Methods in Visual Question Answering"
+    },
+    "2401.03428": {
+        "arxivId": "2401.03428",
+        "title": "Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects"
+    },
+    "2402.12309": {
+        "arxivId": "2402.12309",
+        "title": "TILP: Differentiable Learning of Temporal Logical Rules on Knowledge Graphs"
+    },
+    "2404.13501": {
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model based Agents"
+    },
+    "2305.04400": {
+        "arxivId": "2305.04400",
+        "title": "Do Large Language Models Show Decision Heuristics Similar to Humans? A Case Study Using GPT-3.5"
+    },
+    "2304.14732": {
+        "arxivId": "2304.14732",
+        "title": "Search-in-the-Chain: Towards the Accurate, Credible and Traceable Content Generation for Complex Knowledge-intensive Tasks"
+    },
+    "2405.02957": {
+        "arxivId": "2405.02957",
+        "title": "Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents"
+    },
+    "2311.05657": {
+        "arxivId": "2311.05657",
+        "title": "Lumos: Learning Agents with Unified Data, Modular Design, and Open-Source LLMs"
+    },
+    "2401.07324": {
+        "arxivId": "2401.07324",
+        "title": "Small LLMs Are Weak Tool Learners: A Multi-LLM Agent"
+    },
+    "2405.17220": {
+        "arxivId": "2405.17220",
+        "title": "RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness"
+    },
+    "2401.13178": {
+        "arxivId": "2401.13178",
+        "title": "AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents"
+    },
+    "2301.04449": {
+        "arxivId": "2301.04449",
+        "title": "Diving Deep into Modes of Fact Hallucinations in Dialogue Systems"
+    },
+    "2401.12794": {
+        "arxivId": "2401.12794",
+        "title": "Benchmarking LLMs via Uncertainty Quantification"
+    },
+    "2404.01230": {
+        "arxivId": "2404.01230",
+        "title": "LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language Models"
+    },
+    "2402.01864": {
+        "arxivId": "2402.01864",
+        "title": "(A)I Am Not a Lawyer, But...: Engaging Legal Experts towards Responsible LLM Policies for Legal Advice"
+    },
+    "2404.18532": {
+        "arxivId": "2404.18532",
+        "title": "MileBench: Benchmarking MLLMs in Long Context"
+    },
+    "2302.03791": {
+        "arxivId": "2302.03791",
+        "title": "How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control"
+    },
+    "2310.13486": {
+        "arxivId": "2310.13486",
+        "title": "Mind the instructions: a holistic evaluation of consistency and interactions in prompt-based learning"
+    },
+    "2308.08239": {
+        "arxivId": "2308.08239",
+        "title": "MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation"
+    },
+    "2402.10978": {
+        "arxivId": "2402.10978",
+        "title": "Language Models with Conformal Factuality Guarantees"
+    },
+    "2405.01724": {
+        "arxivId": "2405.01724",
+        "title": "Large Language Models are Inconsistent and Biased Evaluators"
+    },
+    "2401.05268": {
+        "arxivId": "2401.05268",
+        "title": "AutoAct: Automatic Agent Learning from Scratch for QA via Self-Planning"
+    },
+    "2402.03578": {
+        "arxivId": "2402.03578",
+        "title": "LLM Multi-Agent Systems: Challenges and Open Problems"
+    },
+    "2403.00811": {
+        "arxivId": "2403.00811",
+        "title": "Cognitive Bias in Decision-Making with LLMs"
+    },
+    "2402.11443": {
+        "arxivId": "2402.11443",
+        "title": "Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation"
+    },
+    "2402.11291": {
+        "arxivId": "2402.11291",
+        "title": "Puzzle Solving using Reasoning of Large Language Models: A Survey"
+    },
+    "2405.20974": {
+        "arxivId": "2405.20974",
+        "title": "SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales"
+    },
+    "2311.15548": {
+        "arxivId": "2311.15548",
+        "title": "Deficiency of Large Language Models in Finance: An Empirical Examination of Hallucination"
+    },
+    "2310.16035": {
+        "arxivId": "2310.16035",
+        "title": "What's Left? Concept Grounding with Logic-Enhanced Foundation Models"
+    },
+    "2407.00128": {
+        "arxivId": "2407.00128",
+        "title": "When Search Engine Services meet Large Language Models: Visions and Challenges"
+    },
+    "2403.03031": {
+        "arxivId": "2403.03031",
+        "title": "Learning to Use Tools via Cooperative and Interactive Agents"
+    },
+    "2401.09334": {
+        "arxivId": "2401.09334",
+        "title": "Large Language Models Are Neurosymbolic Reasoners"
+    },
+    "2205.01068": {
+        "arxivId": "2205.01068",
+        "title": "OPT: Open Pre-trained Transformer Language Models"
+    },
+    "1606.06565": {
+        "arxivId": "1606.06565",
+        "title": "Concrete Problems in AI Safety"
+    },
+    "2201.08239": {
+        "arxivId": "2201.08239",
+        "title": "LaMDA: Language Models for Dialog Applications"
+    },
+    "1602.03506": {
+        "arxivId": "1602.03506",
+        "title": "Research Priorities for Robust and Beneficial Artificial Intelligence"
+    },
+    "2307.10169": {
+        "arxivId": "2307.10169",
+        "title": "Challenges and Applications of Large Language Models"
+    },
+    "2304.11082": {
+        "arxivId": "2304.11082",
+        "title": "Fundamental Limitations of Alignment in Large Language Models"
+    },
+    "1709.02788": {
+        "arxivId": "1709.02788",
+        "title": "IFTTT vs. Zapier: A Comparative Study of Trigger-Action Programming Frameworks"
+    },
+    "2310.03659": {
+        "arxivId": "2310.03659",
+        "title": "Balancing Autonomy and Alignment: A Multi-Dimensional Taxonomy for Autonomous LLM-powered Multi-Agent Architectures"
+    }
+}

@@ -1,0 +1,1322 @@
+{
+    "2103.00020": {
+        "arxivId": "2103.00020",
+        "title": "Learning Transferable Visual Models From Natural Language Supervision"
+    },
+    "2106.09685": {
+        "arxivId": "2106.09685",
+        "title": "LoRA: Low-Rank Adaptation of Large Language Models"
+    },
+    "2010.02502": {
+        "arxivId": "2010.02502",
+        "title": "Denoising Diffusion Implicit Models"
+    },
+    "2104.14294": {
+        "arxivId": "2104.14294",
+        "title": "Emerging Properties in Self-Supervised Vision Transformers"
+    },
+    "2304.02643": {
+        "arxivId": "2304.02643",
+        "title": "Segment Anything"
+    },
+    "1711.00937": {
+        "arxivId": "1711.00937",
+        "title": "Neural Discrete Representation Learning"
+    },
+    "2201.05989": {
+        "arxivId": "2201.05989",
+        "title": "Instant neural graphics primitives with a multiresolution hash encoding"
+    },
+    "2302.05543": {
+        "arxivId": "2302.05543",
+        "title": "Adding Conditional Control to Text-to-Image Diffusion Models"
+    },
+    "2209.14988": {
+        "arxivId": "2209.14988",
+        "title": "DreamFusion: Text-to-3D using 2D Diffusion"
+    },
+    "2308.04079": {
+        "arxivId": "2308.04079",
+        "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+    },
+    "1904.05866": {
+        "arxivId": "1904.05866",
+        "title": "Expressive Body Capture: 3D Hands, Face, and Body From a Single Image"
+    },
+    "2106.10689": {
+        "arxivId": "2106.10689",
+        "title": "NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction"
+    },
+    "2008.02268": {
+        "arxivId": "2008.02268",
+        "title": "NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections"
+    },
+    "2111.12077": {
+        "arxivId": "2111.12077",
+        "title": "Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields"
+    },
+    "2211.09800": {
+        "arxivId": "2211.09800",
+        "title": "InstructPix2Pix: Learning to Follow Image Editing Instructions"
+    },
+    "1809.09401": {
+        "arxivId": "1809.09401",
+        "title": "Hypergraph Neural Networks"
+    },
+    "2201.09865": {
+        "arxivId": "2201.09865",
+        "title": "RePaint: Inpainting using Denoising Diffusion Probabilistic Models"
+    },
+    "2111.11215": {
+        "arxivId": "2111.11215",
+        "title": "Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction"
+    },
+    "2002.10099": {
+        "arxivId": "2002.10099",
+        "title": "Implicit Geometric Regularization for Learning Shapes"
+    },
+    "2303.11328": {
+        "arxivId": "2303.11328",
+        "title": "Zero-1-to-3: Zero-shot One Image to 3D Object"
+    },
+    "2103.15595": {
+        "arxivId": "2103.15595",
+        "title": "MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo"
+    },
+    "2305.16213": {
+        "arxivId": "2305.16213",
+        "title": "ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation"
+    },
+    "2112.03907": {
+        "arxivId": "2112.03907",
+        "title": "Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields"
+    },
+    "2212.08751": {
+        "arxivId": "2212.08751",
+        "title": "Point-E: A System for Generating 3D Point Clouds from Complex Prompts"
+    },
+    "1912.08804": {
+        "arxivId": "1912.08804",
+        "title": "SynSin: End-to-End View Synthesis From a Single Image"
+    },
+    "2108.10869": {
+        "arxivId": "2108.10869",
+        "title": "DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras"
+    },
+    "2309.16653": {
+        "arxivId": "2309.16653",
+        "title": "DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation"
+    },
+    "1906.08240": {
+        "arxivId": "1906.08240",
+        "title": "Neural Point-Based Graphics"
+    },
+    "2308.16512": {
+        "arxivId": "2308.16512",
+        "title": "MVDream: Multi-view Diffusion for 3D Generation"
+    },
+    "1611.07700": {
+        "arxivId": "1611.07700",
+        "title": "3D Menagerie: Modeling the 3D Shape and Pose of Animals"
+    },
+    "2310.08528": {
+        "arxivId": "2310.08528",
+        "title": "4D Gaussian Splatting for Real-Time Dynamic Scene Rendering"
+    },
+    "2301.09632": {
+        "arxivId": "2301.09632",
+        "title": "HexPlane: A Fast Representation for Dynamic Scenes"
+    },
+    "2401.10891": {
+        "arxivId": "2401.10891",
+        "title": "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data"
+    },
+    "2308.09713": {
+        "arxivId": "2308.09713",
+        "title": "Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis"
+    },
+    "2309.03453": {
+        "arxivId": "2309.03453",
+        "title": "SyncDreamer: Generating Multiview-consistent Images from a Single-view Image"
+    },
+    "2309.13101": {
+        "arxivId": "2309.13101",
+        "title": "Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction"
+    },
+    "2311.12775": {
+        "arxivId": "2311.12775",
+        "title": "SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering"
+    },
+    "2402.05054": {
+        "arxivId": "2402.05054",
+        "title": "LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation"
+    },
+    "2309.16585": {
+        "arxivId": "2309.16585",
+        "title": "Text-to-3D using Gaussian Splatting"
+    },
+    "2210.00379": {
+        "arxivId": "2210.00379",
+        "title": "NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review"
+    },
+    "2403.17888": {
+        "arxivId": "2403.17888",
+        "title": "2D Gaussian Splatting for Geometrically Accurate Radiance Fields"
+    },
+    "2311.16493": {
+        "arxivId": "2311.16493",
+        "title": "Mip-Splatting: Alias-Free 3D Gaussian Splatting"
+    },
+    "2205.12183": {
+        "arxivId": "2205.12183",
+        "title": "StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning"
+    },
+    "2310.10642": {
+        "arxivId": "2310.10642",
+        "title": "Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting"
+    },
+    "2312.02126": {
+        "arxivId": "2312.02126",
+        "title": "SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM"
+    },
+    "2312.06741": {
+        "arxivId": "2312.06741",
+        "title": "Gaussian Splatting SLAM"
+    },
+    "2312.00109": {
+        "arxivId": "2312.00109",
+        "title": "Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering"
+    },
+    "2401.03890": {
+        "arxivId": "2401.03890",
+        "title": "A Survey on 3D Gaussian Splatting"
+    },
+    "2311.11284": {
+        "arxivId": "2311.11284",
+        "title": "LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching"
+    },
+    "2312.09147": {
+        "arxivId": "2312.09147",
+        "title": "Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers"
+    },
+    "2304.04968": {
+        "arxivId": "2304.04968",
+        "title": "Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D, alleviate Janus problem and Beyond"
+    },
+    "2111.15246": {
+        "arxivId": "2111.15246",
+        "title": "Hallucinated Neural Radiance Fields in the Wild"
+    },
+    "2311.14521": {
+        "arxivId": "2311.14521",
+        "title": "GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting"
+    },
+    "2311.11700": {
+        "arxivId": "2311.11700",
+        "title": "GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting"
+    },
+    "2207.13298": {
+        "arxivId": "2207.13298",
+        "title": "Is Attention All That NeRF Needs?"
+    },
+    "2312.12337": {
+        "arxivId": "2312.12337",
+        "title": "PixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction"
+    },
+    "2303.02091": {
+        "arxivId": "2303.02091",
+        "title": "Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement"
+    },
+    "2311.13681": {
+        "arxivId": "2311.13681",
+        "title": "Compact 3D Gaussian Representation for Radiance Field"
+    },
+    "2311.12198": {
+        "arxivId": "2311.12198",
+        "title": "PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics"
+    },
+    "2312.13150": {
+        "arxivId": "2312.13150",
+        "title": "Splatter Image: Ultra-Fast Single-View 3D Reconstruction"
+    },
+    "2312.00732": {
+        "arxivId": "2312.00732",
+        "title": "Gaussian Grouping: Segment and Edit Anything in 3D Scenes"
+    },
+    "2312.16084": {
+        "arxivId": "2312.16084",
+        "title": "LangSplat: 3D Language Gaussian Splatting"
+    },
+    "2312.02069": {
+        "arxivId": "2312.02069",
+        "title": "GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians"
+    },
+    "2311.17245": {
+        "arxivId": "2311.17245",
+        "title": "LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS"
+    },
+    "2312.07920": {
+        "arxivId": "2312.07920",
+        "title": "DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes"
+    },
+    "2309.03903": {
+        "arxivId": "2309.03903",
+        "title": "Tracking Anything with Decoupled Video Segmentation"
+    },
+    "2312.13763": {
+        "arxivId": "2312.13763",
+        "title": "Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models"
+    },
+    "2311.17977": {
+        "arxivId": "2311.17977",
+        "title": "GaussianShader: 3D Gaussian Splatting with Shading Functions for Reflective Surfaces"
+    },
+    "2312.03203": {
+        "arxivId": "2312.03203",
+        "title": "Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields"
+    },
+    "2312.10070": {
+        "arxivId": "2312.10070",
+        "title": "Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting"
+    },
+    "2312.00451": {
+        "arxivId": "2312.00451",
+        "title": "FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting"
+    },
+    "2312.14937": {
+        "arxivId": "2312.14937",
+        "title": "SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes"
+    },
+    "2312.03029": {
+        "arxivId": "2312.03029",
+        "title": "Gaussian Head Avatar: Ultra High-Fidelity Head Avatar via Dynamic Gaussians"
+    },
+    "2311.13384": {
+        "arxivId": "2311.13384",
+        "title": "LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes"
+    },
+    "2312.16812": {
+        "arxivId": "2312.16812",
+        "title": "Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis"
+    },
+    "2312.17142": {
+        "arxivId": "2312.17142",
+        "title": "DreamGaussian4D: Generative 4D Gaussian Splatting"
+    },
+    "2311.16037": {
+        "arxivId": "2311.16037",
+        "title": "GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions"
+    },
+    "2311.16473": {
+        "arxivId": "2311.16473",
+        "title": "GS-IR: 3D Gaussian Splatting for Inverse Rendering"
+    },
+    "2402.17427": {
+        "arxivId": "2402.17427",
+        "title": "VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction"
+    },
+    "2310.08529": {
+        "arxivId": "2310.08529",
+        "title": "GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models"
+    },
+    "2104.06797": {
+        "arxivId": "2104.06797",
+        "title": "Revisiting Light Field Rendering With Deep Anti-Aliasing Neural Network"
+    },
+    "2312.09228": {
+        "arxivId": "2312.09228",
+        "title": "3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting"
+    },
+    "2311.16728": {
+        "arxivId": "2311.16728",
+        "title": "Photo-SLAM: Real-Time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras"
+    },
+    "2312.07504": {
+        "arxivId": "2312.07504",
+        "title": "COLMAP-Free 3D Gaussian Splatting"
+    },
+    "2312.02134": {
+        "arxivId": "2312.02134",
+        "title": "GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians"
+    },
+    "2402.14650": {
+        "arxivId": "2402.14650",
+        "title": "GaussianPro: 3D Gaussian Splatting with Progressive Propagation"
+    },
+    "2312.02973": {
+        "arxivId": "2312.02973",
+        "title": "GauHuman: Articulated Gaussian Splatting from Monocular Human Videos"
+    },
+    "2311.17910": {
+        "arxivId": "2311.17910",
+        "title": "HUGS: Human Gaussian Splats"
+    },
+    "2311.17061": {
+        "arxivId": "2311.17061",
+        "title": "HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting"
+    },
+    "2312.02155": {
+        "arxivId": "2312.02155",
+        "title": "GPS-Gaussian: Generalizable Pixel-Wise 3D Gaussian Splatting for Real-Time Human Novel View Synthesis"
+    },
+    "2401.02436": {
+        "arxivId": "2401.02436",
+        "title": "Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis"
+    },
+    "2312.17225": {
+        "arxivId": "2312.17225",
+        "title": "4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency"
+    },
+    "2312.00846": {
+        "arxivId": "2312.00846",
+        "title": "NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance"
+    },
+    "2312.03431": {
+        "arxivId": "2312.03431",
+        "title": "Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle"
+    },
+    "2203.16875": {
+        "arxivId": "2203.16875",
+        "title": "MPS-NeRF: Generalizable 3D Human Rendering from Multiview Images"
+    },
+    "2311.17089": {
+        "arxivId": "2311.17089",
+        "title": "Multi-Scale 3D Gaussian Splatting for Anti-Aliased Rendering"
+    },
+    "2311.13398": {
+        "arxivId": "2311.13398",
+        "title": "Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images"
+    },
+    "2312.00206": {
+        "arxivId": "2312.00206",
+        "title": "SparseGS: Real-Time 360\u00b0 Sparse View Synthesis using Gaussian Splatting"
+    },
+    "2311.16043": {
+        "arxivId": "2311.16043",
+        "title": "Relightable 3D Gaussians: Realistic Point Cloud Relighting with BRDF Decomposition and Ray Tracing"
+    },
+    "2311.17113": {
+        "arxivId": "2311.17113",
+        "title": "Human Gaussian Splatting: Real-Time Rendering of Animatable Avatars"
+    },
+    "2311.18159": {
+        "arxivId": "2311.18159",
+        "title": "Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector Quantization"
+    },
+    "2305.20082": {
+        "arxivId": "2305.20082",
+        "title": "Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor"
+    },
+    "2403.14627": {
+        "arxivId": "2403.14627",
+        "title": "MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images"
+    },
+    "2402.08682": {
+        "arxivId": "2402.08682",
+        "title": "IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation"
+    },
+    "2312.05941": {
+        "arxivId": "2312.05941",
+        "title": "ASH: Animatable Gaussian Splats for Efficient and Photoreal Human Rendering"
+    },
+    "2311.16099": {
+        "arxivId": "2311.16099",
+        "title": "GART: Gaussian Articulated Template Models"
+    },
+    "2403.06912": {
+        "arxivId": "2403.06912",
+        "title": "DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization"
+    },
+    "2312.03704": {
+        "arxivId": "2312.03704",
+        "title": "Relightable Gaussian Codec Avatars"
+    },
+    "2311.18482": {
+        "arxivId": "2311.18482",
+        "title": "Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding"
+    },
+    "2312.00112": {
+        "arxivId": "2312.00112",
+        "title": "DynMF: Neural Motion Factorization for Real-time Dynamic View Synthesis with 3D Gaussian Splatting"
+    },
+    "2401.04099": {
+        "arxivId": "2401.04099",
+        "title": "AGG: Amortized Generative 3D Gaussians for Single Image to 3D"
+    },
+    "2312.13299": {
+        "arxivId": "2312.13299",
+        "title": "Compact 3D Scene Representation via Self-Organizing Gaussian Grids"
+    },
+    "2403.11134": {
+        "arxivId": "2403.11134",
+        "title": "Recent Advances in 3D Gaussian Splatting"
+    },
+    "2312.04564": {
+        "arxivId": "2312.04564",
+        "title": "EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS"
+    },
+    "2402.07207": {
+        "arxivId": "2402.07207",
+        "title": "GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting"
+    },
+    "2402.03246": {
+        "arxivId": "2402.03246",
+        "title": "SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM"
+    },
+    "2312.01196": {
+        "arxivId": "2312.01196",
+        "title": "Neural Parametric Gaussians for Monocular Non-Rigid Object Reconstruction"
+    },
+    "2311.17857": {
+        "arxivId": "2311.17857",
+        "title": "Gaussian Shell Maps for Efficient 3D Human Generation"
+    },
+    "2311.17907": {
+        "arxivId": "2311.17907",
+        "title": "CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting"
+    },
+    "2404.17774": {
+        "arxivId": "2404.17774",
+        "title": "High-quality Surface Reconstruction using Gaussian Surfels"
+    },
+    "2402.03307": {
+        "arxivId": "2402.03307",
+        "title": "4D-Rotor Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes"
+    },
+    "2404.10772": {
+        "arxivId": "2404.10772",
+        "title": "Gaussian Opacity Fields: Efficient and Compact Surface Reconstruction in Unbounded Scenes"
+    },
+    "2403.01444": {
+        "arxivId": "2403.01444",
+        "title": "3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos"
+    },
+    "2403.12365": {
+        "arxivId": "2403.12365",
+        "title": "GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation"
+    },
+    "2401.01970": {
+        "arxivId": "2401.01970",
+        "title": "FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding"
+    },
+    "2312.11458": {
+        "arxivId": "2312.11458",
+        "title": "GauFRe: Gaussian Deformation Fields for Real-time Dynamic Novel View Synthesis"
+    },
+    "2403.13806": {
+        "arxivId": "2403.13806",
+        "title": "RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS"
+    },
+    "2402.15870": {
+        "arxivId": "2402.15870",
+        "title": "Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting"
+    },
+    "2402.13255": {
+        "arxivId": "2402.13255",
+        "title": "How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey"
+    },
+    "2402.10128": {
+        "arxivId": "2402.10128",
+        "title": "GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering"
+    },
+    "2402.07181": {
+        "arxivId": "2402.07181",
+        "title": "3D Gaussian Splatting as New Era: A Survey."
+    },
+    "2311.11221": {
+        "arxivId": "2311.11221",
+        "title": "GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise"
+    },
+    "2403.06908": {
+        "arxivId": "2403.06908",
+        "title": "FreGS: 3D Gaussian Splatting with Progressive Frequency Regularization"
+    },
+    "2401.08742": {
+        "arxivId": "2401.08742",
+        "title": "Efficient4D: Fast Dynamic 3D Object Generation from a Single-view Video"
+    },
+    "2312.13271": {
+        "arxivId": "2312.13271",
+        "title": "Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting"
+    },
+    "2307.08093": {
+        "arxivId": "2307.08093",
+        "title": "Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections"
+    },
+    "2402.10259": {
+        "arxivId": "2402.10259",
+        "title": "GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting"
+    },
+    "2403.16964": {
+        "arxivId": "2403.16964",
+        "title": "GSDF: 3DGS Meets SDF for Improved Rendering and Reconstruction"
+    },
+    "2403.12722": {
+        "arxivId": "2403.12722",
+        "title": "HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting"
+    },
+    "2401.14828": {
+        "arxivId": "2401.14828",
+        "title": "TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts"
+    },
+    "2312.00583": {
+        "arxivId": "2312.00583",
+        "title": "DeformGS: Scene Flow in Highly Deformable Scenes for Deformable Object Manipulation"
+    },
+    "2401.11535": {
+        "arxivId": "2401.11535",
+        "title": "Deformable Endoscopic Tissues Reconstruction with Gaussian Splatting"
+    },
+    "2312.09242": {
+        "arxivId": "2312.09242",
+        "title": "Text2Immersion: Generative Immersive Scene with 3D Gaussians"
+    },
+    "2312.04820": {
+        "arxivId": "2312.04820",
+        "title": "Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting"
+    },
+    "2403.14166": {
+        "arxivId": "2403.14166",
+        "title": "Mini-Splatting: Representing Scenes with a Constrained Number of Gaussians"
+    },
+    "2311.16737": {
+        "arxivId": "2311.16737",
+        "title": "Point'n Move: Interactive Scene Object Manipulation on Gaussian Splatting Radiance Fields"
+    },
+    "2404.00409": {
+        "arxivId": "2404.00409",
+        "title": "3DGSR: Implicit Surface Reconstruction with 3D Gaussian Splatting"
+    },
+    "2403.19615": {
+        "arxivId": "2403.19615",
+        "title": "SA-GS: Scale-Adaptive Gaussian Splatting for Training-Free Anti-Aliasing"
+    },
+    "2403.15530": {
+        "arxivId": "2403.15530",
+        "title": "Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting"
+    },
+    "2403.07494": {
+        "arxivId": "2403.07494",
+        "title": "SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM"
+    },
+    "2401.06003": {
+        "arxivId": "2401.06003",
+        "title": "TRIPS: Trilinear Point Splatting for Real\u2010Time Radiance Field Rendering"
+    },
+    "2403.10427": {
+        "arxivId": "2403.10427",
+        "title": "SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians"
+    },
+    "2402.10483": {
+        "arxivId": "2402.10483",
+        "title": "GaussianHair: Hair Modeling and Rendering with Light-aware Gaussians"
+    },
+    "2403.20309": {
+        "arxivId": "2403.20309",
+        "title": "InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds"
+    },
+    "2403.15704": {
+        "arxivId": "2403.15704",
+        "title": "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections"
+    },
+    "2403.12550": {
+        "arxivId": "2403.12550",
+        "title": "Rgbd Gs-icp Slam"
+    },
+    "2403.11447": {
+        "arxivId": "2403.11447",
+        "title": "Motion-aware 3D Gaussian Splatting for Efficient Dynamic Scene Reconstruction"
+    },
+    "2403.09413": {
+        "arxivId": "2403.09413",
+        "title": "Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting"
+    },
+    "2312.05664": {
+        "arxivId": "2312.05664",
+        "title": "CoGS: Controllable Gaussian Splatting"
+    },
+    "2112.10752": {
+        "arxivId": "2112.10752",
+        "title": "High-Resolution Image Synthesis with Latent Diffusion Models"
+    },
+    "1512.03012": {
+        "arxivId": "1512.03012",
+        "title": "ShapeNet: An Information-Rich 3D Model Repository"
+    },
+    "1609.03677": {
+        "arxivId": "1609.03677",
+        "title": "Unsupervised Monocular Depth Estimation with Left-Right Consistency"
+    },
+    "1907.01341": {
+        "arxivId": "1907.01341",
+        "title": "Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-Shot Cross-Dataset Transfer"
+    },
+    "2011.13961": {
+        "arxivId": "2011.13961",
+        "title": "D-NeRF: Neural Radiance Fields for Dynamic Scenes"
+    },
+    "1906.05797": {
+        "arxivId": "1906.05797",
+        "title": "The Replica Dataset: A Digital Replica of Indoor Spaces"
+    },
+    "2012.15838": {
+        "arxivId": "2012.15838",
+        "title": "Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans"
+    },
+    "2212.08051": {
+        "arxivId": "2212.08051",
+        "title": "Objaverse: A Universe of Annotated 3D Objects"
+    },
+    "2107.03312": {
+        "arxivId": "2107.03312",
+        "title": "SoundStream: An End-to-End Neural Audio Codec"
+    },
+    "1803.04758": {
+        "arxivId": "1803.04758",
+        "title": "Video Based Reconstruction of 3D People Models"
+    },
+    "2012.12247": {
+        "arxivId": "2012.12247",
+        "title": "Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video"
+    },
+    "2201.04127": {
+        "arxivId": "2201.04127",
+        "title": "HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video"
+    },
+    "2301.10241": {
+        "arxivId": "2301.10241",
+        "title": "K-Planes: Explicit Radiance Fields in Space, Time, and Appearance"
+    },
+    "2111.13679": {
+        "arxivId": "2111.13679",
+        "title": "NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images"
+    },
+    "1906.04173": {
+        "arxivId": "1906.04173",
+        "title": "Differentiable surface splatting for point-based geometry processing"
+    },
+    "2008.09309": {
+        "arxivId": "2008.09309",
+        "title": "InterHand2.6M: A Dataset and Baseline for 3D Interacting Hand Pose Estimation from a Single RGB Image"
+    },
+    "2303.09553": {
+        "arxivId": "2303.09553",
+        "title": "LERF: Language Embedded Radiance Fields"
+    },
+    "2203.12575": {
+        "arxivId": "2203.12575",
+        "title": "NeuMan: Neural Human Radiance Field from a Single Video"
+    },
+    "2212.05231": {
+        "arxivId": "2212.05231",
+        "title": "NeuS2: Fast Learning of Neural Implicit Surfaces for Multi-view Reconstruction"
+    },
+    "2105.14021": {
+        "arxivId": "2105.14021",
+        "title": "Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging"
+    },
+    "2109.02369": {
+        "arxivId": "2109.02369",
+        "title": "Point\u2010Based Neural Rendering with Per\u2010View Optimization"
+    },
+    "2206.05737": {
+        "arxivId": "2206.05737",
+        "title": "SparseNeuS: Fast Generalizable Neural Surface Reconstruction from Sparse views"
+    },
+    "2301.07525": {
+        "arxivId": "2301.07525",
+        "title": "OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation"
+    },
+    "2106.12372": {
+        "arxivId": "2106.12372",
+        "title": "Real-time neural radiance caching for path tracing"
+    },
+    "2105.01794": {
+        "arxivId": "2105.01794",
+        "title": "Real-time deep dynamic characters"
+    },
+    "2211.11610": {
+        "arxivId": "2211.11610",
+        "title": "Tensor4D: Efficient Neural 4D Decomposition for High-Fidelity Dynamic Reconstruction and Rendering"
+    },
+    "2012.09855": {
+        "arxivId": "2012.09855",
+        "title": "Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image"
+    },
+    "2203.14478": {
+        "arxivId": "2203.14478",
+        "title": "Structured Local Radiance Fields for Human Avatar Modeling"
+    },
+    "2311.09217": {
+        "arxivId": "2311.09217",
+        "title": "DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model"
+    },
+    "2211.12254": {
+        "arxivId": "2211.12254",
+        "title": "SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields"
+    },
+    "2305.06356": {
+        "arxivId": "2305.06356",
+        "title": "HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion"
+    },
+    "2207.12298": {
+        "arxivId": "2207.12298",
+        "title": "Deforming Radiance Fields with Cages"
+    },
+    "2112.01983": {
+        "arxivId": "2112.01983",
+        "title": "CoNeRF: Controllable Neural Radiance Fields"
+    },
+    "2204.10850": {
+        "arxivId": "2204.10850",
+        "title": "Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation"
+    },
+    "2311.08581": {
+        "arxivId": "2311.08581",
+        "title": "Drivable 3D Gaussian Avatars"
+    },
+    "2306.09347": {
+        "arxivId": "2306.09347",
+        "title": "Segment Any Point Cloud Sequences by Distilling Vision Foundation Models"
+    },
+    "2303.14001": {
+        "arxivId": "2303.14001",
+        "title": "Grid-guided Neural Radiance Fields for Large Urban Scenes"
+    },
+    "2303.05512": {
+        "arxivId": "2303.05512",
+        "title": "PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification"
+    },
+    "2205.14929": {
+        "arxivId": "2205.14929",
+        "title": "Neural Volumetric Object Selection"
+    },
+    "2312.00860": {
+        "arxivId": "2312.00860",
+        "title": "Segment Any 3D Gaussians"
+    },
+    "2401.01339": {
+        "arxivId": "2401.01339",
+        "title": "Street Gaussians: Modeling Dynamic Urban Scenes with Gaussian Splatting"
+    },
+    "2206.06577": {
+        "arxivId": "2206.06577",
+        "title": "Physics informed neural fields for smoke reconstruction with sparse data"
+    },
+    "2202.06079": {
+        "arxivId": "2202.06079",
+        "title": "Text and Image Guided 3D Avatar Generation and Manipulation"
+    },
+    "2403.05087": {
+        "arxivId": "2403.05087",
+        "title": "SplattingAvatar: Realistic Real-Time Human Avatars With Mesh-Embedded Gaussian Splatting"
+    },
+    "2311.18561": {
+        "arxivId": "2311.18561",
+        "title": "Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering"
+    },
+    "2305.00942": {
+        "arxivId": "2305.00942",
+        "title": "StyleAvatar: Real-time Photo-realistic Portrait Avatar from a Single Video"
+    },
+    "2312.04558": {
+        "arxivId": "2312.04558",
+        "title": "MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar"
+    },
+    "2403.17898": {
+        "arxivId": "2403.17898",
+        "title": "Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians"
+    },
+    "2401.09720": {
+        "arxivId": "2401.09720",
+        "title": "GaussianBody: Clothed Human Reconstruction via 3d Gaussian Splatting"
+    },
+    "2312.03461": {
+        "arxivId": "2312.03461",
+        "title": "HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting"
+    },
+    "2312.02902": {
+        "arxivId": "2312.02902",
+        "title": "HeadGaS: Real-Time Animatable Head Avatars via 3D Gaussian Splatting"
+    },
+    "2311.12891": {
+        "arxivId": "2311.12891",
+        "title": "Text-Guided Texturing by Synchronized Multi-View Diffusion"
+    },
+    "2311.10812": {
+        "arxivId": "2311.10812",
+        "title": "SplatArmor: Articulated Gaussian splatting for animatable humans from monocular RGB videos"
+    },
+    "2401.17857": {
+        "arxivId": "2401.17857",
+        "title": "Semantic Anything in 3D Gaussians"
+    },
+    "2312.15258": {
+        "arxivId": "2312.15258",
+        "title": "Human101: Training 100+FPS Human Gaussians in 100s from 1 View"
+    },
+    "2312.15059": {
+        "arxivId": "2312.15059",
+        "title": "Deformable 3D Gaussian Splatting for Animatable Human Avatars"
+    },
+    "2312.01632": {
+        "arxivId": "2312.01632",
+        "title": "GaussianHead: High-fidelity Head Avatars with Learnable Gaussian Derivation"
+    },
+    "2106.03804": {
+        "arxivId": "2106.03804",
+        "title": "Deep Medial Fields"
+    },
+    "2404.06270": {
+        "arxivId": "2404.06270",
+        "title": "3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis"
+    },
+    "2007.04940": {
+        "arxivId": "2007.04940",
+        "title": "The Phong Surface: Efficient 3D Model Fitting using Lifted Optimization"
+    },
+    "2308.16758": {
+        "arxivId": "2308.16758",
+        "title": "Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images"
+    },
+    "2404.07991": {
+        "arxivId": "2404.07991",
+        "title": "GoMAvatar: Efficient Animatable Human Modeling from Monocular Video Using Gaussians-on-Mesh"
+    },
+    "2402.04796": {
+        "arxivId": "2402.04796",
+        "title": "Mesh-based Gaussian Splatting for Real-time Large-scale Deformation"
+    },
+    "2211.16386": {
+        "arxivId": "2211.16386",
+        "title": "Compressing Volumetric Radiance Fields to 1 MB"
+    },
+    "2403.14530": {
+        "arxivId": "2403.14530",
+        "title": "HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression"
+    },
+    "2406.17074": {
+        "arxivId": "2406.17074",
+        "title": "Reducing the Memory Footprint of 3D Gaussian Splatting"
+    },
+    "1505.04597": {
+        "arxivId": "1505.04597",
+        "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation"
+    },
+    "1605.08695": {
+        "arxivId": "1605.08695",
+        "title": "TensorFlow: A system for large-scale machine learning"
+    },
+    "1912.04958": {
+        "arxivId": "1912.04958",
+        "title": "Analyzing and Improving the Image Quality of StyleGAN"
+    },
+    "1901.05103": {
+        "arxivId": "1901.05103",
+        "title": "DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation"
+    },
+    "1812.03828": {
+        "arxivId": "1812.03828",
+        "title": "Occupancy Networks: Learning 3D Reconstruction in Function Space"
+    },
+    "2103.13415": {
+        "arxivId": "2103.13415",
+        "title": "Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields"
+    },
+    "1812.02822": {
+        "arxivId": "1812.02822",
+        "title": "Learning Implicit Fields for Generative Shape Modeling"
+    },
+    "2012.02190": {
+        "arxivId": "2012.02190",
+        "title": "pixelNeRF: Neural Radiance Fields from One or Few Images"
+    },
+    "2312.00752": {
+        "arxivId": "2312.00752",
+        "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces"
+    },
+    "2112.07945": {
+        "arxivId": "2112.07945",
+        "title": "Efficient Geometry-aware 3D Generative Adversarial Networks"
+    },
+    "2211.10440": {
+        "arxivId": "2211.10440",
+        "title": "Magic3D: High-Resolution Text-to-3D Content Creation"
+    },
+    "2304.08818": {
+        "arxivId": "2304.08818",
+        "title": "Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models"
+    },
+    "2112.12130": {
+        "arxivId": "2112.12130",
+        "title": "NICE-SLAM: Neural Implicit Scalable Encoding for SLAM"
+    },
+    "2104.00677": {
+        "arxivId": "2104.00677",
+        "title": "Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis"
+    },
+    "2111.04276": {
+        "arxivId": "2111.04276",
+        "title": "Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis"
+    },
+    "2304.06706": {
+        "arxivId": "2304.06706",
+        "title": "Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields"
+    },
+    "2303.12789": {
+        "arxivId": "2303.12789",
+        "title": "Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions"
+    },
+    "2208.00277": {
+        "arxivId": "2208.00277",
+        "title": "MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures"
+    },
+    "2304.08465": {
+        "arxivId": "2304.08465",
+        "title": "MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing"
+    },
+    "2103.01954": {
+        "arxivId": "2103.01954",
+        "title": "Mixture of volumetric primitives for efficient neural rendering"
+    },
+    "2307.05663": {
+        "arxivId": "2307.05663",
+        "title": "Objaverse-XL: A Universe of 10M+ 3D Objects"
+    },
+    "2205.15285": {
+        "arxivId": "2205.15285",
+        "title": "Fast Dynamic Radiance Fields with Time-Aware Neural Voxels"
+    },
+    "2002.10880": {
+        "arxivId": "2002.10880",
+        "title": "PolyGen: An Autoregressive Generative Model of 3D Meshes"
+    },
+    "2303.07418": {
+        "arxivId": "2303.07418",
+        "title": "FreeNeRF: Improving Few-Shot Neural Rendering with Free Frequency Regularization"
+    },
+    "1908.04520": {
+        "arxivId": "1908.04520",
+        "title": "SDM-NET: Deep Generative Network for Structured Deformable Mesh"
+    },
+    "2302.14859": {
+        "arxivId": "2302.14859",
+        "title": "BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis"
+    },
+    "2309.15807": {
+        "arxivId": "2309.15807",
+        "title": "Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack"
+    },
+    "2210.15858": {
+        "arxivId": "2210.15858",
+        "title": "Vox-Fusion: Dense Tracking and Mapping with Voxel-based Neural Implicit Representation"
+    },
+    "2304.14377": {
+        "arxivId": "2304.14377",
+        "title": "Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM"
+    },
+    "2312.02201": {
+        "arxivId": "2312.02201",
+        "title": "ImageDream: Image-Prompt Multi-view Diffusion for 3D Generation"
+    },
+    "2312.02981": {
+        "arxivId": "2312.02981",
+        "title": "ReconFusion: 3D Reconstruction with Diffusion Priors"
+    },
+    "2310.19415": {
+        "arxivId": "2310.19415",
+        "title": "Text-to-3D with Classifier Score Distillation"
+    },
+    "2311.15475": {
+        "arxivId": "2311.15475",
+        "title": "MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers"
+    },
+    "2401.16663": {
+        "arxivId": "2401.16663",
+        "title": "VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality"
+    },
+    "2303.10840": {
+        "arxivId": "2303.10840",
+        "title": "Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection"
+    },
+    "2312.05133": {
+        "arxivId": "2312.05133",
+        "title": "GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization"
+    },
+    "2304.10080": {
+        "arxivId": "2304.10080",
+        "title": "NeUDF: Leaning Neural Unsigned Distance Fields with Volume Rendering"
+    },
+    "2403.18795": {
+        "arxivId": "2403.18795",
+        "title": "Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction"
+    },
+    "2312.11461": {
+        "arxivId": "2312.11461",
+        "title": "GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning"
+    },
+    "2403.17822": {
+        "arxivId": "2403.17822",
+        "title": "DN-Splatter: Depth and Normal Priors for Gaussian Splatting and Meshing"
+    },
+    "2404.01133": {
+        "arxivId": "2404.01133",
+        "title": "CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians"
+    },
+    "2402.06149": {
+        "arxivId": "2402.06149",
+        "title": "HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting"
+    },
+    "2401.00834": {
+        "arxivId": "2401.00834",
+        "title": "Deblurring 3D Gaussian Splatting"
+    },
+    "2404.07199": {
+        "arxivId": "2404.07199",
+        "title": "RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion"
+    },
+    "2403.14939": {
+        "arxivId": "2403.14939",
+        "title": "STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians"
+    },
+    "2402.01459": {
+        "arxivId": "2402.01459",
+        "title": "GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting"
+    },
+    "2401.15318": {
+        "arxivId": "2401.15318",
+        "title": "Gaussian Splashing: Dynamic Fluid Synthesis with Gaussian Splatting"
+    },
+    "2309.10336": {
+        "arxivId": "2309.10336",
+        "title": "Anti-Aliased Neural Implicit Surfaces with Encoding Level of Detail"
+    },
+    "2010.06217": {
+        "arxivId": "2010.06217",
+        "title": "TM-NET"
+    },
+    "2403.11247": {
+        "arxivId": "2403.11247",
+        "title": "Compact 3D Gaussian Splatting For Dense Visual SLAM"
+    },
+    "2403.16095": {
+        "arxivId": "2403.16095",
+        "title": "CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field"
+    },
+    "2403.08321": {
+        "arxivId": "2403.08321",
+        "title": "ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation"
+    },
+    "2404.06109": {
+        "arxivId": "2404.06109",
+        "title": "Revising Densification in Gaussian Splatting"
+    },
+    "2403.02751": {
+        "arxivId": "2403.02751",
+        "title": "Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps"
+    },
+    "2401.14857": {
+        "arxivId": "2401.14857",
+        "title": "LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-Time 3D Radiance Field Map Rendering"
+    },
+    "2404.06903": {
+        "arxivId": "2404.06903",
+        "title": "DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting"
+    },
+    "2402.00525": {
+        "arxivId": "2402.00525",
+        "title": "StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time Rendering"
+    },
+    "2312.02214": {
+        "arxivId": "2312.02214",
+        "title": "FlashAvatar: High-Fidelity Digital Avatar Rendering at 300FPS"
+    },
+    "2404.03575": {
+        "arxivId": "2404.03575",
+        "title": "DreamScene: 3D Gaussian-based Text-to-3D Scene Generation via Formation Pattern Sampling"
+    },
+    "2403.19655": {
+        "arxivId": "2403.19655",
+        "title": "GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling"
+    },
+    "2403.11056": {
+        "arxivId": "2403.11056",
+        "title": "Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration"
+    },
+    "2403.07807": {
+        "arxivId": "2403.07807",
+        "title": "StyleGaussian: Instant 3D Style Transfer with Gaussian Splatting"
+    },
+    "1409.1556": {
+        "arxivId": "1409.1556",
+        "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition"
+    },
+    "1801.03924": {
+        "arxivId": "1801.03924",
+        "title": "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric"
+    },
+    "1602.07360": {
+        "arxivId": "1602.07360",
+        "title": "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <1MB model size"
+    },
+    "1610.06475": {
+        "arxivId": "1610.06475",
+        "title": "ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo, and RGB-D Cameras"
+    },
+    "1702.04405": {
+        "arxivId": "1702.04405",
+        "title": "ScanNet: Richly-Annotated 3D Reconstructions of Indoor Scenes"
+    },
+    "1709.06158": {
+        "arxivId": "1709.06158",
+        "title": "Matterport3D: Learning from RGB-D Data in Indoor Environments"
+    },
+    "2003.04618": {
+        "arxivId": "2003.04618",
+        "title": "Convolutional Occupancy Networks"
+    },
+    "1612.03153": {
+        "arxivId": "1612.03153",
+        "title": "Panoptic Studio: A Massively Multiview System for Social Interaction Capture"
+    },
+    "2103.03231": {
+        "arxivId": "2103.03231",
+        "title": "DONeRF: Towards Real\u2010Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks"
+    },
+    "2302.07817": {
+        "arxivId": "2302.07817",
+        "title": "Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction"
+    },
+    "2112.00726": {
+        "arxivId": "2112.00726",
+        "title": "MonoScene: Monocular 3D Semantic Scene Completion"
+    },
+    "2304.05316": {
+        "arxivId": "2304.05316",
+        "title": "OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction"
+    },
+    "2204.04153": {
+        "arxivId": "2204.04153",
+        "title": "Particle Video Revisited: Tracking Through Occlusions Using Point Trajectories"
+    },
+    "2205.14330": {
+        "arxivId": "2205.14330",
+        "title": "Differentiable Point-Based Radiance Fields for Efficient View Synthesis"
+    },
+    "2303.14435": {
+        "arxivId": "2303.14435",
+        "title": "NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects"
+    },
+    "2205.07058": {
+        "arxivId": "2205.07058",
+        "title": "RTMV: A Ray-Traced Multi-View Synthetic Dataset for Novel View Synthesis"
+    },
+    "2112.01890": {
+        "arxivId": "2112.01890",
+        "title": "Fast Direct Stereo Visual SLAM"
+    },
+    "2311.16096": {
+        "arxivId": "2311.16096",
+        "title": "Animatable and Relightable Gaussians for High-fidelity Human Avatar Modeling"
+    },
+    "2310.02977": {
+        "arxivId": "2310.02977",
+        "title": "T3Bench: Benchmarking Current Progress in Text-to-3D Generation"
+    },
+    "2209.13091": {
+        "arxivId": "2209.13091",
+        "title": "WaterNeRF: Neural Radiance Fields for Underwater Scenes"
+    },
+    "2201.05023": {
+        "arxivId": "2201.05023",
+        "title": "Stereo Magnification with Multi-Layer Images"
+    },
+    "2306.03000": {
+        "arxivId": "2306.03000",
+        "title": "BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields"
+    },
+    "2311.10959": {
+        "arxivId": "2311.10959",
+        "title": "Structure-Aware Sparse-View X-Ray 3D Reconstruction"
+    },
+    "1801.01290": {
+        "arxivId": "1801.01290",
+        "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor"
+    },
+    "1903.11027": {
+        "arxivId": "1903.11027",
+        "title": "nuScenes: A Multimodal Dataset for Autonomous Driving"
+    },
+    "1806.07366": {
+        "arxivId": "1806.07366",
+        "title": "Neural Ordinary Differential Equations"
+    },
+    "1912.04838": {
+        "arxivId": "1912.04838",
+        "title": "Scalability in Perception for Autonomous Driving: Waymo Open Dataset"
+    },
+    "1904.01201": {
+        "arxivId": "1904.01201",
+        "title": "Habitat: A Platform for Embodied AI Research"
+    },
+    "1911.02620": {
+        "arxivId": "1911.02620",
+        "title": "Argoverse: 3D Tracking and Forecasting With Rich Maps"
+    },
+    "1807.06757": {
+        "arxivId": "1807.06757",
+        "title": "On Evaluation of Embodied Navigation Agents"
+    },
+    "1909.12271": {
+        "arxivId": "1909.12271",
+        "title": "RLBench: The Robot Learning Benchmark & Learning Environment"
+    },
+    "2108.03298": {
+        "arxivId": "2108.03298",
+        "title": "What Matters in Learning from Offline Human Demonstrations for Robot Manipulation"
+    },
+    "2209.15397": {
+        "arxivId": "2209.15397",
+        "title": "KISS-ICP: In Defense of Point-to-Point ICP \u2013 Simple, Accurate, and Robust Registration If Done the Right Way"
+    },
+    "2210.05633": {
+        "arxivId": "2210.05633",
+        "title": "Habitat-Matterport 3D Semantics Dataset"
+    },
+    "2208.04726": {
+        "arxivId": "2208.04726",
+        "title": "Deep Patch Visual Odometry"
+    },
+    "2406.12080": {
+        "arxivId": "2406.12080",
+        "title": "A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets"
+    },
+    "2111.10946": {
+        "arxivId": "2111.10946",
+        "title": "A General Framework for Lifelong Localization and Mapping in Changing Environment"
+    },
+    "2311.11016": {
+        "arxivId": "2311.11016",
+        "title": "SNI-SLAM: Semantic Neural Implicit SLAM"
+    },
+    "2403.09637": {
+        "arxivId": "2403.09637",
+        "title": "GaussianGrasper: 3D Language Gaussian Splatting for Open-Vocabulary Robotic Grasping"
+    },
+    "2406.06521": {
+        "arxivId": "2406.06521",
+        "title": "PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction"
+    },
+    "2404.13026": {
+        "arxivId": "2404.13026",
+        "title": "PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation"
+    },
+    "2404.19706": {
+        "arxivId": "2404.19706",
+        "title": "RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting"
+    },
+    "2403.11831": {
+        "arxivId": "2403.11831",
+        "title": "BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting"
+    }
+}

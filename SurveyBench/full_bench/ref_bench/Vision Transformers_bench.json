@@ -1,0 +1,2254 @@
+{
+    "1706.03762": {
+        "arxivId": "1706.03762",
+        "title": "Attention is All you Need"
+    },
+    "1810.04805": {
+        "arxivId": "1810.04805",
+        "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+    },
+    "1405.0312": {
+        "arxivId": "1405.0312",
+        "title": "Microsoft COCO: Common Objects in Context"
+    },
+    "1409.0575": {
+        "arxivId": "1409.0575",
+        "title": "ImageNet Large Scale Visual Recognition Challenge"
+    },
+    "2010.11929": {
+        "arxivId": "2010.11929",
+        "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
+    },
+    "1409.0473": {
+        "arxivId": "1409.0473",
+        "title": "Neural Machine Translation by Jointly Learning to Align and Translate"
+    },
+    "1703.06870": {
+        "arxivId": "1703.06870",
+        "title": "Mask R-CNN"
+    },
+    "1907.11692": {
+        "arxivId": "1907.11692",
+        "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach"
+    },
+    "1503.02531": {
+        "arxivId": "1503.02531",
+        "title": "Distilling the Knowledge in a Neural Network"
+    },
+    "2103.14030": {
+        "arxivId": "2103.14030",
+        "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows"
+    },
+    "1711.07971": {
+        "arxivId": "1711.07971",
+        "title": "Non-local Neural Networks"
+    },
+    "2012.12877": {
+        "arxivId": "2012.12877",
+        "title": "Training data-efficient image transformers & distillation through attention"
+    },
+    "1703.06211": {
+        "arxivId": "1703.06211",
+        "title": "Deformable Convolutional Networks"
+    },
+    "1712.00726": {
+        "arxivId": "1712.00726",
+        "title": "Cascade R-CNN: Delving Into High Quality Object Detection"
+    },
+    "2102.12122": {
+        "arxivId": "2102.12122",
+        "title": "Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions"
+    },
+    "2105.01601": {
+        "arxivId": "2105.01601",
+        "title": "MLP-Mixer: An all-MLP Architecture for Vision"
+    },
+    "1708.06519": {
+        "arxivId": "1708.06519",
+        "title": "Learning Efficient Convolutional Networks through Network Slimming"
+    },
+    "2101.01169": {
+        "arxivId": "2101.01169",
+        "title": "Transformers in Vision: A Survey"
+    },
+    "1807.10221": {
+        "arxivId": "1807.10221",
+        "title": "Unified Perceptual Parsing for Scene Understanding"
+    },
+    "2012.12556": {
+        "arxivId": "2012.12556",
+        "title": "A Survey on Vision Transformer"
+    },
+    "2111.09883": {
+        "arxivId": "2111.09883",
+        "title": "Swin Transformer V2: Scaling Up Capacity and Resolution"
+    },
+    "2006.16236": {
+        "arxivId": "2006.16236",
+        "title": "Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention"
+    },
+    "2106.13797": {
+        "arxivId": "2106.13797",
+        "title": "PVT v2: Improved baselines with Pyramid Vision Transformer"
+    },
+    "1901.02446": {
+        "arxivId": "1901.02446",
+        "title": "Panoptic Feature Pyramid Networks"
+    },
+    "2104.11227": {
+        "arxivId": "2104.11227",
+        "title": "Multiscale Vision Transformers"
+    },
+    "2009.06732": {
+        "arxivId": "2009.06732",
+        "title": "Efficient Transformers: A Survey"
+    },
+    "2106.04560": {
+        "arxivId": "2106.04560",
+        "title": "Scaling Vision Transformers"
+    },
+    "2111.11418": {
+        "arxivId": "2111.11418",
+        "title": "MetaFormer is Actually What You Need for Vision"
+    },
+    "2112.01526": {
+        "arxivId": "2112.01526",
+        "title": "MViTv2: Improved Multiscale Vision Transformers for Classification and Detection"
+    },
+    "2105.10497": {
+        "arxivId": "2105.10497",
+        "title": "Intriguing Properties of Vision Transformers"
+    },
+    "2106.02034": {
+        "arxivId": "2106.02034",
+        "title": "DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification"
+    },
+    "1911.03584": {
+        "arxivId": "1911.03584",
+        "title": "On the Relationship between Self-Attention and Convolutional Layers"
+    },
+    "1912.08795": {
+        "arxivId": "1912.08795",
+        "title": "Dreaming to Distill: Data-Free Knowledge Transfer via DeepInversion"
+    },
+    "2205.08534": {
+        "arxivId": "2205.08534",
+        "title": "Vision Transformer Adapter for Dense Predictions"
+    },
+    "2105.07581": {
+        "arxivId": "2105.07581",
+        "title": "Vision Transformers are Robust Learners"
+    },
+    "2103.06255": {
+        "arxivId": "2103.06255",
+        "title": "Involution: Inverting the Inherence of Convolution for Visual Recognition"
+    },
+    "2210.09461": {
+        "arxivId": "2210.09461",
+        "title": "Token Merging: Your ViT But Faster"
+    },
+    "2106.14156": {
+        "arxivId": "2106.14156",
+        "title": "Post-Training Quantization for Vision Transformer"
+    },
+    "2112.07658": {
+        "arxivId": "2112.07658",
+        "title": "A-ViT: Adaptive Tokens for Efficient Vision Transformer"
+    },
+    "2203.16194": {
+        "arxivId": "2203.16194",
+        "title": "FlowFormer: A Transformer Architecture for Optical Flow"
+    },
+    "2104.10858": {
+        "arxivId": "2104.10858",
+        "title": "All Tokens Matter: Token Labeling for Training Better Vision Transformers"
+    },
+    "2104.02610": {
+        "arxivId": "2104.02610",
+        "title": "On the Robustness of Vision Transformers to Adversarial Examples"
+    },
+    "2204.03645": {
+        "arxivId": "2204.03645",
+        "title": "DaViT: Dual Attention Vision Transformers"
+    },
+    "2207.10666": {
+        "arxivId": "2207.10666",
+        "title": "TinyViT: Fast Pretraining Distillation for Small Vision Transformers"
+    },
+    "2106.02852": {
+        "arxivId": "2106.02852",
+        "title": "Patch Slimming for Efficient Vision Transformers"
+    },
+    "2110.11945": {
+        "arxivId": "2110.11945",
+        "title": "SOFT: Softmax-free Transformer with Linear Complexity"
+    },
+    "1908.06955": {
+        "arxivId": "1908.06955",
+        "title": "Dynamic Graph Message Passing Networks"
+    },
+    "2203.01502": {
+        "arxivId": "2203.01502",
+        "title": "Neural Window Fully-connected CRFs for Monocular Depth Estimation"
+    },
+    "2204.07154": {
+        "arxivId": "2204.07154",
+        "title": "MiniViT: Compressing Vision Transformers with Weight Multiplexing"
+    },
+    "2212.08059": {
+        "arxivId": "2212.08059",
+        "title": "Rethinking Vision Transformers for MobileNet Size and Speed"
+    },
+    "2112.13890": {
+        "arxivId": "2112.13890",
+        "title": "SPViT: Enabling Faster Vision Transformers via Latency-Aware Soft Token Pruning"
+    },
+    "2209.11345": {
+        "arxivId": "2209.11345",
+        "title": "Swin2SR: SwinV2 Transformer for Compressed Image Super-Resolution and Restoration"
+    },
+    "2203.09795": {
+        "arxivId": "2203.09795",
+        "title": "Three things everyone should know about Vision Transformers"
+    },
+    "2111.12293": {
+        "arxivId": "2111.12293",
+        "title": "PTQ4ViT: Post-training Quantization for Vision Transformers with Twin Uniform Quantization"
+    },
+    "2104.08500": {
+        "arxivId": "2104.08500",
+        "title": "Vision Transformer Pruning"
+    },
+    "2012.04240": {
+        "arxivId": "2012.04240",
+        "title": "Mix and Match: A Novel FPGA-Centric Deep Neural Network Quantization Framework"
+    },
+    "2209.07484": {
+        "arxivId": "2209.07484",
+        "title": "Hydra Attention: Efficient Attention with Many Heads"
+    },
+    "2204.12997": {
+        "arxivId": "2204.12997",
+        "title": "DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers"
+    },
+    "2201.11679": {
+        "arxivId": "2201.11679",
+        "title": "DropNAS: Grouped Operation Dropout for Differentiable Architecture Search"
+    },
+    "2107.01378": {
+        "arxivId": "2107.01378",
+        "title": "Learning Efficient Vision Transformers via Fine-Grained Manifold Distillation"
+    },
+    "2303.14341": {
+        "arxivId": "2303.14341",
+        "title": "Towards Accurate Post-Training Quantization for Vision Transformer"
+    },
+    "2208.05163": {
+        "arxivId": "2208.05163",
+        "title": "Auto-ViT-Acc: An FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization"
+    },
+    "2106.12378": {
+        "arxivId": "2106.12378",
+        "title": "Co-advise: Cross Inductive Bias Distillation"
+    },
+    "2303.04935": {
+        "arxivId": "2303.04935",
+        "title": "X-Pruner: eXplainable Pruning for Vision Transformers"
+    },
+    "2310.12109": {
+        "arxivId": "2310.12109",
+        "title": "Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture"
+    },
+    "2211.16056": {
+        "arxivId": "2211.16056",
+        "title": "NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers"
+    },
+    "2110.04869": {
+        "arxivId": "2110.04869",
+        "title": "Global Vision Transformer Pruning with Hessian-Aware Saliency"
+    },
+    "2303.15466": {
+        "arxivId": "2303.15466",
+        "title": "Supervised Masked Knowledge Distillation for Few-Shot Transformers"
+    },
+    "2207.01580": {
+        "arxivId": "2207.01580",
+        "title": "Dynamic Spatial Sparsification for Efficient Vision Transformers and Convolutional Neural Networks"
+    },
+    "2206.08898": {
+        "arxivId": "2206.08898",
+        "title": "SimA: Simple Softmax-free Attention for Vision Transformers"
+    },
+    "2209.09004": {
+        "arxivId": "2209.09004",
+        "title": "EcoFormer: Energy-Saving Attention with Linear Complexity"
+    },
+    "2211.10526": {
+        "arxivId": "2211.10526",
+        "title": "Castling-ViT: Compressing Self-Attention via Switching Towards Linear-Angular Attention at Vision Transformer Inference"
+    },
+    "2305.10727": {
+        "arxivId": "2305.10727",
+        "title": "Boost Vision Transformer with GPU-Friendly Sparsity and Quantization"
+    },
+    "1512.03385": {
+        "arxivId": "1512.03385",
+        "title": "Deep Residual Learning for Image Recognition"
+    },
+    "1506.01497": {
+        "arxivId": "1506.01497",
+        "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"
+    },
+    "2005.14165": {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+    },
+    "1506.02640": {
+        "arxivId": "1506.02640",
+        "title": "You Only Look Once: Unified, Real-Time Object Detection"
+    },
+    "1512.02325": {
+        "arxivId": "1512.02325",
+        "title": "SSD: Single Shot MultiBox Detector"
+    },
+    "1609.02907": {
+        "arxivId": "1609.02907",
+        "title": "Semi-Supervised Classification with Graph Convolutional Networks"
+    },
+    "1512.00567": {
+        "arxivId": "1512.00567",
+        "title": "Rethinking the Inception Architecture for Computer Vision"
+    },
+    "1504.08083": {
+        "arxivId": "1504.08083",
+        "title": "Fast R-CNN"
+    },
+    "2103.00020": {
+        "arxivId": "2103.00020",
+        "title": "Learning Transferable Visual Models From Natural Language Supervision"
+    },
+    "1612.03144": {
+        "arxivId": "1612.03144",
+        "title": "Feature Pyramid Networks for Object Detection"
+    },
+    "1312.6114": {
+        "arxivId": "1312.6114",
+        "title": "Auto-Encoding Variational Bayes"
+    },
+    "1910.10683": {
+        "arxivId": "1910.10683",
+        "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
+    },
+    "2002.05709": {
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations"
+    },
+    "1905.11946": {
+        "arxivId": "1905.11946",
+        "title": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks"
+    },
+    "1312.6199": {
+        "arxivId": "1312.6199",
+        "title": "Intriguing properties of neural networks"
+    },
+    "1511.06434": {
+        "arxivId": "1511.06434",
+        "title": "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks"
+    },
+    "1911.05722": {
+        "arxivId": "1911.05722",
+        "title": "Momentum Contrast for Unsupervised Visual Representation Learning"
+    },
+    "1604.01685": {
+        "arxivId": "1604.01685",
+        "title": "The Cityscapes Dataset for Semantic Urban Scene Understanding"
+    },
+    "2005.12872": {
+        "arxivId": "2005.12872",
+        "title": "End-to-End Object Detection with Transformers"
+    },
+    "1609.04802": {
+        "arxivId": "1609.04802",
+        "title": "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network"
+    },
+    "1603.08155": {
+        "arxivId": "1603.08155",
+        "title": "Perceptual Losses for Real-Time Style Transfer and Super-Resolution"
+    },
+    "1611.05431": {
+        "arxivId": "1611.05431",
+        "title": "Aggregated Residual Transformations for Deep Neural Networks"
+    },
+    "1706.02413": {
+        "arxivId": "1706.02413",
+        "title": "PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space"
+    },
+    "1607.06450": {
+        "arxivId": "1607.06450",
+        "title": "Layer Normalization"
+    },
+    "2006.07733": {
+        "arxivId": "2006.07733",
+        "title": "Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning"
+    },
+    "1411.4555": {
+        "arxivId": "1411.4555",
+        "title": "Show and tell: A neural image caption generator"
+    },
+    "1212.0402": {
+        "arxivId": "1212.0402",
+        "title": "UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild"
+    },
+    "1707.02921": {
+        "arxivId": "1707.02921",
+        "title": "Enhanced Deep Residual Networks for Single Image Super-Resolution"
+    },
+    "1602.07332": {
+        "arxivId": "1602.07332",
+        "title": "Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations"
+    },
+    "1912.04958": {
+        "arxivId": "1912.04958",
+        "title": "Analyzing and Improving the Image Quality of StyleGAN"
+    },
+    "1604.07379": {
+        "arxivId": "1604.07379",
+        "title": "Context Encoders: Feature Learning by Inpainting"
+    },
+    "1512.03012": {
+        "arxivId": "1512.03012",
+        "title": "ShapeNet: An Information-Rich 3D Model Repository"
+    },
+    "1505.00468": {
+        "arxivId": "1505.00468",
+        "title": "VQA: Visual Question Answering"
+    },
+    "2104.14294": {
+        "arxivId": "2104.14294",
+        "title": "Emerging Properties in Self-Supervised Vision Transformers"
+    },
+    "1905.04899": {
+        "arxivId": "1905.04899",
+        "title": "CutMix: Regularization Strategy to Train Strong Classifiers With Localizable Features"
+    },
+    "2010.04159": {
+        "arxivId": "2010.04159",
+        "title": "Deformable DETR: Deformable Transformers for End-to-End Object Detection"
+    },
+    "1807.02758": {
+        "arxivId": "1807.02758",
+        "title": "Image Super-Resolution Using Very Deep Residual Channel Attention Networks"
+    },
+    "2105.15203": {
+        "arxivId": "2105.15203",
+        "title": "SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers"
+    },
+    "1805.08318": {
+        "arxivId": "1805.08318",
+        "title": "Self-Attention Generative Adversarial Networks"
+    },
+    "1705.06950": {
+        "arxivId": "1705.06950",
+        "title": "The Kinetics Human Action Video Dataset"
+    },
+    "1603.08511": {
+        "arxivId": "1603.08511",
+        "title": "Colorful Image Colorization"
+    },
+    "2004.05150": {
+        "arxivId": "2004.05150",
+        "title": "Longformer: The Long-Document Transformer"
+    },
+    "1908.02265": {
+        "arxivId": "1908.02265",
+        "title": "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks"
+    },
+    "1809.00219": {
+        "arxivId": "1809.00219",
+        "title": "ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks"
+    },
+    "2003.04297": {
+        "arxivId": "2003.04297",
+        "title": "Improved Baselines with Momentum Contrastive Learning"
+    },
+    "1605.05396": {
+        "arxivId": "1605.05396",
+        "title": "Generative Adversarial Text to Image Synthesis"
+    },
+    "1603.09246": {
+        "arxivId": "1603.09246",
+        "title": "Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles"
+    },
+    "1612.00837": {
+        "arxivId": "1612.00837",
+        "title": "Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering"
+    },
+    "1802.03268": {
+        "arxivId": "1802.03268",
+        "title": "Efficient Neural Architecture Search via Parameter Sharing"
+    },
+    "1612.03242": {
+        "arxivId": "1612.03242",
+        "title": "StackGAN: Text to Photo-Realistic Image Synthesis with Stacked Generative Adversarial Networks"
+    },
+    "2012.15840": {
+        "arxivId": "2012.15840",
+        "title": "Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers"
+    },
+    "1606.05328": {
+        "arxivId": "1606.05328",
+        "title": "Conditional Image Generation with PixelCNN Decoders"
+    },
+    "1811.11721": {
+        "arxivId": "1811.11721",
+        "title": "CCNet: Criss-Cross Attention for Semantic Segmentation"
+    },
+    "1604.02808": {
+        "arxivId": "1604.02808",
+        "title": "NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis"
+    },
+    "1908.07490": {
+        "arxivId": "1908.07490",
+        "title": "LXMERT: Learning Cross-Modality Encoder Representations from Transformers"
+    },
+    "1703.06114": {
+        "arxivId": "1703.06114",
+        "title": "Deep Sets"
+    },
+    "2108.10257": {
+        "arxivId": "2108.10257",
+        "title": "SwinIR: Image Restoration Using Swin Transformer"
+    },
+    "2012.09841": {
+        "arxivId": "2012.09841",
+        "title": "Taming Transformers for High-Resolution Image Synthesis"
+    },
+    "1906.05849": {
+        "arxivId": "1906.05849",
+        "title": "Contrastive Multiview Coding"
+    },
+    "1803.02155": {
+        "arxivId": "1803.02155",
+        "title": "Self-Attention with Relative Position Representations"
+    },
+    "2001.04451": {
+        "arxivId": "2001.04451",
+        "title": "Reformer: The Efficient Transformer"
+    },
+    "1505.04870": {
+        "arxivId": "1505.04870",
+        "title": "Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models"
+    },
+    "2103.15691": {
+        "arxivId": "2103.15691",
+        "title": "ViViT: A Video Vision Transformer"
+    },
+    "1908.03557": {
+        "arxivId": "1908.03557",
+        "title": "VisualBERT: A Simple and Performant Baseline for Vision and Language"
+    },
+    "2004.06165": {
+        "arxivId": "2004.06165",
+        "title": "Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks"
+    },
+    "2101.11986": {
+        "arxivId": "2101.11986",
+        "title": "Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet"
+    },
+    "2102.05095": {
+        "arxivId": "2102.05095",
+        "title": "Is Space-Time Attention All You Need for Video Understanding?"
+    },
+    "1904.10509": {
+        "arxivId": "1904.10509",
+        "title": "Generating Long Sequences with Sparse Transformers"
+    },
+    "2101.03961": {
+        "arxivId": "2101.03961",
+        "title": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity"
+    },
+    "2103.15808": {
+        "arxivId": "2103.15808",
+        "title": "CvT: Introducing Convolutions to Vision Transformers"
+    },
+    "2011.00931": {
+        "arxivId": "2011.00931",
+        "title": "Point Transformer"
+    },
+    "1711.10485": {
+        "arxivId": "1711.10485",
+        "title": "AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks"
+    },
+    "2111.09881": {
+        "arxivId": "2111.09881",
+        "title": "Restormer: Efficient Transformer for High-Resolution Image Restoration"
+    },
+    "1908.08530": {
+        "arxivId": "1908.08530",
+        "title": "VL-BERT: Pre-training of Generic Visual-Linguistic Representations"
+    },
+    "2104.02057": {
+        "arxivId": "2104.02057",
+        "title": "An Empirical Study of Training Self-Supervised Vision Transformers"
+    },
+    "1802.05751": {
+        "arxivId": "1802.05751",
+        "title": "Image Transformer"
+    },
+    "1902.06162": {
+        "arxivId": "1902.06162",
+        "title": "Self-Supervised Visual Feature Learning With Deep Neural Networks: A Survey"
+    },
+    "1906.00446": {
+        "arxivId": "1906.00446",
+        "title": "Generating Diverse High-Fidelity Images with VQ-VAE-2"
+    },
+    "2003.13678": {
+        "arxivId": "2003.13678",
+        "title": "Designing Network Design Spaces"
+    },
+    "2012.00364": {
+        "arxivId": "2012.00364",
+        "title": "Pre-Trained Image Processing Transformer"
+    },
+    "2006.04768": {
+        "arxivId": "2006.04768",
+        "title": "Linformer: Self-Attention with Linear Complexity"
+    },
+    "1906.00910": {
+        "arxivId": "1906.00910",
+        "title": "Learning Representations by Maximizing Mutual Information Across Views"
+    },
+    "1905.09272": {
+        "arxivId": "1905.09272",
+        "title": "Data-Efficient Image Recognition with Contrastive Predictive Coding"
+    },
+    "2006.08218": {
+        "arxivId": "2006.08218",
+        "title": "Self-Supervised Learning: Generative or Contrastive"
+    },
+    "2009.14794": {
+        "arxivId": "2009.14794",
+        "title": "Rethinking Attention with Performers"
+    },
+    "2103.00112": {
+        "arxivId": "2103.00112",
+        "title": "Transformer in Transformer"
+    },
+    "2012.09688": {
+        "arxivId": "2012.09688",
+        "title": "PCT: Point cloud transformer"
+    },
+    "1801.00868": {
+        "arxivId": "1801.00868",
+        "title": "Panoptic Segmentation"
+    },
+    "2105.05633": {
+        "arxivId": "2105.05633",
+        "title": "Segmenter: Transformer for Semantic Segmentation"
+    },
+    "1511.02283": {
+        "arxivId": "1511.02283",
+        "title": "Generation and Comprehension of Unambiguous Object Descriptions"
+    },
+    "2103.14899": {
+        "arxivId": "2103.14899",
+        "title": "CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification"
+    },
+    "1904.01766": {
+        "arxivId": "1904.01766",
+        "title": "VideoBERT: A Joint Model for Video and Language Representation Learning"
+    },
+    "1604.01753": {
+        "arxivId": "1604.01753",
+        "title": "Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding"
+    },
+    "1906.05909": {
+        "arxivId": "1906.05909",
+        "title": "Stand-Alone Self-Attention in Vision Models"
+    },
+    "2106.03106": {
+        "arxivId": "2106.03106",
+        "title": "Uformer: A General U-Shaped Transformer for Image Restoration"
+    },
+    "2010.01412": {
+        "arxivId": "2010.01412",
+        "title": "Sharpness-Aware Minimization for Efficiently Improving Generalization"
+    },
+    "1705.00754": {
+        "arxivId": "1705.00754",
+        "title": "Dense-Captioning Events in Videos"
+    },
+    "1905.04757": {
+        "arxivId": "1905.04757",
+        "title": "NTU RGB+D 120: A Large-Scale Benchmark for 3D Human Activity Understanding"
+    },
+    "1608.00272": {
+        "arxivId": "1608.00272",
+        "title": "Modeling Context in Referring Expressions"
+    },
+    "1803.08024": {
+        "arxivId": "1803.08024",
+        "title": "Stacked Cross Attention for Image-Text Matching"
+    },
+    "2106.04803": {
+        "arxivId": "2106.04803",
+        "title": "CoAtNet: Marrying Convolution and Attention for All Data Sizes"
+    },
+    "1710.10916": {
+        "arxivId": "1710.10916",
+        "title": "StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks"
+    },
+    "1905.09418": {
+        "arxivId": "1905.09418",
+        "title": "Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned"
+    },
+    "1904.09925": {
+        "arxivId": "1904.09925",
+        "title": "Attention Augmented Convolutional Networks"
+    },
+    "1612.07919": {
+        "arxivId": "1612.07919",
+        "title": "EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis"
+    },
+    "2006.16668": {
+        "arxivId": "2006.16668",
+        "title": "GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding"
+    },
+    "1904.00420": {
+        "arxivId": "1904.00420",
+        "title": "Single Path One-Shot Neural Architecture Search with Uniform Sampling"
+    },
+    "2104.13840": {
+        "arxivId": "2104.13840",
+        "title": "Twins: Revisiting the Design of Spatial Attention in Vision Transformers"
+    },
+    "2103.17239": {
+        "arxivId": "2103.17239",
+        "title": "Going deeper with Image Transformers"
+    },
+    "1909.11059": {
+        "arxivId": "1909.11059",
+        "title": "Unified Vision-Language Pre-Training for Image Captioning and VQA"
+    },
+    "1705.08168": {
+        "arxivId": "1705.08168",
+        "title": "Look, Listen and Learn"
+    },
+    "1908.06066": {
+        "arxivId": "1908.06066",
+        "title": "Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training"
+    },
+    "2103.03206": {
+        "arxivId": "2103.03206",
+        "title": "Perceiver: General Perception with Iterative Attention"
+    },
+    "1811.10830": {
+        "arxivId": "1811.10830",
+        "title": "From Recognition to Cognition: Visual Commonsense Reasoning"
+    },
+    "2107.00652": {
+        "arxivId": "2107.00652",
+        "title": "CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows"
+    },
+    "2104.12763": {
+        "arxivId": "2104.12763",
+        "title": "MDETR - Modulated Detection for End-to-End Multi-Modal Understanding"
+    },
+    "2004.13621": {
+        "arxivId": "2004.13621",
+        "title": "Exploring Self-Attention for Image Recognition"
+    },
+    "1703.09788": {
+        "arxivId": "1703.09788",
+        "title": "Towards Automatic Learning of Procedures From Web Instructional Videos"
+    },
+    "1812.02707": {
+        "arxivId": "1812.02707",
+        "title": "Video Action Transformer Network"
+    },
+    "1812.10477": {
+        "arxivId": "1812.10477",
+        "title": "Residual Dense Network for Image Restoration"
+    },
+    "2102.04378": {
+        "arxivId": "2102.04378",
+        "title": "TransReID: Transformer-based Object Re-Identification"
+    },
+    "2006.04139": {
+        "arxivId": "2006.04139",
+        "title": "Learning Texture Transformer Network for Image Super-Resolution"
+    },
+    "2005.00928": {
+        "arxivId": "2005.00928",
+        "title": "Quantifying Attention Flow in Transformers"
+    },
+    "2011.14503": {
+        "arxivId": "2011.14503",
+        "title": "End-to-End Video Instance Segmentation with Transformers"
+    },
+    "2104.01136": {
+        "arxivId": "2104.01136",
+        "title": "LeViT: a Vision Transformer in ConvNet\u2019s Clothing for Faster Inference"
+    },
+    "1812.03664": {
+        "arxivId": "1812.03664",
+        "title": "Few-Shot Learning via Embedding Adaptation With Set-to-Set Functions"
+    },
+    "2003.07853": {
+        "arxivId": "2003.07853",
+        "title": "Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation"
+    },
+    "1806.00187": {
+        "arxivId": "1806.00187",
+        "title": "Scaling Neural Machine Translation"
+    },
+    "1904.02874": {
+        "arxivId": "1904.02874",
+        "title": "An Attentive Survey of Attention Models"
+    },
+    "1903.03096": {
+        "arxivId": "1903.03096",
+        "title": "Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples"
+    },
+    "2105.03404": {
+        "arxivId": "2105.03404",
+        "title": "ResMLP: Feedforward Networks for Image Classification With Data-Efficient Training"
+    },
+    "2008.08767": {
+        "arxivId": "2008.08767",
+        "title": "Correction to: Single Image Super-Resolution via a Holistic Attention Network"
+    },
+    "1811.00491": {
+        "arxivId": "1811.00491",
+        "title": "A Corpus for Reasoning about Natural Language Grounded in Photographs"
+    },
+    "2012.09760": {
+        "arxivId": "2012.09760",
+        "title": "End-to-End Human Pose and Mesh Reconstruction with Transformers"
+    },
+    "2012.09838": {
+        "arxivId": "2012.09838",
+        "title": "Transformer Interpretability Beyond Attention Visualization"
+    },
+    "1708.01246": {
+        "arxivId": "1708.01246",
+        "title": "Unsupervised Representation Learning by Sorting Sequences"
+    },
+    "2102.10882": {
+        "arxivId": "2102.10882",
+        "title": "Conditional Positional Encodings for Vision Transformers"
+    },
+    "2107.14795": {
+        "arxivId": "2107.14795",
+        "title": "Perceiver IO: A General Architecture for Structured Inputs & Outputs"
+    },
+    "1804.00819": {
+        "arxivId": "1804.00819",
+        "title": "End-to-End Dense Video Captioning with Masked Transformer"
+    },
+    "1912.12180": {
+        "arxivId": "1912.12180",
+        "title": "Axial Attention in Multidimensional Transformers"
+    },
+    "1904.11491": {
+        "arxivId": "1904.11491",
+        "title": "Local Relation Networks for Image Recognition"
+    },
+    "2103.11886": {
+        "arxivId": "2103.11886",
+        "title": "DeepViT: Towards Deeper Vision Transformer"
+    },
+    "1905.04804": {
+        "arxivId": "1905.04804",
+        "title": "Video Instance Segmentation"
+    },
+    "1807.00230": {
+        "arxivId": "1807.00230",
+        "title": "Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization"
+    },
+    "1901.11117": {
+        "arxivId": "1901.11117",
+        "title": "The Evolved Transformer"
+    },
+    "2106.09681": {
+        "arxivId": "2106.09681",
+        "title": "XCiT: Cross-Covariance Image Transformers"
+    },
+    "2103.11816": {
+        "arxivId": "2103.11816",
+        "title": "Incorporating Convolution Designs into Visual Transformers"
+    },
+    "2102.03902": {
+        "arxivId": "2102.03902",
+        "title": "Nystr\u00f6mformer: A Nystr\u00f6m-Based Algorithm for Approximating Self-Attention"
+    },
+    "1904.04745": {
+        "arxivId": "1904.04745",
+        "title": "Cross-Modal Self-Attention Network for Referring Image Segmentation"
+    },
+    "1606.02185": {
+        "arxivId": "1606.02185",
+        "title": "Towards a Neural Statistician"
+    },
+    "2104.05707": {
+        "arxivId": "2104.05707",
+        "title": "LocalViT: Bringing Locality to Vision Transformers"
+    },
+    "2104.05704": {
+        "arxivId": "2104.05704",
+        "title": "Escaping the Big Data Paradigm with Compact Transformers"
+    },
+    "2006.06666": {
+        "arxivId": "2006.06666",
+        "title": "VirTex: Learning Visual Representations from Textual Annotations"
+    },
+    "1907.06987": {
+        "arxivId": "1907.06987",
+        "title": "A Short Note on the Kinetics-700 Human Action Dataset"
+    },
+    "2107.00641": {
+        "arxivId": "2107.00641",
+        "title": "Focal Self-attention for Local-Global Interactions in Vision Transformers"
+    },
+    "2102.00719": {
+        "arxivId": "2102.00719",
+        "title": "Video Transformer Network"
+    },
+    "1909.04349": {
+        "arxivId": "1909.04349",
+        "title": "FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape From Single RGB Images"
+    },
+    "2103.12731": {
+        "arxivId": "2103.12731",
+        "title": "Scaling Local Self-Attention for Parameter Efficient Visual Backbones"
+    },
+    "2201.09792": {
+        "arxivId": "2201.09792",
+        "title": "Patches Are All You Need?"
+    },
+    "1804.01984": {
+        "arxivId": "1804.01984",
+        "title": "Look into Person: Joint Body Parsing & Pose Estimation Network and a New Benchmark"
+    },
+    "2104.06399": {
+        "arxivId": "2104.06399",
+        "title": "Co-Scale Conv-Attentional Image Transformers"
+    },
+    "2003.12206": {
+        "arxivId": "2003.12206",
+        "title": "Improving Reproducibility in Machine Learning Research (A Report from the NeurIPS 2019 Reproducibility Program)"
+    },
+    "2103.02143": {
+        "arxivId": "2103.02143",
+        "title": "Random Feature Attention"
+    },
+    "2005.00743": {
+        "arxivId": "2005.00743",
+        "title": "Synthesizer: Rethinking Self-Attention for Transformer Models"
+    },
+    "2002.11296": {
+        "arxivId": "2002.11296",
+        "title": "Sparse Sinkhorn Attention"
+    },
+    "2103.15358": {
+        "arxivId": "2103.15358",
+        "title": "Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding"
+    },
+    "2109.10852": {
+        "arxivId": "2109.10852",
+        "title": "Pix2seq: A Language Modeling Framework for Object Detection"
+    },
+    "2106.01548": {
+        "arxivId": "2106.01548",
+        "title": "When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations"
+    },
+    "2007.11498": {
+        "arxivId": "2007.11498",
+        "title": "CrossTransformers: spatially-aware few-shot transfer"
+    },
+    "2104.08541": {
+        "arxivId": "2104.08541",
+        "title": "TransVG: End-to-End Visual Grounding with Transformers"
+    },
+    "1810.00825": {
+        "arxivId": "1810.00825",
+        "title": "Set Transformer"
+    },
+    "2106.00666": {
+        "arxivId": "2106.00666",
+        "title": "You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection"
+    },
+    "2005.14187": {
+        "arxivId": "2005.14187",
+        "title": "HAT: Hardware-Aware Transformers for Efficient Natural Language Processing"
+    },
+    "2002.10638": {
+        "arxivId": "2002.10638",
+        "title": "Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-Training"
+    },
+    "1811.05544": {
+        "arxivId": "1811.05544",
+        "title": "An Introductory Survey on Attention Mechanisms in NLP Problems"
+    },
+    "2107.00651": {
+        "arxivId": "2107.00651",
+        "title": "AutoFormer: Searching Transformers for Visual Recognition"
+    },
+    "2004.14973": {
+        "arxivId": "2004.14973",
+        "title": "Improving Vision-and-Language Navigation with Image-Text Pairs from the Web"
+    },
+    "2105.13677": {
+        "arxivId": "2105.13677",
+        "title": "ResT: An Efficient Transformer for Visual Recognition"
+    },
+    "1805.02704": {
+        "arxivId": "1805.02704",
+        "title": "Image Super-Resolution via Dual-State Recurrent Networks"
+    },
+    "2106.09785": {
+        "arxivId": "2106.09785",
+        "title": "Efficient Self-supervised Vision Transformers for Representation Learning"
+    },
+    "1812.06587": {
+        "arxivId": "1812.06587",
+        "title": "Grounded Video Description"
+    },
+    "2106.02689": {
+        "arxivId": "2106.02689",
+        "title": "RegionViT: Regional-to-Local Attention for Vision Transformers"
+    },
+    "2106.12011": {
+        "arxivId": "2106.12011",
+        "title": "P2T: Pyramid Pooling Transformer for Scene Understanding"
+    },
+    "1908.05054": {
+        "arxivId": "1908.05054",
+        "title": "Fusion of Detected Objects in Text for Visual Question Answering"
+    },
+    "1612.08879": {
+        "arxivId": "1612.08879",
+        "title": "MARTA GANs: Unsupervised Representation Learning for Remote Sensing Image Classification"
+    },
+    "1912.04573": {
+        "arxivId": "1912.04573",
+        "title": "Classifying, Segmenting, and Tracking Object Instances in Video with Mask Propagation"
+    },
+    "2102.08602": {
+        "arxivId": "2102.08602",
+        "title": "LambdaNetworks: Modeling Long-Range Interactions Without Attention"
+    },
+    "2012.06399": {
+        "arxivId": "2012.06399",
+        "title": "Spatial Temporal Transformer Network for Skeleton-based Action Recognition"
+    },
+    "2106.03650": {
+        "arxivId": "2106.03650",
+        "title": "Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer"
+    },
+    "2011.00597": {
+        "arxivId": "2011.00597",
+        "title": "COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning"
+    },
+    "2105.04553": {
+        "arxivId": "2105.04553",
+        "title": "Self-Supervised Learning with Swin Transformers"
+    },
+    "2106.03089": {
+        "arxivId": "2106.03089",
+        "title": "Referring Transformer: A One-step Approach to Multi-task Visual Grounding"
+    },
+    "1811.11387": {
+        "arxivId": "1811.11387",
+        "title": "Self-Supervised Spatiotemporal Feature Learning via Video Rotation Prediction."
+    },
+    "1802.01880": {
+        "arxivId": "1802.01880",
+        "title": "Learning Image Representations by Completing Damaged Jigsaw Puzzles"
+    },
+    "2102.04432": {
+        "arxivId": "2102.04432",
+        "title": "Colorization Transformer"
+    },
+    "2007.04825": {
+        "arxivId": "2007.04825",
+        "title": "Fast Transformers with Clustered Attention"
+    },
+    "2007.08563": {
+        "arxivId": "2007.08563",
+        "title": "FTRANS: energy-efficient acceleration of transformers using FPGA"
+    },
+    "2103.16775": {
+        "arxivId": "2103.16775",
+        "title": "Attention, please! A survey of neural attention models in deep learning"
+    },
+    "1905.11736": {
+        "arxivId": "1905.11736",
+        "title": "Cross-Domain Transferability of Adversarial Perturbations"
+    },
+    "2103.00823": {
+        "arxivId": "2103.00823",
+        "title": "M6: A Chinese Multimodal Pretrainer"
+    },
+    "1901.03429": {
+        "arxivId": "1901.03429",
+        "title": "On the Turing Completeness of Modern Neural Network Architectures"
+    },
+    "2012.09793": {
+        "arxivId": "2012.09793",
+        "title": "SceneFormer: Indoor Scene Generation with Transformers"
+    },
+    "2010.06775": {
+        "arxivId": "2010.06775",
+        "title": "Vokenization: Improving Language Understanding via Contextualized, Visually-Grounded Supervision"
+    },
+    "2006.11702": {
+        "arxivId": "2006.11702",
+        "title": "A Universal Representation Transformer Layer for Few-Shot Image Classification"
+    },
+    "1808.07507": {
+        "arxivId": "1808.07507",
+        "title": "Video Jigsaw: Unsupervised Learning of Spatiotemporal Context for Video Action Recognition"
+    },
+    "2103.12424": {
+        "arxivId": "2103.12424",
+        "title": "BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search"
+    },
+    "2105.02723": {
+        "arxivId": "2105.02723",
+        "title": "Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet"
+    },
+    "2012.05292": {
+        "arxivId": "2012.05292",
+        "title": "Topological Planning with Transformers for Vision-and-Language Navigation"
+    },
+    "2011.09763": {
+        "arxivId": "2011.09763",
+        "title": "Attention-Based Transformers for Instance Segmentation of Cells in Microstructures"
+    },
+    "2107.02960": {
+        "arxivId": "2107.02960",
+        "title": "GLiT: Neural Architecture Search for Global and Local Image Transformer"
+    },
+    "2106.04169": {
+        "arxivId": "2106.04169",
+        "title": "On Improving Adversarial Transferability of Vision Transformers"
+    },
+    "1912.02037": {
+        "arxivId": "1912.02037",
+        "title": "AdversarialNAS: Adversarial Neural Architecture Search for GANs"
+    },
+    "2012.04124": {
+        "arxivId": "2012.04124",
+        "title": "Parameter Efficient Multimodal Transformers for Video Representation Learning"
+    },
+    "1811.03879": {
+        "arxivId": "1811.03879",
+        "title": "Cross and Learn: Cross-Modal Self-Supervision"
+    },
+    "2105.04281": {
+        "arxivId": "2105.04281",
+        "title": "Visual Grounding with Transformers"
+    },
+    "2106.09212": {
+        "arxivId": "2106.09212",
+        "title": "Long-Short Temporal Contrastive Learning of Video Transformers"
+    },
+    "2104.03964": {
+        "arxivId": "2104.03964",
+        "title": "Handwriting Transformers"
+    },
+    "1909.13433": {
+        "arxivId": "1909.13433",
+        "title": "Deep Amortized Clustering"
+    },
+    "1801.04381": {
+        "arxivId": "1801.04381",
+        "title": "MobileNetV2: Inverted Residuals and Linear Bottlenecks"
+    },
+    "1610.02357": {
+        "arxivId": "1610.02357",
+        "title": "Xception: Deep Learning with Depthwise Separable Convolutions"
+    },
+    "1602.07360": {
+        "arxivId": "1602.07360",
+        "title": "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <1MB model size"
+    },
+    "1707.01083": {
+        "arxivId": "1707.01083",
+        "title": "ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices"
+    },
+    "2111.06377": {
+        "arxivId": "2111.06377",
+        "title": "Masked Autoencoders Are Scalable Vision Learners"
+    },
+    "1702.04405": {
+        "arxivId": "1702.04405",
+        "title": "ScanNet: Richly-Annotated 3D Reconstructions of Indoor Scenes"
+    },
+    "2102.04306": {
+        "arxivId": "2102.04306",
+        "title": "TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation"
+    },
+    "2106.08254": {
+        "arxivId": "2106.08254",
+        "title": "BEiT: BERT Pre-Training of Image Transformers"
+    },
+    "1802.01436": {
+        "arxivId": "1802.01436",
+        "title": "Variational image compression with a scale hyperprior"
+    },
+    "1611.10080": {
+        "arxivId": "1611.10080",
+        "title": "Wider or Deeper: Revisiting the ResNet Model for Visual Recognition"
+    },
+    "1905.05950": {
+        "arxivId": "1905.05950",
+        "title": "BERT Rediscovers the Classical NLP Pipeline"
+    },
+    "2106.04554": {
+        "arxivId": "2106.04554",
+        "title": "A Survey of Transformers"
+    },
+    "2108.08810": {
+        "arxivId": "2108.08810",
+        "title": "Do Vision Transformers See Like Convolutional Neural Networks?"
+    },
+    "2106.05735": {
+        "arxivId": "2106.05735",
+        "title": "The Medical Segmentation Decathlon"
+    },
+    "2106.14881": {
+        "arxivId": "2106.14881",
+        "title": "Early Convolutions Help Transformers See Better"
+    },
+    "2103.16302": {
+        "arxivId": "2103.16302",
+        "title": "Rethinking Spatial Dimensions of Vision Transformers"
+    },
+    "2006.03677": {
+        "arxivId": "2006.03677",
+        "title": "Visual Transformers: Token-based Image Representation and Processing for Computer Vision"
+    },
+    "2107.02314": {
+        "arxivId": "2107.02314",
+        "title": "The RSNA-ASNR-MICCAI BraTS 2021 Benchmark on Brain Tumor Segmentation and Radiogenomic Classification"
+    },
+    "2104.00678": {
+        "arxivId": "2104.00678",
+        "title": "Group-Free 3D Object Detection via Transformers"
+    },
+    "2111.06091": {
+        "arxivId": "2111.06091",
+        "title": "A Survey of Visual Transformers"
+    },
+    "2112.02244": {
+        "arxivId": "2112.02244",
+        "title": "LAVT: Language-Aware Vision Transformer for Referring Image Segmentation"
+    },
+    "2104.10036": {
+        "arxivId": "2104.10036",
+        "title": "VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization"
+    },
+    "2012.09958": {
+        "arxivId": "2012.09958",
+        "title": "Toward Transformer-Based Object Detection"
+    },
+    "2111.11429": {
+        "arxivId": "2111.11429",
+        "title": "Benchmarking Detection Transfer Learning with Vision Transformers"
+    },
+    "2107.02612": {
+        "arxivId": "2107.02612",
+        "title": "Combining EfficientNet and Vision Transformers for Video Deepfake Detection"
+    },
+    "2202.05492": {
+        "arxivId": "2202.05492",
+        "title": "Entroformer: A Transformer-based Entropy Model for Learned Image Compression"
+    },
+    "2203.10808": {
+        "arxivId": "2203.10808",
+        "title": "AnoViT: Unsupervised Anomaly Detection and Localization with Vision Transformer-based Encoder-Decoder"
+    },
+    "2108.03414": {
+        "arxivId": "2108.03414",
+        "title": "Vision Transformers for femur fracture classification"
+    },
+    "2106.04650": {
+        "arxivId": "2106.04650",
+        "title": "TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising"
+    },
+    "2210.01391": {
+        "arxivId": "2210.01391",
+        "title": "Bridged Transformer for Vision and Point Cloud 3D Object Detection"
+    },
+    "2105.06373": {
+        "arxivId": "2105.06373",
+        "title": "Manipulation Detection in Satellite Images Using Vision Transformer"
+    },
+    "2204.00631": {
+        "arxivId": "2204.00631",
+        "title": "UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation"
+    },
+    "2201.05920": {
+        "arxivId": "2201.05920",
+        "title": "ViTBIS: Vision Transformer for Biomedical Image Segmentation"
+    },
+    "1502.03167": {
+        "arxivId": "1502.03167",
+        "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift"
+    },
+    "1605.06211": {
+        "arxivId": "1605.06211",
+        "title": "Fully convolutional networks for semantic segmentation"
+    },
+    "1709.01507": {
+        "arxivId": "1709.01507",
+        "title": "Squeeze-and-Excitation Networks"
+    },
+    "1612.00593": {
+        "arxivId": "1612.00593",
+        "title": "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation"
+    },
+    "2006.11239": {
+        "arxivId": "2006.11239",
+        "title": "Denoising Diffusion Probabilistic Models"
+    },
+    "1412.3555": {
+        "arxivId": "1412.3555",
+        "title": "Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling"
+    },
+    "2112.10752": {
+        "arxivId": "2112.10752",
+        "title": "High-Resolution Image Synthesis with Latent Diffusion Models"
+    },
+    "1502.03044": {
+        "arxivId": "1502.03044",
+        "title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention"
+    },
+    "1910.13461": {
+        "arxivId": "1910.13461",
+        "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension"
+    },
+    "1906.08237": {
+        "arxivId": "1906.08237",
+        "title": "XLNet: Generalized Autoregressive Pretraining for Language Understanding"
+    },
+    "1705.07750": {
+        "arxivId": "1705.07750",
+        "title": "Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset"
+    },
+    "1910.01108": {
+        "arxivId": "1910.01108",
+        "title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter"
+    },
+    "1909.11942": {
+        "arxivId": "1909.11942",
+        "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations"
+    },
+    "2204.06125": {
+        "arxivId": "2204.06125",
+        "title": "Hierarchical Text-Conditional Image Generation with CLIP Latents"
+    },
+    "1901.08746": {
+        "arxivId": "1901.08746",
+        "title": "BioBERT: a pre-trained biomedical language representation model for biomedical text mining"
+    },
+    "1809.02983": {
+        "arxivId": "1809.02983",
+        "title": "Dual Attention Network for Scene Segmentation"
+    },
+    "1904.01355": {
+        "arxivId": "1904.01355",
+        "title": "FCOS: Fully Convolutional One-Stage Object Detection"
+    },
+    "1804.03999": {
+        "arxivId": "1804.03999",
+        "title": "Attention U-Net: Learning Where to Look for the Pancreas"
+    },
+    "1606.08415": {
+        "arxivId": "1606.08415",
+        "title": "Gaussian Error Linear Units (GELUs)"
+    },
+    "2102.12092": {
+        "arxivId": "2102.12092",
+        "title": "Zero-Shot Text-to-Image Generation"
+    },
+    "1711.00937": {
+        "arxivId": "1711.00937",
+        "title": "Neural Discrete Representation Learning"
+    },
+    "1406.6247": {
+        "arxivId": "1406.6247",
+        "title": "Recurrent Models of Visual Attention"
+    },
+    "1704.06904": {
+        "arxivId": "1704.06904",
+        "title": "Residual Attention Network for Image Classification"
+    },
+    "1705.03122": {
+        "arxivId": "1705.03122",
+        "title": "Convolutional Sequence to Sequence Learning"
+    },
+    "1803.03635": {
+        "arxivId": "1803.03635",
+        "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks"
+    },
+    "1903.10676": {
+        "arxivId": "1903.10676",
+        "title": "SciBERT: A Pretrained Language Model for Scientific Text"
+    },
+    "1506.06724": {
+        "arxivId": "1506.06724",
+        "title": "Aligning Books and Movies: Towards Story-Like Visual Explanations by Watching Movies and Reading Books"
+    },
+    "1312.6184": {
+        "arxivId": "1312.6184",
+        "title": "Do Deep Nets Really Need to be Deep?"
+    },
+    "1911.11907": {
+        "arxivId": "1911.11907",
+        "title": "GhostNet: More Features From Cheap Operations"
+    },
+    "2105.05537": {
+        "arxivId": "2105.05537",
+        "title": "Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation"
+    },
+    "1907.10529": {
+        "arxivId": "1907.10529",
+        "title": "SpanBERT: Improving Pre-training by Representing and Predicting Spans"
+    },
+    "2007.14062": {
+        "arxivId": "2007.14062",
+        "title": "Big Bird: Transformers for Longer Sequences"
+    },
+    "1909.10351": {
+        "arxivId": "1909.10351",
+        "title": "TinyBERT: Distilling BERT for Natural Language Understanding"
+    },
+    "1905.03197": {
+        "arxivId": "1905.03197",
+        "title": "Unified Language Model Pre-training for Natural Language Understanding and Generation"
+    },
+    "1904.11492": {
+        "arxivId": "1904.11492",
+        "title": "GCNet: Non-Local Networks Meet Squeeze-Excitation Networks and Beyond"
+    },
+    "1606.01933": {
+        "arxivId": "1606.01933",
+        "title": "A Decomposable Attention Model for Natural Language Inference"
+    },
+    "2003.08271": {
+        "arxivId": "2003.08271",
+        "title": "Pre-trained models for natural language processing: A survey"
+    },
+    "1905.07129": {
+        "arxivId": "1905.07129",
+        "title": "ERNIE: Enhanced Language Representation with Informative Entities"
+    },
+    "1711.11575": {
+        "arxivId": "1711.11575",
+        "title": "Relation Networks for Object Detection"
+    },
+    "2111.09886": {
+        "arxivId": "2111.09886",
+        "title": "SimMIM: a Simple Framework for Masked Image Modeling"
+    },
+    "1912.11370": {
+        "arxivId": "1912.11370",
+        "title": "Big Transfer (BiT): General Visual Representation Learning"
+    },
+    "2002.10957": {
+        "arxivId": "2002.10957",
+        "title": "MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers"
+    },
+    "1905.10650": {
+        "arxivId": "1905.10650",
+        "title": "Are Sixteen Heads Really Better than One?"
+    },
+    "1902.03393": {
+        "arxivId": "1902.03393",
+        "title": "Improved Knowledge Distillation via Teacher Assistant"
+    },
+    "2101.11605": {
+        "arxivId": "2101.11605",
+        "title": "Bottleneck Transformers for Visual Recognition"
+    },
+    "1908.04626": {
+        "arxivId": "1908.04626",
+        "title": "Attention is not not Explanation"
+    },
+    "2102.10662": {
+        "arxivId": "2102.10662",
+        "title": "Medical Transformer: Gated Axial-Attention for Medical Image Segmentation"
+    },
+    "2103.15436": {
+        "arxivId": "2103.15436",
+        "title": "Transformer Tracking"
+    },
+    "1808.00191": {
+        "arxivId": "1808.00191",
+        "title": "Graph R-CNN for Scene Graph Generation"
+    },
+    "1908.09355": {
+        "arxivId": "1908.09355",
+        "title": "Patient Knowledge Distillation for BERT Model Compression"
+    },
+    "1904.05342": {
+        "arxivId": "1904.05342",
+        "title": "ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission"
+    },
+    "2004.02984": {
+        "arxivId": "2004.02984",
+        "title": "MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices"
+    },
+    "1909.04164": {
+        "arxivId": "1909.04164",
+        "title": "Knowledge Enhanced Contextual Word Representations"
+    },
+    "2105.13290": {
+        "arxivId": "2105.13290",
+        "title": "CogView: Mastering Text-to-Image Generation via Transformers"
+    },
+    "1906.03731": {
+        "arxivId": "1906.03731",
+        "title": "Is Attention Interpretable?"
+    },
+    "1906.01787": {
+        "arxivId": "1906.01787",
+        "title": "Learning Deep Transformer Models for Machine Translation"
+    },
+    "1809.00916": {
+        "arxivId": "1809.00916",
+        "title": "OCNet: Object Context Network for Scene Parsing"
+    },
+    "2004.04581": {
+        "arxivId": "2004.04581",
+        "title": "Self-Supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation"
+    },
+    "1909.11556": {
+        "arxivId": "1909.11556",
+        "title": "Reducing Transformer Depth on Demand with Structured Dropout"
+    },
+    "2007.10639": {
+        "arxivId": "2007.10639",
+        "title": "Multi-modal Transformer for Video Retrieval"
+    },
+    "2107.06263": {
+        "arxivId": "2107.06263",
+        "title": "CMT: Convolutional Neural Networks Meet Vision Transformers"
+    },
+    "1909.05840": {
+        "arxivId": "1909.05840",
+        "title": "Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT"
+    },
+    "2012.15460": {
+        "arxivId": "2012.15460",
+        "title": "TransTrack: Multiple-Object Tracking with Transformer"
+    },
+    "1907.13426": {
+        "arxivId": "1907.13426",
+        "title": "Expectation-Maximization Attention Networks for Semantic Segmentation"
+    },
+    "1810.11579": {
+        "arxivId": "1810.11579",
+        "title": "A2-Nets: Double Attention Networks"
+    },
+    "1908.01998": {
+        "arxivId": "1908.01998",
+        "title": "Few-Shot Object Detection With Attention-RPN and Multi-Relation Detector"
+    },
+    "0808.4134": {
+        "arxivId": "0808.4134",
+        "title": "Spectral Sparsification of Graphs"
+    },
+    "2012.00759": {
+        "arxivId": "2012.00759",
+        "title": "MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers"
+    },
+    "1910.06188": {
+        "arxivId": "1910.06188",
+        "title": "Q8BERT: Quantized 8Bit BERT"
+    },
+    "1410.1141": {
+        "arxivId": "1410.1141",
+        "title": "On the Computational Efficiency of Training Neural Networks"
+    },
+    "2103.11681": {
+        "arxivId": "2103.11681",
+        "title": "Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking"
+    },
+    "1811.12814": {
+        "arxivId": "1811.12814",
+        "title": "Graph-Based Global Reasoning Networks"
+    },
+    "1804.02391": {
+        "arxivId": "1804.02391",
+        "title": "Learn To Pay Attention"
+    },
+    "1805.12076": {
+        "arxivId": "1805.12076",
+        "title": "Towards Understanding the Role of Over-Parametrization in Generalization of Neural Networks"
+    },
+    "2105.02358": {
+        "arxivId": "2105.02358",
+        "title": "Beyond Self-Attention: External Attention Using Two Linear Layers for Visual Tasks"
+    },
+    "1910.04867": {
+        "arxivId": "1910.04867",
+        "title": "A Large-scale Study of Representation Learning with the Visual Task Adaptation Benchmark"
+    },
+    "1809.10853": {
+        "arxivId": "1809.10853",
+        "title": "Adaptive Input Representations for Neural Language Modeling"
+    },
+    "2012.11409": {
+        "arxivId": "2012.11409",
+        "title": "3D Object Detection with Pointformer"
+    },
+    "2004.04037": {
+        "arxivId": "2004.04037",
+        "title": "DynaBERT: Dynamic BERT with Adaptive Width and Depth"
+    },
+    "2011.10881": {
+        "arxivId": "2011.10881",
+        "title": "Rethinking Transformer-based Set Prediction for Object Detection"
+    },
+    "2107.14222": {
+        "arxivId": "2107.14222",
+        "title": "Rethinking and Improving Relative Position Encoding for Vision Transformer"
+    },
+    "2101.07448": {
+        "arxivId": "2101.07448",
+        "title": "Fast Convergence of DETR with Spatially Modulated Co-Attention"
+    },
+    "2106.13112": {
+        "arxivId": "2106.13112",
+        "title": "VOLO: Vision Outlooker for Visual Recognition"
+    },
+    "2004.11886": {
+        "arxivId": "2004.11886",
+        "title": "Lite Transformer with Long-Short Range Attention"
+    },
+    "2102.10772": {
+        "arxivId": "2102.10772",
+        "title": "UniT: Multimodal Multitask Learning with a Unified Transformer"
+    },
+    "1911.07013": {
+        "arxivId": "1911.07013",
+        "title": "Understanding and Improving Layer Normalization"
+    },
+    "2007.10247": {
+        "arxivId": "2007.10247",
+        "title": "Learning Joint Spatial-Temporal Transformations for Video Inpainting"
+    },
+    "1801.09927": {
+        "arxivId": "1801.09927",
+        "title": "Diagnose like a Radiologist: Attention Guided Convolutional Neural Network for Thorax Disease Classification"
+    },
+    "2003.04887": {
+        "arxivId": "2003.04887",
+        "title": "ReZero is All You Need: Fast Convergence at Large Depth"
+    },
+    "1909.09408": {
+        "arxivId": "1909.09408",
+        "title": "ACFNet: Attentional Class Feature Network for Semantic Segmentation"
+    },
+    "1910.04732": {
+        "arxivId": "1910.04732",
+        "title": "Structured Pruning of Large Language Models"
+    },
+    "1906.02443": {
+        "arxivId": "1906.02443",
+        "title": "Robust Neural Machine Translation with Doubly Adversarial Inputs"
+    },
+    "2003.12063": {
+        "arxivId": "2003.12063",
+        "title": "Memory Enhanced Global-Local Aggregation for Video Object Detection"
+    },
+    "2106.02638": {
+        "arxivId": "2106.02638",
+        "title": "Associating Objects with Transformers for Video Object Segmentation"
+    },
+    "2011.04233": {
+        "arxivId": "2011.04233",
+        "title": "End-to-end Lane Shape Prediction with Transformers"
+    },
+    "2007.09451": {
+        "arxivId": "2007.09451",
+        "title": "Feature Pyramid Transformer"
+    },
+    "2004.10924": {
+        "arxivId": "2004.10924",
+        "title": "PolyLaneNet: Lane Estimation via Deep Polynomial Regression"
+    },
+    "2012.14214": {
+        "arxivId": "2012.14214",
+        "title": "TransPose: Keypoint Localization via Transformer"
+    },
+    "2003.13951": {
+        "arxivId": "2003.13951",
+        "title": "Self-Supervised Monocular Trained Depth Estimation Using Self-Attention and Discrete Disparity Volume"
+    },
+    "1908.08962": {
+        "arxivId": "1908.08962",
+        "title": "Well-Read Students Learn Better: The Impact of Student Initialization on Knowledge Distillation"
+    },
+    "2105.05003": {
+        "arxivId": "2105.05003",
+        "title": "CondLaneNet: a Top-to-down Lane Detection Framework Based on Conditional Convolution"
+    },
+    "2104.03516": {
+        "arxivId": "2104.03516",
+        "title": "TokenPose: Learning Keypoint Tokens for Human Pose Estimation"
+    },
+    "2002.02925": {
+        "arxivId": "2002.02925",
+        "title": "BERT-of-Theseus: Compressing BERT by Progressive Module Replacing"
+    },
+    "2104.12533": {
+        "arxivId": "2104.12533",
+        "title": "Visformer: The Vision-friendly Transformer"
+    },
+    "2005.00561": {
+        "arxivId": "2005.00561",
+        "title": "When BERT Plays the Lottery, All Tickets Are Winning"
+    },
+    "2011.09315": {
+        "arxivId": "2011.09315",
+        "title": "End-to-End Object Detection with Adaptive Clustering Transformer"
+    },
+    "2104.01318": {
+        "arxivId": "2104.01318",
+        "title": "Efficient DETR: Improving End-to-End Object Detector with Dense Prior"
+    },
+    "2107.04589": {
+        "arxivId": "2107.04589",
+        "title": "ViTGAN: Training GANs with Vision Transformers"
+    },
+    "1909.06121": {
+        "arxivId": "1909.06121",
+        "title": "Dual Graph Convolutional Network for Semantic Segmentation"
+    },
+    "2105.07926": {
+        "arxivId": "2105.07926",
+        "title": "Towards Robust Vision Transformer"
+    },
+    "2003.12737": {
+        "arxivId": "2003.12737",
+        "title": "Actor-Transformers for Group Activity Recognition"
+    },
+    "1810.13125": {
+        "arxivId": "1810.13125",
+        "title": "Compact Generalized Non-local Network"
+    },
+    "1911.12529": {
+        "arxivId": "1911.12529",
+        "title": "One-Shot Object Detection with Co-Attention and Co-Excitation"
+    },
+    "2105.12723": {
+        "arxivId": "2105.12723",
+        "title": "Nested Hierarchical Transformer: Towards Accurate, Data-Efficient and Interpretable Visual Understanding"
+    },
+    "2106.05656": {
+        "arxivId": "2106.05656",
+        "title": "MST: Masked Self-Supervised Transformer for Visual Representation"
+    },
+    "2008.02496": {
+        "arxivId": "2008.02496",
+        "title": "ConvBERT: Improving BERT with Span-based Dynamic Convolution"
+    },
+    "1907.12273": {
+        "arxivId": "1907.12273",
+        "title": "Interlaced Sparse Self-Attention for Semantic Segmentation"
+    },
+    "2004.01389": {
+        "arxivId": "2004.01389",
+        "title": "LiDAR-Based Online 3D Video Object Detection With Graph-Based Message Passing and Spatiotemporal Transformer Attention"
+    },
+    "1906.00532": {
+        "arxivId": "1906.00532",
+        "title": "Efficient 8-Bit Quantization of Transformer Neural Machine Language Translation Model"
+    },
+    "1901.00392": {
+        "arxivId": "1901.00392",
+        "title": "Attribute-Aware Attention Model for Fine-grained Representation Learning"
+    },
+    "2109.04553": {
+        "arxivId": "2109.04553",
+        "title": "Is Attention Better Than Matrix Decomposition?"
+    },
+    "1810.00861": {
+        "arxivId": "1810.00861",
+        "title": "ProxQuant: Quantized Neural Networks via Proximal Operators"
+    },
+    "2011.13628": {
+        "arxivId": "2011.13628",
+        "title": "Temporal-Channel Transformer for 3D Lidar-Based Video Object Detection for Autonomous Driving"
+    },
+    "2106.02351": {
+        "arxivId": "2106.02351",
+        "title": "SOLQ: Segmenting Objects by Learning Queries"
+    },
+    "2106.04550": {
+        "arxivId": "2106.04550",
+        "title": "DETReg: Unsupervised Pretraining with Region Priors for Object Detection"
+    },
+    "2106.00515": {
+        "arxivId": "2106.00515",
+        "title": "KVT: k-NN Attention for Boosting Vision Transformers"
+    },
+    "2106.05786": {
+        "arxivId": "2106.05786",
+        "title": "CAT: Cross Attention in Vision Transformer"
+    },
+    "2105.00637": {
+        "arxivId": "2105.00637",
+        "title": "ISTR: End-to-End Instance Segmentation with Transformers"
+    },
+    "1901.10137": {
+        "arxivId": "1901.10137",
+        "title": "Attention-based context aggregation network for monocular depth estimation"
+    },
+    "1910.14488": {
+        "arxivId": "1910.14488",
+        "title": "NAT: Neural Architecture Transformer for Accurate and Compact Architectures"
+    },
+    "2008.04693": {
+        "arxivId": "2008.04693",
+        "title": "PROFIT: A Novel Training Method for sub-4-bit MobileNet Models"
+    },
+    "2105.03817": {
+        "arxivId": "2105.03817",
+        "title": "TrTr: Visual Tracking with Transformer"
+    },
+    "2103.15320": {
+        "arxivId": "2103.15320",
+        "title": "TFPose: Direct Human Pose Estimation with Transformers"
+    },
+    "2009.08695": {
+        "arxivId": "2009.08695",
+        "title": "Searching for Low-Bit Weights in Quantized Neural Networks"
+    },
+    "2010.14819": {
+        "arxivId": "2010.14819",
+        "title": "Model Rubik's Cube: Twisting Resolution, Depth and Width for TinyNets"
+    },
+    "2105.15168": {
+        "arxivId": "2105.15168",
+        "title": "MSG-Transformer: Exchanging Local Spatial Information by Manipulating Messenger Tokens"
+    },
+    "2105.14217": {
+        "arxivId": "2105.14217",
+        "title": "Less is More: Pay Less Attention in Vision Transformers"
+    },
+    "2006.04862": {
+        "arxivId": "2006.04862",
+        "title": "$O(n)$ Connections are Expressive Enough: Universal Approximability of Sparse Transformers"
+    },
+    "2011.10185": {
+        "arxivId": "2011.10185",
+        "title": "ConvTransformer: A Convolutional Transformer Network for Video Frame Synthesis"
+    },
+    "2009.00743": {
+        "arxivId": "2009.00743",
+        "title": "Bidirectional Attention Network for Monocular Depth Estimation"
+    },
+    "2003.14266": {
+        "arxivId": "2003.14266",
+        "title": "SCT: Set Constrained Temporal Transformer for Set Supervised Action Segmentation"
+    },
+    "1910.10485": {
+        "arxivId": "1910.10485",
+        "title": "Fully Quantized Transformer for Machine Translation"
+    },
+    "1909.07229": {
+        "arxivId": "1909.07229",
+        "title": "Global Aggregation then Local Distribution in Fully Convolutional Networks"
+    },
+    "2010.15831": {
+        "arxivId": "2010.15831",
+        "title": "RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder"
+    },
+    "2106.03714": {
+        "arxivId": "2106.03714",
+        "title": "Refiner: Refining Self-attention for Vision Transformers"
+    },
+    "2004.05686": {
+        "arxivId": "2004.05686",
+        "title": "XtremeDistil: Multi-stage Distillation for Massive Multilingual Models"
+    },
+    "2011.00993": {
+        "arxivId": "2011.00993",
+        "title": "CABiNet: Efficient Context Aggregation Network for Low-Latency Semantic Segmentation"
+    },
+    "2106.13700": {
+        "arxivId": "2106.13700",
+        "title": "Vision Transformer Architecture Search"
+    },
+    "1906.05947": {
+        "arxivId": "1906.05947",
+        "title": "Temporal Transformer Networks: Joint Learning of Invariant and Discriminative Time Warping"
+    },
+    "2011.10084": {
+        "arxivId": "2011.10084",
+        "title": "Classification by Attention: Scene Graph Classification with Prior Knowledge"
+    },
+    "2107.02133": {
+        "arxivId": "2107.02133",
+        "title": "Test-Time Personalization with a Transformer for Human Pose Estimation"
+    },
+    "2002.05540": {
+        "arxivId": "2002.05540",
+        "title": "SpotNet: Self-Attention Multi-Task Network for Object Detection"
+    },
+    "1910.11559": {
+        "arxivId": "1910.11559",
+        "title": "SpeechBERT: Cross-Modal Pre-trained Language Model for End-to-end Spoken Question Answering"
+    },
+    "2106.03146": {
+        "arxivId": "2106.03146",
+        "title": "Oriented Object Detection with Transformer"
+    },
+    "2106.15941": {
+        "arxivId": "2106.15941",
+        "title": "Augmented Shortcuts for Vision Transformers"
+    },
+    "2104.01745": {
+        "arxivId": "2104.01745",
+        "title": "A Video Is Worth Three Views: Trigeminal Transformers for Video-Based Person Re-Identification"
+    },
+    "2106.04108": {
+        "arxivId": "2106.04108",
+        "title": "Fully Transformer Networks for Semantic Image Segmentation"
+    },
+    "2104.11712": {
+        "arxivId": "2104.11712",
+        "title": "Skeletor: Skeletal Transformers for Robust Body-Pose Estimation"
+    },
+    "2103.16469": {
+        "arxivId": "2103.16469",
+        "title": "Spatiotemporal Transformer for Video-based Person Re-identification"
+    },
+    "2107.05790": {
+        "arxivId": "2107.05790",
+        "title": "Visual Parser: Representing Part-whole Hierarchies with Transformers"
+    },
+    "2010.05223": {
+        "arxivId": "2010.05223",
+        "title": "End to End Binarized Neural Networks for Text Classification"
+    },
+    "2003.07845": {
+        "arxivId": "2003.07845",
+        "title": "Rethinking Batch Normalization in Transformers"
+    },
+    "1906.02792": {
+        "arxivId": "1906.02792",
+        "title": "Attention is all you need for Videos: Self-attention based Video Summarization using Universal Transformers"
+    },
+    "2012.06785": {
+        "arxivId": "2012.06785",
+        "title": "DETR for Pedestrian Detection"
+    },
+    "1505.04597": {
+        "arxivId": "1505.04597",
+        "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation"
+    },
+    "1409.3215": {
+        "arxivId": "1409.3215",
+        "title": "Sequence to Sequence Learning with Neural Networks"
+    },
+    "1506.02025": {
+        "arxivId": "1506.02025",
+        "title": "Spatial Transformer Networks"
+    },
+    "1807.05511": {
+        "arxivId": "1807.05511",
+        "title": "Object Detection With Deep Learning: A Review"
+    },
+    "1908.07919": {
+        "arxivId": "1908.07919",
+        "title": "Deep High-Resolution Representation Learning for Visual Recognition"
+    },
+    "1707.02968": {
+        "arxivId": "1707.02968",
+        "title": "Revisiting Unreasonable Effectiveness of Data in Deep Learning Era"
+    },
+    "1903.06586": {
+        "arxivId": "1903.06586",
+        "title": "Selective Kernel Networks"
+    },
+    "1505.00387": {
+        "arxivId": "1505.00387",
+        "title": "Highway Networks"
+    },
+    "2103.13413": {
+        "arxivId": "2103.13413",
+        "title": "Vision Transformers for Dense Prediction"
+    },
+    "2111.07624": {
+        "arxivId": "2111.07624",
+        "title": "Attention mechanisms in computer vision: A survey"
+    },
+    "2107.06278": {
+        "arxivId": "2107.06278",
+        "title": "Per-Pixel Classification is Not All You Need for Semantic Segmentation"
+    },
+    "2106.13230": {
+        "arxivId": "2106.13230",
+        "title": "Video Swin Transformer"
+    },
+    "2103.10504": {
+        "arxivId": "2103.10504",
+        "title": "UNETR: Transformers for 3D Medical Image Segmentation"
+    },
+    "1907.09408": {
+        "arxivId": "1907.09408",
+        "title": "A Survey of Deep Learning-Based Object Detection"
+    },
+    "2101.02702": {
+        "arxivId": "2101.02702",
+        "title": "TrackFormer: Multi-Object Tracking with Transformers"
+    },
+    "1711.03985": {
+        "arxivId": "1711.03985",
+        "title": "Applications of Deep Learning and Reinforcement Learning to Biological Data"
+    },
+    "2103.17154": {
+        "arxivId": "2103.17154",
+        "title": "Learning Spatio-Temporal Transformer for Visual Tracking"
+    },
+    "2103.04430": {
+        "arxivId": "2103.04430",
+        "title": "TransBTS: Multimodal Brain Tumor Segmentation Using Transformer"
+    },
+    "2012.11879": {
+        "arxivId": "2012.11879",
+        "title": "FcaNet: Frequency Channel Attention Networks"
+    },
+    "1904.04971": {
+        "arxivId": "1904.04971",
+        "title": "CondConv: Conditionally Parameterized Convolutions for Efficient Inference"
+    },
+    "1810.12348": {
+        "arxivId": "1810.12348",
+        "title": "Gather-Excite: Exploiting Feature Context in Convolutional Neural Networks"
+    },
+    "2108.06152": {
+        "arxivId": "2108.06152",
+        "title": "Conditional DETR for Fast Training Convergence"
+    },
+    "1808.01340": {
+        "arxivId": "1808.01340",
+        "title": "A Short Note about Kinetics-600"
+    },
+    "2103.03024": {
+        "arxivId": "2103.03024",
+        "title": "CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation"
+    },
+    "2109.08141": {
+        "arxivId": "2109.08141",
+        "title": "An End-to-End Transformer Model for 3D Object Detection"
+    },
+    "2109.02497": {
+        "arxivId": "2109.02497",
+        "title": "Voxel Transformer for 3D Object Detection"
+    },
+    "1811.12006": {
+        "arxivId": "1811.12006",
+        "title": "Global Second-Order Pooling Convolutional Networks"
+    },
+    "2106.16031": {
+        "arxivId": "2106.16031",
+        "title": "ResViT: Residual Vision Transformers for Multimodal Medical Image Synthesis"
+    },
+    "2005.06803": {
+        "arxivId": "2005.06803",
+        "title": "TAM: Temporal Adaptive Module for Video Recognition"
+    },
+    "2112.00995": {
+        "arxivId": "2112.00995",
+        "title": "SwinTrack: A Simple and Strong Baseline for Transformer Tracking"
+    },
+    "1903.10829": {
+        "arxivId": "1903.10829",
+        "title": "SRM: A Style-Based Recalibration Module for Convolutional Neural Networks"
+    },
+    "2108.10723": {
+        "arxivId": "2108.10723",
+        "title": "Improving 3D Object Detection with Channel-wise Transformer"
+    },
+    "2104.11746": {
+        "arxivId": "2104.11746",
+        "title": "VidTr: Video Transformer Without Convolutions"
+    },
+    "1909.11519": {
+        "arxivId": "1909.11519",
+        "title": "Gated Channel Transformation for Visual Recognition"
+    },
+    "1912.02801": {
+        "arxivId": "1912.02801",
+        "title": "PolyTransform: Deep Polygon Transformer for Instance Segmentation"
+    },
+    "2108.11116": {
+        "arxivId": "2108.11116",
+        "title": "TransFER: Learning Relation-aware Facial Expression Representations with Transformers"
+    },
+    "2104.00194": {
+        "arxivId": "2104.00194",
+        "title": "TransMOT: Spatial-Temporal Graph Transformer for Multiple Object Tracking"
+    },
+    "2107.08623": {
+        "arxivId": "2107.08623",
+        "title": "LeViT-UNet: Make Faster Encoders with Transformer for Medical Image Segmentation"
+    },
+    "2110.10403": {
+        "arxivId": "2110.10403",
+        "title": "AFTer-UNet: Axial Fusion Transformer UNet for Medical Image Segmentation"
+    },
+    "2107.02380": {
+        "arxivId": "2107.02380",
+        "title": "Learning Disentangled Representation Implicitly Via Transformer for Occluded Person Re-Identification"
+    },
+    "2108.02432": {
+        "arxivId": "2108.02432",
+        "title": "Token Shift Transformer for Video Classification"
+    },
+    "1903.07072": {
+        "arxivId": "1903.07072",
+        "title": "STNReID: Deep Convolutional Networks With Pairwise Spatial Transformer Networks for Partial Person Re-Identification"
+    },
+    "2107.05188": {
+        "arxivId": "2107.05188",
+        "title": "Transclaw U-Net: Claw U-Net With Transformers for Medical Image Segmentation"
+    },
+    "2108.01684": {
+        "arxivId": "2108.01684",
+        "title": "Vision Transformer with Progressive Sampling"
+    },
+    "2109.07036": {
+        "arxivId": "2109.07036",
+        "title": "PnP-DETR: Towards Efficient Visual Analysis with Transformers"
+    },
+    "2106.13381": {
+        "arxivId": "2106.13381",
+        "title": "To the Point: Efficient 3D Object Detection in the Range Image with Graph Convolution Kernels"
+    },
+    "2108.03428": {
+        "arxivId": "2108.03428",
+        "title": "PSViT: Better Vision Transformer via Token Pooling and Attention Sharing"
+    },
+    "2108.11575": {
+        "arxivId": "2108.11575",
+        "title": "Shifted Chunk Transformer for Spatio-Temporal Representational Learning"
+    },
+    "1901.06032": {
+        "arxivId": "1901.06032",
+        "title": "A survey of the recent architectures of deep convolutional neural networks"
+    },
+    "2201.09873": {
+        "arxivId": "2201.09873",
+        "title": "Transformers in Medical Imaging: A Survey"
+    },
+    "1809.10198": {
+        "arxivId": "1809.10198",
+        "title": "Recent progress in semantic image segmentation"
+    },
+    "2202.10108": {
+        "arxivId": "2202.10108",
+        "title": "ViTAEv2: Vision Transformer Advanced by Exploring Inductive Bias for Image Recognition and Beyond"
+    },
+    "2202.10936": {
+        "arxivId": "2202.10936",
+        "title": "A Survey of Vision-Language Pre-Trained Models"
+    },
+    "2209.01206": {
+        "arxivId": "2209.01206",
+        "title": "Transformers in Remote Sensing: A Survey"
+    },
+    "2107.14467": {
+        "arxivId": "2107.14467",
+        "title": "DPT: Deformable Patch-based Transformer for Visual Recognition"
+    },
+    "1901.07387": {
+        "arxivId": "1901.07387",
+        "title": "A recent survey on the applications of genetic programming in image processing"
+    },
+    "2108.11720": {
+        "arxivId": "2108.11720",
+        "title": "Segmentation of shoulder muscle MRI using a new Region and Edge based Deep Auto-Encoder"
+    },
+    "2201.11403": {
+        "arxivId": "2201.11403",
+        "title": "Generalised Image Outpainting with U-Transformer"
+    },
+    "2205.05277": {
+        "arxivId": "2205.05277",
+        "title": "AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation"
+    },
+    "1807.03748": {
+        "arxivId": "1807.03748",
+        "title": "Representation Learning with Contrastive Predictive Coding"
+    },
+    "1909.13719": {
+        "arxivId": "1909.13719",
+        "title": "Randaugment: Practical automated data augmentation with a reduced search space"
+    },
+    "1603.09382": {
+        "arxivId": "1603.09382",
+        "title": "Deep Networks with Stochastic Depth"
+    },
+    "2110.02178": {
+        "arxivId": "2110.02178",
+        "title": "MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer"
+    },
+    "2002.04745": {
+        "arxivId": "2002.04745",
+        "title": "On Layer Normalization in the Transformer Architecture"
+    },
+    "2103.10697": {
+        "arxivId": "2103.10697",
+        "title": "ConViT: improving vision transformers with soft convolutional inductive biases"
+    },
+    "1906.06423": {
+        "arxivId": "1906.06423",
+        "title": "Fixing the train-test resolution discrepancy"
+    },
+    "2105.09511": {
+        "arxivId": "2105.09511",
+        "title": "Medical Image Segmentation using Squeeze-and-Expansion Transformers"
+    },
+    "2104.03602": {
+        "arxivId": "2104.03602",
+        "title": "SiT: Self-supervised vIsion Transformer"
+    },
+    "2112.07074": {
+        "arxivId": "2112.07074",
+        "title": "Towards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text"
+    },
+    "2105.09142": {
+        "arxivId": "2105.09142",
+        "title": "Laughing Heads: Can Transformers Detect What Makes a Sentence Funny?"
+    },
+    "1311.2524": {
+        "arxivId": "1311.2524",
+        "title": "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation"
+    },
+    "1511.08458": {
+        "arxivId": "1511.08458",
+        "title": "An Introduction to Convolutional Neural Networks"
+    },
+    "2210.05844": {
+        "arxivId": "2210.05844",
+        "title": "SegViT: Semantic Segmentation with Plain Vision Transformers"
+    },
+    "2203.15350": {
+        "arxivId": "2203.15350",
+        "title": "End-to-End Transformer Based Model for Image Captioning"
+    },
+    "2105.14424": {
+        "arxivId": "2105.14424",
+        "title": "Gaze Estimation using Transformer"
+    }
+}

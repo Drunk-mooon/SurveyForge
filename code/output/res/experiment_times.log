@@ -1,0 +1,89 @@
+Experiment Start Time: 2025-10-16 10:30:27
+==================================================
+
+Topic: Progress in Terrain Traversal Robots for Complex Disaster Environments, Exp 1
+Start: 2025-10-16 10:30:27
+End: 2025-10-16 10:40:09
+Duration: 0:09:42.375160
+OutlineWriter Input token usage: 6939
+OutlineWriter Output token usage: 1753
+SubsectionWriter Input token usage: 786487
+SubsectionWriter Output token usage: 78077
+--------------------------------------------------
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:09:47.382941
+Successful Experiments: 1/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-10-16 10:30:27
+Total End Time: 2025-10-16 10:40:14
+Total Duration: 0:09:47.383267
+Total Topics: 1
+
+Resuming experiments at: 2025-10-16 11:22:34
+==================================================
+
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:00:05.004185
+Successful Experiments: 1/10
+==================================================
+Topic: LLM-based Multi-Agent, Exp 1
+Start: 2025-10-16 11:22:39
+End: 2025-10-16 11:31:45
+Duration: 0:09:06.261277
+OutlineWriter Input token usage: 7312
+OutlineWriter Output token usage: 1573
+SubsectionWriter Input token usage: 722671
+SubsectionWriter Output token usage: 68958
+--------------------------------------------------
+
+Topic Summary: LLM-based Multi-Agent
+Total Duration: 0:09:11.269225
+Successful Experiments: 1/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-10-16 11:22:34
+Total End Time: 2025-10-16 11:31:50
+Total Duration: 0:09:16.274052
+Total Topics: 2
+
+Resuming experiments at: 2025-10-16 11:43:11
+==================================================
+
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:00:05.005064
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: LLM-based Multi-Agent
+Total Duration: 0:00:05.003862
+Successful Experiments: 1/10
+==================================================
+Topic: Efficient Inference for Large Language Models, Exp 1
+Start: 2025-10-16 11:43:21
+End: 2025-10-16 11:51:48
+Duration: 0:08:27.851665
+OutlineWriter Input token usage: 6856
+OutlineWriter Output token usage: 1652
+SubsectionWriter Input token usage: 639644
+SubsectionWriter Output token usage: 60854
+--------------------------------------------------
+
+Topic Summary: Efficient Inference for Large Language Models
+Total Duration: 0:08:32.859138
+Successful Experiments: 1/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-10-16 11:43:11
+Total End Time: 2025-10-16 11:51:53
+Total Duration: 0:08:42.869115
+Total Topics: 3

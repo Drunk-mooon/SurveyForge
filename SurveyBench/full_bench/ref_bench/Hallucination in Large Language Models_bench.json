@@ -1,0 +1,2002 @@
+{
+    "2005.14165": {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+    },
+    "1910.10683": {
+        "arxivId": "1910.10683",
+        "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
+    },
+    "1707.06347": {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+    },
+    "2112.10752": {
+        "arxivId": "2112.10752",
+        "title": "High-Resolution Image Synthesis with Latent Diffusion Models"
+    },
+    "1910.13461": {
+        "arxivId": "1910.13461",
+        "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension"
+    },
+    "2203.02155": {
+        "arxivId": "2203.02155",
+        "title": "Training language models to follow instructions with human feedback"
+    },
+    "1506.02142": {
+        "arxivId": "1506.02142",
+        "title": "Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning"
+    },
+    "1612.01474": {
+        "arxivId": "1612.01474",
+        "title": "Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles"
+    },
+    "2204.02311": {
+        "arxivId": "2204.02311",
+        "title": "PaLM: Scaling Language Modeling with Pathways"
+    },
+    "2005.11401": {
+        "arxivId": "2005.11401",
+        "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks"
+    },
+    "2004.05150": {
+        "arxivId": "2004.05150",
+        "title": "Longformer: The Long-Document Transformer"
+    },
+    "2001.08361": {
+        "arxivId": "2001.08361",
+        "title": "Scaling Laws for Neural Language Models"
+    },
+    "2205.11916": {
+        "arxivId": "2205.11916",
+        "title": "Large Language Models are Zero-Shot Reasoners"
+    },
+    "2205.01068": {
+        "arxivId": "2205.01068",
+        "title": "OPT: Open Pre-trained Transformer Language Models"
+    },
+    "2004.04906": {
+        "arxivId": "2004.04906",
+        "title": "Dense Passage Retrieval for Open-Domain Question Answering"
+    },
+    "2301.12597": {
+        "arxivId": "2301.12597",
+        "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models"
+    },
+    "1904.09751": {
+        "arxivId": "1904.09751",
+        "title": "The Curious Case of Neural Text Degeneration"
+    },
+    "2302.05543": {
+        "arxivId": "2302.05543",
+        "title": "Adding Conditional Control to Text-to-Image Diffusion Models"
+    },
+    "2009.03300": {
+        "arxivId": "2009.03300",
+        "title": "Measuring Massive Multitask Language Understanding"
+    },
+    "2210.11416": {
+        "arxivId": "2210.11416",
+        "title": "Scaling Instruction-Finetuned Language Models"
+    },
+    "1706.03741": {
+        "arxivId": "1706.03741",
+        "title": "Deep Reinforcement Learning from Human Preferences"
+    },
+    "2304.08485": {
+        "arxivId": "2304.08485",
+        "title": "Visual Instruction Tuning"
+    },
+    "2303.12712": {
+        "arxivId": "2303.12712",
+        "title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4"
+    },
+    "1909.01066": {
+        "arxivId": "1909.01066",
+        "title": "Language Models as Knowledge Bases?"
+    },
+    "1809.09600": {
+        "arxivId": "1809.09600",
+        "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering"
+    },
+    "1506.03099": {
+        "arxivId": "1506.03099",
+        "title": "Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks"
+    },
+    "1912.08777": {
+        "arxivId": "1912.08777",
+        "title": "PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization"
+    },
+    "2002.08909": {
+        "arxivId": "2002.08909",
+        "title": "REALM: Retrieval-Augmented Language Model Pre-Training"
+    },
+    "2101.00027": {
+        "arxivId": "2101.00027",
+        "title": "The Pile: An 800GB Dataset of Diverse Text for Language Modeling"
+    },
+    "2210.03629": {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+    },
+    "1511.06732": {
+        "arxivId": "1511.06732",
+        "title": "Sequence Level Training with Recurrent Neural Networks"
+    },
+    "2009.01325": {
+        "arxivId": "2009.01325",
+        "title": "Learning to summarize from human feedback"
+    },
+    "2012.07805": {
+        "arxivId": "2012.07805",
+        "title": "Extracting Training Data from Large Language Models"
+    },
+    "1808.08745": {
+        "arxivId": "1808.08745",
+        "title": "Don\u2019t Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization"
+    },
+    "1805.04833": {
+        "arxivId": "1805.04833",
+        "title": "Hierarchical Neural Story Generation"
+    },
+    "2109.07958": {
+        "arxivId": "2109.07958",
+        "title": "TruthfulQA: Measuring How Models Mimic Human Falsehoods"
+    },
+    "2302.04023": {
+        "arxivId": "2302.04023",
+        "title": "A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity"
+    },
+    "2305.10601": {
+        "arxivId": "2305.10601",
+        "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models"
+    },
+    "1905.09418": {
+        "arxivId": "1905.09418",
+        "title": "Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned"
+    },
+    "2303.17651": {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+    },
+    "2307.03172": {
+        "arxivId": "2307.03172",
+        "title": "Lost in the Middle: How Language Models Use Long Contexts"
+    },
+    "2202.05262": {
+        "arxivId": "2202.05262",
+        "title": "Locating and Editing Factual Associations in GPT"
+    },
+    "1912.02164": {
+        "arxivId": "1912.02164",
+        "title": "Plug and Play Language Models: A Simple Approach to Controlled Text Generation"
+    },
+    "1811.10830": {
+        "arxivId": "1811.10830",
+        "title": "From Recognition to Cognition: Visual Commonsense Reasoning"
+    },
+    "2112.04359": {
+        "arxivId": "2112.04359",
+        "title": "Ethical and social risks of harm from Language Models"
+    },
+    "2002.08910": {
+        "arxivId": "2002.08910",
+        "title": "How Much Knowledge Can You Pack into the Parameters of a Language Model?"
+    },
+    "2108.10904": {
+        "arxivId": "2108.10904",
+        "title": "SimVLM: Simple Visual Language Model Pretraining with Weak Supervision"
+    },
+    "1910.12840": {
+        "arxivId": "1910.12840",
+        "title": "Evaluating the Factual Consistency of Abstractive Text Summarization"
+    },
+    "2306.01116": {
+        "arxivId": "2306.01116",
+        "title": "The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only"
+    },
+    "2211.09085": {
+        "arxivId": "2211.09085",
+        "title": "Galactica: A Large Language Model for Science"
+    },
+    "2007.12626": {
+        "arxivId": "2007.12626",
+        "title": "SummEval: Re-evaluating Summarization Evaluation"
+    },
+    "2305.11206": {
+        "arxivId": "2305.11206",
+        "title": "LIMA: Less Is More for Alignment"
+    },
+    "2012.14913": {
+        "arxivId": "2012.14913",
+        "title": "Transformer Feed-Forward Layers Are Key-Value Memories"
+    },
+    "2207.05221": {
+        "arxivId": "2207.05221",
+        "title": "Language Models (Mostly) Know What They Know"
+    },
+    "2104.07567": {
+        "arxivId": "2104.07567",
+        "title": "Retrieval Augmentation Reduces Hallucination in Conversation"
+    },
+    "1908.04319": {
+        "arxivId": "1908.04319",
+        "title": "Neural Text Generation with Unlikelihood Training"
+    },
+    "1907.09190": {
+        "arxivId": "1907.09190",
+        "title": "ELI5: Long Form Question Answering"
+    },
+    "2107.06499": {
+        "arxivId": "2107.06499",
+        "title": "Deduplicating Training Data Makes Language Models Better"
+    },
+    "2304.03277": {
+        "arxivId": "2304.03277",
+        "title": "Instruction Tuning with GPT-4"
+    },
+    "2012.05345": {
+        "arxivId": "2012.05345",
+        "title": "Data and its (dis)contents: A survey of dataset development and use in machine learning research"
+    },
+    "2210.03350": {
+        "arxivId": "2210.03350",
+        "title": "Measuring and Narrowing the Compositionality Gap in Language Models"
+    },
+    "2004.04228": {
+        "arxivId": "2004.04228",
+        "title": "Asking and Answering Questions to Evaluate the Factual Consistency of Summaries"
+    },
+    "2002.06353": {
+        "arxivId": "2002.06353",
+        "title": "UniViLM: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation"
+    },
+    "2104.08164": {
+        "arxivId": "2104.08164",
+        "title": "Editing Factual Knowledge in Language Models"
+    },
+    "2305.01937": {
+        "arxivId": "2305.01937",
+        "title": "Can Large Language Models Be an Alternative to Human Evaluations?"
+    },
+    "2305.14251": {
+        "arxivId": "2305.14251",
+        "title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation"
+    },
+    "2302.00093": {
+        "arxivId": "2302.00093",
+        "title": "Large Language Models Can Be Easily Distracted by Irrelevant Context"
+    },
+    "2210.07229": {
+        "arxivId": "2210.07229",
+        "title": "Mass-Editing Memory in a Transformer"
+    },
+    "2104.05240": {
+        "arxivId": "2104.05240",
+        "title": "Factual Probing Is [MASK]: Learning vs. Learning to Recall"
+    },
+    "2305.14325": {
+        "arxivId": "2305.14325",
+        "title": "Improving Factuality and Reasoning in Language Models through Multiagent Debate"
+    },
+    "2305.08322": {
+        "arxivId": "2305.08322",
+        "title": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models"
+    },
+    "2005.03754": {
+        "arxivId": "2005.03754",
+        "title": "FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization"
+    },
+    "2302.00083": {
+        "arxivId": "2302.00083",
+        "title": "In-Context Retrieval-Augmented Language Models"
+    },
+    "1711.03953": {
+        "arxivId": "1711.03953",
+        "title": "Breaking the Softmax Bottleneck: A High-Rank RNN Language Model"
+    },
+    "2108.11896": {
+        "arxivId": "2108.11896",
+        "title": "A Survey on Automated Fact-Checking"
+    },
+    "2212.10511": {
+        "arxivId": "2212.10511",
+        "title": "When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories"
+    },
+    "2308.10792": {
+        "arxivId": "2308.10792",
+        "title": "Instruction Tuning for Large Language Models: A Survey"
+    },
+    "2303.04048": {
+        "arxivId": "2303.04048",
+        "title": "Is ChatGPT a Good NLG Evaluator? A Preliminary Study"
+    },
+    "2301.13848": {
+        "arxivId": "2301.13848",
+        "title": "Benchmarking Large Language Models for News Summarization"
+    },
+    "2309.05463": {
+        "arxivId": "2309.05463",
+        "title": "Textbooks Are All You Need II: phi-1.5 technical report"
+    },
+    "2306.05424": {
+        "arxivId": "2306.05424",
+        "title": "Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models"
+    },
+    "2004.14373": {
+        "arxivId": "2004.14373",
+        "title": "ToTTo: A Controlled Table-To-Text Generation Dataset"
+    },
+    "2306.03341": {
+        "arxivId": "2306.03341",
+        "title": "Inference-Time Intervention: Eliciting Truthful Answers from a Language Model"
+    },
+    "2111.09525": {
+        "arxivId": "2111.09525",
+        "title": "SummaC: Re-Visiting NLI-based Models for Inconsistency Detection in Summarization"
+    },
+    "2210.02406": {
+        "arxivId": "2210.02406",
+        "title": "Decomposed Prompting: A Modular Approach for Solving Complex Tasks"
+    },
+    "2104.13346": {
+        "arxivId": "2104.13346",
+        "title": "Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics"
+    },
+    "2303.08896": {
+        "arxivId": "2303.08896",
+        "title": "SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models"
+    },
+    "2209.10063": {
+        "arxivId": "2209.10063",
+        "title": "Generate rather than Retrieve: Large Language Models are Strong Context Generators"
+    },
+    "2310.01798": {
+        "arxivId": "2310.01798",
+        "title": "Large Language Models Cannot Self-Correct Reasoning Yet"
+    },
+    "2211.08411": {
+        "arxivId": "2211.08411",
+        "title": "Large Language Models Struggle to Learn Long-Tail Knowledge"
+    },
+    "2212.10509": {
+        "arxivId": "2212.10509",
+        "title": "Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions"
+    },
+    "2206.06520": {
+        "arxivId": "2206.06520",
+        "title": "Memory-Based Model Editing at Scale"
+    },
+    "2309.05922": {
+        "arxivId": "2309.05922",
+        "title": "A Survey of Hallucination in Large Foundation Models"
+    },
+    "2212.03827": {
+        "arxivId": "2212.03827",
+        "title": "Discovering Latent Knowledge in Language Models Without Supervision"
+    },
+    "2210.15097": {
+        "arxivId": "2210.15097",
+        "title": "Contrastive Decoding: Open-ended Text Generation as Optimization"
+    },
+    "2305.11738": {
+        "arxivId": "2305.11738",
+        "title": "CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing"
+    },
+    "2212.09597": {
+        "arxivId": "2212.09597",
+        "title": "Reasoning with Language Model Prompting: A Survey"
+    },
+    "2212.12017": {
+        "arxivId": "2212.12017",
+        "title": "OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization"
+    },
+    "2103.12693": {
+        "arxivId": "2103.12693",
+        "title": "QuestEval: Summarization Asks for Fact-based Evaluation"
+    },
+    "2206.05802": {
+        "arxivId": "2206.05802",
+        "title": "Self-critiquing models for assisting human evaluators"
+    },
+    "1909.03242": {
+        "arxivId": "1909.03242",
+        "title": "MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims"
+    },
+    "2306.13063": {
+        "arxivId": "2306.13063",
+        "title": "Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs"
+    },
+    "2304.13734": {
+        "arxivId": "2304.13734",
+        "title": "The Internal State of an LLM Knows When its Lying"
+    },
+    "1906.06755": {
+        "arxivId": "1906.06755",
+        "title": "Theoretical Limitations of Self-Attention in Neural Sequence Models"
+    },
+    "2210.08726": {
+        "arxivId": "2210.08726",
+        "title": "RARR: Researching and Revising What Language Models Say, Using Language Models"
+    },
+    "2308.05374": {
+        "arxivId": "2308.05374",
+        "title": "Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment"
+    },
+    "2305.13172": {
+        "arxivId": "2305.13172",
+        "title": "Editing Large Language Models: Problems, Methods, and Opportunities"
+    },
+    "2305.13534": {
+        "arxivId": "2305.13534",
+        "title": "How Language Model Hallucinations Can Snowball"
+    },
+    "2304.09848": {
+        "arxivId": "2304.09848",
+        "title": "Evaluating Verifiability in Generative Search Engines"
+    },
+    "2303.14070": {
+        "arxivId": "2303.14070",
+        "title": "ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge"
+    },
+    "2309.12288": {
+        "arxivId": "2309.12288",
+        "title": "The Reversal Curse: LLMs trained on \"A is B\" fail to learn \"B is A\""
+    },
+    "1905.13322": {
+        "arxivId": "1905.13322",
+        "title": "Assessing The Factual Accuracy of Generated Text"
+    },
+    "2112.08542": {
+        "arxivId": "2112.08542",
+        "title": "QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization"
+    },
+    "2206.04624": {
+        "arxivId": "2206.04624",
+        "title": "Factuality Enhanced Language Models for Open-Ended Text Generation"
+    },
+    "2301.13379": {
+        "arxivId": "2301.13379",
+        "title": "Faithful Chain-of-Thought Reasoning"
+    },
+    "2308.03188": {
+        "arxivId": "2308.03188",
+        "title": "Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies"
+    },
+    "2004.05773": {
+        "arxivId": "2004.05773",
+        "title": "Generating Fact Checking Explanations"
+    },
+    "2112.12870": {
+        "arxivId": "2112.12870",
+        "title": "Measuring Attribution in Natural Language Generation Models"
+    },
+    "2005.03642": {
+        "arxivId": "2005.03642",
+        "title": "On Exposure Bias, Hallucination and Domain Shift in Neural Machine Translation"
+    },
+    "2004.00345": {
+        "arxivId": "2004.00345",
+        "title": "Editable Neural Networks"
+    },
+    "2102.09130": {
+        "arxivId": "2102.09130",
+        "title": "Entity-level Factual Consistency of Abstractive Text Summarization"
+    },
+    "2305.14552": {
+        "arxivId": "2305.14552",
+        "title": "Sources of Hallucination by Large Language Models on Inference Tasks"
+    },
+    "1908.10090": {
+        "arxivId": "1908.10090",
+        "title": "On NMT Search Errors and Model Errors: Cat Got Your Tongue?"
+    },
+    "1908.04942": {
+        "arxivId": "1908.04942",
+        "title": "Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation"
+    },
+    "2306.14565": {
+        "arxivId": "2306.14565",
+        "title": "Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning"
+    },
+    "2104.04302": {
+        "arxivId": "2104.04302",
+        "title": "Annotating and Modeling Fine-grained Factuality in Summarization"
+    },
+    "2103.15025": {
+        "arxivId": "2103.15025",
+        "title": "On Hallucination and Predictive Uncertainty in Conditional Language Generation"
+    },
+    "2305.14795": {
+        "arxivId": "2305.14795",
+        "title": "MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions"
+    },
+    "2301.00303": {
+        "arxivId": "2301.00303",
+        "title": "Rethinking with Retrieval: Faithful Large Language Model Inference"
+    },
+    "2010.05478": {
+        "arxivId": "2010.05478",
+        "title": "Evaluating Factuality in Generation with Dependency-level Entailment"
+    },
+    "2307.13528": {
+        "arxivId": "2307.13528",
+        "title": "FacTool: Factuality Detection in Generative AI - A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios"
+    },
+    "2305.14739": {
+        "arxivId": "2305.14739",
+        "title": "Trusting Your Evidence: Hallucinate Less with Context-aware Decoding"
+    },
+    "2104.08202": {
+        "arxivId": "2104.08202",
+        "title": "Q^{2}: Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering"
+    },
+    "2010.02650": {
+        "arxivId": "2010.02650",
+        "title": "If Beam Search Is the Answer, What Was the Question?"
+    },
+    "2010.06189": {
+        "arxivId": "2010.06189",
+        "title": "X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models"
+    },
+    "2301.09785": {
+        "arxivId": "2301.09785",
+        "title": "Transformer-Patcher: One Mistake worth One Neuron"
+    },
+    "2310.07521": {
+        "arxivId": "2310.07521",
+        "title": "Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity"
+    },
+    "2310.03214": {
+        "arxivId": "2310.03214",
+        "title": "FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation"
+    },
+    "2211.05110": {
+        "arxivId": "2211.05110",
+        "title": "Large Language Models with Controllable Working Memory"
+    },
+    "2104.08455": {
+        "arxivId": "2104.08455",
+        "title": "Neural Path Hunter: Reducing Hallucination in Dialogue Systems via Path Grounding"
+    },
+    "2305.15294": {
+        "arxivId": "2305.15294",
+        "title": "Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy"
+    },
+    "2303.09540": {
+        "arxivId": "2303.09540",
+        "title": "SemDeDup: Data-efficient learning at web-scale through semantic deduplication"
+    },
+    "2207.13332": {
+        "arxivId": "2207.13332",
+        "title": "RealTime QA: What's the Answer Right Now?"
+    },
+    "2204.06092": {
+        "arxivId": "2204.06092",
+        "title": "ASQA: Factoid Questions Meet Long-Form Answers"
+    },
+    "2305.03268": {
+        "arxivId": "2305.03268",
+        "title": "Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework"
+    },
+    "2307.03987": {
+        "arxivId": "2307.03987",
+        "title": "A Stitch in Time Saves Nine: Detecting and Mitigating Hallucinations of LLMs by Validating Low-Confidence Generation"
+    },
+    "1911.01214": {
+        "arxivId": "1911.01214",
+        "title": "A Richly Annotated Corpus for Different Tasks in Automated Fact-Checking"
+    },
+    "2212.07919": {
+        "arxivId": "2212.07919",
+        "title": "ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning"
+    },
+    "2304.02554": {
+        "arxivId": "2304.02554",
+        "title": "Human-like Summarization Evaluation with ChatGPT"
+    },
+    "2211.11031": {
+        "arxivId": "2211.11031",
+        "title": "Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adaptors"
+    },
+    "2310.04408": {
+        "arxivId": "2310.04408",
+        "title": "RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation"
+    },
+    "2104.14839": {
+        "arxivId": "2104.14839",
+        "title": "The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey"
+    },
+    "2205.10487": {
+        "arxivId": "2205.10487",
+        "title": "Scaling Laws and Interpretability of Learning from Repeated Data"
+    },
+    "2310.01469": {
+        "arxivId": "2310.01469",
+        "title": "LLM Lies: Hallucinations are not Bugs, but Features as Adversarial Examples"
+    },
+    "2307.11019": {
+        "arxivId": "2307.11019",
+        "title": "Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation"
+    },
+    "2304.04675": {
+        "arxivId": "2304.04675",
+        "title": "Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis"
+    },
+    "1910.08684": {
+        "arxivId": "1910.08684",
+        "title": "Sticking to the Facts: Confident Decoding for Faithful Data-to-Text Generation"
+    },
+    "2310.14566": {
+        "arxivId": "2310.14566",
+        "title": "HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models"
+    },
+    "2305.13281": {
+        "arxivId": "2305.13281",
+        "title": "LM vs LM: Detecting Factual Errors via Cross Examination"
+    },
+    "2010.05873": {
+        "arxivId": "2010.05873",
+        "title": "Controlled Hallucinations: Learning to Generate Faithfully from Noisy Data"
+    },
+    "2005.00969": {
+        "arxivId": "2005.00969",
+        "title": "Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints"
+    },
+    "2307.16877": {
+        "arxivId": "2307.16877",
+        "title": "Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering"
+    },
+    "2309.15402": {
+        "arxivId": "2309.15402",
+        "title": "Navigate through Enigmatic Labyrinth A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future"
+    },
+    "2004.10450": {
+        "arxivId": "2004.10450",
+        "title": "Trading Off Diversity and Quality in Natural Language Generation"
+    },
+    "2205.12854": {
+        "arxivId": "2205.12854",
+        "title": "Understanding Factual Errors in Summarization: Errors, Summarizers, Datasets, Error Detectors"
+    },
+    "2305.01879": {
+        "arxivId": "2305.01879",
+        "title": "SCOTT: Self-Consistent Chain-of-Thought Distillation"
+    },
+    "2305.18248": {
+        "arxivId": "2305.18248",
+        "title": "Do Language Models Know When They\u2019re Hallucinating References?"
+    },
+    "2210.03329": {
+        "arxivId": "2210.03329",
+        "title": "Calibrating Factual Knowledge in Pretrained Language Models"
+    },
+    "2310.12397": {
+        "arxivId": "2310.12397",
+        "title": "GPT-4 Doesn't Know It's Wrong: An Analysis of Iterative Prompting for Reasoning Problems"
+    },
+    "2305.06849": {
+        "arxivId": "2305.06849",
+        "title": "WebCPM: Interactive Web Search for Chinese Long-form Question Answering"
+    },
+    "2209.15430": {
+        "arxivId": "2209.15430",
+        "title": "Relative representations enable zero-shot latent space communication"
+    },
+    "2310.08118": {
+        "arxivId": "2310.08118",
+        "title": "Can Large Language Models Really Improve by Self-critiquing Their Own Plans?"
+    },
+    "2306.04136": {
+        "arxivId": "2306.04136",
+        "title": "Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering"
+    },
+    "2307.06908": {
+        "arxivId": "2307.06908",
+        "title": "Generating Benchmarks for Factuality Evaluation of Language Models"
+    },
+    "2305.14002": {
+        "arxivId": "2305.14002",
+        "title": "Improving Language Models via Plug-and-Play Retrieval Feedback"
+    },
+    "2303.15621": {
+        "arxivId": "2303.15621",
+        "title": "ChatGPT as a Factual Inconsistency Evaluator for Text Summarization"
+    },
+    "2204.01171": {
+        "arxivId": "2204.01171",
+        "title": "Why Exposure Bias Matters: An Imitation Learning Perspective of Error Accumulation in Language Generation"
+    },
+    "2202.12172": {
+        "arxivId": "2202.12172",
+        "title": "Overcoming a Theoretical Limitation of Self-Attention"
+    },
+    "2304.00740": {
+        "arxivId": "2304.00740",
+        "title": "Inspecting and Editing Knowledge Representations in Language Models"
+    },
+    "2305.11859": {
+        "arxivId": "2305.11859",
+        "title": "Complex Claim Verification with Evidence Retrieved in the Wild"
+    },
+    "2010.07882": {
+        "arxivId": "2010.07882",
+        "title": "Understanding Neural Abstractive Summarization Models via Uncertainty"
+    },
+    "2205.02832": {
+        "arxivId": "2205.02832",
+        "title": "Entity Cloze By Date: What LMs Know About Unseen Entities"
+    },
+    "2203.16747": {
+        "arxivId": "2203.16747",
+        "title": "How Pre-trained Language Models Capture Factual Knowledge? A Causal-Inspired Analysis"
+    },
+    "2210.13210": {
+        "arxivId": "2210.13210",
+        "title": "Mutual Information Alleviates Hallucinations in Abstractive Summarization"
+    },
+    "2304.10513": {
+        "arxivId": "2304.10513",
+        "title": "Why Does ChatGPT Fall Short in Answering Questions Faithfully?"
+    },
+    "2309.15840": {
+        "arxivId": "2309.15840",
+        "title": "How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions"
+    },
+    "2208.05309": {
+        "arxivId": "2208.05309",
+        "title": "Looking for a Needle in a Haystack: A Comprehensive Study of Hallucinations in Neural Machine Translation"
+    },
+    "2105.11098": {
+        "arxivId": "2105.11098",
+        "title": "Prevent the Language Model from being Overconfident in Neural Machine Translation"
+    },
+    "2305.14908": {
+        "arxivId": "2305.14908",
+        "title": "PURR: Efficiently Editing Language Model Hallucinations by Denoising Language Model Corruptions"
+    },
+    "2302.02463": {
+        "arxivId": "2302.02463",
+        "title": "Nationality Bias in Text Generation"
+    },
+    "2307.00175": {
+        "arxivId": "2307.00175",
+        "title": "Still No Lie Detector for Language Models: Probing Empirical and Conceptual Roadblocks"
+    },
+    "2305.14869": {
+        "arxivId": "2305.14869",
+        "title": "CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering"
+    },
+    "2311.01740": {
+        "arxivId": "2311.01740",
+        "title": "SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency"
+    },
+    "2310.06271": {
+        "arxivId": "2310.06271",
+        "title": "Towards Mitigating Hallucination in Large Language Models via Self-Reflection"
+    },
+    "2306.00946": {
+        "arxivId": "2306.00946",
+        "title": "Exposing Attention Glitches with Flip-Flop Language Modeling"
+    },
+    "2305.13669": {
+        "arxivId": "2305.13669",
+        "title": "Mitigating Language Model Hallucination with Interactive Question-Knowledge Alignment"
+    },
+    "2110.05456": {
+        "arxivId": "2110.05456",
+        "title": "Rome was built in 1776: A Case Study on Factual Correctness in Knowledge-Grounded Response Generation"
+    },
+    "2310.03951": {
+        "arxivId": "2310.03951",
+        "title": "Chain of Natural Language Inference for Reducing Large Language Model Ungrounded Hallucinations"
+    },
+    "2210.02889": {
+        "arxivId": "2210.02889",
+        "title": "A Distributional Lens for Multi-Aspect Controllable Text Generation"
+    },
+    "2310.06498": {
+        "arxivId": "2310.06498",
+        "title": "A New Benchmark and Reverse Validation Method for Passage-level Hallucination Detection"
+    },
+    "2308.09954": {
+        "arxivId": "2308.09954",
+        "title": "Eva-KELLM: A New Benchmark for Evaluating Knowledge Editing of LLMs"
+    },
+    "2308.09729": {
+        "arxivId": "2308.09729",
+        "title": "MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models"
+    },
+    "2306.01200": {
+        "arxivId": "2306.01200",
+        "title": "Multi-Dimensional Evaluation of Text Summarization with In-Context Learning"
+    },
+    "2305.14540": {
+        "arxivId": "2305.14540",
+        "title": "LLMs as Factual Reasoners: Insights from Existing Benchmarks and Beyond"
+    },
+    "2310.05338": {
+        "arxivId": "2310.05338",
+        "title": "Negative Object Presence Evaluation (NOPE) to Measure Object Hallucination in Vision-Language Models"
+    },
+    "2203.05227": {
+        "arxivId": "2203.05227",
+        "title": "Faithfulness in Natural Language Generation: A Systematic Survey of Analysis, Evaluation and Optimization Methods"
+    },
+    "2310.12150": {
+        "arxivId": "2310.12150",
+        "title": "Understanding Retrieval Augmentation for Long-Form Question Answering"
+    },
+    "2308.12674": {
+        "arxivId": "2308.12674",
+        "title": "Improving Translation Faithfulness of Large Language Models via Augmenting Instructions"
+    },
+    "2309.13345": {
+        "arxivId": "2309.13345",
+        "title": "BAMBOO: A Comprehensive Benchmark for Evaluating Long Text Modeling Capacities of Large Language Models"
+    },
+    "2310.09044": {
+        "arxivId": "2310.09044",
+        "title": "KCTS: Knowledge-Constrained Tree Search Decoding with Token-Level Hallucination Detection"
+    },
+    "2310.01387": {
+        "arxivId": "2310.01387",
+        "title": "It\u2019s MBR All the Way Down: Modern Generation Techniques Through the Lens of Minimum Bayes Risk"
+    },
+    "2210.01877": {
+        "arxivId": "2210.01877",
+        "title": "Towards Improving Faithfulness in Abstractive Summarization"
+    },
+    "2309.09117": {
+        "arxivId": "2309.09117",
+        "title": "Contrastive Decoding Improves Reasoning in Large Language Models"
+    },
+    "2310.11958": {
+        "arxivId": "2310.11958",
+        "title": "Emptying the Ocean with a Spoon: Should We Edit Models?"
+    },
+    "2310.17918": {
+        "arxivId": "2310.17918",
+        "title": "Knowing What LLMs DO NOT Know: A Simple Yet Effective Self-Detection Method"
+    },
+    "2308.11914": {
+        "arxivId": "2308.11914",
+        "title": "Towards CausalGPT: A Multi-Agent Approach for Faithful Knowledge Reasoning via Promoting Causal Consistency in LLMs"
+    },
+    "2302.06729": {
+        "arxivId": "2302.06729",
+        "title": "STREET: A Multi-Task Structured Reasoning and Explanation Benchmark"
+    },
+    "2208.00399": {
+        "arxivId": "2208.00399",
+        "title": "Neural Knowledge Bank for Pretrained Transformers"
+    },
+    "2310.18344": {
+        "arxivId": "2310.18344",
+        "title": "Chainpoll: A high efficacy method for LLM hallucination detection"
+    },
+    "2005.11739": {
+        "arxivId": "2005.11739",
+        "title": "Adversarial NLI for Factual Correctness in Text Summarisation Models"
+    },
+    "2212.08307": {
+        "arxivId": "2212.08307",
+        "title": "Controllable Text Generation via Probability Density Estimation in the Latent Space"
+    },
+    "2302.05578": {
+        "arxivId": "2302.05578",
+        "title": "Characterizing Attribution and Fluency Tradeoffs for Retrieval-Augmented Large Language Models"
+    },
+    "2308.10173": {
+        "arxivId": "2308.10173",
+        "title": "FoodGPT: A Large Language Model in Food Testing Domain with Incremental Pre-training and Knowledge Graph Prompt"
+    },
+    "2310.11877": {
+        "arxivId": "2310.11877",
+        "title": "The Curious Case of Hallucinatory Unanswerablity: Finding Truths in the Hidden States of Over-Confident Large Language Models"
+    },
+    "2306.13781": {
+        "arxivId": "2306.13781",
+        "title": "Retrieving Supporting Evidence for LLMs Generated Answers"
+    },
+    "2310.13189": {
+        "arxivId": "2310.13189",
+        "title": "Fast and Accurate Factual Inconsistency Detection Over Long Documents"
+    },
+    "2309.04041": {
+        "arxivId": "2309.04041",
+        "title": "Evaluation and Mitigation of Agnosia in Multimodal Large Language Models"
+    },
+    "2307.09288": {
+        "arxivId": "2307.09288",
+        "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models"
+    },
+    "1910.01108": {
+        "arxivId": "1910.01108",
+        "title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter"
+    },
+    "1909.11942": {
+        "arxivId": "1909.11942",
+        "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations"
+    },
+    "2104.08691": {
+        "arxivId": "2104.08691",
+        "title": "The Power of Scale for Parameter-Efficient Prompt Tuning"
+    },
+    "2211.05100": {
+        "arxivId": "2211.05100",
+        "title": "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model"
+    },
+    "2212.10560": {
+        "arxivId": "2212.10560",
+        "title": "Self-Instruct: Aligning Language Models with Self-Generated Instructions"
+    },
+    "2304.12244": {
+        "arxivId": "2304.12244",
+        "title": "WizardLM: Empowering Large Language Models to Follow Complex Instructions"
+    },
+    "2302.11382": {
+        "arxivId": "2302.11382",
+        "title": "A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT"
+    },
+    "2006.06195": {
+        "arxivId": "2006.06195",
+        "title": "Large-Scale Adversarial Training for Vision-and-Language Representation Learning"
+    },
+    "2302.12813": {
+        "arxivId": "2302.12813",
+        "title": "Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback"
+    },
+    "2305.03047": {
+        "arxivId": "2305.03047",
+        "title": "Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision"
+    },
+    "2210.09150": {
+        "arxivId": "2210.09150",
+        "title": "Prompting GPT-3 To Be Reliable"
+    },
+    "2311.08401": {
+        "arxivId": "2311.08401",
+        "title": "Fine-tuning Language Models for Factuality"
+    },
+    "2309.03883": {
+        "arxivId": "2309.03883",
+        "title": "DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models"
+    },
+    "2310.04988": {
+        "arxivId": "2310.04988",
+        "title": "The Troubling Emergence of Hallucination in Large Language Models - An Extensive Definition, Quantification, and Prescriptive Remediations"
+    },
+    "2303.08518": {
+        "arxivId": "2303.08518",
+        "title": "UPRISE: Universal Prompt Retrieval for Improving Zero-Shot Evaluation"
+    },
+    "2212.01588": {
+        "arxivId": "2212.01588",
+        "title": "RHO ($\u03c1$): Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding"
+    },
+    "2311.10081": {
+        "arxivId": "2311.10081",
+        "title": "DRESS : Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback"
+    },
+    "2306.06085": {
+        "arxivId": "2306.06085",
+        "title": "Trapping LLM Hallucinations Using Tagged Context Prompts"
+    },
+    "2305.13632": {
+        "arxivId": "2305.13632",
+        "title": "Detecting and Mitigating Hallucinations in Multilingual Summarisation"
+    },
+    "2311.09114": {
+        "arxivId": "2311.09114",
+        "title": "Ever: Mitigating Hallucination in Large Language Models through Real-Time Verification and Rectification"
+    },
+    "2311.09677": {
+        "arxivId": "2311.09677",
+        "title": "R-Tuning: Instructing Large Language Models to Say \u2018I Don\u2019t Know\u2019"
+    },
+    "2310.06827": {
+        "arxivId": "2310.06827",
+        "title": "Teaching Language Models to Hallucinate Less with Synthetic Tasks"
+    },
+    "2308.11764": {
+        "arxivId": "2308.11764",
+        "title": "Halo: Estimation and Reduction of Hallucinations in Open-Source Weak Large Language Models"
+    },
+    "2212.05765": {
+        "arxivId": "2212.05765",
+        "title": "Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue"
+    },
+    "2108.13759": {
+        "arxivId": "2108.13759",
+        "title": "Enjoy the Salience: Towards Better Transformer-based Faithful Explanations with Word Salience"
+    },
+    "2305.14623": {
+        "arxivId": "2305.14623",
+        "title": "Self-Checker: Plug-and-Play Modules for Fact-Checking with Large Language Models"
+    },
+    "2310.17119": {
+        "arxivId": "2310.17119",
+        "title": "FLEEK: Factual Error Detection and Correction with Evidence Retrieved from External Knowledge"
+    },
+    "1706.03762": {
+        "arxivId": "1706.03762",
+        "title": "Attention is All you Need"
+    },
+    "1810.04805": {
+        "arxivId": "1810.04805",
+        "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+    },
+    "1609.02907": {
+        "arxivId": "1609.02907",
+        "title": "Semi-Supervised Classification with Graph Convolutional Networks"
+    },
+    "1409.3215": {
+        "arxivId": "1409.3215",
+        "title": "Sequence to Sequence Learning with Neural Networks"
+    },
+    "1703.06103": {
+        "arxivId": "1703.06103",
+        "title": "Modeling Relational Data with Graph Convolutional Networks"
+    },
+    "2107.03374": {
+        "arxivId": "2107.03374",
+        "title": "Evaluating Large Language Models Trained on Code"
+    },
+    "1702.08734": {
+        "arxivId": "1702.08734",
+        "title": "Billion-Scale Similarity Search with GPUs"
+    },
+    "1511.05493": {
+        "arxivId": "1511.05493",
+        "title": "Gated Graph Sequence Neural Networks"
+    },
+    "1906.02691": {
+        "arxivId": "1906.02691",
+        "title": "An Introduction to Variational Autoencoders"
+    },
+    "1704.00051": {
+        "arxivId": "1704.00051",
+        "title": "Reading Wikipedia to Answer Open-Domain Questions"
+    },
+    "2203.15556": {
+        "arxivId": "2203.15556",
+        "title": "Training Compute-Optimal Large Language Models"
+    },
+    "2201.08239": {
+        "arxivId": "2201.08239",
+        "title": "LaMDA: Language Models for Dialog Applications"
+    },
+    "2004.13637": {
+        "arxivId": "2004.13637",
+        "title": "Recipes for Building an Open-Domain Chatbot"
+    },
+    "2007.01282": {
+        "arxivId": "2007.01282",
+        "title": "Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering"
+    },
+    "1906.00300": {
+        "arxivId": "1906.00300",
+        "title": "Latent Retrieval for Weakly Supervised Open Domain Question Answering"
+    },
+    "2112.04426": {
+        "arxivId": "2112.04426",
+        "title": "Improving language models by retrieving from trillions of tokens"
+    },
+    "2112.09118": {
+        "arxivId": "2112.09118",
+        "title": "Unsupervised Dense Information Retrieval with Contrastive Learning"
+    },
+    "2208.03299": {
+        "arxivId": "2208.03299",
+        "title": "Few-shot Learning with Retrieval Augmented Language Models"
+    },
+    "1809.00782": {
+        "arxivId": "1809.00782",
+        "title": "Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text"
+    },
+    "1904.09537": {
+        "arxivId": "1904.09537",
+        "title": "PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text"
+    },
+    "2107.07566": {
+        "arxivId": "2107.07566",
+        "title": "Internet-Augmented Dialogue Generation"
+    },
+    "2010.07079": {
+        "arxivId": "2010.07079",
+        "title": "Recipes for Safety in Open-domain Chatbots"
+    },
+    "1911.03842": {
+        "arxivId": "1911.03842",
+        "title": "Queens Are Powerful Too: Mitigating Gender Bias in Dialogue Generation"
+    },
+    "2203.13224": {
+        "arxivId": "2203.13224",
+        "title": "Language Models that Seek for Knowledge: Modular Search & Generation for Dialogue and Prompt Completion"
+    },
+    "2205.12393": {
+        "arxivId": "2205.12393",
+        "title": "Fine-tuned Language Models are Continual Learners"
+    },
+    "2302.13971": {
+        "arxivId": "2302.13971",
+        "title": "LLaMA: Open and Efficient Foundation Language Models"
+    },
+    "2202.03629": {
+        "arxivId": "2202.03629",
+        "title": "Survey of Hallucination in Natural Language Generation"
+    },
+    "2307.05782": {
+        "arxivId": "2307.05782",
+        "title": "Large Language Models"
+    },
+    "2309.01219": {
+        "arxivId": "2309.01219",
+        "title": "Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models"
+    },
+    "2311.05232": {
+        "arxivId": "2311.05232",
+        "title": "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions"
+    },
+    "2308.07201": {
+        "arxivId": "2308.07201",
+        "title": "ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate"
+    },
+    "2305.19118": {
+        "arxivId": "2305.19118",
+        "title": "Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate"
+    },
+    "2305.11747": {
+        "arxivId": "2305.11747",
+        "title": "HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models"
+    },
+    "2401.01313": {
+        "arxivId": "2401.01313",
+        "title": "A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models"
+    },
+    "2307.07697": {
+        "arxivId": "2307.07697",
+        "title": "Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph"
+    },
+    "2307.15343": {
+        "arxivId": "2307.15343",
+        "title": "Med-HALT: Medical Domain Hallucination Test for Large Language Models"
+    },
+    "2206.08932": {
+        "arxivId": "2206.08932",
+        "title": "Putting GPT-3's Creativity to the (Alternative Uses) Test"
+    },
+    "2309.06794": {
+        "arxivId": "2309.06794",
+        "title": "Cognitive Mirage: A Review of Hallucinations in Large Language Models"
+    },
+    "2311.07914": {
+        "arxivId": "2311.07914",
+        "title": "Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey"
+    },
+    "2312.02519": {
+        "arxivId": "2312.02519",
+        "title": "Creative Agents: Empowering Agents with Imagination for Creative Tasks"
+    },
+    "1405.0312": {
+        "arxivId": "1405.0312",
+        "title": "Microsoft COCO: Common Objects in Context"
+    },
+    "2108.07258": {
+        "arxivId": "2108.07258",
+        "title": "On the Opportunities and Risks of Foundation Models"
+    },
+    "1705.00754": {
+        "arxivId": "1705.00754",
+        "title": "Dense-Captioning Events in Videos"
+    },
+    "2305.10355": {
+        "arxivId": "2305.10355",
+        "title": "Evaluating Object Hallucination in Large Vision-Language Models"
+    },
+    "2305.06355": {
+        "arxivId": "2305.06355",
+        "title": "VideoChat: Chat-Centric Video Understanding"
+    },
+    "1809.02156": {
+        "arxivId": "1809.02156",
+        "title": "Object Hallucination in Image Captioning"
+    },
+    "2306.16092": {
+        "arxivId": "2306.16092",
+        "title": "Chatlaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model"
+    },
+    "2308.06394": {
+        "arxivId": "2308.06394",
+        "title": "Detecting and Preventing Hallucinations in Large Vision Language Models"
+    },
+    "2305.15852": {
+        "arxivId": "2305.15852",
+        "title": "Self-contradictory Hallucinations of Large Language Models: Evaluation, Detection and Mitigation"
+    },
+    "2210.07688": {
+        "arxivId": "2210.07688",
+        "title": "Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training"
+    },
+    "2307.16372": {
+        "arxivId": "2307.16372",
+        "title": "LP-MusicCaps: LLM-Based Pseudo Music Captioning"
+    },
+    "2305.13269": {
+        "arxivId": "2305.13269",
+        "title": "Chain of Knowledge: A Framework for Grounding Large Language Models with Structured Knowledge Bases"
+    },
+    "2304.14406": {
+        "arxivId": "2304.14406",
+        "title": "Putting People in Their Place: Affordance-Aware Human Insertion into Scenes"
+    },
+    "2305.14224": {
+        "arxivId": "2305.14224",
+        "title": "mmT5: Modular Multilingual Pre-Training Solves Source Language Hallucinations"
+    },
+    "2307.12168": {
+        "arxivId": "2307.12168",
+        "title": "Hallucination Improves the Performance of Unsupervised Visual Representation Learning"
+    },
+    "2307.02185": {
+        "arxivId": "2307.02185",
+        "title": "Citation: A Key to Building Responsible and Accountable Large Language Models"
+    },
+    "2312.10997": {
+        "arxivId": "2312.10997",
+        "title": "Retrieval-Augmented Generation for Large Language Models: A Survey"
+    },
+    "2312.14925": {
+        "arxivId": "2312.14925",
+        "title": "A Survey of Reinforcement Learning from Human Feedback"
+    },
+    "2310.13595": {
+        "arxivId": "2310.13595",
+        "title": "The History and Risks of Reinforcement Learning and Human Feedback"
+    },
+    "2201.11903": {
+        "arxivId": "2201.11903",
+        "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models"
+    },
+    "1911.02116": {
+        "arxivId": "1911.02116",
+        "title": "Unsupervised Cross-lingual Representation Learning at Scale"
+    },
+    "2109.01652": {
+        "arxivId": "2109.01652",
+        "title": "Finetuned Language Models Are Zero-Shot Learners"
+    },
+    "2306.05685": {
+        "arxivId": "2306.05685",
+        "title": "Judging LLM-as-a-judge with MT-Bench and Chatbot Arena"
+    },
+    "2204.05862": {
+        "arxivId": "2204.05862",
+        "title": "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
+    },
+    "2110.08207": {
+        "arxivId": "2110.08207",
+        "title": "Multitask Prompted Training Enables Zero-Shot Task Generalization"
+    },
+    "2305.06500": {
+        "arxivId": "2305.06500",
+        "title": "InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning"
+    },
+    "2304.10592": {
+        "arxivId": "2304.10592",
+        "title": "MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models"
+    },
+    "2210.02414": {
+        "arxivId": "2210.02414",
+        "title": "GLM-130B: An Open Bilingual Pre-trained Model"
+    },
+    "2104.08786": {
+        "arxivId": "2104.08786",
+        "title": "Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity"
+    },
+    "2005.00661": {
+        "arxivId": "2005.00661",
+        "title": "On Faithfulness and Factuality in Abstractive Summarization"
+    },
+    "2202.03052": {
+        "arxivId": "2202.03052",
+        "title": "OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework"
+    },
+    "2304.14178": {
+        "arxivId": "2304.14178",
+        "title": "mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality"
+    },
+    "2106.11520": {
+        "arxivId": "2106.11520",
+        "title": "BARTScore: Evaluating Generated Text as Text Generation"
+    },
+    "2106.07139": {
+        "arxivId": "2106.07139",
+        "title": "Pre-Trained Models: Past, Present and Future"
+    },
+    "2211.12588": {
+        "arxivId": "2211.12588",
+        "title": "Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks"
+    },
+    "2301.12652": {
+        "arxivId": "2301.12652",
+        "title": "REPLUG: Retrieval-Augmented Black-Box Language Models"
+    },
+    "2212.10403": {
+        "arxivId": "2212.10403",
+        "title": "Towards Reasoning in Large Language Models: A Survey"
+    },
+    "2305.17926": {
+        "arxivId": "2305.17926",
+        "title": "Large Language Models are not Fair Evaluators"
+    },
+    "2305.15334": {
+        "arxivId": "2305.15334",
+        "title": "Gorilla: Large Language Model Connected with Massive APIs"
+    },
+    "2211.10435": {
+        "arxivId": "2211.10435",
+        "title": "PAL: Program-aided Language Models"
+    },
+    "2302.09210": {
+        "arxivId": "2302.09210",
+        "title": "How Good Are GPT Models at Machine Translation? A Comprehensive Evaluation"
+    },
+    "2306.13549": {
+        "arxivId": "2306.13549",
+        "title": "A Survey on Multimodal Large Language Models"
+    },
+    "2212.04089": {
+        "arxivId": "2212.04089",
+        "title": "Editing Models with Task Arithmetic"
+    },
+    "2303.11366": {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: an autonomous agent with dynamic memory and self-reflection"
+    },
+    "2203.16804": {
+        "arxivId": "2203.16804",
+        "title": "BRIO: Bringing Order to Abstractive Summarization"
+    },
+    "2010.04389": {
+        "arxivId": "2010.04389",
+        "title": "A Survey of Knowledge-enhanced Text Generation"
+    },
+    "2307.12966": {
+        "arxivId": "2307.12966",
+        "title": "Aligning Large Language Models with Human: A Survey"
+    },
+    "2305.14627": {
+        "arxivId": "2305.14627",
+        "title": "Enabling Large Language Models to Generate Text with Citations"
+    },
+    "2203.11147": {
+        "arxivId": "2203.11147",
+        "title": "Teaching language models to support answers with verified quotes"
+    },
+    "2205.05055": {
+        "arxivId": "2205.05055",
+        "title": "Data Distributional Properties Drive Emergent In-Context Learning in Transformers"
+    },
+    "2104.06683": {
+        "arxivId": "2104.06683",
+        "title": "The Curious Case of Hallucinations in Neural Machine Translation"
+    },
+    "2204.07931": {
+        "arxivId": "2204.07931",
+        "title": "On the Origin of Hallucinations in Conversational Models: Is it the Datasets or the Models?"
+    },
+    "2210.06774": {
+        "arxivId": "2210.06774",
+        "title": "Re3: Generating Longer Stories With Recursive Reprompting and Revision"
+    },
+    "2306.03823": {
+        "arxivId": "2306.03823",
+        "title": "Transformative Effects of ChatGPT on Modern Education: Emerging Era of AI Chatbots"
+    },
+    "2307.08701": {
+        "arxivId": "2307.08701",
+        "title": "AlpaGasus: Training A Better Alpaca with Fewer Data"
+    },
+    "2305.06983": {
+        "arxivId": "2305.06983",
+        "title": "Active Retrieval Augmented Generation"
+    },
+    "2109.09784": {
+        "arxivId": "2109.09784",
+        "title": "Hallucinated but Factual! Inspecting the Factuality of Hallucinations in Abstractive Summarization"
+    },
+    "2302.02676": {
+        "arxivId": "2302.02676",
+        "title": "Chain of Hindsight Aligns Language Models with Feedback"
+    },
+    "2303.16104": {
+        "arxivId": "2303.16104",
+        "title": "Hallucinations in Large Multilingual Translation Models"
+    },
+    "2304.09667": {
+        "arxivId": "2304.09667",
+        "title": "GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information"
+    },
+    "2303.14186": {
+        "arxivId": "2303.14186",
+        "title": "TRAK: Attributing Model Behavior at Scale"
+    },
+    "2004.14589": {
+        "arxivId": "2004.14589",
+        "title": "Improved Natural Language Generation via Loss Truncation"
+    },
+    "2308.06259": {
+        "arxivId": "2308.06259",
+        "title": "Self-Alignment with Instruction Backtranslation"
+    },
+    "2204.10757": {
+        "arxivId": "2204.10757",
+        "title": "FaithDial: A Faithful Benchmark for Information-Seeking Dialogue"
+    },
+    "2105.00071": {
+        "arxivId": "2105.00071",
+        "title": "Evaluating Attribution in Dialogue Systems: The BEGIN Benchmark"
+    },
+    "2307.02762": {
+        "arxivId": "2307.02762",
+        "title": "PRD: Peer Rank and Discussion Improve Large Language Model based Evaluations"
+    },
+    "2211.08412": {
+        "arxivId": "2211.08412",
+        "title": "Evaluating the Factual Consistency of Large Language Models Through News Summarization"
+    },
+    "2307.05300": {
+        "arxivId": "2307.05300",
+        "title": "Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration"
+    },
+    "2205.01703": {
+        "arxivId": "2205.01703",
+        "title": "Improving In-Context Few-Shot Learning via Self-Supervised Training"
+    },
+    "2308.15126": {
+        "arxivId": "2308.15126",
+        "title": "Evaluation and Analysis of Hallucination in Large Vision-Language Models"
+    },
+    "2212.10400": {
+        "arxivId": "2212.10400",
+        "title": "Contrastive Learning Reduces Hallucination in Conversations"
+    },
+    "2308.04371": {
+        "arxivId": "2308.04371",
+        "title": "Cumulative Reasoning with Large Language Models"
+    },
+    "2306.07799": {
+        "arxivId": "2306.07799",
+        "title": "ChatGPT vs Human-authored Text: Insights into Controllable Text Summarization and Sentence Style Transfer"
+    },
+    "2303.01911": {
+        "arxivId": "2303.01911",
+        "title": "Investigating the Translation Performance of a Large Multilingual Language Model: the Case of BLOOM"
+    },
+    "2210.16257": {
+        "arxivId": "2210.16257",
+        "title": "Solving Math Word Problems via Cooperative Reasoning induced Language Models"
+    },
+    "2306.09296": {
+        "arxivId": "2306.09296",
+        "title": "KoLA: Carefully Benchmarking World Knowledge of Large Language Models"
+    },
+    "2308.14346": {
+        "arxivId": "2308.14346",
+        "title": "DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation"
+    },
+    "2306.05212": {
+        "arxivId": "2306.05212",
+        "title": "RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit"
+    },
+    "2305.13168": {
+        "arxivId": "2305.13168",
+        "title": "LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities"
+    },
+    "2112.07924": {
+        "arxivId": "2112.07924",
+        "title": "Knowledge-Grounded Dialogue Generation with a Unified Knowledge Representation"
+    },
+    "2110.01705": {
+        "arxivId": "2110.01705",
+        "title": "Let there be a clock on the beach: Reducing Object Hallucination in Image Captioning"
+    },
+    "2304.13714": {
+        "arxivId": "2304.13714",
+        "title": "Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery"
+    },
+    "2309.00667": {
+        "arxivId": "2309.00667",
+        "title": "Taken out of context: On measuring situational awareness in LLMs"
+    },
+    "2308.07269": {
+        "arxivId": "2308.07269",
+        "title": "EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models"
+    },
+    "2307.09476": {
+        "arxivId": "2307.09476",
+        "title": "Overthinking the Truth: Understanding how Language Models Process False Demonstrations"
+    },
+    "2305.13252": {
+        "arxivId": "2305.13252",
+        "title": "\u201cAccording to . . . \u201d: Prompting Language Models Improves Quoting from Pre-Training Data"
+    },
+    "2308.02357": {
+        "arxivId": "2308.02357",
+        "title": "Text2KGBench: A Benchmark for Ontology-Driven Knowledge Graph Generation from Text"
+    },
+    "2305.04757": {
+        "arxivId": "2305.04757",
+        "title": "Augmented Large Language Models with Parametric Knowledge Guiding"
+    },
+    "2306.01150": {
+        "arxivId": "2306.01150",
+        "title": "Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning"
+    },
+    "2305.07982": {
+        "arxivId": "2305.07982",
+        "title": "Zero-shot Faithful Factual Error Correction"
+    },
+    "2302.12832": {
+        "arxivId": "2302.12832",
+        "title": "Fluid Transformers and Creative Analogies: Exploring Large Language Models\u2019 Capacity for Augmenting Cross-Domain Analogical Creativity"
+    },
+    "2301.04449": {
+        "arxivId": "2301.04449",
+        "title": "Diving Deep into Modes of Fact Hallucinations in Dialogue Systems"
+    },
+    "2303.17574": {
+        "arxivId": "2303.17574",
+        "title": "Elastic Weight Removal for Faithful and Abstractive Dialogue Generation"
+    },
+    "2303.03919": {
+        "arxivId": "2303.03919",
+        "title": "Data Portraits: Recording Foundation Model Training Data"
+    },
+    "2308.11761": {
+        "arxivId": "2308.11761",
+        "title": "KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases"
+    },
+    "2205.12600": {
+        "arxivId": "2205.12600",
+        "title": "ORCA: Interpreting Prompted Language Models via Locating Supporting Data Evidence in the Ocean of Pretraining Data"
+    },
+    "2109.14776": {
+        "arxivId": "2109.14776",
+        "title": "Measuring Sentence-Level and Aspect-Level (Un)certainty in Science Communications"
+    },
+    "2308.01906": {
+        "arxivId": "2308.01906",
+        "title": "Reasoning in Large Language Models Through Symbolic Math Word Problems"
+    },
+    "2305.11746": {
+        "arxivId": "2305.11746",
+        "title": "HalOmi: A Manually Annotated Benchmark for Multilingual Hallucination and Omission Detection in Machine Translation"
+    },
+    "2308.03729": {
+        "arxivId": "2308.03729",
+        "title": "Tiny LVLM-eHub: Early Multimodal Experiments with Bard"
+    },
+    "2305.16519": {
+        "arxivId": "2305.16519",
+        "title": "The Dangers of trusting Stochastic Parrots: Faithfulness and Trust in Open-domain Conversational Question Answering"
+    },
+    "2204.13761": {
+        "arxivId": "2204.13761",
+        "title": "Faithful to the Document or to the World? Mitigating Hallucinations via Entity-linked Knowledge in Abstractive Summarization"
+    },
+    "2110.04374": {
+        "arxivId": "2110.04374",
+        "title": "A Few More Examples May Be Worth Billions of Parameters"
+    },
+    "2302.05852": {
+        "arxivId": "2302.05852",
+        "title": "\u201cWhy is this misleading?\u201d: Detecting News Headline Hallucinations with Explanations"
+    },
+    "2308.15452": {
+        "arxivId": "2308.15452",
+        "title": "When Do Program-of-Thoughts Work for Reasoning?"
+    },
+    "2307.14712": {
+        "arxivId": "2307.14712",
+        "title": "Evaluating Generative Models for Graph-to-Text Generation"
+    },
+    "2306.06264": {
+        "arxivId": "2306.06264",
+        "title": "Measuring and Modifying Factual Knowledge in Large Language Models"
+    },
+    "2305.13712": {
+        "arxivId": "2305.13712",
+        "title": "Knowledge of Knowledge: Exploring Known-Unknowns Uncertainty with Large Language Models"
+    },
+    "2305.11595": {
+        "arxivId": "2305.11595",
+        "title": "Examining the Inter-Consistency of Large Language Models: An In-depth Analysis via Debate"
+    },
+    "2305.13888": {
+        "arxivId": "2305.13888",
+        "title": "PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning"
+    },
+    "2306.11520": {
+        "arxivId": "2306.11520",
+        "title": "Hallucination is the last thing you need"
+    },
+    "1906.08237": {
+        "arxivId": "1906.08237",
+        "title": "XLNet: Generalized Autoregressive Pretraining for Language Understanding"
+    },
+    "1904.09675": {
+        "arxivId": "1904.09675",
+        "title": "BERTScore: Evaluating Text Generation with BERT"
+    },
+    "1804.08771": {
+        "arxivId": "1804.08771",
+        "title": "A Call for Clarity in Reporting BLEU Scores"
+    },
+    "1602.06023": {
+        "arxivId": "1602.06023",
+        "title": "Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond"
+    },
+    "1511.06349": {
+        "arxivId": "1511.06349",
+        "title": "Generating Sentences from a Continuous Space"
+    },
+    "1908.08345": {
+        "arxivId": "1908.08345",
+        "title": "Text Summarization with Pretrained Encoders"
+    },
+    "2004.04696": {
+        "arxivId": "2004.04696",
+        "title": "BLEURT: Learning Robust Metrics for Text Generation"
+    },
+    "2111.09543": {
+        "arxivId": "2111.09543",
+        "title": "DeBERTaV3: Improving DeBERTa using ELECTRA-Style Pre-Training with Gradient-Disentangled Embedding Sharing"
+    },
+    "1811.01241": {
+        "arxivId": "1811.01241",
+        "title": "Wizard of Wikipedia: Knowledge-Powered Conversational agents"
+    },
+    "1905.01969": {
+        "arxivId": "1905.01969",
+        "title": "Poly-encoders: Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring"
+    },
+    "2011.02593": {
+        "arxivId": "2011.02593",
+        "title": "Detecting Hallucinated Content in Conditional Neural Sequence Generation"
+    },
+    "2305.16739": {
+        "arxivId": "2305.16739",
+        "title": "AlignScore: Evaluating Factual Consistency with A Unified Alignment Function"
+    },
+    "2104.08704": {
+        "arxivId": "2104.08704",
+        "title": "A Token-level Reference-free Hallucination Detection Benchmark for Free-form Text Generation"
+    },
+    "2107.06963": {
+        "arxivId": "2107.06963",
+        "title": "Increasing Faithfulness in Knowledge-Grounded Dialogue with Controllable Features"
+    },
+    "2110.06341": {
+        "arxivId": "2110.06341",
+        "title": "Learning Compact Metrics for MT"
+    },
+    "2001.09386": {
+        "arxivId": "2001.09386",
+        "title": "Generating Representative Headlines for News Stories"
+    },
+    "2301.12307": {
+        "arxivId": "2301.12307",
+        "title": "MQAG: Multiple-choice Question Answering and Generation for Assessing Information Consistency in Summarization"
+    },
+    "1911.09912": {
+        "arxivId": "1911.09912",
+        "title": "Go From the General to the Particular: Multi-Domain Translation with Domain Transformation Networks"
+    },
+    "2107.13586": {
+        "arxivId": "2107.13586",
+        "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing"
+    },
+    "1608.07187": {
+        "arxivId": "1608.07187",
+        "title": "Semantics derived automatically from language corpora contain human-like biases"
+    },
+    "1801.07593": {
+        "arxivId": "1801.07593",
+        "title": "Mitigating Unwanted Biases with Adversarial Learning"
+    },
+    "2005.14050": {
+        "arxivId": "2005.14050",
+        "title": "Language (Technology) is Power: A Critical Survey of \u201cBias\u201d in NLP"
+    },
+    "2005.04118": {
+        "arxivId": "2005.04118",
+        "title": "Beyond Accuracy: Behavioral Testing of NLP Models with CheckList"
+    },
+    "2009.11462": {
+        "arxivId": "2009.11462",
+        "title": "RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models"
+    },
+    "1301.6822": {
+        "arxivId": "1301.6822",
+        "title": "Discrimination in online ad delivery"
+    },
+    "2004.09456": {
+        "arxivId": "2004.09456",
+        "title": "StereoSet: Measuring stereotypical bias in pretrained language models"
+    },
+    "2004.09095": {
+        "arxivId": "2004.09095",
+        "title": "The State and Fate of Linguistic Diversity and Inclusion in the NLP World"
+    },
+    "2010.00133": {
+        "arxivId": "2010.00133",
+        "title": "CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models"
+    },
+    "1901.09451": {
+        "arxivId": "1901.09451",
+        "title": "Bias in Bios: A Case Study of Semantic Representation Bias in a High-Stakes Setting"
+    },
+    "2009.10795": {
+        "arxivId": "2009.10795",
+        "title": "Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics"
+    },
+    "2004.07667": {
+        "arxivId": "2004.07667",
+        "title": "Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection"
+    },
+    "2104.14337": {
+        "arxivId": "2104.14337",
+        "title": "Dynabench: Rethinking Benchmarking in NLP"
+    },
+    "2103.00453": {
+        "arxivId": "2103.00453",
+        "title": "Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP"
+    },
+    "2101.11718": {
+        "arxivId": "2101.11718",
+        "title": "BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation"
+    },
+    "2212.09251": {
+        "arxivId": "2212.09251",
+        "title": "Discovering Language Model Behaviors with Model-Written Evaluations"
+    },
+    "2309.00770": {
+        "arxivId": "2309.00770",
+        "title": "Bias and Fairness in Large Language Models: A Survey"
+    },
+    "1809.10610": {
+        "arxivId": "1809.10610",
+        "title": "Counterfactual Fairness in Text Classification through Robustness"
+    },
+    "2103.11790": {
+        "arxivId": "2103.11790",
+        "title": "Large pre-trained language models contain human-like biases of what is right and wrong to do"
+    },
+    "2101.00288": {
+        "arxivId": "2101.00288",
+        "title": "Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models"
+    },
+    "2304.05613": {
+        "arxivId": "2304.05613",
+        "title": "ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning"
+    },
+    "2006.03955": {
+        "arxivId": "2006.03955",
+        "title": "Detecting Emergent Intersectional Biases: Contextualized Word Embeddings Contain a Distribution of Human-like Biases"
+    },
+    "2007.08100": {
+        "arxivId": "2007.08100",
+        "title": "Towards Debiasing Sentence Representations"
+    },
+    "2109.05052": {
+        "arxivId": "2109.05052",
+        "title": "Entity-Based Knowledge Conflicts in Question Answering"
+    },
+    "2303.12528": {
+        "arxivId": "2303.12528",
+        "title": "MEGA: Multilingual Evaluation of Generative AI"
+    },
+    "2005.00955": {
+        "arxivId": "2005.00955",
+        "title": "How Can We Accelerate Progress Towards Human-like Linguistic Generalization?"
+    },
+    "1907.10641": {
+        "arxivId": "1907.10641",
+        "title": "WinoGrande"
+    },
+    "2305.08283": {
+        "arxivId": "2305.08283",
+        "title": "From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models"
+    },
+    "1908.09369": {
+        "arxivId": "1908.09369",
+        "title": "On Measuring and Mitigating Biased Inferences of Word Embeddings"
+    },
+    "2106.03521": {
+        "arxivId": "2106.03521",
+        "title": "RedditBias: A Real-World Resource for Bias Evaluation and Debiasing of Conversational Language Models"
+    },
+    "2302.08500": {
+        "arxivId": "2302.08500",
+        "title": "Auditing large language models: a three-layered approach"
+    },
+    "2305.12740": {
+        "arxivId": "2305.12740",
+        "title": "Can We Edit Factual Knowledge by In-Context Learning?"
+    },
+    "2205.12628": {
+        "arxivId": "2205.12628",
+        "title": "Are Large Pre-Trained Language Models Leaking Your Personal Information?"
+    },
+    "2101.09523": {
+        "arxivId": "2101.09523",
+        "title": "Debiasing Pre-trained Contextualised Embeddings"
+    },
+    "2205.09209": {
+        "arxivId": "2205.09209",
+        "title": "\u201cI\u2019m sorry to hear that\u201d: Finding New Biases in Language Models with a Holistic Descriptor Dataset"
+    },
+    "2110.08527": {
+        "arxivId": "2110.08527",
+        "title": "An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models"
+    },
+    "2109.03646": {
+        "arxivId": "2109.03646",
+        "title": "Sustainable Modular Debiasing of Language Models"
+    },
+    "2012.13985": {
+        "arxivId": "2012.13985",
+        "title": "Explaining NLP Models via Minimal Contrastive Editing (MiCE)"
+    },
+    "2004.10157": {
+        "arxivId": "2004.10157",
+        "title": "Logic-Guided Data Augmentation and Regularization for Consistent Question Answering"
+    },
+    "2104.09061": {
+        "arxivId": "2104.09061",
+        "title": "Improving Faithfulness in Abstractive Summarization with Contrast Candidate Generation and Selection"
+    },
+    "2104.08646": {
+        "arxivId": "2104.08646",
+        "title": "Competency Problems: On Finding and Removing Artifacts in Language Data"
+    },
+    "2104.07705": {
+        "arxivId": "2104.07705",
+        "title": "How to Train BERT with an Academic Budget"
+    },
+    "2106.14574": {
+        "arxivId": "2106.14574",
+        "title": "Quantifying Social Biases in NLP: A Generalization and Empirical Comparison of Extrinsic Fairness Metrics"
+    },
+    "2012.04698": {
+        "arxivId": "2012.04698",
+        "title": "Generate Your Counterfactuals: Towards Controlled Counterfactual Generation for Text"
+    },
+    "2005.00699": {
+        "arxivId": "2005.00699",
+        "title": "Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer"
+    },
+    "2005.00613": {
+        "arxivId": "2005.00613",
+        "title": "A Controllable Model of Grounded Response Generation"
+    },
+    "2107.07150": {
+        "arxivId": "2107.07150",
+        "title": "Tailor: Generating and Perturbing Text with Semantic Controls"
+    },
+    "2010.13816": {
+        "arxivId": "2010.13816",
+        "title": "PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction"
+    },
+    "2104.07496": {
+        "arxivId": "2104.07496",
+        "title": "Unmasking the Mask - Evaluating Social Biases in Masked Language Models"
+    },
+    "2010.05647": {
+        "arxivId": "2010.05647",
+        "title": "Improving Compositional Generalization in Semantic Parsing"
+    },
+    "2205.00619": {
+        "arxivId": "2205.00619",
+        "title": "POLITICS: Pretraining with Same-story Article Comparison for Ideology Prediction and Stance Detection"
+    },
+    "2110.08222": {
+        "arxivId": "2110.08222",
+        "title": "DialFact: A Benchmark for Fact-Checking in Dialogue"
+    },
+    "2109.03858": {
+        "arxivId": "2109.03858",
+        "title": "Collecting a Large-Scale Gender Bias Dataset for Coreference Resolution and Machine Translation"
+    },
+    "2205.12586": {
+        "arxivId": "2205.12586",
+        "title": "Perturbation Augmentation for Fairer NLP"
+    },
+    "2109.06105": {
+        "arxivId": "2109.06105",
+        "title": "NeuTral Rewriter: A Rule-Based and Neural Approach to Automatic Rewriting into Gender Neutral Alternatives"
+    },
+    "2010.08580": {
+        "arxivId": "2010.08580",
+        "title": "Linguistically-Informed Transformations (LIT): A Method for Automatically Generating Contrast Sets"
+    },
+    "2301.07779": {
+        "arxivId": "2301.07779",
+        "title": "Understanding and Detecting Hallucinations in Neural Machine Translation via Model Introspection"
+    },
+    "2104.07179": {
+        "arxivId": "2104.07179",
+        "title": "Does Putting a Linguist in the Loop Improve NLU Data Collection?"
+    },
+    "2310.13771": {
+        "arxivId": "2310.13771",
+        "title": "Copyright Violations and Large Language Models"
+    },
+    "2310.10701": {
+        "arxivId": "2310.10701",
+        "title": "Theory of Mind for Multi-Agent Collaboration via Large Language Models"
+    },
+    "2103.09591": {
+        "arxivId": "2103.09591",
+        "title": "Automatic Generation of Contrast Sets from Scene Graphs: Probing the Compositional Consistency of GQA"
+    },
+    "2305.01633": {
+        "arxivId": "2305.01633",
+        "title": "Missing Information, Unresponsive Authors, Experimental Flaws: The Impossibility of Assessing the Reproducibility of Previous Human Evaluations in NLP"
+    },
+    "2204.05961": {
+        "arxivId": "2204.05961",
+        "title": "Quantified Reproducibility Assessment of NLP Results"
+    },
+    "2110.07596": {
+        "arxivId": "2110.07596",
+        "title": "Retrieval-guided Counterfactual Generation for QA"
+    },
+    "2305.13862": {
+        "arxivId": "2305.13862",
+        "title": "A Trip Towards Fairness: Bias and De-Biasing in Large Language Models"
+    },
+    "2201.07754": {
+        "arxivId": "2201.07754",
+        "title": "Grep-BiasIR: A Dataset for Investigating Gender Representation Bias in Information Retrieval Results"
+    },
+    "2307.01595": {
+        "arxivId": "2307.01595",
+        "title": "Prompt Tuning Pushes Farther, Contrastive Learning Pulls Closer: A Two-Stage Approach to Mitigate Social Biases"
+    },
+    "2306.15087": {
+        "arxivId": "2306.15087",
+        "title": "WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in Large Language Models"
+    },
+    "2107.13935": {
+        "arxivId": "2107.13935",
+        "title": "Break, Perturb, Build: Automatic Perturbation of Reasoning Paths Through Question Decomposition"
+    },
+    "2302.12578": {
+        "arxivId": "2302.12578",
+        "title": "Fairness in Language Models Beyond English: Gaps and Challenges"
+    },
+    "2211.05414": {
+        "arxivId": "2211.05414",
+        "title": "ADEPT: A DEbiasing PrompT Framework"
+    },
+    "2210.04873": {
+        "arxivId": "2210.04873",
+        "title": "CORE: A Retrieve-then-Edit Framework for Counterfactual Data Generation"
+    },
+    "2310.15326": {
+        "arxivId": "2310.15326",
+        "title": "Specialist or Generalist? Instruction Tuning for Specific NLP Tasks"
+    },
+    "2305.11262": {
+        "arxivId": "2305.11262",
+        "title": "CHBias: Bias Evaluation and Mitigation of Chinese Conversational Language Models"
+    },
+    "2104.08735": {
+        "arxivId": "2104.08735",
+        "title": "Learning with Instance Bundles for Reading Comprehension"
+    }
+}

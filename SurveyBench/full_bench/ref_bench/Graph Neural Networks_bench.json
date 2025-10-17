@@ -1,0 +1,2266 @@
+{
+    "1512.03385": {
+        "arxivId": "1512.03385",
+        "title": "Deep Residual Learning for Image Recognition"
+    },
+    "1706.03762": {
+        "arxivId": "1706.03762",
+        "title": "Attention is All you Need"
+    },
+    "1301.3781": {
+        "arxivId": "1301.3781",
+        "title": "Efficient Estimation of Word Representations in Vector Space"
+    },
+    "1409.0473": {
+        "arxivId": "1409.0473",
+        "title": "Neural Machine Translation by Jointly Learning to Align and Translate"
+    },
+    "1609.02907": {
+        "arxivId": "1609.02907",
+        "title": "Semi-Supervised Classification with Graph Convolutional Networks"
+    },
+    "1409.3215": {
+        "arxivId": "1409.3215",
+        "title": "Sequence to Sequence Learning with Neural Networks"
+    },
+    "1710.10903": {
+        "arxivId": "1710.10903",
+        "title": "Graph Attention Networks"
+    },
+    "1706.02216": {
+        "arxivId": "1706.02216",
+        "title": "Inductive Representation Learning on Large Graphs"
+    },
+    "1206.5538": {
+        "arxivId": "1206.5538",
+        "title": "Representation Learning: A Review and New Perspectives"
+    },
+    "1412.3555": {
+        "arxivId": "1412.3555",
+        "title": "Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling"
+    },
+    "1607.00653": {
+        "arxivId": "1607.00653",
+        "title": "node2vec: Scalable Feature Learning for Networks"
+    },
+    "1403.6652": {
+        "arxivId": "1403.6652",
+        "title": "DeepWalk: online learning of social representations"
+    },
+    "1303.5778": {
+        "arxivId": "1303.5778",
+        "title": "Speech recognition with deep recurrent neural networks"
+    },
+    "1511.07122": {
+        "arxivId": "1511.07122",
+        "title": "Multi-Scale Context Aggregation by Dilated Convolutions"
+    },
+    "1901.00596": {
+        "arxivId": "1901.00596",
+        "title": "A Comprehensive Survey on Graph Neural Networks"
+    },
+    "1606.09375": {
+        "arxivId": "1606.09375",
+        "title": "Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering"
+    },
+    "1609.03499": {
+        "arxivId": "1609.03499",
+        "title": "WaveNet: A Generative Model for Raw Audio"
+    },
+    "1704.01212": {
+        "arxivId": "1704.01212",
+        "title": "Neural Message Passing for Quantum Chemistry"
+    },
+    "1810.00826": {
+        "arxivId": "1810.00826",
+        "title": "How Powerful are Graph Neural Networks?"
+    },
+    "1503.03578": {
+        "arxivId": "1503.03578",
+        "title": "LINE: Large-scale Information Network Embedding"
+    },
+    "1812.08434": {
+        "arxivId": "1812.08434",
+        "title": "Graph Neural Networks: A Review of Methods and Applications"
+    },
+    "1312.6203": {
+        "arxivId": "1312.6203",
+        "title": "Spectral Networks and Locally Connected Networks on Graphs"
+    },
+    "1703.06103": {
+        "arxivId": "1703.06103",
+        "title": "Modeling Relational Data with Graph Convolutional Networks"
+    },
+    "1801.07455": {
+        "arxivId": "1801.07455",
+        "title": "Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition"
+    },
+    "1611.07308": {
+        "arxivId": "1611.07308",
+        "title": "Variational Graph Auto-Encoders"
+    },
+    "1705.03122": {
+        "arxivId": "1705.03122",
+        "title": "Convolutional Sequence to Sequence Learning"
+    },
+    "1511.05493": {
+        "arxivId": "1511.05493",
+        "title": "Gated Graph Sequence Neural Networks"
+    },
+    "1709.04875": {
+        "arxivId": "1709.04875",
+        "title": "Spatio-temporal Graph Convolutional Neural Network: A Deep Learning Framework for Traffic Forecasting"
+    },
+    "1611.08097": {
+        "arxivId": "1611.08097",
+        "title": "Geometric Deep Learning: Going beyond Euclidean data"
+    },
+    "1108.1780": {
+        "arxivId": "1108.1780",
+        "title": "Temporal Networks"
+    },
+    "1905.08108": {
+        "arxivId": "1905.08108",
+        "title": "Neural Graph Collaborative Filtering"
+    },
+    "1604.02808": {
+        "arxivId": "1604.02808",
+        "title": "NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis"
+    },
+    "2105.01601": {
+        "arxivId": "2105.01601",
+        "title": "MLP-Mixer: An all-MLP Architecture for Vision"
+    },
+    "1612.08083": {
+        "arxivId": "1612.08083",
+        "title": "Language Modeling with Gated Convolutional Networks"
+    },
+    "1205.6233": {
+        "arxivId": "1205.6233",
+        "title": "Defining and evaluating network communities based on ground-truth"
+    },
+    "1903.07293": {
+        "arxivId": "1903.07293",
+        "title": "Heterogeneous Graph Attention Network"
+    },
+    "1803.02155": {
+        "arxivId": "1803.02155",
+        "title": "Self-Attention with Relative Position Representations"
+    },
+    "1806.08804": {
+        "arxivId": "1806.08804",
+        "title": "Hierarchical Graph Representation Learning with Differentiable Pooling"
+    },
+    "1709.05584": {
+        "arxivId": "1709.05584",
+        "title": "Representation Learning on Graphs: Methods and Applications"
+    },
+    "1906.00121": {
+        "arxivId": "1906.00121",
+        "title": "Graph WaveNet for Deep Spatial-Temporal Graph Modeling"
+    },
+    "1709.07604": {
+        "arxivId": "1709.07604",
+        "title": "A Comprehensive Survey of Graph Embedding: Problems, Techniques, and Applications"
+    },
+    "1811.00855": {
+        "arxivId": "1811.00855",
+        "title": "Session-based Recommendation with Graph Neural Networks"
+    },
+    "1611.05267": {
+        "arxivId": "1611.05267",
+        "title": "Temporal Convolutional Networks for Action Segmentation and Detection"
+    },
+    "1905.04757": {
+        "arxivId": "1905.04757",
+        "title": "NTU RGB+D 120: A Large-Scale Benchmark for 3D Human Activity Understanding"
+    },
+    "2005.11650": {
+        "arxivId": "2005.11650",
+        "title": "Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks"
+    },
+    "1511.05298": {
+        "arxivId": "1511.05298",
+        "title": "Structural-RNN: Deep Learning on Spatio-Temporal Graphs"
+    },
+    "1909.03211": {
+        "arxivId": "1909.03211",
+        "title": "Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View"
+    },
+    "1902.10191": {
+        "arxivId": "1902.10191",
+        "title": "EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs"
+    },
+    "2003.00982": {
+        "arxivId": "2003.00982",
+        "title": "Benchmarking Graph Neural Networks"
+    },
+    "1012.0009": {
+        "arxivId": "1012.0009",
+        "title": "Time-varying graphs and dynamic networks"
+    },
+    "1809.01286": {
+        "arxivId": "1809.01286",
+        "title": "FakeNewsNet: A Data Repository with News Content, Social Context, and Spatiotemporal Information for Studying Fake News on Social Media"
+    },
+    "1612.07659": {
+        "arxivId": "1612.07659",
+        "title": "Structured Sequence Modeling with Graph Convolutional Recurrent Networks"
+    },
+    "1508.01303": {
+        "arxivId": "1508.01303",
+        "title": "Modern temporal network theory: a colloquium"
+    },
+    "1908.01207": {
+        "arxivId": "1908.01207",
+        "title": "Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks"
+    },
+    "2006.05205": {
+        "arxivId": "2006.05205",
+        "title": "On the Bottleneck of Graph Neural Networks and its Practical Implications"
+    },
+    "1905.11136": {
+        "arxivId": "1905.11136",
+        "title": "Provably Powerful Graph Networks"
+    },
+    "2006.10637": {
+        "arxivId": "2006.10637",
+        "title": "Temporal Graph Networks for Deep Learning on Dynamic Graphs"
+    },
+    "2002.07962": {
+        "arxivId": "2002.07962",
+        "title": "Inductive Representation Learning on Temporal Graphs"
+    },
+    "2001.06362": {
+        "arxivId": "2001.06362",
+        "title": "Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks"
+    },
+    "1909.12223": {
+        "arxivId": "1909.12223",
+        "title": "PairNorm: Tackling Oversmoothing in GNNs"
+    },
+    "2103.00550": {
+        "arxivId": "2103.00550",
+        "title": "A Survey on Deep Semi-Supervised Learning"
+    },
+    "2106.07178": {
+        "arxivId": "2106.07178",
+        "title": "A Comprehensive Survey on Graph Anomaly Detection With Deep Learning"
+    },
+    "1711.07553": {
+        "arxivId": "1711.07553",
+        "title": "Residual Gated Graph ConvNets"
+    },
+    "1905.11485": {
+        "arxivId": "1905.11485",
+        "title": "Representation Learning for Dynamic Graphs: A Survey"
+    },
+    "2111.14522": {
+        "arxivId": "2111.14522",
+        "title": "Understanding over-squashing and bottlenecks on graphs via curvature"
+    },
+    "2006.06830": {
+        "arxivId": "2006.06830",
+        "title": "Data Augmentation for Graph Neural Networks"
+    },
+    "1805.11273": {
+        "arxivId": "1805.11273",
+        "title": "DynGEM: Deep Embedding Method for Dynamic Graphs"
+    },
+    "1704.06199": {
+        "arxivId": "1704.06199",
+        "title": "Dynamic Graph Convolutional Networks"
+    },
+    "1907.05321": {
+        "arxivId": "1907.05321",
+        "title": "Time2Vec: Learning a Vector Representation of Time"
+    },
+    "2005.03675": {
+        "arxivId": "2005.03675",
+        "title": "Machine Learning on Graphs: A Model and Comprehensive Taxonomy"
+    },
+    "1908.02591": {
+        "arxivId": "1908.02591",
+        "title": "Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics"
+    },
+    "2001.05140": {
+        "arxivId": "2001.05140",
+        "title": "Graph-Bert: Only Attention is Needed for Learning Graph Representations"
+    },
+    "1308.0723": {
+        "arxivId": "1308.0723",
+        "title": "Detecting the Community Structure and Activity Patterns of Temporal Networks: A Non-Negative Tensor Factorization Approach"
+    },
+    "2006.13318": {
+        "arxivId": "2006.13318",
+        "title": "A Note on Over-Smoothing for Graph Neural Networks"
+    },
+    "1503.00278": {
+        "arxivId": "1503.00278",
+        "title": "An Introduction to Temporal Graphs: An Algorithmic Perspective*"
+    },
+    "2005.02844": {
+        "arxivId": "2005.02844",
+        "title": "TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation"
+    },
+    "2101.05974": {
+        "arxivId": "2101.05974",
+        "title": "Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks"
+    },
+    "2005.07496": {
+        "arxivId": "2005.07496",
+        "title": "Foundations and Modeling of Dynamic Networks Using Dynamic Graph Neural Networks: A Survey"
+    },
+    "2007.03113": {
+        "arxivId": "2007.03113",
+        "title": "Examining COVID-19 Forecasting using Spatio-Temporal Graph Neural Networks"
+    },
+    "1805.11921": {
+        "arxivId": "1805.11921",
+        "title": "Anonymous Walk Embeddings"
+    },
+    "1802.09834": {
+        "arxivId": "1802.09834",
+        "title": "Spatio-Temporal Graph Convolution for Skeleton Based Action Recognition"
+    },
+    "1908.09710": {
+        "arxivId": "1908.09710",
+        "title": "Variational Graph Recurrent Neural Networks"
+    },
+    "2202.02541": {
+        "arxivId": "2202.02541",
+        "title": "TorchMD-NET: Equivariant Transformers for Neural Network based Molecular Potentials"
+    },
+    "2103.15447": {
+        "arxivId": "2103.15447",
+        "title": "Dynamic Network Embedding Survey"
+    },
+    "1903.08889": {
+        "arxivId": "1903.08889",
+        "title": "Node Embedding over Temporal Graphs"
+    },
+    "1902.08329": {
+        "arxivId": "1902.08329",
+        "title": "E-LSTM-D: A Deep Learning Framework for Dynamic Network Link Prediction"
+    },
+    "2104.07368": {
+        "arxivId": "2104.07368",
+        "title": "Dynamic Graph Neural Networks for Sequential Recommendation"
+    },
+    "2202.08455": {
+        "arxivId": "2202.08455",
+        "title": "Transformer for Graphs: An Overview from Architecture Perspective"
+    },
+    "1905.03994": {
+        "arxivId": "1905.03994",
+        "title": "Predicting Path Failure In Time-Evolving Graphs"
+    },
+    "2011.11545": {
+        "arxivId": "2011.11545",
+        "title": "APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding"
+    },
+    "2106.04319": {
+        "arxivId": "2106.04319",
+        "title": "Breaking the Limits of Message Passing Graph Neural Networks"
+    },
+    "2002.01038": {
+        "arxivId": "2002.01038",
+        "title": "Gated Graph Recurrent Neural Networks"
+    },
+    "1911.12864": {
+        "arxivId": "1911.12864",
+        "title": "Self-attention with Functional Time Representation Learning"
+    },
+    "2105.13495": {
+        "arxivId": "2105.13495",
+        "title": "Learning Dynamic Graph Representation of Brain Connectome with Spatio-Temporal Attention"
+    },
+    "2101.01229": {
+        "arxivId": "2101.01229",
+        "title": "A Survey on Embedding Dynamic Graphs"
+    },
+    "2302.02941": {
+        "arxivId": "2302.02941",
+        "title": "On Over-Squashing in Message Passing Neural Networks: The Impact of Width, Depth, and Topology"
+    },
+    "2010.09834": {
+        "arxivId": "2010.09834",
+        "title": "Topology-Aware Graph Pooling Networks"
+    },
+    "2302.11636": {
+        "arxivId": "2302.11636",
+        "title": "Do We Really Need Complicated Model Architectures For Temporal Networks?"
+    },
+    "2106.09876": {
+        "arxivId": "2106.09876",
+        "title": "Anomaly Detection in Dynamic Graphs via Transformer"
+    },
+    "2109.12218": {
+        "arxivId": "2109.12218",
+        "title": "Long-Range Transformers for Dynamic Spatiotemporal Forecasting"
+    },
+    "2302.04181": {
+        "arxivId": "2302.04181",
+        "title": "Attending to Graph Transformers"
+    },
+    "2010.09891": {
+        "arxivId": "2010.09891",
+        "title": "Robust Optimization as Data Augmentation for Large-scale Graphs"
+    },
+    "1905.08038": {
+        "arxivId": "1905.08038",
+        "title": "T-EDGE: Temporal WEighted MultiDiGraph Embedding for Ethereum Transaction Network Analysis"
+    },
+    "2110.13094": {
+        "arxivId": "2110.13094",
+        "title": "Gophormer: Ego-Graph Transformer for Node Classification"
+    },
+    "2201.02435": {
+        "arxivId": "2201.02435",
+        "title": "Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning"
+    },
+    "2101.02844": {
+        "arxivId": "2101.02844",
+        "title": "Dynamic Graph Collaborative Filtering"
+    },
+    "2307.01026": {
+        "arxivId": "2307.01026",
+        "title": "Temporal Graph Benchmark for Machine Learning on Temporal Graphs"
+    },
+    "2111.08900": {
+        "arxivId": "2111.08900",
+        "title": "A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction"
+    },
+    "2203.15209": {
+        "arxivId": "2203.15209",
+        "title": "OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks"
+    },
+    "1904.05582": {
+        "arxivId": "1904.05582",
+        "title": "Recurrent Space-time Graph Neural Networks"
+    },
+    "2105.07944": {
+        "arxivId": "2105.07944",
+        "title": "TCL: Transformer-based Dynamic Graph Modelling via Contrastive Learning"
+    },
+    "2302.01018": {
+        "arxivId": "2302.01018",
+        "title": "Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities"
+    },
+    "2207.05064": {
+        "arxivId": "2207.05064",
+        "title": "Adaptive Graph Spatial-Temporal Transformer Network for Traffic Forecasting"
+    },
+    "2106.15762": {
+        "arxivId": "2106.15762",
+        "title": "Curvature Graph Neural Network"
+    },
+    "2206.02687": {
+        "arxivId": "2206.02687",
+        "title": "Multi-Behavior Sequential Recommendation With Temporal Graph Transformer"
+    },
+    "2110.13889": {
+        "arxivId": "2110.13889",
+        "title": "Heterogeneous Temporal Graph Neural Network"
+    },
+    "2111.00869": {
+        "arxivId": "2111.00869",
+        "title": "DetectorNet: Transformer-enhanced Spatial Temporal Graph Neural Network for Traffic Prediction"
+    },
+    "2106.06163": {
+        "arxivId": "2106.06163",
+        "title": "Deception Detection in Group Video Conversations using Dynamic Interaction Networks"
+    },
+    "2211.08378": {
+        "arxivId": "2211.08378",
+        "title": "Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction"
+    },
+    "2003.12042": {
+        "arxivId": "2003.12042",
+        "title": "A Heterogeneous Dynamical Graph Neural Networks Approach to Quantify Scientific Impact"
+    },
+    "2406.15575": {
+        "arxivId": "2406.15575",
+        "title": "Sketch-GNN: Scalable Graph Neural Networks with Sublinear Training Complexity"
+    },
+    "1909.05976": {
+        "arxivId": "1909.05976",
+        "title": "DyANE: Dynamics-aware node embedding for temporal networks"
+    },
+    "2112.07791": {
+        "arxivId": "2112.07791",
+        "title": "A Simple But Powerful Graph Encoder for Temporal Knowledge Graph Completion"
+    },
+    "2306.11147": {
+        "arxivId": "2306.11147",
+        "title": "CAT-Walk: Inductive Hypergraph Learning via Set Walks"
+    },
+    "1902.07153": {
+        "arxivId": "1902.07153",
+        "title": "Simplifying Graph Convolutional Networks"
+    },
+    "1801.07606": {
+        "arxivId": "1801.07606",
+        "title": "Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning"
+    },
+    "0912.3848": {
+        "arxivId": "0912.3848",
+        "title": "Wavelets on Graphs via Spectral Graph Theory"
+    },
+    "1802.09691": {
+        "arxivId": "1802.09691",
+        "title": "Link Prediction Based on Graph Neural Networks"
+    },
+    "1810.05997": {
+        "arxivId": "1810.05997",
+        "title": "Predict then Propagate: Graph Neural Networks meet Personalized PageRank"
+    },
+    "1712.00468": {
+        "arxivId": "1712.00468",
+        "title": "Graph Signal Processing: Overview, Challenges, and Applications"
+    },
+    "1903.03894": {
+        "arxivId": "1903.03894",
+        "title": "GNNExplainer: Generating Explanations for Graph Neural Networks"
+    },
+    "1805.07984": {
+        "arxivId": "1805.07984",
+        "title": "Adversarial Attacks on Neural Networks for Graph Data"
+    },
+    "1710.02971": {
+        "arxivId": "1710.02971",
+        "title": "Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec"
+    },
+    "1705.07664": {
+        "arxivId": "1705.07664",
+        "title": "CayleyNets: Graph Convolutional Neural Networks With Complex Rational Spectral Filters"
+    },
+    "2006.07988": {
+        "arxivId": "2006.07988",
+        "title": "Adaptive Universal Generalized PageRank Graph Neural Network"
+    },
+    "2101.00797": {
+        "arxivId": "2101.00797",
+        "title": "Beyond Low-frequency Information in Graph Convolutional Networks"
+    },
+    "2103.07719": {
+        "arxivId": "2103.07719",
+        "title": "Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting"
+    },
+    "2106.03893": {
+        "arxivId": "2106.03893",
+        "title": "Rethinking Graph Transformers with Spectral Attention"
+    },
+    "2205.12454": {
+        "arxivId": "2205.12454",
+        "title": "Recipe for a General, Powerful, Scalable Graph Transformer"
+    },
+    "1901.01343": {
+        "arxivId": "1901.01343",
+        "title": "Graph Neural Networks With Convolutional ARMA Filters"
+    },
+    "1904.07785": {
+        "arxivId": "1904.07785",
+        "title": "Graph Wavelet Neural Network"
+    },
+    "2110.07875": {
+        "arxivId": "2110.07875",
+        "title": "Graph Neural Networks with Learnable Structural and Positional Representations"
+    },
+    "1901.01484": {
+        "arxivId": "1901.01484",
+        "title": "LanczosNet: Multi-Scale Deep Graph Convolutional Networks"
+    },
+    "2101.11859": {
+        "arxivId": "2101.11859",
+        "title": "Interpreting and Unifying Graph Neural Networks with An Optimization Framework"
+    },
+    "2106.10994": {
+        "arxivId": "2106.10994",
+        "title": "BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation"
+    },
+    "2010.01777": {
+        "arxivId": "2010.01777",
+        "title": "A Unified View on Graph Neural Networks as Graph Signal Denoising"
+    },
+    "2205.11172": {
+        "arxivId": "2205.11172",
+        "title": "How Powerful are Spectral Graph Neural Networks"
+    },
+    "2007.16061": {
+        "arxivId": "2007.16061",
+        "title": "Graph Signal Processing for Machine Learning: A Review and New Perspectives"
+    },
+    "2106.03535": {
+        "arxivId": "2106.03535",
+        "title": "Graph Neural Networks in Network Neuroscience"
+    },
+    "2202.13013": {
+        "arxivId": "2202.13013",
+        "title": "Sign and Basis Invariant Networks for Spectral Graph Representation Learning"
+    },
+    "1907.12972": {
+        "arxivId": "1907.12972",
+        "title": "Transferability of Spectral Graph Convolutional Neural Networks"
+    },
+    "2102.11391": {
+        "arxivId": "2102.11391",
+        "title": "MagNet: A Neural Network for Directed Graphs"
+    },
+    "2203.00199": {
+        "arxivId": "2203.00199",
+        "title": "Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks"
+    },
+    "2202.03580": {
+        "arxivId": "2202.03580",
+        "title": "Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited"
+    },
+    "2303.01028": {
+        "arxivId": "2303.01028",
+        "title": "Specformer: Spectral Graph Neural Networks Meet Transformers"
+    },
+    "2008.01918": {
+        "arxivId": "2008.01918",
+        "title": "Graph Signal Processing for Geometric Data and Beyond: Theory and Applications"
+    },
+    "2207.04869": {
+        "arxivId": "2207.04869",
+        "title": "Graph-based Molecular Representation Learning"
+    },
+    "2104.12840": {
+        "arxivId": "2104.12840",
+        "title": "AdaGNN: Graph Neural Networks with Adaptive Frequency Response Filter"
+    },
+    "2210.02330": {
+        "arxivId": "2210.02330",
+        "title": "Revisiting Graph Contrastive Learning from the Perspective of Graph Spectrum"
+    },
+    "2209.13232": {
+        "arxivId": "2209.13232",
+        "title": "A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective"
+    },
+    "2102.09587": {
+        "arxivId": "2102.09587",
+        "title": "Interpretable Stability Bounds for Spectral Graph Filters"
+    },
+    "2205.13892": {
+        "arxivId": "2205.13892",
+        "title": "EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks"
+    },
+    "2112.04575": {
+        "arxivId": "2112.04575",
+        "title": "Adaptive Kernel Graph Neural Network"
+    },
+    "2112.07160": {
+        "arxivId": "2112.07160",
+        "title": "A New Perspective on the Effects of Spectrum in Graph Neural Networks"
+    },
+    "1909.12038": {
+        "arxivId": "1909.12038",
+        "title": "Dimensionwise Separable 2-D Graph Convolution for Unsupervised and Semi-Supervised Learning on Graphs"
+    },
+    "2207.13326": {
+        "arxivId": "2207.13326",
+        "title": "Point Cloud Attacks in Graph Spectral Domain: When 3D Geometry Meets Graph Signal Processing"
+    },
+    "1211.0053": {
+        "arxivId": "1211.0053",
+        "title": "The emerging field of signal processing on graphs: Extending high-dimensional data analysis to networks and other irregular domains"
+    },
+    "1509.09292": {
+        "arxivId": "1509.09292",
+        "title": "Convolutional Networks on Graphs for Learning Molecular Fingerprints"
+    },
+    "1806.01973": {
+        "arxivId": "1806.01973",
+        "title": "Graph Convolutional Neural Networks for Web-Scale Recommender Systems"
+    },
+    "1611.08402": {
+        "arxivId": "1611.08402",
+        "title": "Geometric Deep Learning on Graphs and Manifolds Using Mixture Model CNNs"
+    },
+    "1809.05679": {
+        "arxivId": "1809.05679",
+        "title": "Graph Convolutional Networks for Text Classification"
+    },
+    "1210.4752": {
+        "arxivId": "1210.4752",
+        "title": "Discrete Signal Processing on Graphs"
+    },
+    "1812.04202": {
+        "arxivId": "1812.04202",
+        "title": "Deep Learning on Graphs: A Survey"
+    },
+    "1511.02136": {
+        "arxivId": "1511.02136",
+        "title": "Diffusion-Convolutional Neural Networks"
+    },
+    "1905.07953": {
+        "arxivId": "1905.07953",
+        "title": "Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks"
+    },
+    "1904.08082": {
+        "arxivId": "1904.08082",
+        "title": "Self-Attention Graph Pooling"
+    },
+    "1905.05178": {
+        "arxivId": "1905.05178",
+        "title": "Graph U-Nets"
+    },
+    "1910.12933": {
+        "arxivId": "1910.12933",
+        "title": "Hyperbolic Graph Convolutional Neural Networks"
+    },
+    "1808.03965": {
+        "arxivId": "1808.03965",
+        "title": "Large-Scale Learnable Graph Convolutional Networks"
+    },
+    "1902.08412": {
+        "arxivId": "1902.08412",
+        "title": "Adversarial Attacks on Graph Neural Networks via Meta Learning"
+    },
+    "1711.08920": {
+        "arxivId": "1711.08920",
+        "title": "SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels"
+    },
+    "2012.06852": {
+        "arxivId": "2012.06852",
+        "title": "Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation"
+    },
+    "1906.04214": {
+        "arxivId": "1906.04214",
+        "title": "Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective"
+    },
+    "1906.07510": {
+        "arxivId": "1906.07510",
+        "title": "Attention Guided Graph Convolutional Networks for Relation Extraction"
+    },
+    "1905.06133": {
+        "arxivId": "1905.06133",
+        "title": "Multiscale Dynamic Graph Convolutional Network for Hyperspectral Image Classification"
+    },
+    "1904.13107": {
+        "arxivId": "1904.13107",
+        "title": "Graph Convolutional Networks with EigenPooling"
+    },
+    "1710.10370": {
+        "arxivId": "1710.10370",
+        "title": "Topology adaptive graph convolutional networks"
+    },
+    "1911.07323": {
+        "arxivId": "1911.07323",
+        "title": "Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks"
+    },
+    "1811.01287": {
+        "arxivId": "1811.01287",
+        "title": "Towards Sparse Hierarchical Graph Classifiers"
+    },
+    "1802.08888": {
+        "arxivId": "1802.08888",
+        "title": "N-GCN: Multi-scale Graph Convolution for Semi-supervised Node Classification"
+    },
+    "1811.11103": {
+        "arxivId": "1811.11103",
+        "title": "Bayesian graph convolutional neural networks for semi-supervised classification"
+    },
+    "2206.13028": {
+        "arxivId": "2206.13028",
+        "title": "Multi-Scale Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition"
+    },
+    "1711.05859": {
+        "arxivId": "1711.05859",
+        "title": "Hybrid Approach of Relation Network and Localized Graph Convolutional Filtering for Breast Cancer Subtype Classification"
+    },
+    "1906.04501": {
+        "arxivId": "1906.04501",
+        "title": "Modeling Sentiment Dependencies with Graph Convolutional Networks for Aspect-level Sentiment Classification"
+    },
+    "1906.02174": {
+        "arxivId": "1906.02174",
+        "title": "Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks"
+    },
+    "1802.01572": {
+        "arxivId": "1802.01572",
+        "title": "MOTIFNET: A MOTIF-BASED GRAPH CONVOLUTIONAL NETWORK FOR DIRECTED GRAPHS"
+    },
+    "2110.04573": {
+        "arxivId": "2110.04573",
+        "title": "Space-Time-Separable Graph Convolutional Network for Pose Forecasting"
+    },
+    "2003.05730": {
+        "arxivId": "2003.05730",
+        "title": "A Survey of Adversarial Learning on Graphs"
+    },
+    "2104.06942": {
+        "arxivId": "2104.06942",
+        "title": "A Hyperbolic-to-Hyperbolic Graph Convolutional Network"
+    },
+    "2108.06280": {
+        "arxivId": "2108.06280",
+        "title": "Understanding Structural Vulnerability in Graph Convolutional Networks"
+    },
+    "2010.07565": {
+        "arxivId": "2010.07565",
+        "title": "Bi-GCN: Binary Graph Convolutional Network"
+    },
+    "1809.09925": {
+        "arxivId": "1809.09925",
+        "title": "Every Node Counts: Self-Ensembling Graph Convolutional Networks for Semi-Supervised Learning"
+    },
+    "2104.14060": {
+        "arxivId": "2104.14060",
+        "title": "WGCN: Graph Convolutional Networks with Weighted Structural Features"
+    },
+    "1911.10129": {
+        "arxivId": "1911.10129",
+        "title": "Learnable Pooling in Graph Convolutional Networks for Brain Surface Analysis"
+    },
+    "2106.08732": {
+        "arxivId": "2106.08732",
+        "title": "AMA-GCN: Adaptive Multi-layer Aggregation Graph Convolutional Network for Disease Prediction"
+    },
+    "1810.04805": {
+        "arxivId": "1810.04805",
+        "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+    },
+    "1310.4546": {
+        "arxivId": "1310.4546",
+        "title": "Distributed Representations of Words and Phrases and their Compositionality"
+    },
+    "1312.6114": {
+        "arxivId": "1312.6114",
+        "title": "Auto-Encoding Variational Bayes"
+    },
+    "2002.05709": {
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations"
+    },
+    "1911.05722": {
+        "arxivId": "1911.05722",
+        "title": "Momentum Contrast for Unsupervised Visual Representation Learning"
+    },
+    "1703.03400": {
+        "arxivId": "1703.03400",
+        "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
+    },
+    "1606.04080": {
+        "arxivId": "1606.04080",
+        "title": "Matching Networks for One Shot Learning"
+    },
+    "2006.07733": {
+        "arxivId": "2006.07733",
+        "title": "Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning"
+    },
+    "1801.07829": {
+        "arxivId": "1801.07829",
+        "title": "Dynamic Graph CNN for Learning on Point Clouds"
+    },
+    "cond-mat/9907038": {
+        "arxivId": "cond-mat/9907038",
+        "title": "Internet: Diameter of the World-Wide Web"
+    },
+    "1711.06025": {
+        "arxivId": "1711.06025",
+        "title": "Learning to Compare: Relation Network for Few-Shot Learning"
+    },
+    "1903.02428": {
+        "arxivId": "1903.02428",
+        "title": "Fast Graph Representation Learning with PyTorch Geometric"
+    },
+    "1808.06670": {
+        "arxivId": "1808.06670",
+        "title": "Learning deep representations by mutual information estimation and maximization"
+    },
+    "physics/0509039": {
+        "arxivId": "physics/0509039",
+        "title": "The dynamics of viral marketing"
+    },
+    "cond-mat/0309045": {
+        "arxivId": "cond-mat/0309045",
+        "title": "A measure of betweenness centrality based on random walks"
+    },
+    "2005.00687": {
+        "arxivId": "2005.00687",
+        "title": "Open Graph Benchmark: Datasets for Machine Learning on Graphs"
+    },
+    "1506.04757": {
+        "arxivId": "1506.04757",
+        "title": "Image-Based Recommendations on Styles and Substitutes"
+    },
+    "1801.07892": {
+        "arxivId": "1801.07892",
+        "title": "Generative Image Inpainting with Contextual Attention"
+    },
+    "1809.10341": {
+        "arxivId": "1809.10341",
+        "title": "Deep Graph Infomax"
+    },
+    "0810.1355": {
+        "arxivId": "0810.1355",
+        "title": "Community Structure in Large Networks: Natural Cluster Sizes and the Absence of Large Well-Defined Clusters"
+    },
+    "1602.01585": {
+        "arxivId": "1602.01585",
+        "title": "Ups and Downs: Modeling the Visual Evolution of Fashion Trends with One-Class Collaborative Filtering"
+    },
+    "1603.08861": {
+        "arxivId": "1603.08861",
+        "title": "Revisiting Semi-Supervised Learning with Graph Embeddings"
+    },
+    "2010.13902": {
+        "arxivId": "2010.13902",
+        "title": "Graph Contrastive Learning with Augmentations"
+    },
+    "1506.05163": {
+        "arxivId": "1506.05163",
+        "title": "Deep Convolutional Networks on Graph-Structured Data"
+    },
+    "1810.02244": {
+        "arxivId": "1810.02244",
+        "title": "Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks"
+    },
+    "1003.2424": {
+        "arxivId": "1003.2424",
+        "title": "Signed networks in social media"
+    },
+    "1603.00856": {
+        "arxivId": "1603.00856",
+        "title": "Molecular graph convolutions: moving beyond fingerprints"
+    },
+    "1612.00222": {
+        "arxivId": "1612.00222",
+        "title": "Interaction Networks for Learning about Objects, Relations and Physics"
+    },
+    "2006.08218": {
+        "arxivId": "2006.08218",
+        "title": "Self-Supervised Learning: Generative or Contrastive"
+    },
+    "1706.02263": {
+        "arxivId": "1706.02263",
+        "title": "Graph Convolutional Matrix Completion"
+    },
+    "1905.12265": {
+        "arxivId": "1905.12265",
+        "title": "Strategies for Pre-training Graph Neural Networks"
+    },
+    "1711.04043": {
+        "arxivId": "1711.04043",
+        "title": "Few-Shot Learning with Graph Neural Networks"
+    },
+    "1711.09869": {
+        "arxivId": "1711.09869",
+        "title": "Large-Scale Point Cloud Semantic Segmentation with Superpoint Graphs"
+    },
+    "1811.05868": {
+        "arxivId": "1811.05868",
+        "title": "Pitfalls of Graph Neural Network Evaluation"
+    },
+    "1701.02426": {
+        "arxivId": "1701.02426",
+        "title": "Scene Graph Generation by Iterative Message Passing"
+    },
+    "2006.05582": {
+        "arxivId": "2006.05582",
+        "title": "Contrastive Multi-View Representation Learning on Graphs"
+    },
+    "1904.01561": {
+        "arxivId": "1904.01561",
+        "title": "Analyzing Learned Molecular Representations for Property Prediction"
+    },
+    "1704.03165": {
+        "arxivId": "1704.03165",
+        "title": "struc2vec: Learning Node Representations from Structural Identity"
+    },
+    "1809.09401": {
+        "arxivId": "1809.09401",
+        "title": "Hypergraph Neural Networks"
+    },
+    "1802.08714": {
+        "arxivId": "1802.08714",
+        "title": "Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction"
+    },
+    "1802.00543": {
+        "arxivId": "1802.00543",
+        "title": "Modeling polypharmacy side effects with graph convolutional networks"
+    },
+    "2010.14945": {
+        "arxivId": "2010.14945",
+        "title": "Graph Contrastive Learning with Adaptive Augmentation"
+    },
+    "2003.11080": {
+        "arxivId": "2003.11080",
+        "title": "XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization"
+    },
+    "2010.10783": {
+        "arxivId": "2010.10783",
+        "title": "Self-supervised Graph Learning for Recommendation"
+    },
+    "2310.02386": {
+        "arxivId": "2310.02386",
+        "title": "ScaleNet: An Unsupervised Representation Learning Method for Limited Information"
+    },
+    "1805.11973": {
+        "arxivId": "1805.11973",
+        "title": "MolGAN: An implicit generative model for small molecular graphs"
+    },
+    "1806.02473": {
+        "arxivId": "1806.02473",
+        "title": "Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation"
+    },
+    "2006.09963": {
+        "arxivId": "2006.09963",
+        "title": "GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training"
+    },
+    "1808.00191": {
+        "arxivId": "1808.00191",
+        "title": "Graph R-CNN for Scene Graph Generation"
+    },
+    "1804.01622": {
+        "arxivId": "1804.01622",
+        "title": "Image Generation from Scene Graphs"
+    },
+    "1508.00200": {
+        "arxivId": "1508.00200",
+        "title": "PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks"
+    },
+    "1908.01000": {
+        "arxivId": "1908.01000",
+        "title": "InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization"
+    },
+    "1711.00740": {
+        "arxivId": "1711.00740",
+        "title": "Learning to Represent Programs with Graphs"
+    },
+    "1506.08839": {
+        "arxivId": "1506.08839",
+        "title": "Inferring Networks of Substitutable and Complementary Products"
+    },
+    "1904.09077": {
+        "arxivId": "1904.09077",
+        "title": "Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT"
+    },
+    "1612.09259": {
+        "arxivId": "1612.09259",
+        "title": "Motifs in Temporal Networks"
+    },
+    "1805.10002": {
+        "arxivId": "1805.10002",
+        "title": "Learning to Propagate Labels: Transductive Propagation Network for Few-Shot Learning"
+    },
+    "1611.07012": {
+        "arxivId": "1611.07012",
+        "title": "GRAM: Graph-based Attention Model for Healthcare Representation Learning"
+    },
+    "1803.03324": {
+        "arxivId": "1803.03324",
+        "title": "Learning Deep Generative Models of Graphs"
+    },
+    "1911.05485": {
+        "arxivId": "1911.05485",
+        "title": "Diffusion Improves Graph Learning"
+    },
+    "1912.13318": {
+        "arxivId": "1912.13318",
+        "title": "LayoutLM: Pre-training of Text and Layout for Document Image Understanding"
+    },
+    "1808.07962": {
+        "arxivId": "1808.07962",
+        "title": "Learning Human-Object Interactions by Graph Parsing Neural Networks"
+    },
+    "1704.06803": {
+        "arxivId": "1704.06803",
+        "title": "Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks"
+    },
+    "2002.01169": {
+        "arxivId": "2002.01169",
+        "title": "Graph Representation Learning via Graphical Mutual Information Maximization"
+    },
+    "1807.05560": {
+        "arxivId": "1807.05560",
+        "title": "DeepInf: Social Influence Prediction with Deep Learning"
+    },
+    "1704.04675": {
+        "arxivId": "1704.04675",
+        "title": "Graph Convolutional Encoders for Syntax-aware Neural Machine Translation"
+    },
+    "2006.15437": {
+        "arxivId": "2006.15437",
+        "title": "GPT-GNN: Generative Pre-Training of Graph Neural Networks"
+    },
+    "1812.09902": {
+        "arxivId": "1812.09902",
+        "title": "Invariant and Equivariant Graph Networks"
+    },
+    "1612.00606": {
+        "arxivId": "1612.00606",
+        "title": "SyncSpecCNN: Synchronized Spectral CNN for 3D Shape Segmentation"
+    },
+    "1906.04817": {
+        "arxivId": "1906.04817",
+        "title": "Position-aware Graph Neural Networks"
+    },
+    "1606.05233": {
+        "arxivId": "1606.05233",
+        "title": "Learning feed-forward one-shot learners"
+    },
+    "2103.00111": {
+        "arxivId": "2103.00111",
+        "title": "Graph Self-Supervised Learning: A Survey"
+    },
+    "1810.10659": {
+        "arxivId": "1810.10659",
+        "title": "Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search"
+    },
+    "1905.01436": {
+        "arxivId": "1905.01436",
+        "title": "Edge-Labeling Graph Neural Network for Few-Shot Learning"
+    },
+    "1802.04407": {
+        "arxivId": "1802.04407",
+        "title": "Adversarially Regularized Graph Autoencoder"
+    },
+    "1905.09550": {
+        "arxivId": "1905.09550",
+        "title": "Revisiting Graph Neural Networks: All We Have is Low-Pass Filters"
+    },
+    "1910.12892": {
+        "arxivId": "1910.12892",
+        "title": "Hyperbolic Graph Neural Networks"
+    },
+    "1806.09835": {
+        "arxivId": "1806.09835",
+        "title": "Graph-to-Sequence Learning using Gated Graph Neural Networks"
+    },
+    "1803.03697": {
+        "arxivId": "1803.03697",
+        "title": "Community Interaction and Conflict on the Web"
+    },
+    "1606.01614": {
+        "arxivId": "1606.01614",
+        "title": "Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification"
+    },
+    "1905.02850": {
+        "arxivId": "1905.02850",
+        "title": "Understanding Attention and Generalization in Graph Neural Networks"
+    },
+    "1806.02952": {
+        "arxivId": "1806.02952",
+        "title": "RGCNN: Regularized Graph CNN for Point Cloud Segmentation"
+    },
+    "2011.08843": {
+        "arxivId": "2011.08843",
+        "title": "Design Space for Graph Neural Networks"
+    },
+    "2002.06157": {
+        "arxivId": "2002.06157",
+        "title": "Generalization and Representational Limits of Graph Neural Networks"
+    },
+    "1907.03199": {
+        "arxivId": "1907.03199",
+        "title": "What graph neural networks cannot learn: depth vs width"
+    },
+    "1806.11538": {
+        "arxivId": "1806.11538",
+        "title": "Factorizable Net: An Efficient Subgraph-based Framework for Scene Graph Generation"
+    },
+    "1905.04943": {
+        "arxivId": "1905.04943",
+        "title": "Universal Invariant and Equivariant Graph Neural Networks"
+    },
+    "1906.01210": {
+        "arxivId": "1906.01210",
+        "title": "Attributed Graph Clustering via Adaptive Graph Convolution"
+    },
+    "1905.12560": {
+        "arxivId": "1905.12560",
+        "title": "On the equivalence between graph isomorphism testing and function approximation with GNNs"
+    },
+    "1902.11038": {
+        "arxivId": "1902.11038",
+        "title": "Multi-Stage Self-Supervised Learning for Graph Convolutional Networks"
+    },
+    "1901.01250": {
+        "arxivId": "1901.01250",
+        "title": "Learning Graph Embedding With Adversarial Training Methods"
+    },
+    "2004.13826": {
+        "arxivId": "2004.13826",
+        "title": "Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks"
+    },
+    "1805.02473": {
+        "arxivId": "1805.02473",
+        "title": "A Graph-to-Sequence Model for AMR-to-Text Generation"
+    },
+    "1901.09342": {
+        "arxivId": "1901.09342",
+        "title": "On the Universality of Invariant Networks"
+    },
+    "2204.04879": {
+        "arxivId": "2204.04879",
+        "title": "How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision"
+    },
+    "1706.02337": {
+        "arxivId": "1706.02337",
+        "title": "Learning to Extract Semantic Structure from Documents Using Multimodal Fully Convolutional Neural Networks"
+    },
+    "1810.09593": {
+        "arxivId": "1810.09593",
+        "title": "MiME: Multilevel Medical Embedding of Electronic Health Records for Predictive Healthcare"
+    },
+    "1911.06750": {
+        "arxivId": "1911.06750",
+        "title": "Unsupervised Attributed Multiplex Network Embedding"
+    },
+    "1803.11189": {
+        "arxivId": "1803.11189",
+        "title": "Iterative Visual Reasoning Beyond Convolutions"
+    },
+    "1908.02441": {
+        "arxivId": "1908.02441",
+        "title": "Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning"
+    },
+    "1911.07470": {
+        "arxivId": "1911.07470",
+        "title": "Graph Transformer for Graph-to-Sequence Learning"
+    },
+    "2005.00406": {
+        "arxivId": "2005.00406",
+        "title": "GCN-RL Circuit Designer: Transferable Transistor Sizing with Graph Neural Networks and Reinforcement Learning"
+    },
+    "2003.14247": {
+        "arxivId": "2003.14247",
+        "title": "DPGN: Distribution Propagation Graph Network for Few-Shot Learning"
+    },
+    "2010.00130": {
+        "arxivId": "2010.00130",
+        "title": "Computing Graph Neural Networks: A Survey from Algorithms to Accelerators"
+    },
+    "2007.01594": {
+        "arxivId": "2007.01594",
+        "title": "Adaptive Graph Encoder for Attributed Graph Embedding"
+    },
+    "1804.08313": {
+        "arxivId": "1804.08313",
+        "title": "Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks"
+    },
+    "2104.07788": {
+        "arxivId": "2104.07788",
+        "title": "PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models"
+    },
+    "1906.11081": {
+        "arxivId": "1906.11081",
+        "title": "Molecular Property Prediction: A Multilevel Quantum Interactions Modeling Perspective"
+    },
+    "2003.04078": {
+        "arxivId": "2003.04078",
+        "title": "A Survey on The Expressive Power of Graph Neural Networks"
+    },
+    "2006.10141": {
+        "arxivId": "2006.10141",
+        "title": "Self-supervised Learning on Graphs: Deep Insights and New Direction"
+    },
+    "2110.03987": {
+        "arxivId": "2110.03987",
+        "title": "Knowledge-aware Coupled Graph Neural Network for Social Recommendation"
+    },
+    "2009.10273": {
+        "arxivId": "2009.10273",
+        "title": "Sub-graph Contrast for Scalable Self-Supervised Graph Representation Learning"
+    },
+    "2102.13303": {
+        "arxivId": "2102.13303",
+        "title": "Graph-Based Semi-Supervised Learning: A Comprehensive Review"
+    },
+    "2101.08170": {
+        "arxivId": "2101.08170",
+        "title": "SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism"
+    },
+    "1905.01004": {
+        "arxivId": "1905.01004",
+        "title": "Stability and Generalization of Graph Convolutional Neural Networks"
+    },
+    "2004.10703": {
+        "arxivId": "2004.10703",
+        "title": "ktrain: A Low-Code Library for Augmented Machine Learning"
+    },
+    "2107.10670": {
+        "arxivId": "2107.10670",
+        "title": "Structure-aware Interactive Graph Neural Networks for the Prediction of Protein-Ligand Binding Affinity"
+    },
+    "2105.05682": {
+        "arxivId": "2105.05682",
+        "title": "Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning"
+    },
+    "2009.05923": {
+        "arxivId": "2009.05923",
+        "title": "Contrastive Self-supervised Learning for Graph Classification"
+    },
+    "2009.07111": {
+        "arxivId": "2009.07111",
+        "title": "Contrastive and Generative Graph Convolutional Networks for Graph-based Semi-Supervised Learning"
+    },
+    "2006.03548": {
+        "arxivId": "2006.03548",
+        "title": "Graphon Neural Networks and the Transferability of Graph Neural Networks"
+    },
+    "1907.05008": {
+        "arxivId": "1907.05008",
+        "title": "Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology"
+    },
+    "1810.09995": {
+        "arxivId": "1810.09995",
+        "title": "Deep Graph Convolutional Encoders for Structured Data to Text Generation"
+    },
+    "2010.11711": {
+        "arxivId": "2010.11711",
+        "title": "Multi-view Graph Contrastive Representation Learning for Drug-Drug Interaction Prediction"
+    },
+    "1909.04948": {
+        "arxivId": "1909.04948",
+        "title": "BERTgrid: Contextualized Embedding for 2D Document Representation and Understanding"
+    },
+    "1905.11013": {
+        "arxivId": "1905.11013",
+        "title": "MCNE: An End-to-End Framework for Learning Multiple Conditional Network Representations of Social Network"
+    },
+    "2012.05442": {
+        "arxivId": "2012.05442",
+        "title": "Bipartite Graph Embedding via Mutual Information Maximization"
+    },
+    "2010.10728": {
+        "arxivId": "2010.10728",
+        "title": "Heterogeneous Hypergraph Embedding for Graph Classification"
+    },
+    "2012.07023": {
+        "arxivId": "2012.07023",
+        "title": "InferCode: Self-Supervised Learning of Code Representations by Predicting Subtrees"
+    },
+    "1705.05085": {
+        "arxivId": "1705.05085",
+        "title": "Active Learning for Graph Embedding"
+    },
+    "1907.06370": {
+        "arxivId": "1907.06370",
+        "title": "Multimodal deep networks for text and image-based document classification"
+    },
+    "1905.10668": {
+        "arxivId": "1905.10668",
+        "title": "Is a Single Vector Enough?: Exploring Node Polysemy for Network Embedding"
+    },
+    "1704.03557": {
+        "arxivId": "1704.03557",
+        "title": "Cutting the Error by Half: Investigation of Very Deep CNN and Advanced Training Strategies for Document Image Classification"
+    },
+    "1809.00773": {
+        "arxivId": "1809.00773",
+        "title": "Sequence-to-Action: End-to-End Semantic Graph Generation for Semantic Parsing"
+    },
+    "1801.09321": {
+        "arxivId": "1801.09321",
+        "title": "Document Image Classification with Intra-Domain Transfer Learning and Stacked Generalization of Deep Convolutional Neural Networks"
+    },
+    "1905.04042": {
+        "arxivId": "1905.04042",
+        "title": "Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph"
+    },
+    "2106.05470": {
+        "arxivId": "2106.05470",
+        "title": "Automated Self-Supervised Learning for Graphs"
+    },
+    "2104.02228": {
+        "arxivId": "2104.02228",
+        "title": "Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs"
+    },
+    "2007.08294": {
+        "arxivId": "2007.08294",
+        "title": "Self-supervised Auxiliary Learning with Meta-paths for Heterogeneous Graphs"
+    },
+    "2012.13023": {
+        "arxivId": "2012.13023",
+        "title": "Self-Supervised Hyperboloid Representations from Logical Queries over Knowledge Graphs"
+    },
+    "2003.01604": {
+        "arxivId": "2003.01604",
+        "title": "Self-Supervised Graph Representation Learning via Global Context Prediction"
+    },
+    "1402.4645": {
+        "arxivId": "1402.4645",
+        "title": "A Survey on Semi-Supervised Learning Techniques"
+    },
+    "2006.13463": {
+        "arxivId": "2006.13463",
+        "title": "Graph Policy Network for Transferable Active Learning on Graphs"
+    },
+    "2002.00848": {
+        "arxivId": "2002.00848",
+        "title": "Structure-Feature based Graph Self-adaptive Pooling"
+    },
+    "1810.11908": {
+        "arxivId": "1810.11908",
+        "title": "Mean-field theory of graph neural networks in graph partitioning"
+    },
+    "2007.11192": {
+        "arxivId": "2007.11192",
+        "title": "Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks"
+    },
+    "2009.06946": {
+        "arxivId": "2009.06946",
+        "title": "Graph InfoClust: Leveraging cluster-level node information for unsupervised graph representation learning"
+    },
+    "2112.06538": {
+        "arxivId": "2112.06538",
+        "title": "Hybrid Graph Neural Networks for Few-Shot Learning"
+    },
+    "2011.07267": {
+        "arxivId": "2011.07267",
+        "title": "Graph-Based Neural Network Models with Multiple Self-Supervised Auxiliary Tasks"
+    },
+    "1905.13728": {
+        "arxivId": "1905.13728",
+        "title": "Pre-Training Graph Neural Networks for Generic Structural Feature Extraction"
+    },
+    "1811.02061": {
+        "arxivId": "1811.02061",
+        "title": "A Recurrent Graph Neural Network for Multi-relational Data"
+    },
+    "2010.12609": {
+        "arxivId": "2010.12609",
+        "title": "Iterative Graph Self-Distillation"
+    },
+    "2105.11246": {
+        "arxivId": "2105.11246",
+        "title": "Cross-lingual Text Classification with Heterogeneous Graph Neural Network"
+    },
+    "2009.00953": {
+        "arxivId": "2009.00953",
+        "title": "Unsupervised Feature Learning by Autoencoder and Prototypical Contrastive Learning for Hyperspectral Classification"
+    },
+    "2104.04987": {
+        "arxivId": "2104.04987",
+        "title": "AutoGL: A Library for Automated Graph Learning"
+    },
+    "2009.01674": {
+        "arxivId": "2009.01674",
+        "title": "CAGNN: Cluster-Aware Graph Neural Networks for Unsupervised Graph Representation Learning"
+    },
+    "2011.05126": {
+        "arxivId": "2011.05126",
+        "title": "Self-supervised Graph Representation Learning via Bootstrapping"
+    },
+    "1812.09617": {
+        "arxivId": "1812.09617",
+        "title": "Exploiting Cross-Lingual Subword Similarities in Low-Resource Document Classification"
+    },
+    "2106.10176": {
+        "arxivId": "2106.10176",
+        "title": "Self-supervised Incremental Deep Graph Learning for Ethereum Phishing Scam Detection"
+    },
+    "2105.03505": {
+        "arxivId": "2105.03505",
+        "title": "Unsupervised Cross-Domain Prerequisite Chain Learning using Variational Graph Autoencoders"
+    },
+    "1909.07903": {
+        "arxivId": "1909.07903",
+        "title": "Graph Nets for Partial Charge Prediction"
+    },
+    "1506.01497": {
+        "arxivId": "1506.01497",
+        "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"
+    },
+    "1506.02640": {
+        "arxivId": "1506.02640",
+        "title": "You Only Look Once: Unified, Real-Time Object Detection"
+    },
+    "1406.1078": {
+        "arxivId": "1406.1078",
+        "title": "Learning Phrase Representations using RNN Encoder\u2013Decoder for Statistical Machine Translation"
+    },
+    "1704.00028": {
+        "arxivId": "1704.00028",
+        "title": "Improved Training of Wasserstein GANs"
+    },
+    "1508.04025": {
+        "arxivId": "1508.04025",
+        "title": "Effective Approaches to Attention-based Neural Machine Translation"
+    },
+    "1609.08144": {
+        "arxivId": "1609.08144",
+        "title": "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation"
+    },
+    "1701.07875": {
+        "arxivId": "1701.07875",
+        "title": "Wasserstein GAN"
+    },
+    "1806.01261": {
+        "arxivId": "1806.01261",
+        "title": "Relational inductive biases, deep learning, and graph networks"
+    },
+    "1610.02415": {
+        "arxivId": "1610.02415",
+        "title": "Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules"
+    },
+    "1605.05273": {
+        "arxivId": "1605.05273",
+        "title": "Learning Convolutional Neural Networks for Graphs"
+    },
+    "1705.02801": {
+        "arxivId": "1705.02801",
+        "title": "Graph Embedding Techniques, Applications, and Performance: A Survey"
+    },
+    "1801.10247": {
+        "arxivId": "1801.10247",
+        "title": "FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling"
+    },
+    "1609.08259": {
+        "arxivId": "1609.08259",
+        "title": "Quantum-chemical insights from deep tensor neural networks"
+    },
+    "1704.02901": {
+        "arxivId": "1704.02901",
+        "title": "Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs"
+    },
+    "0807.0093": {
+        "arxivId": "0807.0093",
+        "title": "Graph Kernels"
+    },
+    "1711.08752": {
+        "arxivId": "1711.08752",
+        "title": "A Survey on Network Embedding"
+    },
+    "1511.06391": {
+        "arxivId": "1511.06391",
+        "title": "Order Matters: Sequence to sequence for sets"
+    },
+    "1703.04826": {
+        "arxivId": "1703.04826",
+        "title": "Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling"
+    },
+    "1802.03480": {
+        "arxivId": "1802.03480",
+        "title": "GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders"
+    },
+    "1703.01925": {
+        "arxivId": "1703.01925",
+        "title": "Grammar Variational Autoencoder"
+    },
+    "1909.01315": {
+        "arxivId": "1909.01315",
+        "title": "Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs"
+    },
+    "1801.03226": {
+        "arxivId": "1801.03226",
+        "title": "Adaptive Graph Convolutional Neural Networks"
+    },
+    "1802.07007": {
+        "arxivId": "1802.07007",
+        "title": "Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting"
+    },
+    "1503.05432": {
+        "arxivId": "1503.05432",
+        "title": "Discrete Signal Processing on Graphs: Sampling Theory"
+    },
+    "1801.05852": {
+        "arxivId": "1801.05852",
+        "title": "Network Representation Learning: A Survey"
+    },
+    "1711.08267": {
+        "arxivId": "1711.08267",
+        "title": "GraphGAN: Graph Representation Learning with Generative Adversarial Nets"
+    },
+    "1803.07294": {
+        "arxivId": "1803.07294",
+        "title": "GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs"
+    },
+    "1707.04638": {
+        "arxivId": "1707.04638",
+        "title": "Predicting multicellular function through multi-layer tissue networks"
+    },
+    "1605.06437": {
+        "arxivId": "1605.06437",
+        "title": "Learning shape correspondence with anisotropic convolutional neural networks"
+    },
+    "1705.10843": {
+        "arxivId": "1705.10843",
+        "title": "Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models"
+    },
+    "1809.05343": {
+        "arxivId": "1809.05343",
+        "title": "Adaptive Sampling Towards Fast Graph Representation Learning"
+    },
+    "1912.09893": {
+        "arxivId": "1912.09893",
+        "title": "A Fair Comparison of Graph Neural Networks for Graph Classification"
+    },
+    "1903.11835": {
+        "arxivId": "1903.11835",
+        "title": "A survey on graph kernels"
+    },
+    "1803.00816": {
+        "arxivId": "1803.00816",
+        "title": "NetGAN: Generating Graphs via Random Walks"
+    },
+    "1802.08786": {
+        "arxivId": "1802.08786",
+        "title": "Syntax-Directed Variational Autoencoder for Structured Data"
+    },
+    "1802.00910": {
+        "arxivId": "1802.00910",
+        "title": "GeniePath: Graph Neural Networks with Adaptive Receptive Paths"
+    },
+    "1809.02630": {
+        "arxivId": "1809.02630",
+        "title": "Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders"
+    },
+    "1807.07984": {
+        "arxivId": "1807.07984",
+        "title": "Attention Models in Graphs"
+    },
+    "1609.04508": {
+        "arxivId": "1609.04508",
+        "title": "Column Networks for Collective Classification"
+    },
+    "1703.00792": {
+        "arxivId": "1703.00792",
+        "title": "Robust Spatial Filtering With Graph Convolutional Neural Networks"
+    },
+    "1805.08090": {
+        "arxivId": "1805.08090",
+        "title": "Graph Capsule Convolutional Neural Networks"
+    },
+    "1808.06099": {
+        "arxivId": "1808.06099",
+        "title": "Multi-dimensional Graph Convolutional Networks"
+    },
+    "1906.09427": {
+        "arxivId": "1906.09427",
+        "title": "Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models"
+    },
+    "1805.10636": {
+        "arxivId": "1805.10636",
+        "title": "Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing"
+    },
+    "1101.5211": {
+        "arxivId": "1101.5211",
+        "title": "The Weisfeiler-Lehman Method and Graph Isomorphism Testing"
+    },
+    "1509.04537": {
+        "arxivId": "1509.04537",
+        "title": "Accelerated filtering on graphs using Lanczos method"
+    },
+    "1811.10435": {
+        "arxivId": "1811.10435",
+        "title": "On Filter Size in Graph Convolutional Networks"
+    },
+    "1808.06354": {
+        "arxivId": "1808.06354",
+        "title": "Signed Graph Convolutional Network"
+    },
+    "1805.09906": {
+        "arxivId": "1805.09906",
+        "title": "Diffusion Maps for Textual Network Embedding"
+    },
+    "1807.03748": {
+        "arxivId": "1807.03748",
+        "title": "Representation Learning with Contrastive Predictive Coding"
+    },
+    "1707.03587": {
+        "arxivId": "1707.03587",
+        "title": "An Information Flow Model for Conflict and Fission in Small Groups"
+    },
+    "1807.05520": {
+        "arxivId": "1807.05520",
+        "title": "Deep Clustering for Unsupervised Learning of Visual Features"
+    },
+    "2006.04131": {
+        "arxivId": "2006.04131",
+        "title": "Deep Graph Contrastive Representation Learning"
+    },
+    "2006.09136": {
+        "arxivId": "2006.09136",
+        "title": "When Does Self-Supervision Help Graph Convolutional Networks?"
+    },
+    "2005.06149": {
+        "arxivId": "2005.06149",
+        "title": "DeepRobust: A PyTorch Library for Adversarial Attacks and Defenses"
+    },
+    "1904.06316": {
+        "arxivId": "1904.06316",
+        "title": "Spatio-Temporal Deep Graph Infomax"
+    },
+    "2103.16046": {
+        "arxivId": "2103.16046",
+        "title": "Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders"
+    },
+    "1610.02357": {
+        "arxivId": "1610.02357",
+        "title": "Xception: Deep Learning with Depthwise Separable Convolutions"
+    },
+    "1610.00081": {
+        "arxivId": "1610.00081",
+        "title": "Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction"
+    },
+    "1701.04245": {
+        "arxivId": "1701.04245",
+        "title": "Learning Traffic as Images: A Deep Convolutional Neural Network for Large-Scale Transportation Network Speed Prediction"
+    },
+    "2101.11174": {
+        "arxivId": "2101.11174",
+        "title": "Graph Neural Network for Traffic Forecasting: A Survey"
+    },
+    "1805.04574": {
+        "arxivId": "1805.04574",
+        "title": "Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation"
+    },
+    "1902.09362": {
+        "arxivId": "1902.09362",
+        "title": "Session-Based Social Recommendation via Dynamic Graph Attention Networks"
+    },
+    "2004.11198": {
+        "arxivId": "2004.11198",
+        "title": "SIGN: Scalable Inception Graph Neural Networks"
+    },
+    "1803.05827": {
+        "arxivId": "1803.05827",
+        "title": "Local Spectral Graph Convolution for Point Set Feature Learning"
+    },
+    "1807.10934": {
+        "arxivId": "1807.10934",
+        "title": "Bike flow prediction with multi-graph convolutional networks"
+    },
+    "1910.02356": {
+        "arxivId": "1910.02356",
+        "title": "Text Level Graph Neural Network for Text Classification"
+    },
+    "1703.03020": {
+        "arxivId": "1703.03020",
+        "title": "Spectral Graph Convolutions for Population-based Disease Prediction"
+    },
+    "1910.08233": {
+        "arxivId": "1910.08233",
+        "title": "SpAGNN: Spatially-Aware Graph Neural Networks for Relational Behavior Forecasting from Sensor Data"
+    },
+    "1703.02161": {
+        "arxivId": "1703.02161",
+        "title": "Distance Metric Learning Using Graph Convolutional Networks: Application to Functional Brain Networks"
+    },
+    "1908.07558": {
+        "arxivId": "1908.07558",
+        "title": "Transferring Robustness for Graph Neural Network Against Poisoning Attacks"
+    },
+    "2009.03294": {
+        "arxivId": "2009.03294",
+        "title": "GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training"
+    },
+    "1803.02099": {
+        "arxivId": "1803.02099",
+        "title": "A Hybrid Method for Traffic Flow Forecasting Using Multimodal Deep Learning"
+    },
+    "2106.03785": {
+        "arxivId": "2106.03785",
+        "title": "Generative Adversarial Networks"
+    },
+    "1903.01254": {
+        "arxivId": "1903.01254",
+        "title": "Graph Neural Networks for Modelling Traffic Participant Interaction"
+    },
+    "1912.04135": {
+        "arxivId": "1912.04135",
+        "title": "Persistent spectral graph"
+    },
+    "1911.10516": {
+        "arxivId": "1911.10516",
+        "title": "Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction"
+    },
+    "1909.12264": {
+        "arxivId": "1909.12264",
+        "title": "Quantum Graph Neural Networks"
+    },
+    "1704.08165": {
+        "arxivId": "1704.08165",
+        "title": "A Generalization of Convolutional Neural Networks to Graph-Structured Data"
+    },
+    "1705.08415": {
+        "arxivId": "1705.08415",
+        "title": "Community Detection with Graph Neural Networks"
+    },
+    "2003.00330": {
+        "arxivId": "2003.00330",
+        "title": "Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective"
+    },
+    "1804.00684": {
+        "arxivId": "1804.00684",
+        "title": "Graph-Based Deep Modeling and Real Time Forecasting of Sparse Spatio-Temporal Data"
+    },
+    "2003.11702": {
+        "arxivId": "2003.11702",
+        "title": "Bridging the Gap Between Spectral and Spatial Domains in Graph Neural Networks"
+    },
+    "1711.06427": {
+        "arxivId": "1711.06427",
+        "title": "Action-Attending Graphic Neural Network"
+    },
+    "2008.13072": {
+        "arxivId": "2008.13072",
+        "title": "Adversarial Privacy-Preserving Graph Embedding Against Inference Attack"
+    },
+    "1609.08965": {
+        "arxivId": "1609.08965",
+        "title": "Graph Based Convolutional Neural Network"
+    },
+    "2002.11867": {
+        "arxivId": "2002.11867",
+        "title": "Bridging the Gap between Spatial and Spectral Domains: A Survey on Graph Neural Networks"
+    },
+    "1706.00891": {
+        "arxivId": "1706.00891",
+        "title": "Spectrum-based Deep Neural Networks for Fraud Detection"
+    },
+    "2009.12473": {
+        "arxivId": "2009.12473",
+        "title": "SIA-GCN: A Spatial Information Aware Graph Neural Network with 2D Convolutions for Hand Pose Estimation"
+    },
+    "2006.04386": {
+        "arxivId": "2006.04386",
+        "title": "Understanding Graph Neural Networks from Graph Signal Denoising Perspectives"
+    },
+    "2010.13269": {
+        "arxivId": "2010.13269",
+        "title": "Revisiting convolutional neural network on graphs with polynomial approximations of Laplace\u2013Beltrami spectral filtering"
+    },
+    "2003.00992": {
+        "arxivId": "2003.00992",
+        "title": "Fiedler Regularization: Learning Neural Networks with Graph Sparsity"
+    },
+    "2011.02260": {
+        "arxivId": "2011.02260",
+        "title": "Graph Neural Networks in Recommender Systems: A Survey"
+    },
+    "1902.08730": {
+        "arxivId": "1902.08730",
+        "title": "AliGraph: A Comprehensive Graph Neural Network Platform"
+    },
+    "2001.02514": {
+        "arxivId": "2001.02514",
+        "title": "HyGCN: A GCN Accelerator with Hybrid Architecture"
+    },
+    "2008.05000": {
+        "arxivId": "2008.05000",
+        "title": "Degree-Quant: Quantization-Aware Training for Graph Neural Networks"
+    },
+    "2001.02498": {
+        "arxivId": "2001.02498",
+        "title": "GraphACT: Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms"
+    },
+    "2207.02547": {
+        "arxivId": "2207.02547",
+        "title": "Simple and Efficient Heterogeneous Graph Neural Network"
+    },
+    "2103.05872": {
+        "arxivId": "2103.05872",
+        "title": "Sampling Methods for Efficient Training of Graph Convolutional Networks: A Survey"
+    },
+    "2203.14883": {
+        "arxivId": "2203.14883",
+        "title": "TGL: A General Framework for Temporal GNN Training onBillion-Scale Graphs"
+    },
+    "2009.06693": {
+        "arxivId": "2009.06693",
+        "title": "Accelerating graph sampling for graph machine learning using GPUs"
+    },
+    "2001.10160": {
+        "arxivId": "2001.10160",
+        "title": "Characterizing and Understanding GCNs on GPU"
+    },
+    "2112.08541": {
+        "arxivId": "2112.08541",
+        "title": "BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing"
+    },
+    "2112.15345": {
+        "arxivId": "2112.15345",
+        "title": "Distributed Hybrid CPU and GPU training for Graph Neural Networks on Billion-Scale Heterogeneous Graphs"
+    },
+    "2205.09702": {
+        "arxivId": "2205.09702",
+        "title": "Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis"
+    },
+    "2110.09524": {
+        "arxivId": "2110.09524",
+        "title": "Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective"
+    },
+    "2202.04822": {
+        "arxivId": "2202.04822",
+        "title": "Survey on Graph Neural Network Acceleration: An Algorithmic Perspective"
+    },
+    "2211.00216": {
+        "arxivId": "2211.00216",
+        "title": "Distributed Graph Neural Network Training: A Survey"
+    },
+    "2203.05095": {
+        "arxivId": "2203.05095",
+        "title": "Model-Architecture Co-Design for High Performance Temporal GNN Inference on FPGA"
+    },
+    "2211.05368": {
+        "arxivId": "2211.05368",
+        "title": "A Comprehensive Survey on Distributed Training of Graph Neural Networks"
+    },
+    "2208.04758": {
+        "arxivId": "2208.04758",
+        "title": "Characterizing and Understanding HGNNs on GPUs"
+    },
+    "2301.00391": {
+        "arxivId": "2301.00391",
+        "title": "PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs"
+    },
+    "2204.08150": {
+        "arxivId": "2204.08150",
+        "title": "Characterizing and Understanding Distributed GNN Training on GPUs"
+    },
+    "1409.0575": {
+        "arxivId": "1409.0575",
+        "title": "ImageNet Large Scale Visual Recognition Challenge"
+    },
+    "1608.06993": {
+        "arxivId": "1608.06993",
+        "title": "Densely Connected Convolutional Networks"
+    },
+    "1612.00593": {
+        "arxivId": "1612.00593",
+        "title": "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation"
+    },
+    "1603.05027": {
+        "arxivId": "1603.05027",
+        "title": "Identity Mappings in Deep Residual Networks"
+    },
+    "1711.07971": {
+        "arxivId": "1711.07971",
+        "title": "Non-local Neural Networks"
+    },
+    "1503.00075": {
+        "arxivId": "1503.00075",
+        "title": "Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks"
+    },
+    "1506.03134": {
+        "arxivId": "1506.03134",
+        "title": "Pointer Networks"
+    },
+    "1707.01476": {
+        "arxivId": "1707.01476",
+        "title": "Convolutional 2D Knowledge Graph Embeddings"
+    },
+    "1703.06114": {
+        "arxivId": "1703.06114",
+        "title": "Deep Sets"
+    },
+    "1806.03536": {
+        "arxivId": "1806.03536",
+        "title": "Representation Learning on Graphs with Jumping Knowledge Networks"
+    },
+    "1902.07243": {
+        "arxivId": "1902.07243",
+        "title": "Graph Neural Networks for Social Recommendation"
+    },
+    "1706.01427": {
+        "arxivId": "1706.01427",
+        "title": "A simple neural network module for relational reasoning"
+    },
+    "1611.09940": {
+        "arxivId": "1611.09940",
+        "title": "Neural Combinatorial Optimization with Reinforcement Learning"
+    },
+    "1704.01665": {
+        "arxivId": "1704.01665",
+        "title": "Learning Combinatorial Optimization Algorithms over Graphs"
+    },
+    "1904.03751": {
+        "arxivId": "1904.03751",
+        "title": "DeepGCNs: Can GCNs Go As Deep As CNNs?"
+    },
+    "1711.11575": {
+        "arxivId": "1711.11575",
+        "title": "Relation Networks for Object Detection"
+    },
+    "1601.00770": {
+        "arxivId": "1601.00770",
+        "title": "End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures"
+    },
+    "1911.08415": {
+        "arxivId": "1911.08415",
+        "title": "GMAN: A Graph Multi-Attention Network for Traffic Prediction"
+    },
+    "1605.07736": {
+        "arxivId": "1605.07736",
+        "title": "Learning Multiagent Communication with Backpropagation"
+    },
+    "1601.06733": {
+        "arxivId": "1601.06733",
+        "title": "Long Short-Term Memory-Networks for Machine Reading"
+    },
+    "2003.01332": {
+        "arxivId": "2003.01332",
+        "title": "Heterogeneous Graph Transformer"
+    },
+    "1907.04931": {
+        "arxivId": "1907.04931",
+        "title": "GraphSAINT: Graph Sampling Based Inductive Learning Method"
+    },
+    "1911.06455": {
+        "arxivId": "1911.06455",
+        "title": "Graph Transformer Networks"
+    },
+    "1802.04687": {
+        "arxivId": "1802.04687",
+        "title": "Neural Relational Inference for Interacting Systems"
+    },
+    "1802.08773": {
+        "arxivId": "1802.08773",
+        "title": "GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models"
+    },
+    "1806.02371": {
+        "arxivId": "1806.02371",
+        "title": "Adversarial Attack on Graph Structured Data"
+    },
+    "1809.10185": {
+        "arxivId": "1809.10185",
+        "title": "Graph Convolution over Pruned Dependency Trees Improves Relation Extraction"
+    },
+    "2002.01680": {
+        "arxivId": "2002.01680",
+        "title": "MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding"
+    },
+    "1603.05629": {
+        "arxivId": "1603.05629",
+        "title": "Discriminative Embeddings of Latent Variable Models for Structured Data"
+    },
+    "1806.01242": {
+        "arxivId": "1806.01242",
+        "title": "Graph networks as learnable physics engines for inference and control"
+    },
+    "1811.03761": {
+        "arxivId": "1811.03761",
+        "title": "RSA: Byzantine-Robust Stochastic Aggregation Methods for Distributed Learning from Heterogeneous Datasets"
+    },
+    "1803.08035": {
+        "arxivId": "1803.08035",
+        "title": "Zero-Shot Recognition via Semantic Embeddings and Knowledge Graphs"
+    },
+    "1708.03743": {
+        "arxivId": "1708.03743",
+        "title": "Cross-Sentence N-ary Relation Extraction with Graph LSTMs"
+    },
+    "1904.12787": {
+        "arxivId": "1904.12787",
+        "title": "Graph Matching Networks for Learning the Similarity of Graph Structured Objects"
+    },
+    "1611.02344": {
+        "arxivId": "1611.02344",
+        "title": "A Convolutional Encoder Model for Neural Machine Translation"
+    },
+    "1612.00341": {
+        "arxivId": "1612.00341",
+        "title": "A Compositional Object-Based Approach to Learning Physical Dynamics"
+    },
+    "1607.03474": {
+        "arxivId": "1607.03474",
+        "title": "Recurrent Highway Networks"
+    },
+    "1906.01629": {
+        "arxivId": "1906.01629",
+        "title": "Exact Combinatorial Optimization with Graph Convolutional Neural Networks"
+    },
+    "1609.05600": {
+        "arxivId": "1609.05600",
+        "title": "Graph-Structured Representations for Visual Question Answering"
+    },
+    "1802.03685": {
+        "arxivId": "1802.03685",
+        "title": "Learning a SAT Solver from Single-Bit Supervision"
+    },
+    "2001.09382": {
+        "arxivId": "2001.09382",
+        "title": "GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation"
+    },
+    "1603.07063": {
+        "arxivId": "1603.07063",
+        "title": "Semantic Object Parsing with Graph LSTM"
+    },
+    "1612.04844": {
+        "arxivId": "1612.04844",
+        "title": "The More You Know: Using Knowledge Graphs for Image Classification"
+    },
+    "2007.01570": {
+        "arxivId": "2007.01570",
+        "title": "Scaling Graph Neural Networks with Approximate PageRank"
+    },
+    "1809.09078": {
+        "arxivId": "1809.09078",
+        "title": "Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation"
+    },
+    "1706.05674": {
+        "arxivId": "1706.05674",
+        "title": "Knowledge Transfer for Out-of-Knowledge-Base Entities : A Graph Neural Network Approach"
+    },
+    "1805.11724": {
+        "arxivId": "1805.11724",
+        "title": "Rethinking Knowledge Graph Propagation for Zero-Shot Learning"
+    },
+    "1903.10433": {
+        "arxivId": "1903.10433",
+        "title": "Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems"
+    },
+    "1803.10459": {
+        "arxivId": "1803.10459",
+        "title": "Graphite: Iterative Generative Modeling of Graphs"
+    },
+    "1711.06526": {
+        "arxivId": "1711.06526",
+        "title": "Multi-label Zero-Shot Learning with Structured Knowledge Graphs"
+    },
+    "1706.01433": {
+        "arxivId": "1706.01433",
+        "title": "Visual Interaction Networks: Learning a Physics Simulator from Video"
+    },
+    "1905.13686": {
+        "arxivId": "1905.13686",
+        "title": "Explainability Techniques for Graph Convolutional Networks"
+    },
+    "1909.13189": {
+        "arxivId": "1909.13189",
+        "title": "Learning Sparse Nonparametric DAGs"
+    },
+    "1806.07243": {
+        "arxivId": "1806.07243",
+        "title": "Learning Conditioned Graph Structures for Interpretable Visual Question Answering"
+    },
+    "1905.11605": {
+        "arxivId": "1905.11605",
+        "title": "Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network"
+    },
+    "1706.06122": {
+        "arxivId": "1706.06122",
+        "title": "VAIN: Attentional Multi-agent Predictive Modeling"
+    },
+    "1808.09920": {
+        "arxivId": "1808.09920",
+        "title": "Question Answering by Reasoning Across Documents with Graph Convolutional Networks"
+    },
+    "1905.05460": {
+        "arxivId": "1905.05460",
+        "title": "Cognitive Graph for Multi-Hop Reading Comprehension at Scale"
+    },
+    "1805.02474": {
+        "arxivId": "1805.02474",
+        "title": "Sentence-State LSTM for Text Representation"
+    },
+    "1910.09796": {
+        "arxivId": "1910.09796",
+        "title": "Fine-grained Fact Verification with Kernel Graph Attention Network"
+    },
+    "1905.06933": {
+        "arxivId": "1905.06933",
+        "title": "Dynamically Fused Graph Network for Multi-hop Reasoning"
+    },
+    "1908.01843": {
+        "arxivId": "1908.01843",
+        "title": "GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification"
+    },
+    "1901.08113": {
+        "arxivId": "1901.08113",
+        "title": "Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN"
+    },
+    "1808.09101": {
+        "arxivId": "1808.09101",
+        "title": "N-ary Relation Extraction using Graph-State LSTM"
+    },
+    "1807.00504": {
+        "arxivId": "1807.00504",
+        "title": "Deep Reasoning with Knowledge Graph for Social Relationship Understanding"
+    },
+    "2002.06755": {
+        "arxivId": "2002.06755",
+        "title": "Unifying Graph Convolutional Neural Networks and Label Propagation"
+    },
+    "1909.03745": {
+        "arxivId": "1909.03745",
+        "title": "Reasoning Over Semantic-Level Graph for Fact Checking"
+    },
+    "1804.08049": {
+        "arxivId": "1804.08049",
+        "title": "Semi-supervised User Geolocation via Graph Convolutional Networks"
+    },
+    "1812.09441": {
+        "arxivId": "1812.09441",
+        "title": "Graph Transformation Policy Network for Chemical Reaction Prediction"
+    },
+    "1905.07374": {
+        "arxivId": "1905.07374",
+        "title": "Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs"
+    },
+    "1905.13177": {
+        "arxivId": "1905.13177",
+        "title": "Graph Normalizing Flows"
+    },
+    "1711.08028": {
+        "arxivId": "1711.08028",
+        "title": "Recurrent Relational Networks"
+    },
+    "1905.10261": {
+        "arxivId": "1905.10261",
+        "title": "Approximation Ratios of Graph Neural Networks for Combinatorial Problems"
+    },
+    "1908.07999": {
+        "arxivId": "1908.07999",
+        "title": "HATS: A Hierarchical Graph Attention Network for Stock Movement Prediction"
+    },
+    "1806.01203": {
+        "arxivId": "1806.01203",
+        "title": "Relational inductive bias for physical construction in humans and machines"
+    },
+    "1809.02040": {
+        "arxivId": "1809.02040",
+        "title": "Exploring Graph-structured Passage Representation for Multi-hop Reading Comprehension with Graph Neural Networks"
+    },
+    "1903.00757": {
+        "arxivId": "1903.00757",
+        "title": "GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding"
+    },
+    "1703.03055": {
+        "arxivId": "1703.03055",
+        "title": "Interpretable Structure-Evolving LSTM"
+    },
+    "1809.04379": {
+        "arxivId": "1809.04379",
+        "title": "Bayesian Semi-supervised Learning with Graph Gaussian Processes"
+    },
+    "1905.09558": {
+        "arxivId": "1905.09558",
+        "title": "MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions"
+    },
+    "1703.03386": {
+        "arxivId": "1703.03386",
+        "title": "Loyalty in Online Communities"
+    },
+    "1704.02080": {
+        "arxivId": "1704.02080",
+        "title": "Conversation Modeling on Reddit Using a Graph-Structured LSTM"
+    },
+    "1803.07066": {
+        "arxivId": "1803.07066",
+        "title": "Learning Region Features for Object Detection"
+    },
+    "1909.10660": {
+        "arxivId": "1909.10660",
+        "title": "Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis"
+    },
+    "1702.05068": {
+        "arxivId": "1702.05068",
+        "title": "Discovering objects and their relations from entangled scene representations"
+    },
+    "2004.00216": {
+        "arxivId": "2004.00216",
+        "title": "Heterogeneous Network Representation Learning: Survey, Benchmark, Evaluation, and Beyond"
+    },
+    "1908.06491": {
+        "arxivId": "1908.06491",
+        "title": "Neural Dynamics on Complex Networks"
+    }
+}

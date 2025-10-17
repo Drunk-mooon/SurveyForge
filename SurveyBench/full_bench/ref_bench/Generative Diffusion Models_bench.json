@@ -1,0 +1,3978 @@
+{
+    "2005.14165": {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+    },
+    "2103.00020": {
+        "arxivId": "2103.00020",
+        "title": "Learning Transferable Visual Models From Natural Language Supervision"
+    },
+    "1611.07004": {
+        "arxivId": "1611.07004",
+        "title": "Image-to-Image Translation with Conditional Adversarial Networks"
+    },
+    "1312.6114": {
+        "arxivId": "1312.6114",
+        "title": "Auto-Encoding Variational Bayes"
+    },
+    "1910.10683": {
+        "arxivId": "1910.10683",
+        "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
+    },
+    "1706.02216": {
+        "arxivId": "1706.02216",
+        "title": "Inductive Representation Learning on Large Graphs"
+    },
+    "2006.11239": {
+        "arxivId": "2006.11239",
+        "title": "Denoising Diffusion Probabilistic Models"
+    },
+    "1706.06083": {
+        "arxivId": "1706.06083",
+        "title": "Towards Deep Learning Models Resistant to Adversarial Attacks"
+    },
+    "2112.10752": {
+        "arxivId": "2112.10752",
+        "title": "High-Resolution Image Synthesis with Latent Diffusion Models"
+    },
+    "1812.04948": {
+        "arxivId": "1812.04948",
+        "title": "A Style-Based Generator Architecture for Generative Adversarial Networks"
+    },
+    "2203.02155": {
+        "arxivId": "2203.02155",
+        "title": "Training language models to follow instructions with human feedback"
+    },
+    "2302.13971": {
+        "arxivId": "2302.13971",
+        "title": "LLaMA: Open and Efficient Foundation Language Models"
+    },
+    "1901.00596": {
+        "arxivId": "1901.00596",
+        "title": "A Comprehensive Survey on Graph Neural Networks"
+    },
+    "1609.03499": {
+        "arxivId": "1609.03499",
+        "title": "WaveNet: A Generative Model for Raw Audio"
+    },
+    "1704.01212": {
+        "arxivId": "1704.01212",
+        "title": "Neural Message Passing for Quantum Chemistry"
+    },
+    "2105.05233": {
+        "arxivId": "2105.05233",
+        "title": "Diffusion Models Beat GANs on Image Synthesis"
+    },
+    "2204.06125": {
+        "arxivId": "2204.06125",
+        "title": "Hierarchical Text-Conditional Image Generation with CLIP Latents"
+    },
+    "1503.03585": {
+        "arxivId": "1503.03585",
+        "title": "Deep Unsupervised Learning using Nonequilibrium Thermodynamics"
+    },
+    "2204.02311": {
+        "arxivId": "2204.02311",
+        "title": "PaLM: Scaling Language Modeling with Pathways"
+    },
+    "1505.00468": {
+        "arxivId": "1505.00468",
+        "title": "VQA: Visual Question Answering"
+    },
+    "2010.02502": {
+        "arxivId": "2010.02502",
+        "title": "Denoising Diffusion Implicit Models"
+    },
+    "1812.08434": {
+        "arxivId": "1812.08434",
+        "title": "Graph Neural Networks: A Review of Methods and Applications"
+    },
+    "2205.11487": {
+        "arxivId": "2205.11487",
+        "title": "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding"
+    },
+    "2011.13456": {
+        "arxivId": "2011.13456",
+        "title": "Score-Based Generative Modeling through Stochastic Differential Equations"
+    },
+    "1806.07366": {
+        "arxivId": "1806.07366",
+        "title": "Neural Ordinary Differential Equations"
+    },
+    "2102.12092": {
+        "arxivId": "2102.12092",
+        "title": "Zero-Shot Text-to-Image Generation"
+    },
+    "1308.0850": {
+        "arxivId": "1308.0850",
+        "title": "Generating Sequences With Recurrent Neural Networks"
+    },
+    "1505.05770": {
+        "arxivId": "1505.05770",
+        "title": "Variational Inference with Normalizing Flows"
+    },
+    "2108.07258": {
+        "arxivId": "2108.07258",
+        "title": "On the Opportunities and Risks of Foundation Models"
+    },
+    "1605.08803": {
+        "arxivId": "1605.08803",
+        "title": "Density estimation using Real NVP"
+    },
+    "1509.09292": {
+        "arxivId": "1509.09292",
+        "title": "Convolutional Networks on Graphs for Learning Molecular Fingerprints"
+    },
+    "2201.12086": {
+        "arxivId": "2201.12086",
+        "title": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation"
+    },
+    "1907.05600": {
+        "arxivId": "1907.05600",
+        "title": "Generative Modeling by Estimating Gradients of the Data Distribution"
+    },
+    "2205.01068": {
+        "arxivId": "2205.01068",
+        "title": "OPT: Open Pre-trained Transformer Language Models"
+    },
+    "1807.03039": {
+        "arxivId": "1807.03039",
+        "title": "Glow: Generative Flow with Invertible 1x1 Convolutions"
+    },
+    "1606.03476": {
+        "arxivId": "1606.03476",
+        "title": "Generative Adversarial Imitation Learning"
+    },
+    "2112.10741": {
+        "arxivId": "2112.10741",
+        "title": "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models"
+    },
+    "2102.09672": {
+        "arxivId": "2102.09672",
+        "title": "Improved Denoising Diffusion Probabilistic Models"
+    },
+    "1406.5298": {
+        "arxivId": "1406.5298",
+        "title": "Semi-supervised Learning with Deep Generative Models"
+    },
+    "2302.05543": {
+        "arxivId": "2302.05543",
+        "title": "Adding Conditional Control to Text-to-Image Diffusion Models"
+    },
+    "2207.12598": {
+        "arxivId": "2207.12598",
+        "title": "Classifier-Free Diffusion Guidance"
+    },
+    "1710.07035": {
+        "arxivId": "1710.07035",
+        "title": "Generative Adversarial Networks: An Overview"
+    },
+    "1601.06759": {
+        "arxivId": "1601.06759",
+        "title": "Pixel Recurrent Neural Networks"
+    },
+    "2012.09841": {
+        "arxivId": "2012.09841",
+        "title": "Taming Transformers for High-Resolution Image Synthesis"
+    },
+    "1410.8516": {
+        "arxivId": "1410.8516",
+        "title": "NICE: Non-linear Independent Components Estimation"
+    },
+    "1703.05921": {
+        "arxivId": "1703.05921",
+        "title": "Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery"
+    },
+    "1906.02691": {
+        "arxivId": "1906.02691",
+        "title": "An Introduction to Variational Autoencoders"
+    },
+    "2208.12242": {
+        "arxivId": "2208.12242",
+        "title": "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation"
+    },
+    "1709.05584": {
+        "arxivId": "1709.05584",
+        "title": "Representation Learning on Graphs: Methods and Applications"
+    },
+    "2206.07682": {
+        "arxivId": "2206.07682",
+        "title": "Emergent Abilities of Large Language Models"
+    },
+    "1709.07871": {
+        "arxivId": "1709.07871",
+        "title": "FiLM: Visual Reasoning with a General Conditioning Layer"
+    },
+    "1704.04110": {
+        "arxivId": "1704.04110",
+        "title": "DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks"
+    },
+    "1606.01865": {
+        "arxivId": "1606.01865",
+        "title": "Recurrent Neural Networks for Multivariate Time Series with Missing Values"
+    },
+    "2209.14988": {
+        "arxivId": "2209.14988",
+        "title": "DreamFusion: Text-to-3D using 2D Diffusion"
+    },
+    "1904.10509": {
+        "arxivId": "1904.10509",
+        "title": "Generating Long Sequences with Sparse Transformers"
+    },
+    "1606.05908": {
+        "arxivId": "1606.05908",
+        "title": "Tutorial on Variational Autoencoders"
+    },
+    "1912.02762": {
+        "arxivId": "1912.02762",
+        "title": "Normalizing Flows for Probabilistic Modeling and Inference"
+    },
+    "2104.07636": {
+        "arxivId": "2104.07636",
+        "title": "Image Super-Resolution via Iterative Refinement"
+    },
+    "2111.05826": {
+        "arxivId": "2111.05826",
+        "title": "Palette: Image-to-Image Diffusion Models"
+    },
+    "2206.00364": {
+        "arxivId": "2206.00364",
+        "title": "Elucidating the Design Space of Diffusion-Based Generative Models"
+    },
+    "1801.01401": {
+        "arxivId": "1801.01401",
+        "title": "Demystifying MMD GANs"
+    },
+    "1802.04364": {
+        "arxivId": "1802.04364",
+        "title": "Junction Tree Variational Autoencoder for Molecular Graph Generation"
+    },
+    "1907.00235": {
+        "arxivId": "1907.00235",
+        "title": "Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting"
+    },
+    "2009.09761": {
+        "arxivId": "2009.09761",
+        "title": "DiffWave: A Versatile Diffusion Model for Audio Synthesis"
+    },
+    "1909.05858": {
+        "arxivId": "1909.05858",
+        "title": "CTRL: A Conditional Transformer Language Model for Controllable Generation"
+    },
+    "2210.02303": {
+        "arxivId": "2210.02303",
+        "title": "Imagen Video: High Definition Video Generation with Diffusion Models"
+    },
+    "1609.03126": {
+        "arxivId": "1609.03126",
+        "title": "Energy-based Generative Adversarial Network"
+    },
+    "1511.01844": {
+        "arxivId": "1511.01844",
+        "title": "A note on the evaluation of generative models"
+    },
+    "1312.3005": {
+        "arxivId": "1312.3005",
+        "title": "One billion word benchmark for measuring progress in statistical language modeling"
+    },
+    "1708.02182": {
+        "arxivId": "1708.02182",
+        "title": "Regularizing and Optimizing LSTM Language Models"
+    },
+    "2108.01073": {
+        "arxivId": "2108.01073",
+        "title": "SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations"
+    },
+    "2205.01917": {
+        "arxivId": "2205.01917",
+        "title": "CoCa: Contrastive Captioners are Image-Text Foundation Models"
+    },
+    "2111.00396": {
+        "arxivId": "2111.00396",
+        "title": "Efficiently Modeling Long Sequences with Structured State Spaces"
+    },
+    "2204.03458": {
+        "arxivId": "2204.03458",
+        "title": "Video Diffusion Models"
+    },
+    "2201.09865": {
+        "arxivId": "2201.09865",
+        "title": "RePaint: Inpainting using Denoising Diffusion Probabilistic Models"
+    },
+    "2106.15282": {
+        "arxivId": "2106.15282",
+        "title": "Cascaded Diffusion Models for High Fidelity Image Generation"
+    },
+    "2209.14792": {
+        "arxivId": "2209.14792",
+        "title": "Make-A-Video: Text-to-Video Generation without Text-Video Data"
+    },
+    "2206.00927": {
+        "arxivId": "2206.00927",
+        "title": "DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps"
+    },
+    "2006.09011": {
+        "arxivId": "2006.09011",
+        "title": "Improved Techniques for Training Score-Based Generative Models"
+    },
+    "2212.09748": {
+        "arxivId": "2212.09748",
+        "title": "Scalable Diffusion Models with Transformers"
+    },
+    "2011.02260": {
+        "arxivId": "2011.02260",
+        "title": "Graph Neural Networks in Recommender Systems: A Survey"
+    },
+    "2211.10440": {
+        "arxivId": "2211.10440",
+        "title": "Magic3D: High-Resolution Text-to-3D Content Creation"
+    },
+    "2107.00630": {
+        "arxivId": "2107.00630",
+        "title": "Variational Diffusion Models"
+    },
+    "1912.02164": {
+        "arxivId": "1912.02164",
+        "title": "Plug and Play Language Models: A Simple Approach to Controlled Text Generation"
+    },
+    "1802.08435": {
+        "arxivId": "1802.08435",
+        "title": "Efficient Neural Audio Synthesis"
+    },
+    "2210.09276": {
+        "arxivId": "2210.09276",
+        "title": "Imagic: Text-Based Real Image Editing with Diffusion Models"
+    },
+    "1905.10437": {
+        "arxivId": "1905.10437",
+        "title": "N-BEATS: Neural basis expansion analysis for interpretable time series forecasting"
+    },
+    "2007.03898": {
+        "arxivId": "2007.03898",
+        "title": "NVAE: A Deep Hierarchical Variational Autoencoder"
+    },
+    "1804.01622": {
+        "arxivId": "1804.01622",
+        "title": "Image Generation from Scene Graphs"
+    },
+    "2111.11432": {
+        "arxivId": "2111.11432",
+        "title": "Florence: A New Foundation Model for Computer Vision"
+    },
+    "1710.10766": {
+        "arxivId": "1710.10766",
+        "title": "PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples"
+    },
+    "2111.14818": {
+        "arxivId": "2111.14818",
+        "title": "Blended Diffusion for Text-driven Editing of Natural Images"
+    },
+    "2006.04131": {
+        "arxivId": "2006.04131",
+        "title": "Deep Graph Contrastive Representation Learning"
+    },
+    "2009.00713": {
+        "arxivId": "2009.00713",
+        "title": "WaveGrad: Estimating Gradients for Waveform Generation"
+    },
+    "2001.06937": {
+        "arxivId": "2001.06937",
+        "title": "A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications"
+    },
+    "2107.03006": {
+        "arxivId": "2107.03006",
+        "title": "Structured Denoising Diffusion Models in Discrete State-Spaces"
+    },
+    "2111.14822": {
+        "arxivId": "2111.14822",
+        "title": "Vector Quantized Diffusion Model for Text-to-Image Synthesis"
+    },
+    "1901.01588": {
+        "arxivId": "1901.01588",
+        "title": "PyOD: A Python Toolbox for Scalable Outlier Detection"
+    },
+    "2205.14217": {
+        "arxivId": "2205.14217",
+        "title": "Diffusion-LM Improves Controllable Text Generation"
+    },
+    "2201.11793": {
+        "arxivId": "2201.11793",
+        "title": "Denoising Diffusion Restoration Models"
+    },
+    "2103.01458": {
+        "arxivId": "2103.01458",
+        "title": "Diffusion Probabilistic Models for 3D Point Cloud Generation"
+    },
+    "1703.01310": {
+        "arxivId": "1703.01310",
+        "title": "Count-Based Exploration with Neural Density Models"
+    },
+    "2305.16213": {
+        "arxivId": "2305.16213",
+        "title": "ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation"
+    },
+    "2106.05931": {
+        "arxivId": "2106.05931",
+        "title": "Score-based Generative Modeling in Latent Space"
+    },
+    "2209.14916": {
+        "arxivId": "2209.14916",
+        "title": "Human Motion Diffusion Model"
+    },
+    "2303.04671": {
+        "arxivId": "2303.04671",
+        "title": "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models"
+    },
+    "1707.05589": {
+        "arxivId": "1707.05589",
+        "title": "On the State of the Art of Evaluation in Neural Language Models"
+    },
+    "2110.02711": {
+        "arxivId": "2110.02711",
+        "title": "DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation"
+    },
+    "2101.09258": {
+        "arxivId": "2101.09258",
+        "title": "Maximum Likelihood Training of Score-Based Diffusion Models"
+    },
+    "1805.10572": {
+        "arxivId": "1805.10572",
+        "title": "BRITS: Bidirectional Recurrent Imputation for Time Series"
+    },
+    "2212.11565": {
+        "arxivId": "2212.11565",
+        "title": "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation"
+    },
+    "1912.03263": {
+        "arxivId": "1912.03263",
+        "title": "Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One"
+    },
+    "2202.09778": {
+        "arxivId": "2202.09778",
+        "title": "Pseudo Numerical Methods for Diffusion Models on Manifolds"
+    },
+    "1308.0215": {
+        "arxivId": "1308.0215",
+        "title": "A survey of the Schr\\\"odinger problem and some of its connections with optimal transport"
+    },
+    "1705.09783": {
+        "arxivId": "1705.09783",
+        "title": "Good Semi-supervised Learning That Requires a Bad GAN"
+    },
+    "1310.0425": {
+        "arxivId": "1310.0425",
+        "title": "Testing the Manifold Hypothesis"
+    },
+    "2203.17003": {
+        "arxivId": "2203.17003",
+        "title": "Equivariant Diffusion for Molecule Generation in 3D"
+    },
+    "2104.14951": {
+        "arxivId": "2104.14951",
+        "title": "SRDiff: Single Image Super-Resolution with Diffusion Probabilistic Models"
+    },
+    "2301.13188": {
+        "arxivId": "2301.13188",
+        "title": "Extracting Training Data from Diffusion Models"
+    },
+    "2112.07804": {
+        "arxivId": "2112.07804",
+        "title": "Tackling the Generative Learning Trilemma with Denoising Diffusion GANs"
+    },
+    "2205.09991": {
+        "arxivId": "2205.09991",
+        "title": "Planning with Diffusion for Flexible Behavior Synthesis"
+    },
+    "2104.03670": {
+        "arxivId": "2104.03670",
+        "title": "3D Shape Generation and Completion through Point-Voxel Diffusion"
+    },
+    "2202.04200": {
+        "arxivId": "2202.04200",
+        "title": "MaskGIT: Masked Generative Image Transformer"
+    },
+    "2105.06337": {
+        "arxivId": "2105.06337",
+        "title": "Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech"
+    },
+    "2112.03126": {
+        "arxivId": "2112.03126",
+        "title": "Label-Efficient Semantic Segmentation with Diffusion Models"
+    },
+    "2111.08005": {
+        "arxivId": "2111.08005",
+        "title": "Solving Inverse Problems in Medical Imaging with Score-Based Generative Models"
+    },
+    "2203.02923": {
+        "arxivId": "2203.02923",
+        "title": "GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation"
+    },
+    "2001.09382": {
+        "arxivId": "2001.09382",
+        "title": "GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation"
+    },
+    "2208.15001": {
+        "arxivId": "2208.15001",
+        "title": "MotionDiffuse: Text-Driven Human Motion Generation With Diffusion Model"
+    },
+    "0910.5260": {
+        "arxivId": "0910.5260",
+        "title": "A Gradient Descent Algorithm on the Grassman Manifold for Matrix Completion"
+    },
+    "2210.06978": {
+        "arxivId": "2210.06978",
+        "title": "LION: Latent Point Diffusion Models for 3D Shape Generation"
+    },
+    "2201.01293": {
+        "arxivId": "2201.01293",
+        "title": "A Transformer-Based Siamese Network for Change Detection"
+    },
+    "2303.13439": {
+        "arxivId": "2303.13439",
+        "title": "Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators"
+    },
+    "2106.14112": {
+        "arxivId": "2106.14112",
+        "title": "Time-Series Representation Learning via Temporal and Contextual Contrasting"
+    },
+    "2107.03502": {
+        "arxivId": "2107.03502",
+        "title": "CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation"
+    },
+    "2211.07600": {
+        "arxivId": "2211.07600",
+        "title": "Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures"
+    },
+    "2009.06367": {
+        "arxivId": "2009.06367",
+        "title": "GeDi: Generative Discriminator Guided Sequence Generation"
+    },
+    "2210.03142": {
+        "arxivId": "2210.03142",
+        "title": "On Distillation of Guided Diffusion Models"
+    },
+    "2106.01357": {
+        "arxivId": "2106.01357",
+        "title": "Diffusion Schr\u00f6dinger Bridge with Applications to Score-Based Generative Modeling"
+    },
+    "1611.03852": {
+        "arxivId": "1611.03852",
+        "title": "A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models"
+    },
+    "2204.08583": {
+        "arxivId": "2204.08583",
+        "title": "VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance"
+    },
+    "1905.07088": {
+        "arxivId": "1905.07088",
+        "title": "Sliced Score Matching: A Scalable Approach to Density and Score Estimation"
+    },
+    "2204.13902": {
+        "arxivId": "2204.13902",
+        "title": "Fast Sampling of Diffusion Models with Exponential Integrator"
+    },
+    "2111.15640": {
+        "arxivId": "2111.15640",
+        "title": "Diffusion Autoencoders: Toward a Meaningful and Decodable Representation"
+    },
+    "2102.05379": {
+        "arxivId": "2102.05379",
+        "title": "Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions"
+    },
+    "1602.03264": {
+        "arxivId": "1602.03264",
+        "title": "A Theory of Generative ConvNet"
+    },
+    "2205.07460": {
+        "arxivId": "2205.07460",
+        "title": "Diffusion Models for Adversarial Purification"
+    },
+    "2011.10650": {
+        "arxivId": "2011.10650",
+        "title": "Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images"
+    },
+    "2110.05243": {
+        "arxivId": "2110.05243",
+        "title": "Score-based diffusion models for accelerated MRI"
+    },
+    "2201.06503": {
+        "arxivId": "2201.06503",
+        "title": "Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models"
+    },
+    "2303.04803": {
+        "arxivId": "2303.04803",
+        "title": "Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models"
+    },
+    "2112.05146": {
+        "arxivId": "2112.05146",
+        "title": "Come-Closer-Diffuse-Faster: Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction"
+    },
+    "2104.05218": {
+        "arxivId": "2104.05218",
+        "title": "FUDGE: Controlled Text Generation With Future Discriminators"
+    },
+    "1905.04943": {
+        "arxivId": "1905.04943",
+        "title": "Universal Invariant and Equivariant Graph Neural Networks"
+    },
+    "2303.14184": {
+        "arxivId": "2303.14184",
+        "title": "Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior"
+    },
+    "2106.04399": {
+        "arxivId": "2106.04399",
+        "title": "Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation"
+    },
+    "2008.06520": {
+        "arxivId": "2008.06520",
+        "title": "Learning Gradient Fields for Shape Generation"
+    },
+    "2004.04467": {
+        "arxivId": "2004.04467",
+        "title": "Adversarial Latent Autoencoders"
+    },
+    "2207.09983": {
+        "arxivId": "2207.09983",
+        "title": "Diffsound: Discrete Diffusion Model for Text-to-Sound Generation"
+    },
+    "2110.09468": {
+        "arxivId": "2110.09468",
+        "title": "Improving Robustness using Generated Data"
+    },
+    "2303.09535": {
+        "arxivId": "2303.09535",
+        "title": "FateZero: Fusing Attentions for Zero-shot Text-based Video Editing"
+    },
+    "2210.08933": {
+        "arxivId": "2210.08933",
+        "title": "DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models"
+    },
+    "2208.11970": {
+        "arxivId": "2208.11970",
+        "title": "Understanding Diffusion Models: A Unified Perspective"
+    },
+    "2305.02463": {
+        "arxivId": "2305.02463",
+        "title": "Shap-E: Generating Conditional 3D Implicit Functions"
+    },
+    "2210.07574": {
+        "arxivId": "2210.07574",
+        "title": "Is synthetic data from generative models ready for image recognition?"
+    },
+    "2112.00390": {
+        "arxivId": "2112.00390",
+        "title": "SegDiff: Image Segmentation with Diffusion Probabilistic Models"
+    },
+    "2205.11495": {
+        "arxivId": "2205.11495",
+        "title": "Flexible Diffusion Modeling of Long Videos"
+    },
+    "2208.04202": {
+        "arxivId": "2208.04202",
+        "title": "Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning"
+    },
+    "2105.02446": {
+        "arxivId": "2105.02446",
+        "title": "DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism"
+    },
+    "2101.12072": {
+        "arxivId": "2101.12072",
+        "title": "Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting"
+    },
+    "2112.02475": {
+        "arxivId": "2112.02475",
+        "title": "Deblurring via Stochastic Refinement"
+    },
+    "2206.01729": {
+        "arxivId": "2206.01729",
+        "title": "Torsional Diffusion for Molecular Conformer Generation"
+    },
+    "2203.09481": {
+        "arxivId": "2203.09481",
+        "title": "Diffusion Probabilistic Modeling for Video Generation"
+    },
+    "2206.09426": {
+        "arxivId": "2206.09426",
+        "title": "ADBench: Anomaly Detection Benchmark"
+    },
+    "2101.03288": {
+        "arxivId": "2101.03288",
+        "title": "How to Train Your Energy-Based Models"
+    },
+    "2101.02388": {
+        "arxivId": "2101.02388",
+        "title": "Knowledge Distillation in Iterative Generative Models for Improved Sampling Speed"
+    },
+    "2003.00638": {
+        "arxivId": "2003.00638",
+        "title": "Permutation Invariant Graph Generation via Score-Based Generative Modeling"
+    },
+    "2208.09392": {
+        "arxivId": "2208.09392",
+        "title": "Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise"
+    },
+    "2112.07068": {
+        "arxivId": "2112.07068",
+        "title": "Score-Based Generative Modeling with Critically-Damped Langevin Diffusion"
+    },
+    "1907.04155": {
+        "arxivId": "1907.04155",
+        "title": "GP-VAE: Deep Probabilistic Time Series Imputation"
+    },
+    "2003.14247": {
+        "arxivId": "2003.14247",
+        "title": "DPGN: Distribution Propagation Graph Network for Few-Shot Learning"
+    },
+    "2105.03902": {
+        "arxivId": "2105.03902",
+        "title": "Learning Gradient Fields for Molecular Conformation Generation"
+    },
+    "1910.03002": {
+        "arxivId": "1910.03002",
+        "title": "High-Dimensional Multivariate Forecasting with Low-Rank Gaussian Copula Processes"
+    },
+    "2105.14080": {
+        "arxivId": "2105.14080",
+        "title": "Gotta Go Fast When Generating Data with Score-Based Models"
+    },
+    "2207.08208": {
+        "arxivId": "2207.08208",
+        "title": "Unsupervised Medical Image Translation With Adversarial Diffusion Models"
+    },
+    "2206.04119": {
+        "arxivId": "2206.04119",
+        "title": "Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem"
+    },
+    "2211.05105": {
+        "arxivId": "2211.05105",
+        "title": "Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models"
+    },
+    "2206.09012": {
+        "arxivId": "2206.09012",
+        "title": "Diffusion models as plug-and-play priors"
+    },
+    "2106.04113": {
+        "arxivId": "2106.04113",
+        "title": "Self-supervised Graph-level Representation Learning with Local and Global Structure"
+    },
+    "2106.02808": {
+        "arxivId": "2106.02808",
+        "title": "A Variational Perspective on Diffusion-Based Generative Models and Score Matching"
+    },
+    "2110.06197": {
+        "arxivId": "2110.06197",
+        "title": "Crystal Diffusion Variational Autoencoder for Periodic Material Generation"
+    },
+    "2202.10571": {
+        "arxivId": "2202.10571",
+        "title": "Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks"
+    },
+    "2202.02514": {
+        "arxivId": "2202.02514",
+        "title": "Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations"
+    },
+    "2206.02262": {
+        "arxivId": "2206.02262",
+        "title": "Diffusion-GAN: Training GANs with Diffusion"
+    },
+    "2105.10311": {
+        "arxivId": "2105.10311",
+        "title": "Pretrained Language Models for Text Generation: A Survey"
+    },
+    "2205.12952": {
+        "arxivId": "2205.12952",
+        "title": "Pretraining is All You Need for Image-to-Image Translation"
+    },
+    "2207.06389": {
+        "arxivId": "2207.06389",
+        "title": "ProDiff: Progressive Fast Diffusion Model for High-Quality Text-to-Speech"
+    },
+    "2002.06103": {
+        "arxivId": "2002.06103",
+        "title": "Multi-variate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows"
+    },
+    "2209.00349": {
+        "arxivId": "2209.00349",
+        "title": "FLAME: Free-form Language-based Motion Synthesis & Editing"
+    },
+    "2205.15019": {
+        "arxivId": "2205.15019",
+        "title": "Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models"
+    },
+    "2002.06707": {
+        "arxivId": "2002.06707",
+        "title": "Stochastic Normalizing Flows"
+    },
+    "2202.05830": {
+        "arxivId": "2202.05830",
+        "title": "Learning Fast Samplers for Diffusion Models by Differentiating Through Sample Quality"
+    },
+    "2302.07944": {
+        "arxivId": "2302.07944",
+        "title": "Effective Data Augmentation With Diffusion Models"
+    },
+    "2207.06635": {
+        "arxivId": "2207.06635",
+        "title": "EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations"
+    },
+    "2302.04638": {
+        "arxivId": "2302.04638",
+        "title": "Better Diffusion Models Further Improve Adversarial Training"
+    },
+    "2202.10936": {
+        "arxivId": "2202.10936",
+        "title": "A Survey of Vision-Language Pre-Trained Models"
+    },
+    "1903.12370": {
+        "arxivId": "1903.12370",
+        "title": "On the Anatomy of MCMC-based Maximum Likelihood Learning of Energy-Based Models"
+    },
+    "2212.14704": {
+        "arxivId": "2212.14704",
+        "title": "Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models"
+    },
+    "2111.13606": {
+        "arxivId": "2111.13606",
+        "title": "Conditional Image Generation with Score-Based Diffusion Models"
+    },
+    "2210.13695": {
+        "arxivId": "2210.13695",
+        "title": "Structure-based Drug Design with Equivariant Diffusion Models"
+    },
+    "2207.05876": {
+        "arxivId": "2207.05876",
+        "title": "Adaptive Diffusion Priors for Accelerated MRI Reconstruction"
+    },
+    "2202.02763": {
+        "arxivId": "2202.02763",
+        "title": "Riemannian Score-Based Generative Modeling"
+    },
+    "2205.07249": {
+        "arxivId": "2205.07249",
+        "title": "Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets"
+    },
+    "2110.11291": {
+        "arxivId": "2110.11291",
+        "title": "Likelihood Training of Schr\u00f6dinger Bridge using Forward-Backward SDEs Theory"
+    },
+    "2211.08332": {
+        "arxivId": "2211.08332",
+        "title": "Versatile Diffusion: Text, Images and Variations All in One Diffusion Model"
+    },
+    "1606.03439": {
+        "arxivId": "1606.03439",
+        "title": "Deep Directed Generative Models with Energy-Based Probability Estimation"
+    },
+    "2106.03802": {
+        "arxivId": "2106.03802",
+        "title": "Learning to Efficiently Sample from Diffusion Probabilistic Models"
+    },
+    "2107.10981": {
+        "arxivId": "2107.10981",
+        "title": "Score-Based Point Cloud Denoising"
+    },
+    "2206.10550": {
+        "arxivId": "2206.10550",
+        "title": "(Certified!!) Adversarial Robustness for Free!"
+    },
+    "2303.06555": {
+        "arxivId": "2303.06555",
+        "title": "One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale"
+    },
+    "1302.5125": {
+        "arxivId": "1302.5125",
+        "title": "High-Dimensional Probability Estimation with Deep Density Models"
+    },
+    "2009.05475": {
+        "arxivId": "2009.05475",
+        "title": "Adversarial score matching and improved sampling for image generation"
+    },
+    "2208.09399": {
+        "arxivId": "2208.09399",
+        "title": "Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models"
+    },
+    "2110.02037": {
+        "arxivId": "2110.02037",
+        "title": "Autoregressive Diffusion Models"
+    },
+    "2106.02466": {
+        "arxivId": "2106.02466",
+        "title": "Graph Barlow Twins: A self-supervised representation learning framework for graphs"
+    },
+    "2104.09425": {
+        "arxivId": "2104.09425",
+        "title": "Robust Learning Meets Generative Models: Can Proxy Distributions Improve Adversarial Robustness?"
+    },
+    "2106.06041": {
+        "arxivId": "2106.06041",
+        "title": "Adversarial purification with Score-based generative models"
+    },
+    "2012.08125": {
+        "arxivId": "2012.08125",
+        "title": "Learning Energy-Based Models by Diffusion Recovery Likelihood"
+    },
+    "2303.03543": {
+        "arxivId": "2303.03543",
+        "title": "3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction"
+    },
+    "1901.08508": {
+        "arxivId": "1901.08508",
+        "title": "Maximum Entropy Generators for Energy-Based Models"
+    },
+    "2006.10605": {
+        "arxivId": "2006.10605",
+        "title": "Riemannian Continuous Normalizing Flows"
+    },
+    "1912.00589": {
+        "arxivId": "1912.00589",
+        "title": "Flow Contrastive Estimation of Energy-Based Models"
+    },
+    "2112.06749": {
+        "arxivId": "2112.06749",
+        "title": "Step-unrolled Denoising Autoencoders for Text Generation"
+    },
+    "2112.03530": {
+        "arxivId": "2112.03530",
+        "title": "A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion"
+    },
+    "2003.06060": {
+        "arxivId": "2003.06060",
+        "title": "Your GAN is Secretly an Energy-based Model and You Should use Discriminator Driven Latent Sampling"
+    },
+    "1912.07414": {
+        "arxivId": "1912.07414",
+        "title": "Learning Canonical Representations for Scene Graph to Image Generation"
+    },
+    "2202.04770": {
+        "arxivId": "2202.04770",
+        "title": "Unsupervised Time-Series Representation Learning with Iterative Bilinear Temporal-Spectral Fusion"
+    },
+    "2206.05564": {
+        "arxivId": "2206.05564",
+        "title": "gDDIM: Generalized denoising diffusion implicit models"
+    },
+    "2206.00133": {
+        "arxivId": "2206.00133",
+        "title": "Pre-training via Denoising for Molecular Property Prediction"
+    },
+    "2210.05475": {
+        "arxivId": "2210.05475",
+        "title": "GENIE: Higher-Order Denoising Diffusion Solvers"
+    },
+    "1905.01608": {
+        "arxivId": "1905.01608",
+        "title": "PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph"
+    },
+    "2210.09477": {
+        "arxivId": "2210.09477",
+        "title": "UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image"
+    },
+    "2205.14987": {
+        "arxivId": "2205.14987",
+        "title": "A Continuous Time Framework for Discrete Denoising Models"
+    },
+    "2006.12204": {
+        "arxivId": "2006.12204",
+        "title": "Telescoping Density-Ratio Estimation"
+    },
+    "2209.00865": {
+        "arxivId": "2209.00865",
+        "title": "Diffusion-based Molecule Generation with Informative Prior Bridges"
+    },
+    "2206.07275": {
+        "arxivId": "2206.07275",
+        "title": "CARD: Classification and Regression Diffusion Models"
+    },
+    "2210.01765": {
+        "arxivId": "2210.01765",
+        "title": "One Transformer Can Understand Both 2D & 3D Molecular Data"
+    },
+    "2203.12621": {
+        "arxivId": "2203.12621",
+        "title": "MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion"
+    },
+    "1709.08868": {
+        "arxivId": "1709.08868",
+        "title": "Learning Generative ConvNets via Multi-grid Modeling and Sampling"
+    },
+    "2205.12524": {
+        "arxivId": "2205.12524",
+        "title": "Accelerating Diffusion Models via Early Stop of the Diffusion Process"
+    },
+    "2209.06950": {
+        "arxivId": "2209.06950",
+        "title": "Lossy Image Compression with Conditional Diffusion Models"
+    },
+    "2110.07579": {
+        "arxivId": "2110.07579",
+        "title": "Diffusion Normalizing Flow"
+    },
+    "2106.05527": {
+        "arxivId": "2106.05527",
+        "title": "Soft Truncation: A Universal Training Technique of Score-based Diffusion Model for High Precision Score Estimation"
+    },
+    "2211.15089": {
+        "arxivId": "2211.15089",
+        "title": "Continuous diffusion for categorical data"
+    },
+    "2208.13753": {
+        "arxivId": "2208.13753",
+        "title": "Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis"
+    },
+    "2007.13640": {
+        "arxivId": "2007.13640",
+        "title": "Solving Linear Inverse Problems Using the Prior Implicit in a Denoiser"
+    },
+    "2302.02503": {
+        "arxivId": "2302.02503",
+        "title": "Leaving Reality to Imagination: Robust Classification via Generated Datasets"
+    },
+    "2006.10254": {
+        "arxivId": "2006.10254",
+        "title": "Neural Manifold Ordinary Differential Equations"
+    },
+    "2203.04292": {
+        "arxivId": "2203.04292",
+        "title": "Towards performant and reliable undersampled MR reconstruction via diffusion model sampling"
+    },
+    "2206.05895": {
+        "arxivId": "2206.05895",
+        "title": "Latent Diffusion Energy-Based Model for Interpretable Text Modeling"
+    },
+    "2206.13602": {
+        "arxivId": "2206.13602",
+        "title": "Molecular Geometry Pretraining with SE(3)-Invariant Denoising Distance Matching"
+    },
+    "2205.01490": {
+        "arxivId": "2205.01490",
+        "title": "Subspace Diffusion Generative Models"
+    },
+    "2203.03623": {
+        "arxivId": "2203.03623",
+        "title": "Measurement-conditioned Denoising Diffusion Probabilistic Model for Under-sampled Medical Image Reconstruction"
+    },
+    "2208.14699": {
+        "arxivId": "2208.14699",
+        "title": "Let us Build Bridges: Understanding and Extending Diffusion Generative Models"
+    },
+    "2210.17432": {
+        "arxivId": "2210.17432",
+        "title": "SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control"
+    },
+    "2208.07949": {
+        "arxivId": "2208.07949",
+        "title": "Riemannian Diffusion Models"
+    },
+    "2206.08265": {
+        "arxivId": "2206.08265",
+        "title": "Maximum Likelihood Training for Score-Based Diffusion ODEs by High-Order Denoising Score Matching"
+    },
+    "2205.14969": {
+        "arxivId": "2205.14969",
+        "title": "Guided Diffusion Model for Adversarial Purification"
+    },
+    "1711.08875": {
+        "arxivId": "1711.08875",
+        "title": "Wasserstein Introspective Neural Networks"
+    },
+    "2101.09552": {
+        "arxivId": "2101.09552",
+        "title": "Stochastic Image Denoising by Sampling from the Posterior Distribution"
+    },
+    "1711.02282": {
+        "arxivId": "1711.02282",
+        "title": "Variational Walkback: Learning a Transition Operator as a Stochastic Recurrent Net"
+    },
+    "2203.17260": {
+        "arxivId": "2203.17260",
+        "title": "Generating High Fidelity Data from Low-density Regions using Diffusion Models"
+    },
+    "2206.07632": {
+        "arxivId": "2206.07632",
+        "title": "Exploring Chemical Space with Score-based Out-of-distribution Generation"
+    },
+    "2110.00473": {
+        "arxivId": "2110.00473",
+        "title": "Score-Based Generative Classifiers"
+    },
+    "1503.05571": {
+        "arxivId": "1503.05571",
+        "title": "GSNs : Generative Stochastic Networks"
+    },
+    "2205.15370": {
+        "arxivId": "2205.15370",
+        "title": "Guided-TTS 2: A Diffusion Model for High-quality Adaptive Text-to-Speech with Untranscribed Data"
+    },
+    "2208.07791": {
+        "arxivId": "2208.07791",
+        "title": "Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model"
+    },
+    "2202.13460": {
+        "arxivId": "2202.13460",
+        "title": "Conditional Simulation Using Diffusion Schr\u00f6dinger Bridges"
+    },
+    "2211.11138": {
+        "arxivId": "2211.11138",
+        "title": "Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training"
+    },
+    "1903.07714": {
+        "arxivId": "1903.07714",
+        "title": "A RAD approach to deep mixture models"
+    },
+    "2202.09671": {
+        "arxivId": "2202.09671",
+        "title": "Truncated Diffusion Probabilistic Models"
+    },
+    "2205.13699": {
+        "arxivId": "2205.13699",
+        "title": "Maximum Likelihood Training of Implicit Nonlinear Diffusion Models"
+    },
+    "2105.14257": {
+        "arxivId": "2105.14257",
+        "title": "Diffusion Based Representation Learning"
+    },
+    "2211.00802": {
+        "arxivId": "2211.00802",
+        "title": "Concrete Score Matching: Generalized Score Matching for Discrete Data"
+    },
+    "2206.05173": {
+        "arxivId": "2206.05173",
+        "title": "How Much Is Enough? A Study on Diffusion Times in Score-Based Generative Models"
+    },
+    "2109.13157": {
+        "arxivId": "2109.13157",
+        "title": "Visual Anomaly Detection for Images: A Survey"
+    },
+    "2208.08664": {
+        "arxivId": "2208.08664",
+        "title": "Enhancing Diffusion-Based Image Synthesis with Robust Classifier Guidance"
+    },
+    "2208.14125": {
+        "arxivId": "2208.14125",
+        "title": "A Diffusion Model Predicts 3D Shapes from 2D Microscopy Images"
+    },
+    "2208.05481": {
+        "arxivId": "2208.05481",
+        "title": "High-Frequency Space Diffusion Models for Accelerated MRI"
+    },
+    "2111.04726": {
+        "arxivId": "2111.04726",
+        "title": "Estimating High Order Gradients of the Data Distribution by Denoising"
+    },
+    "2110.02584": {
+        "arxivId": "2110.02584",
+        "title": "EdiTTS: Score-based Editing for Controllable Text-to-Speech"
+    },
+    "2111.07243": {
+        "arxivId": "2111.07243",
+        "title": "Simulating Diffusion Bridges with Score Matching"
+    },
+    "2206.10875": {
+        "arxivId": "2206.10875",
+        "title": "Guided Diffusion Model for Adversarial Purification from Random Noise"
+    },
+    "2106.10121": {
+        "arxivId": "2106.10121",
+        "title": "ScoreGrad: Multivariate Probabilistic Time Series Forecasting with Continuous Energy-based Generative Models"
+    },
+    "2211.16374": {
+        "arxivId": "2211.16374",
+        "title": "DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model"
+    },
+    "2206.07771": {
+        "arxivId": "2206.07771",
+        "title": "Discrete Contrastive Diffusion for Cross-Modal and Conditional Generation"
+    },
+    "2206.02246": {
+        "arxivId": "2206.02246",
+        "title": "Zero-Shot Voice Conditioning for Denoising Diffusion TTS Models"
+    },
+    "2207.08089": {
+        "arxivId": "2207.08089",
+        "title": "Threat Model-Agnostic Adversarial Defense using Diffusion Models"
+    },
+    "2101.02046": {
+        "arxivId": "2101.02046",
+        "title": "TextBox: A Unified, Modularized, and Extensible Framework for Text Generation"
+    },
+    "2302.10586": {
+        "arxivId": "2302.10586",
+        "title": "Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels"
+    },
+    "2208.09801": {
+        "arxivId": "2208.09801",
+        "title": "PointDP: Diffusion-driven Purification against Adversarial Attacks on 3D Point Cloud Recognition"
+    },
+    "2205.11423": {
+        "arxivId": "2205.11423",
+        "title": "Decoder Denoising Pretraining for Semantic Segmentation"
+    },
+    "2106.15671": {
+        "arxivId": "2106.15671",
+        "title": "Diffusion Priors In Variational Autoencoders"
+    },
+    "2103.15089": {
+        "arxivId": "2103.15089",
+        "title": "Improved Autoregressive Modeling with Distribution Smoothing"
+    },
+    "2207.04316": {
+        "arxivId": "2207.04316",
+        "title": "Improving Diffusion Model Efficiency Through Patching"
+    },
+    "2301.12334": {
+        "arxivId": "2301.12334",
+        "title": "Don't Play Favorites: Minority Guidance for Diffusion Models"
+    },
+    "2002.05616": {
+        "arxivId": "2002.05616",
+        "title": "Cutting out the Middle-Man: Training and Evaluating Energy-Based Models without Sampling"
+    },
+    "2107.13136": {
+        "arxivId": "2107.13136",
+        "title": "Insights From Generative Modeling for Neural Video Compression"
+    },
+    "2205.15746": {
+        "arxivId": "2205.15746",
+        "title": "Omni-Granular Ego-Semantic Propagation for Self-Supervised Graph Representation Learning"
+    },
+    "2210.09509": {
+        "arxivId": "2210.09509",
+        "title": "Deep Data Augmentation for Weed Recognition Enhancement: A Diffusion Probabilistic Model and Transfer Learning Based Approach"
+    },
+    "2107.10072": {
+        "arxivId": "2107.10072",
+        "title": "Interpreting diffusion score matching using normalizing flow"
+    },
+    "2105.07583": {
+        "arxivId": "2105.07583",
+        "title": "It\\^oTTS and It\\^oWave: Linear Stochastic Differential Equation Is All You Need For Audio Generation"
+    },
+    "2010.12810": {
+        "arxivId": "2010.12810",
+        "title": "Autoregressive Score Matching"
+    },
+    "2205.09928": {
+        "arxivId": "2205.09928",
+        "title": "Cross Reconstruction Transformer for Self-Supervised Time Series Representation Learning"
+    },
+    "2208.09591": {
+        "arxivId": "2208.09591",
+        "title": "TopoDiff: A Performance and Constraint-Guided Diffusion Model for Topology Optimization"
+    },
+    "1505.04597": {
+        "arxivId": "1505.04597",
+        "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation"
+    },
+    "1809.11096": {
+        "arxivId": "1809.11096",
+        "title": "Large Scale GAN Training for High Fidelity Natural Image Synthesis"
+    },
+    "2106.01345": {
+        "arxivId": "2106.01345",
+        "title": "Decision Transformer: Reinforcement Learning via Sequence Modeling"
+    },
+    "2209.00796": {
+        "arxivId": "2209.00796",
+        "title": "Diffusion Models: A Comprehensive Survey of Methods and Applications"
+    },
+    "2209.04747": {
+        "arxivId": "2209.04747",
+        "title": "Diffusion Models in Vision: A Survey"
+    },
+    "1708.06633": {
+        "arxivId": "1708.06633",
+        "title": "Nonparametric regression using deep neural networks with ReLU activation function"
+    },
+    "2108.02938": {
+        "arxivId": "2108.02938",
+        "title": "ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models"
+    },
+    "2303.01469": {
+        "arxivId": "2303.01469",
+        "title": "Consistency Models"
+    },
+    "2106.02039": {
+        "arxivId": "2106.02039",
+        "title": "Offline Reinforcement Learning as One Big Sequence Modeling Problem"
+    },
+    "2303.04137": {
+        "arxivId": "2303.04137",
+        "title": "Diffusion Policy: Visuomotor Policy Learning via Action Diffusion"
+    },
+    "1606.07419": {
+        "arxivId": "1606.07419",
+        "title": "Learning to Poke by Poking: Experiential Learning of Intuitive Physics"
+    },
+    "2209.14687": {
+        "arxivId": "2209.14687",
+        "title": "Diffusion Posterior Sampling for General Noisy Inverse Problems"
+    },
+    "2012.15085": {
+        "arxivId": "2012.15085",
+        "title": "Is Pessimism Provably Efficient for Offline RL?"
+    },
+    "2206.00941": {
+        "arxivId": "2206.00941",
+        "title": "Improving Diffusion Models for Inverse Problems using Manifold Constraints"
+    },
+    "2212.00490": {
+        "arxivId": "2212.00490",
+        "title": "Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model"
+    },
+    "2403.03206": {
+        "arxivId": "2403.03206",
+        "title": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis"
+    },
+    "1802.03620": {
+        "arxivId": "1802.03620",
+        "title": "Optimal approximation of continuous functions by very deep ReLU networks"
+    },
+    "2211.15657": {
+        "arxivId": "2211.15657",
+        "title": "Is Conditional Generative Modeling all you need for Decision-Making?"
+    },
+    "2208.06193": {
+        "arxivId": "2208.06193",
+        "title": "Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning"
+    },
+    "2001.03040": {
+        "arxivId": "2001.03040",
+        "title": "Deep Network Approximation for Smooth Functions"
+    },
+    "2302.12192": {
+        "arxivId": "2302.12192",
+        "title": "Aligning Text-to-Image Models using Human Feedback"
+    },
+    "2209.11215": {
+        "arxivId": "2209.11215",
+        "title": "Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions"
+    },
+    "1902.07896": {
+        "arxivId": "1902.07896",
+        "title": "Error bounds for approximations with deep ReLU neural networks in $W^{s, p}$ norms"
+    },
+    "2305.13301": {
+        "arxivId": "2305.13301",
+        "title": "Training Diffusion Models with Reinforcement Learning"
+    },
+    "2304.05977": {
+        "arxivId": "2304.05977",
+        "title": "ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation"
+    },
+    "2104.01409": {
+        "arxivId": "2104.01409",
+        "title": "Diff-TTS: A Denoising Diffusion Model for Text-to-Speech"
+    },
+    "2103.16091": {
+        "arxivId": "2103.16091",
+        "title": "Symbolic Music Generation with Diffusion Models"
+    },
+    "2302.07121": {
+        "arxivId": "2302.07121",
+        "title": "Universal Guidance for Diffusion Models"
+    },
+    "2303.08797": {
+        "arxivId": "2303.08797",
+        "title": "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions"
+    },
+    "2209.02646": {
+        "arxivId": "2209.02646",
+        "title": "A Survey on Generative Diffusion Model"
+    },
+    "2301.10677": {
+        "arxivId": "2301.10677",
+        "title": "Imitating Human Behaviour with Diffusion Models"
+    },
+    "2208.05830": {
+        "arxivId": "2208.05830",
+        "title": "Speech Enhancement and Dereverberation With Diffusion-Based Generative Models"
+    },
+    "2301.11270": {
+        "arxivId": "2301.11270",
+        "title": "Principled Reinforcement Learning with Human Feedback from Pairwise or K-wise Comparisons"
+    },
+    "2208.05314": {
+        "arxivId": "2208.05314",
+        "title": "Convergence of denoising diffusion models under the manifold hypothesis"
+    },
+    "1203.0893": {
+        "arxivId": "1203.0893",
+        "title": "Thin Shell Implies Spectral Gap Up to Polylog via a Stochastic Localization Scheme"
+    },
+    "2402.17177": {
+        "arxivId": "2402.17177",
+        "title": "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models"
+    },
+    "2309.06380": {
+        "arxivId": "2309.06380",
+        "title": "InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation"
+    },
+    "2311.05556": {
+        "arxivId": "2311.05556",
+        "title": "LCM-LoRA: A Universal Stable-Diffusion Acceleration Module"
+    },
+    "2011.13661": {
+        "arxivId": "2011.13661",
+        "title": "An Almost Constant Lower Bound of the Isoperimetric Coefficient in the KLS Conjecture"
+    },
+    "2209.12381": {
+        "arxivId": "2209.12381",
+        "title": "Convergence of score-based generative modeling for general data distributions"
+    },
+    "1909.05215": {
+        "arxivId": "1909.05215",
+        "title": "Reconstructing continuous distributions of 3D protein structure from cryo-EM images"
+    },
+    "2206.06227": {
+        "arxivId": "2206.06227",
+        "title": "Convergence for score-based generative modeling with polynomial complexity"
+    },
+    "2305.16381": {
+        "arxivId": "2305.16381",
+        "title": "DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models"
+    },
+    "2212.09611": {
+        "arxivId": "2212.09611",
+        "title": "Optimizing Prompts for Text-to-Image Generation"
+    },
+    "2304.02532": {
+        "arxivId": "2304.02532",
+        "title": "Goal-Conditioned Imitation Learning using Score-based Diffusion Policies"
+    },
+    "2312.06662": {
+        "arxivId": "2312.06662",
+        "title": "Photorealistic Video Generation with Diffusion Models"
+    },
+    "2304.10573": {
+        "arxivId": "2304.10573",
+        "title": "IDQL: Implicit Q-Learning as an Actor-Critic Method with Diffusion Policies"
+    },
+    "2303.14420": {
+        "arxivId": "2303.14420",
+        "title": "Better Aligning Text-to-Image Models with Human Preference"
+    },
+    "2309.17400": {
+        "arxivId": "2309.17400",
+        "title": "Directly Fine-Tuning Diffusion Models on Differentiable Rewards"
+    },
+    "2203.17004": {
+        "arxivId": "2203.17004",
+        "title": "Speech Enhancement with Score-Based Generative Models in the Complex STFT Domain"
+    },
+    "1612.04346": {
+        "arxivId": "1612.04346",
+        "title": "Gaussian-width gradient complexity, reverse log-Sobolev inequalities and nonlinear large deviations"
+    },
+    "2002.00107": {
+        "arxivId": "2002.00107",
+        "title": "Generative Modeling with Denoising Auto-Encoders and Langevin Sampling"
+    },
+    "1912.13464": {
+        "arxivId": "1912.13464",
+        "title": "Model Inversion Networks for Model-Based Optimization"
+    },
+    "2202.08450": {
+        "arxivId": "2202.08450",
+        "title": "Design-Bench: Benchmarks for Data-Driven Offline Model-Based Optimization"
+    },
+    "2310.07204": {
+        "arxivId": "2310.07204",
+        "title": "State of the Art on Diffusion Models for Visual Computing"
+    },
+    "2109.13754": {
+        "arxivId": "2109.13754",
+        "title": "Deep Generative Modeling for Protein Design"
+    },
+    "2302.01877": {
+        "arxivId": "2302.01877",
+        "title": "AdaptDiffuser: Diffusion Models as Adaptive Self-evolving Planners"
+    },
+    "2308.03686": {
+        "arxivId": "2308.03686",
+        "title": "Nearly d-Linear Convergence Bounds for Diffusion Models via Stochastic Localization"
+    },
+    "2305.20009": {
+        "arxivId": "2305.20009",
+        "title": "Protein Design with Guided Discrete Diffusion"
+    },
+    "2307.00619": {
+        "arxivId": "2307.00619",
+        "title": "Solving Linear Inverse Problems Provably via Posterior Sampling with Latent Diffusion Models"
+    },
+    "2302.07194": {
+        "arxivId": "2302.07194",
+        "title": "Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data"
+    },
+    "2107.11876": {
+        "arxivId": "2107.11876",
+        "title": "A Study on Speech Enhancement Based on Diffusion Probabilistic Model"
+    },
+    "2203.04163": {
+        "arxivId": "2203.04163",
+        "title": "Localization Schemes: A Framework for Proving Mixing Bounds for Markov Chains (extended abstract)"
+    },
+    "2305.11798": {
+        "arxivId": "2305.11798",
+        "title": "The probability flow ODE is provably fast"
+    },
+    "2303.01861": {
+        "arxivId": "2303.01861",
+        "title": "Diffusion Models are Minimax Optimal Distribution Estimators"
+    },
+    "2303.13703": {
+        "arxivId": "2303.13703",
+        "title": "End-to-End Diffusion Latent Optimization Improves Classifier Guidance"
+    },
+    "2303.13336": {
+        "arxivId": "2303.13336",
+        "title": "A Survey on Audio Diffusion Models: Text To Speech Synthesis and Enhancement in Generative AI"
+    },
+    "2203.05093": {
+        "arxivId": "2203.05093",
+        "title": "Sampling from the Sherrington-Kirkpatrick Gibbs measure via algorithmic stochastic localization"
+    },
+    "2308.09388": {
+        "arxivId": "2308.09388",
+        "title": "Diffusion Models for Image Restoration and Enhancement - A Comprehensive Survey"
+    },
+    "2303.03384": {
+        "arxivId": "2303.03384",
+        "title": "Restoration-Degradation Beyond Linear Diffusions: A Non-Asymptotic Analysis For DDIM-Type Samplers"
+    },
+    "2211.16750": {
+        "arxivId": "2211.16750",
+        "title": "Score-based Continuous-time Discrete Diffusion Models"
+    },
+    "2212.09462": {
+        "arxivId": "2212.09462",
+        "title": "Latent Diffusion for Language Generation"
+    },
+    "2210.09292": {
+        "arxivId": "2210.09292",
+        "title": "Efficient Diffusion Models for Vision: A Survey"
+    },
+    "2306.09251": {
+        "arxivId": "2306.09251",
+        "title": "Towards Faster Non-Asymptotic Convergence for Diffusion-Based Generative Models"
+    },
+    "2304.04740": {
+        "arxivId": "2304.04740",
+        "title": "Reflected Diffusion Models"
+    },
+    "2102.07970": {
+        "arxivId": "2102.07970",
+        "title": "Offline Model-Based Optimization via Normalized Maximum Likelihood Estimation"
+    },
+    "2311.01223": {
+        "arxivId": "2311.01223",
+        "title": "Diffusion Models for Reinforcement Learning: A Survey"
+    },
+    "2205.07309": {
+        "arxivId": "2205.07309",
+        "title": "3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design"
+    },
+    "2306.07180": {
+        "arxivId": "2306.07180",
+        "title": "Diffusion Models for Black-Box Optimization"
+    },
+    "1811.11530": {
+        "arxivId": "1811.11530",
+        "title": "Taming correlations through entropy-efficient measure decompositions with applications to mean-field approximation"
+    },
+    "2111.13807": {
+        "arxivId": "2111.13807",
+        "title": "Offline Neural Contextual Bandits: Pessimism, Optimization and Generalization"
+    },
+    "2307.07055": {
+        "arxivId": "2307.07055",
+        "title": "Reward-Directed Conditional Diffusion: Provable Distribution Estimation and Reward Improvement"
+    },
+    "2307.01178": {
+        "arxivId": "2307.01178",
+        "title": "Learning Mixtures of Gaussians Using the DDPM Objective"
+    },
+    "2402.15194": {
+        "arxivId": "2402.15194",
+        "title": "Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control"
+    },
+    "2304.11449": {
+        "arxivId": "2304.11449",
+        "title": "Posterior Sampling in High Dimension via Diffusion Processes"
+    },
+    "2403.03852": {
+        "arxivId": "2403.03852",
+        "title": "Accelerating Convergence of Score-Based Diffusion Models, Provably"
+    },
+    "2211.03595": {
+        "arxivId": "2211.03595",
+        "title": "From Denoising Diffusions to Denoising Markov Models"
+    },
+    "2106.11428": {
+        "arxivId": "2106.11428",
+        "title": "Local convexity of the TAP free energy and AMP convergence for Z2-synchronization"
+    },
+    "2309.11420": {
+        "arxivId": "2309.11420",
+        "title": "Deep Networks as Denoising Algorithms: Sample-Efficient Learning of Diffusion Models in High-Dimensional Graphical Models"
+    },
+    "2305.10690": {
+        "arxivId": "2305.10690",
+        "title": "Sampling, Diffusions, and Stochastic Localization"
+    },
+    "2302.10907": {
+        "arxivId": "2302.10907",
+        "title": "Diffusion Models in Bioinformatics: A New Wave of Deep Learning Revolution in Action"
+    },
+    "2308.14085": {
+        "arxivId": "2308.14085",
+        "title": "Sampling with flows, diffusion, and autoregressive neural networks from a spin-glass perspective"
+    },
+    "2403.01639": {
+        "arxivId": "2403.01639",
+        "title": "Theoretical Insights for Diffusion Guidance: A Case Study for Gaussian Mixture Models"
+    },
+    "2402.07487": {
+        "arxivId": "2402.07487",
+        "title": "Score-based Diffusion Models via Stochastic Differential Equations - a Technical Tutorial"
+    },
+    "2210.15793": {
+        "arxivId": "2210.15793",
+        "title": "Conditioning and Sampling in Variational Diffusion Models for Speech Super-Resolution"
+    },
+    "2403.11968": {
+        "arxivId": "2403.11968",
+        "title": "Unveil Conditional Diffusion Models with Classifier-free Guidance: A Sharp Statistical Theory"
+    },
+    "2109.00709": {
+        "arxivId": "2109.00709",
+        "title": "An Information-Theoretic View of Stochastic Localization"
+    },
+    "2307.00467": {
+        "arxivId": "2307.00467",
+        "title": "MissDiff: Training Diffusion Models on Tabular Data with Missing Values"
+    },
+    "2402.07747": {
+        "arxivId": "2402.07747",
+        "title": "Optimal score estimation via empirical Bayes smoothing"
+    },
+    "2402.16359": {
+        "arxivId": "2402.16359",
+        "title": "Feedback Efficient Online Fine-Tuning of Diffusion Models"
+    },
+    "2309.16984": {
+        "arxivId": "2309.16984",
+        "title": "Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning"
+    },
+    "1706.03762": {
+        "arxivId": "1706.03762",
+        "title": "Attention is All you Need"
+    },
+    "2010.11929": {
+        "arxivId": "2010.11929",
+        "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
+    },
+    "1503.02531": {
+        "arxivId": "1503.02531",
+        "title": "Distilling the Knowledge in a Neural Network"
+    },
+    "1605.07146": {
+        "arxivId": "1605.07146",
+        "title": "Wide Residual Networks"
+    },
+    "1803.08494": {
+        "arxivId": "1803.08494",
+        "title": "Group Normalization"
+    },
+    "1506.03365": {
+        "arxivId": "1506.03365",
+        "title": "LSUN: Construction of a Large-scale Image Dataset using Deep Learning with Humans in the Loop"
+    },
+    "1602.07868": {
+        "arxivId": "1602.07868",
+        "title": "Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks"
+    },
+    "1503.02406": {
+        "arxivId": "1503.02406",
+        "title": "Deep learning and the information bottleneck principle"
+    },
+    "2103.14899": {
+        "arxivId": "2103.14899",
+        "title": "CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification"
+    },
+    "1701.05517": {
+        "arxivId": "1701.05517",
+        "title": "PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications"
+    },
+    "2302.08453": {
+        "arxivId": "2302.08453",
+        "title": "T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models"
+    },
+    "1905.07121": {
+        "arxivId": "1905.07121",
+        "title": "Simple Black-box Adversarial Attacks"
+    },
+    "1705.02498": {
+        "arxivId": "1705.02498",
+        "title": "A Study and Comparison of Human and Deep Learning Recognition Performance under Visual Distortions"
+    },
+    "2206.01714": {
+        "arxivId": "2206.01714",
+        "title": "Compositional Visual Generation with Composable Diffusion Models"
+    },
+    "2301.12503": {
+        "arxivId": "2301.12503",
+        "title": "AudioLDM: Text-to-Audio Generation with Latent Diffusion Models"
+    },
+    "2301.13826": {
+        "arxivId": "2301.13826",
+        "title": "Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models"
+    },
+    "2211.11018": {
+        "arxivId": "2211.11018",
+        "title": "MagicVideo: Efficient Video Generation With Latent Diffusion Models"
+    },
+    "2206.02779": {
+        "arxivId": "2206.02779",
+        "title": "Blended Latent Diffusion"
+    },
+    "2212.05032": {
+        "arxivId": "2212.05032",
+        "title": "Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis"
+    },
+    "2303.07909": {
+        "arxivId": "2303.07909",
+        "title": "Text-to-image Diffusion Models in Generative AI: A Survey"
+    },
+    "2210.10960": {
+        "arxivId": "2210.10960",
+        "title": "Diffusion Models already have a Semantic Latent Space"
+    },
+    "2204.00227": {
+        "arxivId": "2204.00227",
+        "title": "Perception Prioritized Training of Diffusion Models"
+    },
+    "2305.10474": {
+        "arxivId": "2305.10474",
+        "title": "Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models"
+    },
+    "2104.13733": {
+        "arxivId": "2104.13733",
+        "title": "Gradient-based Adversarial Attacks against Text Transformers"
+    },
+    "2106.00132": {
+        "arxivId": "2106.00132",
+        "title": "On Fast Sampling of Diffusion Probabilistic Models"
+    },
+    "2306.00986": {
+        "arxivId": "2306.00986",
+        "title": "Diffusion Self-Guidance for Controllable Image Generation"
+    },
+    "2302.03917": {
+        "arxivId": "2302.03917",
+        "title": "Noise2Music: Text-conditioned Music Generation with Diffusion Models"
+    },
+    "2306.03881": {
+        "arxivId": "2306.03881",
+        "title": "Emergent Correspondence from Image Diffusion"
+    },
+    "2302.02277": {
+        "arxivId": "2302.02277",
+        "title": "SE(3) diffusion model with application to protein backbone generation"
+    },
+    "2305.16322": {
+        "arxivId": "2305.16322",
+        "title": "Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models"
+    },
+    "2305.08891": {
+        "arxivId": "2305.08891",
+        "title": "Common Diffusion Noise Schedules and Sample Steps are Flawed"
+    },
+    "2303.11408": {
+        "arxivId": "2303.11408",
+        "title": "Stable Bias: Analyzing Societal Representations in Diffusion Models"
+    },
+    "1704.05051": {
+        "arxivId": "1704.05051",
+        "title": "Google's Cloud Vision API is Not Robust to Noise"
+    },
+    "2305.11846": {
+        "arxivId": "2305.11846",
+        "title": "Any-to-Any Generation via Composable Diffusion"
+    },
+    "2301.10972": {
+        "arxivId": "2301.10972",
+        "title": "On the Importance of Noise Scheduling for Diffusion Models"
+    },
+    "2211.13449": {
+        "arxivId": "2211.13449",
+        "title": "Fast Sampling of Diffusion Models via Operator Learning"
+    },
+    "2211.07804": {
+        "arxivId": "2211.07804",
+        "title": "Diffusion Models for Medical Image Analysis: A Comprehensive Survey"
+    },
+    "2305.15347": {
+        "arxivId": "2305.15347",
+        "title": "A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence"
+    },
+    "2305.13655": {
+        "arxivId": "2305.13655",
+        "title": "LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models"
+    },
+    "2201.00308": {
+        "arxivId": "2201.00308",
+        "title": "DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensional Latents"
+    },
+    "2104.02600": {
+        "arxivId": "2104.02600",
+        "title": "Noise Estimation for Generative Diffusion Models"
+    },
+    "2209.05442": {
+        "arxivId": "2209.05442",
+        "title": "Soft Diffusion: Score Matching for General Corruptions"
+    },
+    "2306.07280": {
+        "arxivId": "2306.07280",
+        "title": "Controlling Text-to-Image Diffusion by Orthogonal Finetuning"
+    },
+    "2305.18295": {
+        "arxivId": "2305.18295",
+        "title": "RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths"
+    },
+    "1903.01608": {
+        "arxivId": "1903.01608",
+        "title": "Theoretical guarantees for sampling and inference in generative models with latent diffusions"
+    },
+    "2212.11972": {
+        "arxivId": "2212.11972",
+        "title": "Scalable Adaptive Computation for Iterative Generation"
+    },
+    "math/0406221": {
+        "arxivId": "math/0406221",
+        "title": "Suboptimal behavior of Bayes and MDL in classification under misspecification"
+    },
+    "2305.20086": {
+        "arxivId": "2305.20086",
+        "title": "Understanding and Mitigating Copying in Diffusion Models"
+    },
+    "2305.13873": {
+        "arxivId": "2305.13873",
+        "title": "Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models"
+    },
+    "2305.11147": {
+        "arxivId": "2305.11147",
+        "title": "UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild"
+    },
+    "2305.10924": {
+        "arxivId": "2305.10924",
+        "title": "Structural Pruning for Diffusion Models"
+    },
+    "2305.14334": {
+        "arxivId": "2305.14334",
+        "title": "Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence"
+    },
+    "2210.00939": {
+        "arxivId": "2210.00939",
+        "title": "Improving Sample Quality of Diffusion Models Using Self-Attention Guidance"
+    },
+    "2209.12152": {
+        "arxivId": "2209.12152",
+        "title": "All are Worth Words: a ViT Backbone for Score-based Diffusion Models"
+    },
+    "2206.07309": {
+        "arxivId": "2206.07309",
+        "title": "Estimating the Optimal Covariance with Imperfect Mean in Diffusion Probabilistic Models"
+    },
+    "2212.00842": {
+        "arxivId": "2212.00842",
+        "title": "3D-LDM: Neural Implicit 3D Shape Generation with Latent Diffusion Models"
+    },
+    "2210.05559": {
+        "arxivId": "2210.05559",
+        "title": "Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance"
+    },
+    "2211.16152": {
+        "arxivId": "2211.16152",
+        "title": "Wavelet Diffusion Models are fast and scalable Image Generators"
+    },
+    "2111.12701": {
+        "arxivId": "2111.12701",
+        "title": "Unleashing Transformers: Parallel Token Prediction with Discrete Absorbing Diffusion for Fast High-Resolution Image Generation from Vector-Quantized Codes"
+    },
+    "2209.14566": {
+        "arxivId": "2209.14566",
+        "title": "Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation"
+    },
+    "2305.15581": {
+        "arxivId": "2305.15581",
+        "title": "Unsupervised Semantic Correspondence Using Stable Diffusion"
+    },
+    "2302.13834": {
+        "arxivId": "2302.13834",
+        "title": "Denoising Diffusion Samplers"
+    },
+    "2306.05544": {
+        "arxivId": "2306.05544",
+        "title": "BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping"
+    },
+    "2211.14108": {
+        "arxivId": "2211.14108",
+        "title": "3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models"
+    },
+    "2306.06344": {
+        "arxivId": "2306.06344",
+        "title": "Language-Guided Traffic Simulation via Scene-Level Diffusion"
+    },
+    "2306.04675": {
+        "arxivId": "2306.04675",
+        "title": "Exposing flaws of generative model evaluation metrics and their unfair treatment of diffusion models"
+    },
+    "2305.16289": {
+        "arxivId": "2305.16289",
+        "title": "Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation"
+    },
+    "2205.15463": {
+        "arxivId": "2205.15463",
+        "title": "Few-Shot Diffusion Models"
+    },
+    "2302.13153": {
+        "arxivId": "2302.13153",
+        "title": "Directed Diffusion: Direct Control of Object Placement through Attention Guidance"
+    },
+    "2306.05178": {
+        "arxivId": "2306.05178",
+        "title": "SyncDiffusion: Coherent Montage via Synchronized Joint Diffusions"
+    },
+    "2306.01923": {
+        "arxivId": "2306.01923",
+        "title": "The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation"
+    },
+    "2302.02591": {
+        "arxivId": "2302.02591",
+        "title": "Generative Diffusion Models on Graphs: Methods and Applications"
+    },
+    "2106.07582": {
+        "arxivId": "2106.07582",
+        "title": "Non Gaussian Denoising Diffusion Models"
+    },
+    "2104.08698": {
+        "arxivId": "2104.08698",
+        "title": "A Simple and Effective Positional Encoding for Transformers"
+    },
+    "2305.04175": {
+        "arxivId": "2305.04175",
+        "title": "Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning"
+    },
+    "2302.05737": {
+        "arxivId": "2302.05737",
+        "title": "A Reparameterized Discrete Diffusion Model for Text Generation"
+    },
+    "2306.04642": {
+        "arxivId": "2306.04642",
+        "title": "DiffusionShield: A Watermark for Copyright Protection against Generative Diffusion Models"
+    },
+    "2304.01565": {
+        "arxivId": "2304.01565",
+        "title": "A Survey on Graph Diffusion Models: Generative AI in Science for Molecule, Protein and Material"
+    },
+    "2305.19256": {
+        "arxivId": "2305.19256",
+        "title": "Ambient Diffusion: Learning Clean Distributions from Corrupted Data"
+    },
+    "2305.07508": {
+        "arxivId": "2305.07508",
+        "title": "MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation"
+    },
+    "2203.14206": {
+        "arxivId": "2203.14206",
+        "title": "Denoising Likelihood Score Matching for Conditional Score-based Data Generation"
+    },
+    "2305.10699": {
+        "arxivId": "2305.10699",
+        "title": "Dirichlet Diffusion Score Model for Biological Sequence Generation"
+    },
+    "2305.06402": {
+        "arxivId": "2305.06402",
+        "title": "Analyzing Bias in Diffusion-based Face Generation Models"
+    },
+    "2303.09051": {
+        "arxivId": "2303.09051",
+        "title": "Robust Evaluation of Diffusion-Based Adversarial Purification"
+    },
+    "2305.16317": {
+        "arxivId": "2305.16317",
+        "title": "Parallel Sampling of Diffusion Models"
+    },
+    "2305.09515": {
+        "arxivId": "2305.09515",
+        "title": "AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation"
+    },
+    "2211.17084": {
+        "arxivId": "2211.17084",
+        "title": "High-Fidelity Guided Image Synthesis with Latent Diffusion Models"
+    },
+    "2305.19467": {
+        "arxivId": "2305.19467",
+        "title": "Synthetic CT Generation from MRI using 3D Transformer-based Denoising Diffusion Model"
+    },
+    "2305.19643": {
+        "arxivId": "2305.19643",
+        "title": "Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models"
+    },
+    "2301.00427": {
+        "arxivId": "2301.00427",
+        "title": "Conditional Diffusion Based on Discrete Graph Structures for Molecular Graph Generation"
+    },
+    "2305.08192": {
+        "arxivId": "2305.08192",
+        "title": "Diffusion Models for Imperceptible and Transferable Adversarial Attack"
+    },
+    "2305.10399": {
+        "arxivId": "2305.10399",
+        "title": "End-To-End Latent Variational Diffusion Models for Inverse Problems in High Energy Physics"
+    },
+    "2304.05841": {
+        "arxivId": "2304.05841",
+        "title": "Exploring Diffusion Models for Unsupervised Video Anomaly Detection"
+    },
+    "2303.06682": {
+        "arxivId": "2303.06682",
+        "title": "DDS2M: Self-Supervised Denoising Diffusion Spatio-Spectral Model for Hyperspectral Image Restoration"
+    },
+    "2306.06874": {
+        "arxivId": "2306.06874",
+        "title": "VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models"
+    },
+    "2305.15712": {
+        "arxivId": "2305.15712",
+        "title": "Knowledge Diffusion for Distillation"
+    },
+    "2305.04120": {
+        "arxivId": "2305.04120",
+        "title": "A Latent Diffusion Model for Protein Structure Generation"
+    },
+    "2304.02742": {
+        "arxivId": "2304.02742",
+        "title": "Zero-Shot Medical Image Translation via Frequency-Guided Diffusion Models"
+    },
+    "2211.00322": {
+        "arxivId": "2211.00322",
+        "title": "DensePure: Understanding Diffusion Models towards Adversarial Robustness"
+    },
+    "2110.05948": {
+        "arxivId": "2110.05948",
+        "title": "Denoising Diffusion Gamma Models"
+    },
+    "2306.01794": {
+        "arxivId": "2306.01794",
+        "title": "DiffPack: A Torsional Diffusion Model for Autoregressive Protein Side-Chain Packing"
+    },
+    "2303.09375": {
+        "arxivId": "2303.09375",
+        "title": "DINAR: Diffusion Inpainting of Neural Textures for One-Shot Human Avatars"
+    },
+    "2210.06462": {
+        "arxivId": "2210.06462",
+        "title": "Self-Guided Diffusion Models"
+    },
+    "2206.00070": {
+        "arxivId": "2206.00070",
+        "title": "On Analyzing Generative and Denoising Capabilities of Diffusion-based Deep Generative Models"
+    },
+    "2305.15583": {
+        "arxivId": "2305.15583",
+        "title": "Alleviating Exposure Bias in Diffusion Models through Sampling with Shifted Time Steps"
+    },
+    "2303.07576": {
+        "arxivId": "2303.07576",
+        "title": "Diffusion Models in NLP: A Survey"
+    },
+    "2303.00608": {
+        "arxivId": "2303.00608",
+        "title": "Level Up the Deepfake Detection: a Method to Effectively Discriminate Images Generated by GAN Architectures and Diffusion Models"
+    },
+    "2305.16494": {
+        "arxivId": "2305.16494",
+        "title": "Diffusion-Based Adversarial Sample Generation for Improved Stealthiness and Controllability"
+    },
+    "2305.06077": {
+        "arxivId": "2305.06077",
+        "title": "Relightify: Relightable 3D Faces from a Single Image via Diffusion Models"
+    },
+    "2304.04262": {
+        "arxivId": "2304.04262",
+        "title": "A Comprehensive Survey on Knowledge Distillation of Diffusion Models"
+    },
+    "2203.04304": {
+        "arxivId": "2203.04304",
+        "title": "Dynamic Dual-Output Diffusion Models"
+    },
+    "2306.05720": {
+        "arxivId": "2306.05720",
+        "title": "Beyond Surface Statistics: Scene Representations in a Latent Diffusion Model"
+    },
+    "1910.07762": {
+        "arxivId": "1910.07762",
+        "title": "Learning Energy-Based Models in High-Dimensional Spaces with Multiscale Denoising-Score Matching"
+    },
+    "2306.04990": {
+        "arxivId": "2306.04990",
+        "title": "Multi-Architecture Multi-Expert Diffusion Models"
+    },
+    "2306.01902": {
+        "arxivId": "2306.01902",
+        "title": "Unlearnable Examples for Diffusion Models: Protect Data from Unauthorized Exploitation"
+    },
+    "2305.19693": {
+        "arxivId": "2305.19693",
+        "title": "Spontaneous symmetry breaking in generative diffusion models"
+    },
+    "2305.08694": {
+        "arxivId": "2305.08694",
+        "title": "A Reproducible Extraction of Training Images from Diffusion Models"
+    },
+    "2305.03935": {
+        "arxivId": "2305.03935",
+        "title": "Improved Techniques for Maximum Likelihood Estimation for Diffusion ODEs"
+    },
+    "2303.00165": {
+        "arxivId": "2303.00165",
+        "title": "Diffusion Probabilistic Fields"
+    },
+    "2306.05043": {
+        "arxivId": "2306.05043",
+        "title": "Non-autoregressive Conditional Diffusion Models for Time Series Prediction"
+    },
+    "2305.13625": {
+        "arxivId": "2305.13625",
+        "title": "DiffProtect: Generate Adversarial Examples with Diffusion Models for Facial Privacy Protection"
+    },
+    "2305.13128": {
+        "arxivId": "2305.13128",
+        "title": "GSURE-Based Diffusion Model Training with Corrupted Data"
+    },
+    "2211.03264": {
+        "arxivId": "2211.03264",
+        "title": "Few-shot Image Generation with Diffusion Models"
+    },
+    "2306.02174": {
+        "arxivId": "2306.02174",
+        "title": "Training Data Attribution for Diffusion Models"
+    },
+    "2305.15816": {
+        "arxivId": "2305.15816",
+        "title": "DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion"
+    },
+    "2302.12469": {
+        "arxivId": "2302.12469",
+        "title": "Unsupervised Discovery of Semantic Latent Directions in Diffusion Models"
+    },
+    "2211.02448": {
+        "arxivId": "2211.02448",
+        "title": "NoreSpeech: Knowledge Distillation based Conditional Diffusion Model for Noise-robust Expressive TTS"
+    },
+    "2305.15759": {
+        "arxivId": "2305.15759",
+        "title": "Differentially Private Latent Diffusion Models"
+    },
+    "2305.13298": {
+        "arxivId": "2305.13298",
+        "title": "DiffusionNER: Boundary Diffusion for Named Entity Recognition"
+    },
+    "2302.00170": {
+        "arxivId": "2302.00170",
+        "title": "Diffusion Models for High-Resolution Solar Forecasts"
+    },
+    "2302.04313": {
+        "arxivId": "2302.04313",
+        "title": "Geometry-Complete Diffusion for 3D Molecule Generation"
+    },
+    "2306.06991": {
+        "arxivId": "2306.06991",
+        "title": "Fast Diffusion Model"
+    },
+    "2305.17431": {
+        "arxivId": "2305.17431",
+        "title": "Towards Consistent Video Editing with Text-to-Image Diffusion Models"
+    },
+    "2305.03509": {
+        "arxivId": "2305.03509",
+        "title": "Diffusion Explainer: Visual Explanation for Text-to-image Stable Diffusion"
+    },
+    "2207.09786": {
+        "arxivId": "2207.09786",
+        "title": "Non-Uniform Diffusion Models"
+    },
+    "2305.19947": {
+        "arxivId": "2305.19947",
+        "title": "A Geometric Perspective on Diffusion Models"
+    },
+    "2210.12254": {
+        "arxivId": "2210.12254",
+        "title": "Score-based Denoising Diffusion with Non-Isotropic Gaussian Noise Models"
+    },
+    "2306.04098": {
+        "arxivId": "2306.04098",
+        "title": "Phoenix: A Federated Generative Diffusion Model"
+    },
+    "2306.02583": {
+        "arxivId": "2306.02583",
+        "title": "Stable Diffusion is Unstable"
+    },
+    "2305.16965": {
+        "arxivId": "2305.16965",
+        "title": "Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling"
+    },
+    "2305.14712": {
+        "arxivId": "2305.14712",
+        "title": "On the Generalization of Diffusion Model"
+    },
+    "2305.12954": {
+        "arxivId": "2305.12954",
+        "title": "Is Synthetic Data From Diffusion Models Ready for Knowledge Distillation?"
+    },
+    "2211.12039": {
+        "arxivId": "2211.12039",
+        "title": "Accelerating Diffusion Sampling with Classifier-based Feature Distillation"
+    },
+    "2306.01322": {
+        "arxivId": "2306.01322",
+        "title": "Privacy Distillation: Reducing Re-identification Risk of Multimodal Diffusion Models"
+    },
+    "2305.15798": {
+        "arxivId": "2305.15798",
+        "title": "BK-SDM: A Lightweight, Fast, and Cheap Version of Stable Diffusion"
+    },
+    "2305.16150": {
+        "arxivId": "2305.16150",
+        "title": "Unifying GANs and Score-Based Diffusion as Generative Particle Models"
+    },
+    "2305.12708": {
+        "arxivId": "2305.12708",
+        "title": "ViT-TTS: Visual Text-to-Speech with Scalable Diffusion Transformer"
+    },
+    "2303.18181": {
+        "arxivId": "2303.18181",
+        "title": "A Closer Look at Parameter-Efficient Tuning in Diffusion Models"
+    },
+    "2306.04695": {
+        "arxivId": "2306.04695",
+        "title": "ConceptBed: Evaluating Concept Learning Abilities of Text-to-Image Diffusion Models"
+    },
+    "2303.05275": {
+        "arxivId": "2303.05275",
+        "title": "Detecting images generated by diffusers"
+    },
+    "2305.09381": {
+        "arxivId": "2305.09381",
+        "title": "AMD: Autoregressive Motion Diffusion"
+    },
+    "2210.04559": {
+        "arxivId": "2210.04559",
+        "title": "CLIP-Diffusion-LM: Apply Diffusion Model on Image Captioning"
+    },
+    "1810.04805": {
+        "arxivId": "1810.04805",
+        "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+    },
+    "1405.0312": {
+        "arxivId": "1405.0312",
+        "title": "Microsoft COCO: Common Objects in Context"
+    },
+    "1411.1784": {
+        "arxivId": "1411.1784",
+        "title": "Conditional Generative Adversarial Nets"
+    },
+    "1606.03498": {
+        "arxivId": "1606.03498",
+        "title": "Improved Techniques for Training GANs"
+    },
+    "1411.7766": {
+        "arxivId": "1411.7766",
+        "title": "Deep Learning Face Attributes in the Wild"
+    },
+    "1606.03657": {
+        "arxivId": "1606.03657",
+        "title": "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets"
+    },
+    "1711.00937": {
+        "arxivId": "1711.00937",
+        "title": "Neural Discrete Representation Learning"
+    },
+    "1709.04875": {
+        "arxivId": "1709.04875",
+        "title": "Spatio-temporal Graph Convolutional Neural Network: A Deep Learning Framework for Traffic Forecasting"
+    },
+    "1610.09585": {
+        "arxivId": "1610.09585",
+        "title": "Conditional Image Synthesis with Auxiliary Classifier GANs"
+    },
+    "1612.03242": {
+        "arxivId": "1612.03242",
+        "title": "StackGAN: Text to Photo-Realistic Image Synthesis with Stacked Generative Adversarial Networks"
+    },
+    "2006.05525": {
+        "arxivId": "2006.05525",
+        "title": "Knowledge Distillation: A Survey"
+    },
+    "1902.07243": {
+        "arxivId": "1902.07243",
+        "title": "Graph Neural Networks for Social Recommendation"
+    },
+    "1606.07536": {
+        "arxivId": "1606.07536",
+        "title": "Coupled Generative Adversarial Networks"
+    },
+    "1906.00446": {
+        "arxivId": "1906.00446",
+        "title": "Generating Diverse High-Fidelity Images with VQ-VAE-2"
+    },
+    "physics/9803008": {
+        "arxivId": "physics/9803008",
+        "title": "Annealed importance sampling"
+    },
+    "1904.05068": {
+        "arxivId": "1904.05068",
+        "title": "Relational Knowledge Distillation"
+    },
+    "1710.09282": {
+        "arxivId": "1710.09282",
+        "title": "A Survey of Model Compression and Acceleration for Deep Neural Networks"
+    },
+    "2102.09844": {
+        "arxivId": "2102.09844",
+        "title": "E(n) Equivariant Graph Neural Networks"
+    },
+    "1810.01367": {
+        "arxivId": "1810.01367",
+        "title": "FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models"
+    },
+    "1908.09355": {
+        "arxivId": "1908.09355",
+        "title": "Patient Knowledge Distillation for BERT Model Compression"
+    },
+    "1802.05668": {
+        "arxivId": "1802.05668",
+        "title": "Model compression via distillation and quantization"
+    },
+    "1801.01973": {
+        "arxivId": "1801.01973",
+        "title": "A Note on the Inception Score"
+    },
+    "2011.04006": {
+        "arxivId": "2011.04006",
+        "title": "Long Range Arena: A Benchmark for Efficient Transformers"
+    },
+    "1906.12320": {
+        "arxivId": "1906.12320",
+        "title": "PointFlow: 3D Point Cloud Generation With Continuous Normalizing Flows"
+    },
+    "1705.07120": {
+        "arxivId": "1705.07120",
+        "title": "VAE with a VampPrior"
+    },
+    "2004.05937": {
+        "arxivId": "2004.05937",
+        "title": "Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks"
+    },
+    "1804.06557": {
+        "arxivId": "1804.06557",
+        "title": "The limits and potentials of deep learning for robotics"
+    },
+    "1902.00275": {
+        "arxivId": "1902.00275",
+        "title": "Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design"
+    },
+    "1706.02262": {
+        "arxivId": "1706.02262",
+        "title": "InfoVAE: Information Maximizing Variational Autoencoders"
+    },
+    "1610.03483": {
+        "arxivId": "1610.03483",
+        "title": "Learning in Implicit Generative Models"
+    },
+    "1706.07036": {
+        "arxivId": "1706.07036",
+        "title": "Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction"
+    },
+    "2009.01411": {
+        "arxivId": "2009.01411",
+        "title": "Learning from Protein Structure with Geometric Vector Perceptrons"
+    },
+    "2211.01095": {
+        "arxivId": "2211.01095",
+        "title": "DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models"
+    },
+    "2103.04922": {
+        "arxivId": "2103.04922",
+        "title": "Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models"
+    },
+    "1701.06264": {
+        "arxivId": "1701.06264",
+        "title": "Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities"
+    },
+    "2211.09788": {
+        "arxivId": "2211.09788",
+        "title": "DiffusionDet: Diffusion Model for Object Detection"
+    },
+    "2210.01776": {
+        "arxivId": "2210.01776",
+        "title": "DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking"
+    },
+    "2105.13093": {
+        "arxivId": "2105.13093",
+        "title": "Towards Understanding Knowledge Distillation"
+    },
+    "1801.03558": {
+        "arxivId": "1801.03558",
+        "title": "Inference Suboptimality in Variational Autoencoders"
+    },
+    "2108.01368": {
+        "arxivId": "2108.01368",
+        "title": "Robust Compressed Sensing MRI with Deep Generative Priors"
+    },
+    "1710.07535": {
+        "arxivId": "1710.07535",
+        "title": "Data-Free Knowledge Distillation for Deep Neural Networks"
+    },
+    "1707.07217": {
+        "arxivId": "1707.07217",
+        "title": "Deep learning in robotics: a review of recent research"
+    },
+    "1702.02390": {
+        "arxivId": "1702.02390",
+        "title": "A Hybrid Convolutional Variational Autoencoder for Text Generation"
+    },
+    "2103.09396": {
+        "arxivId": "2103.09396",
+        "title": "Pros and Cons of GAN Evaluation Measures: New Developments"
+    },
+    "1306.0186": {
+        "arxivId": "1306.0186",
+        "title": "RNADE: The real-valued neural autoregressive density-estimator"
+    },
+    "2205.09853": {
+        "arxivId": "2205.09853",
+        "title": "MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation"
+    },
+    "2108.05542": {
+        "arxivId": "2108.05542",
+        "title": "AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing"
+    },
+    "2112.03145": {
+        "arxivId": "2112.03145",
+        "title": "Diffusion Models for Implicit Image Segmentation Ensembles"
+    },
+    "1912.00042": {
+        "arxivId": "1912.00042",
+        "title": "Learning Likelihoods with Conditional Normalizing Flows"
+    },
+    "1904.09770": {
+        "arxivId": "1904.09770",
+        "title": "Learning Non-Convergent Non-Persistent Short-Run MCMC Toward Energy-Based Model"
+    },
+    "2203.04306": {
+        "arxivId": "2203.04306",
+        "title": "Diffusion Models for Medical Anomaly Detection"
+    },
+    "2212.04493": {
+        "arxivId": "2212.04493",
+        "title": "SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation"
+    },
+    "2211.16677": {
+        "arxivId": "2211.16677",
+        "title": "3D Neural Field Generation Using Triplane Diffusion"
+    },
+    "2212.02500": {
+        "arxivId": "2212.02500",
+        "title": "PhysDiff: Physics-Guided Human Motion Diffusion Model"
+    },
+    "2211.00611": {
+        "arxivId": "2211.00611",
+        "title": "MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model"
+    },
+    "1908.08453": {
+        "arxivId": "1908.08453",
+        "title": "Noise Flow: Noise Modeling With Conditional Normalizing Flows"
+    },
+    "2203.08382": {
+        "arxivId": "2203.08382",
+        "title": "Dual Diffusion Implicit Bridges for Image-to-Image Translation"
+    },
+    "1801.07130": {
+        "arxivId": "1801.07130",
+        "title": "Computational Protein Design with Deep Learning Neural Networks"
+    },
+    "2110.03987": {
+        "arxivId": "2110.03987",
+        "title": "Knowledge-aware Coupled Graph Neural Network for Social Recommendation"
+    },
+    "2209.15611": {
+        "arxivId": "2209.15611",
+        "title": "Protein structure generation via folding diffusion"
+    },
+    "1205.2629": {
+        "arxivId": "1205.2629",
+        "title": "Interpretation and Generalization of Score Matching"
+    },
+    "2209.15264": {
+        "arxivId": "2209.15264",
+        "title": "Diffusion-based Image Translation using Disentangled Style and Content Representation"
+    },
+    "2004.11714": {
+        "arxivId": "2004.11714",
+        "title": "Residual Energy-Based Models for Text Generation"
+    },
+    "1901.10548": {
+        "arxivId": "1901.10548",
+        "title": "Latent Normalizing Flows for Discrete Sequences"
+    },
+    "2002.03532": {
+        "arxivId": "2002.03532",
+        "title": "Understanding and Improving Knowledge Distillation"
+    },
+    "2006.08205": {
+        "arxivId": "2006.08205",
+        "title": "Learning Latent Space Energy-Based Prior Model"
+    },
+    "2110.04624": {
+        "arxivId": "2110.04624",
+        "title": "Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design"
+    },
+    "2206.07696": {
+        "arxivId": "2206.07696",
+        "title": "Diffusion Models for Video Prediction and Infilling"
+    },
+    "2106.02081": {
+        "arxivId": "2106.02081",
+        "title": "Solving Schr\u00f6dinger Bridges via Maximum Likelihood"
+    },
+    "2110.00675": {
+        "arxivId": "2110.00675",
+        "title": "Contraction Theory for Nonlinear Stability Analysis and Learning-based Control: A Tutorial Overview"
+    },
+    "2109.13821": {
+        "arxivId": "2109.13821",
+        "title": "Diffusion-Based Voice Conversion with Fast Maximum Likelihood Sampling Scheme"
+    },
+    "2211.15029": {
+        "arxivId": "2211.15029",
+        "title": "DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models"
+    },
+    "2111.11755": {
+        "arxivId": "2111.11755",
+        "title": "Guided-TTS: A Diffusion Model for Text-to-Speech via Classifier Guidance"
+    },
+    "2006.00702": {
+        "arxivId": "2006.00702",
+        "title": "Interacting Particle Solutions of Fokker\u2013Planck Equations Through Gradient\u2013Log\u2013Density Estimation"
+    },
+    "2006.13202": {
+        "arxivId": "2006.13202",
+        "title": "Simple and Effective VAE Training with Calibrated Decoders"
+    },
+    "2210.05274": {
+        "arxivId": "2210.05274",
+        "title": "Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design"
+    },
+    "2211.16940": {
+        "arxivId": "2211.16940",
+        "title": "DiffPose: Toward More Reliable 3D Pose Estimation"
+    },
+    "2209.05557": {
+        "arxivId": "2209.05557",
+        "title": "Blurring Diffusion Models"
+    },
+    "2206.08889": {
+        "arxivId": "2206.08889",
+        "title": "Lossy Compression with Gaussian Diffusion"
+    },
+    "2202.10166": {
+        "arxivId": "2202.10166",
+        "title": "Diffusion Causal Models for Counterfactual Estimation"
+    },
+    "2212.00235": {
+        "arxivId": "2212.00235",
+        "title": "VIDM: Video Implicit Diffusion Models"
+    },
+    "2205.16007": {
+        "arxivId": "2205.16007",
+        "title": "Improved Vector Quantized Diffusion Models"
+    },
+    "2104.02321": {
+        "arxivId": "2104.02321",
+        "title": "NU-Wave: A Diffusion Probabilistic Model for Neural Audio Upsampling"
+    },
+    "2101.01000": {
+        "arxivId": "2101.01000",
+        "title": "Conditional Local Convolution for Spatio-Temporal Meteorological Forecasting"
+    },
+    "2212.02773": {
+        "arxivId": "2212.02773",
+        "title": "Diffusioninst: Diffusion Model for Instance Segmentation"
+    },
+    "2107.00096": {
+        "arxivId": "2107.00096",
+        "title": "Improving black-box optimization in VAE latent space using decoder uncertainty"
+    },
+    "2211.11743": {
+        "arxivId": "2211.11743",
+        "title": "SinFusion: Training Diffusion Models on a Single Image or Video"
+    },
+    "2211.11214": {
+        "arxivId": "2211.11214",
+        "title": "DiffBP: Generative Diffusion of 3D Molecules for Target Protein Binding"
+    },
+    "2211.01323": {
+        "arxivId": "2211.01323",
+        "title": "Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems"
+    },
+    "2205.14807": {
+        "arxivId": "2205.14807",
+        "title": "BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis"
+    },
+    "2006.06059": {
+        "arxivId": "2006.06059",
+        "title": "Joint Training of Variational Auto-Encoder and Latent Energy-Based Model"
+    },
+    "2207.12268": {
+        "arxivId": "2207.12268",
+        "title": "What is Healthy? Generative Counterfactual Diffusion for Lesion Localization"
+    },
+    "2202.07477": {
+        "arxivId": "2202.07477",
+        "title": "Understanding DDPM Latent Codes Through Optimal Transport"
+    },
+    "2105.13871": {
+        "arxivId": "2105.13871",
+        "title": "DiffSVC: A Diffusion Probabilistic Model for Singing Voice Conversion"
+    },
+    "2209.11888": {
+        "arxivId": "2209.11888",
+        "title": "JPEG Artifact Correction using Denoising Diffusion Restoration Models"
+    },
+    "2211.16487": {
+        "arxivId": "2211.16487",
+        "title": "DiffPose: Multi-hypothesis Human Pose Estimation using Diffusion Models"
+    },
+    "2210.08761": {
+        "arxivId": "2210.08761",
+        "title": "Protein Sequence and Structure Co-Design with Equivariant Translation"
+    },
+    "2203.16749": {
+        "arxivId": "2203.16749",
+        "title": "SpecGrad: Diffusion Probabilistic Model based Neural Vocoder with Adaptive Noise Spectral Shaping"
+    },
+    "2112.01799": {
+        "arxivId": "2112.01799",
+        "title": "Global Context with Discrete Diffusion in Vector Quantised Modelling for Image Generation"
+    },
+    "2212.01842": {
+        "arxivId": "2212.01842",
+        "title": "GraphGDP: Generative Diffusion Processes for Permutation Invariant Graph Generation"
+    },
+    "2206.03992": {
+        "arxivId": "2206.03992",
+        "title": "Neural Diffusion Processes"
+    },
+    "2001.11235": {
+        "arxivId": "2001.11235",
+        "title": "Learning Discrete Distributions by Dequantization"
+    },
+    "2204.01955": {
+        "arxivId": "2204.01955",
+        "title": "Autoregressive 3D Shape Generation via Canonical Mapping"
+    },
+    "2107.02848": {
+        "arxivId": "2107.02848",
+        "title": "Deep Unfolding With Normalizing Flow Priors for Inverse Problems"
+    },
+    "2209.00835": {
+        "arxivId": "2209.00835",
+        "title": "Self-Score: Self-Supervised Learning on Score-Based Models for MRI Reconstruction"
+    },
+    "2210.17327": {
+        "arxivId": "2210.17327",
+        "title": "Diffusion-Based Generative Speech Source Separation"
+    },
+    "2202.03751": {
+        "arxivId": "2202.03751",
+        "title": "Infergrad: Improving Diffusion Models for Vocoder by Considering Inference in Training"
+    },
+    "2210.05976": {
+        "arxivId": "2210.05976",
+        "title": "Human Joint Kinematics Diffusion-Refinement for Stochastic Motion Prediction"
+    },
+    "2210.04955": {
+        "arxivId": "2210.04955",
+        "title": "f-DM: A Multi-stage Diffusion Model via Progressive Signal Transformation"
+    },
+    "2212.02802": {
+        "arxivId": "2212.02802",
+        "title": "Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding"
+    },
+    "2208.04756": {
+        "arxivId": "2208.04756",
+        "title": "DDSP-based Singing Vocoders: A New Subtractive-based Synthesizer and A Comprehensive Evaluation"
+    },
+    "2210.12113": {
+        "arxivId": "2210.12113",
+        "title": "Multitask Brain Tumor Inpainting with Diffusion Models: A Methodological Report"
+    },
+    "2212.01789": {
+        "arxivId": "2212.01789",
+        "title": "Image Deblurring with Domain Generalizable Diffusion Models"
+    },
+    "2210.12100": {
+        "arxivId": "2210.12100",
+        "title": "Boomerang: Local sampling on image manifolds using diffusion models"
+    },
+    "1811.10578": {
+        "arxivId": "1811.10578",
+        "title": "Existence, uniqueness and regularity of the projection onto differentiable manifolds"
+    },
+    "2211.10794": {
+        "arxivId": "2211.10794",
+        "title": "NVDiff: Graph Generation through the Diffusion of Node Vectors"
+    },
+    "2210.16805": {
+        "arxivId": "2210.16805",
+        "title": "SRTNET: Time Domain Speech Enhancement via Stochastic Refinement"
+    },
+    "2202.04895": {
+        "arxivId": "2202.04895",
+        "title": "Diffusion bridges vector quantized variational autoencoders"
+    },
+    "2211.06757": {
+        "arxivId": "2211.06757",
+        "title": "DriftRec: Adapting diffusion models to blind image restoration tasks"
+    },
+    "2212.02936": {
+        "arxivId": "2212.02936",
+        "title": "M-VADER: A Model for Diffusion with Multimodal Context"
+    },
+    "2212.00787": {
+        "arxivId": "2212.00787",
+        "title": "Multi-Class Segmentation from Aerial Views using Recursive Noise Diffusion"
+    },
+    "2210.08573": {
+        "arxivId": "2210.08573",
+        "title": "DiffGAR: Model-Agnostic Restoration from Generative Artifacts Using Image-to-Image Diffusion Models"
+    },
+    "1512.00567": {
+        "arxivId": "1512.00567",
+        "title": "Rethinking the Inception Architecture for Computer Vision"
+    },
+    "1706.02413": {
+        "arxivId": "1706.02413",
+        "title": "PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space"
+    },
+    "1705.07750": {
+        "arxivId": "1705.07750",
+        "title": "Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset"
+    },
+    "2106.09685": {
+        "arxivId": "2106.09685",
+        "title": "LoRA: Low-Rank Adaptation of Large Language Models"
+    },
+    "1512.03012": {
+        "arxivId": "1512.03012",
+        "title": "ShapeNet: An Information-Rich 3D Model Repository"
+    },
+    "2104.14294": {
+        "arxivId": "2104.14294",
+        "title": "Emerging Properties in Self-Supervised Vision Transformers"
+    },
+    "1711.03938": {
+        "arxivId": "1711.03938",
+        "title": "CARLA: An Open Urban Driving Simulator"
+    },
+    "1902.00751": {
+        "arxivId": "1902.00751",
+        "title": "Parameter-Efficient Transfer Learning for NLP"
+    },
+    "1702.04405": {
+        "arxivId": "1702.04405",
+        "title": "ScanNet: Richly-Annotated 3D Reconstructions of Indoor Scenes"
+    },
+    "1605.05396": {
+        "arxivId": "1605.05396",
+        "title": "Generative Adversarial Text to Image Synthesis"
+    },
+    "1903.07291": {
+        "arxivId": "1903.07291",
+        "title": "Semantic Image Synthesis With Spatially-Adaptive Normalization"
+    },
+    "2210.08402": {
+        "arxivId": "2210.08402",
+        "title": "LAION-5B: An open large-scale dataset for training next generation image-text models"
+    },
+    "2106.07447": {
+        "arxivId": "2106.07447",
+        "title": "HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units"
+    },
+    "1612.06890": {
+        "arxivId": "1612.06890",
+        "title": "CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning"
+    },
+    "2303.18223": {
+        "arxivId": "2303.18223",
+        "title": "A Survey of Large Language Models"
+    },
+    "1901.08971": {
+        "arxivId": "1901.08971",
+        "title": "FaceForensics++: Learning to Detect Manipulated Facial Images"
+    },
+    "2308.04079": {
+        "arxivId": "2308.04079",
+        "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+    },
+    "1709.06158": {
+        "arxivId": "1709.06158",
+        "title": "Matterport3D: Learning from RGB-D Data in Indoor Environments"
+    },
+    "2012.02190": {
+        "arxivId": "2012.02190",
+        "title": "pixelNeRF: Neural Radiance Fields from One or Few Images"
+    },
+    "1904.05866": {
+        "arxivId": "1904.05866",
+        "title": "Expressive Body Capture: 3D Hands, Face, and Body From a Single Image"
+    },
+    "2208.01618": {
+        "arxivId": "2208.01618",
+        "title": "An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion"
+    },
+    "2112.05131": {
+        "arxivId": "2112.05131",
+        "title": "Plenoxels: Radiance Fields without Neural Networks"
+    },
+    "2208.01626": {
+        "arxivId": "2208.01626",
+        "title": "Prompt-to-Prompt Image Editing with Cross Attention Control"
+    },
+    "2211.09800": {
+        "arxivId": "2211.09800",
+        "title": "InstructPix2Pix: Learning to Follow Image Editing Instructions"
+    },
+    "2111.02114": {
+        "arxivId": "2111.02114",
+        "title": "LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs"
+    },
+    "2112.07945": {
+        "arxivId": "2112.07945",
+        "title": "Efficient Geometry-aware 3D Generative Adversarial Networks"
+    },
+    "1904.03278": {
+        "arxivId": "1904.03278",
+        "title": "AMASS: Archive of Motion Capture As Surface Shapes"
+    },
+    "1611.09813": {
+        "arxivId": "1611.09813",
+        "title": "Monocular 3D Human Pose Estimation in the Wild Using Improved CNN Supervision"
+    },
+    "2104.00650": {
+        "arxivId": "2104.00650",
+        "title": "Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval"
+    },
+    "2003.04618": {
+        "arxivId": "2003.04618",
+        "title": "Convolutional Occupancy Networks"
+    },
+    "2012.00926": {
+        "arxivId": "2012.00926",
+        "title": "pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis"
+    },
+    "2303.11328": {
+        "arxivId": "2303.11328",
+        "title": "Zero-1-to-3: Zero-shot One Image to 3D Object"
+    },
+    "2304.08818": {
+        "arxivId": "2304.08818",
+        "title": "Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models"
+    },
+    "1605.02097": {
+        "arxivId": "1605.02097",
+        "title": "ViZDoom: A Doom-based AI research platform for visual reinforcement learning"
+    },
+    "1906.05797": {
+        "arxivId": "1906.05797",
+        "title": "The Replica Dataset: A Digital Replica of Indoor Spaces"
+    },
+    "2001.00179": {
+        "arxivId": "2001.00179",
+        "title": "DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection"
+    },
+    "2005.00341": {
+        "arxivId": "2005.00341",
+        "title": "Jukebox: A Generative Model for Music"
+    },
+    "2012.15838": {
+        "arxivId": "2012.15838",
+        "title": "Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans"
+    },
+    "2211.09794": {
+        "arxivId": "2211.09794",
+        "title": "Null-text Inversion for Editing Real Images using Guided Diffusion Models"
+    },
+    "1907.03739": {
+        "arxivId": "1907.03739",
+        "title": "Point-Voxel CNN for Efficient 3D Deep Learning"
+    },
+    "2212.04488": {
+        "arxivId": "2212.04488",
+        "title": "Multi-Concept Customization of Text-to-Image Diffusion"
+    },
+    "1803.07549": {
+        "arxivId": "1803.07549",
+        "title": "Learning Category-Specific Mesh Reconstruction from Image Collections"
+    },
+    "2212.08051": {
+        "arxivId": "2212.08051",
+        "title": "Objaverse: A Universe of Annotated 3D Objects"
+    },
+    "2004.11138": {
+        "arxivId": "2004.11138",
+        "title": "The Creation and Detection of Deepfakes"
+    },
+    "1812.01717": {
+        "arxivId": "1812.01717",
+        "title": "Towards Accurate Generative Models of Video: A New Metric & Challenges"
+    },
+    "2212.08751": {
+        "arxivId": "2212.08751",
+        "title": "Point-E: A System for Generating 3D Point Clouds from Complex Prompts"
+    },
+    "2211.12572": {
+        "arxivId": "2211.12572",
+        "title": "Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation"
+    },
+    "2212.00774": {
+        "arxivId": "2212.00774",
+        "title": "Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation"
+    },
+    "2307.04725": {
+        "arxivId": "2307.04725",
+        "title": "AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning"
+    },
+    "1804.04610": {
+        "arxivId": "1804.04610",
+        "title": "Pix3D: Dataset and Methods for Single-Image 3D Shape Modeling"
+    },
+    "2308.16512": {
+        "arxivId": "2308.16512",
+        "title": "MVDream: Multi-view Diffusion for 3D Generation"
+    },
+    "2101.08779": {
+        "arxivId": "2101.08779",
+        "title": "AI Choreographer: Music Conditioned 3D Dance Generation with AIST++"
+    },
+    "2302.03011": {
+        "arxivId": "2302.03011",
+        "title": "Structure and Content-Guided Video Synthesis with Diffusion Models"
+    },
+    "1805.09817": {
+        "arxivId": "1805.09817",
+        "title": "Stereo magnification"
+    },
+    "2205.15868": {
+        "arxivId": "2205.15868",
+        "title": "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers"
+    },
+    "2109.00512": {
+        "arxivId": "2109.00512",
+        "title": "Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction"
+    },
+    "2007.15240": {
+        "arxivId": "2007.15240",
+        "title": "Action2Motion: Conditioned Generation of 3D Human Motions"
+    },
+    "2302.03027": {
+        "arxivId": "2302.03027",
+        "title": "Zero-shot Image-to-Image Translation"
+    },
+    "2008.11200": {
+        "arxivId": "2008.11200",
+        "title": "GRAB: A Dataset of Whole-Body Human Grasping of Objects"
+    },
+    "1711.09561": {
+        "arxivId": "1711.09561",
+        "title": "HP-GAN: Probabilistic 3D Human Motion Prediction via GAN"
+    },
+    "2301.09632": {
+        "arxivId": "2301.09632",
+        "title": "HexPlane: A Fast Representation for Dynamic Scenes"
+    },
+    "2204.02491": {
+        "arxivId": "2204.02491",
+        "title": "Text2LIVE: Text-Driven Layered Image and Video Editing"
+    },
+    "2105.04668": {
+        "arxivId": "2105.04668",
+        "title": "HuMoR: 3D Human Motion Model for Robust Pose Estimation"
+    },
+    "2111.12417": {
+        "arxivId": "2111.12417",
+        "title": "N\u00dcWA: Visual Synthesis Pre-training for Neural visUal World creAtion"
+    },
+    "2303.12789": {
+        "arxivId": "2303.12789",
+        "title": "Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions"
+    },
+    "2304.08465": {
+        "arxivId": "2304.08465",
+        "title": "MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing"
+    },
+    "2110.02624": {
+        "arxivId": "2110.02624",
+        "title": "CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation"
+    },
+    "2103.01913": {
+        "arxivId": "2103.01913",
+        "title": "WIT: Wikipedia-based Image Text Dataset for Multimodal Multilingual Machine Learning"
+    },
+    "2009.02119": {
+        "arxivId": "2009.02119",
+        "title": "Speech gesture generation from the trimodal context of text, audio, and speaker identity"
+    },
+    "2302.13848": {
+        "arxivId": "2302.13848",
+        "title": "ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation"
+    },
+    "2307.05663": {
+        "arxivId": "2307.05663",
+        "title": "Objaverse-XL: A Universe of 10M+ 3D Objects"
+    },
+    "2212.06135": {
+        "arxivId": "2212.06135",
+        "title": "RODIN: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion"
+    },
+    "1803.08495": {
+        "arxivId": "1803.08495",
+        "title": "Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings"
+    },
+    "2308.06571": {
+        "arxivId": "2308.06571",
+        "title": "ModelScope Text-to-Video Technical Report"
+    },
+    "2303.08320": {
+        "arxivId": "2303.08320",
+        "title": "VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation"
+    },
+    "2302.09778": {
+        "arxivId": "2302.09778",
+        "title": "Composer: Creative and Controllable Image Synthesis with Composable Conditions"
+    },
+    "1809.05910": {
+        "arxivId": "1809.05910",
+        "title": "MeshCNN: a network with an edge"
+    },
+    "2210.04628": {
+        "arxivId": "2210.04628",
+        "title": "Novel View Synthesis with Diffusion Models"
+    },
+    "2103.14274": {
+        "arxivId": "2103.14274",
+        "title": "Character controllers using motion VAEs"
+    },
+    "1801.07698": {
+        "arxivId": "1801.07698",
+        "title": "ArcFace: Additive Angular Margin Loss for Deep Face Recognition"
+    },
+    "2212.04048": {
+        "arxivId": "2212.04048",
+        "title": "Executing your Commands via Motion Diffusion in Latent Space"
+    },
+    "2112.14683": {
+        "arxivId": "2112.14683",
+        "title": "StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2"
+    },
+    "2004.02857": {
+        "arxivId": "2004.02857",
+        "title": "Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments"
+    },
+    "2011.09127": {
+        "arxivId": "2011.09127",
+        "title": "3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics"
+    },
+    "2003.08325": {
+        "arxivId": "2003.08325",
+        "title": "DeepCap: Monocular Human Performance Capture Using Weak Supervision"
+    },
+    "1607.03827": {
+        "arxivId": "1607.03827",
+        "title": "The KIT Motion-Language Dataset"
+    },
+    "2306.02018": {
+        "arxivId": "2306.02018",
+        "title": "VideoComposer: Compositional Video Synthesis with Motion Controllability"
+    },
+    "2304.03411": {
+        "arxivId": "2304.03411",
+        "title": "InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning"
+    },
+    "2203.09516": {
+        "arxivId": "2203.09516",
+        "title": "AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation"
+    },
+    "2303.11305": {
+        "arxivId": "2303.11305",
+        "title": "SVDiff: Compact Parameter Space for Diffusion Fine-Tuning"
+    },
+    "2303.12688": {
+        "arxivId": "2303.12688",
+        "title": "Pix2Video: Video Editing using Image Diffusion"
+    },
+    "2304.02602": {
+        "arxivId": "2304.02602",
+        "title": "Generative Novel View Synthesis with 3D-Aware Diffusion Models"
+    },
+    "2211.13752": {
+        "arxivId": "2211.13752",
+        "title": "Sketch-Guided Text-to-Image Diffusion Models"
+    },
+    "2307.10373": {
+        "arxivId": "2307.10373",
+        "title": "TokenFlow: Consistent Diffusion Features for Consistent Video Editing"
+    },
+    "2212.00792": {
+        "arxivId": "2212.00792",
+        "title": "SparseFusion: Distilling View-Conditioned Diffusion for 3D Reconstruction"
+    },
+    "2106.09696": {
+        "arxivId": "2106.09696",
+        "title": "BABEL: Bodies, Action and Behavior with English Labels"
+    },
+    "2305.10973": {
+        "arxivId": "2305.10973",
+        "title": "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold"
+    },
+    "2211.13221": {
+        "arxivId": "2211.13221",
+        "title": "Latent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths"
+    },
+    "2110.06199": {
+        "arxivId": "2110.06199",
+        "title": "ABO: Dataset and Benchmarks for Real-World 3D Object Understanding"
+    },
+    "2211.10658": {
+        "arxivId": "2211.10658",
+        "title": "EDGE: Editable Dance Generation From Music"
+    },
+    "2212.01206": {
+        "arxivId": "2212.01206",
+        "title": "DiffRF: Rendering-Guided 3D Radiance Field Diffusion"
+    },
+    "2306.14795": {
+        "arxivId": "2306.14795",
+        "title": "MotionGPT: Human Motion as a Foreign Language"
+    },
+    "2305.10431": {
+        "arxivId": "2305.10431",
+        "title": "FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention"
+    },
+    "2306.07954": {
+        "arxivId": "2306.07954",
+        "title": "Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation"
+    },
+    "2111.10337": {
+        "arxivId": "2111.10337",
+        "title": "Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions"
+    },
+    "2302.10109": {
+        "arxivId": "2302.10109",
+        "title": "NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion"
+    },
+    "2109.11418": {
+        "arxivId": "2109.11418",
+        "title": "Layered neural atlases for consistent video editing"
+    },
+    "2303.04761": {
+        "arxivId": "2303.04761",
+        "title": "Video-P2P: Video Editing with Cross-Attention Control"
+    },
+    "2301.07525": {
+        "arxivId": "2301.07525",
+        "title": "OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation"
+    },
+    "2303.01418": {
+        "arxivId": "2303.01418",
+        "title": "Human Motion Diffusion as a Generative Prior"
+    },
+    "2304.00186": {
+        "arxivId": "2304.00186",
+        "title": "Subject-driven Text-to-Image Generation via Apprenticeship Learning"
+    },
+    "2204.06950": {
+        "arxivId": "2204.06950",
+        "title": "BEHAVE: Dataset and Method for Tracking Human Object Interactions"
+    },
+    "1708.02136": {
+        "arxivId": "1708.02136",
+        "title": "MonoPerfCap"
+    },
+    "2303.11989": {
+        "arxivId": "2303.11989",
+        "title": "Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models"
+    },
+    "2303.09522": {
+        "arxivId": "2303.09522",
+        "title": "P+: Extended Textual Conditioning in Text-to-Image Generation"
+    },
+    "2303.05371": {
+        "arxivId": "2303.05371",
+        "title": "3DGen: Triplane Latent Diffusion for Textured Mesh Generation"
+    },
+    "2302.07685": {
+        "arxivId": "2302.07685",
+        "title": "Video Probabilistic Diffusion Models in Projected Latent Space"
+    },
+    "2305.16311": {
+        "arxivId": "2305.16311",
+        "title": "Break-A-Scene: Extracting Multiple Concepts from a Single Image"
+    },
+    "2212.04495": {
+        "arxivId": "2212.04495",
+        "title": "MoFusion: A Framework for Denoising-Diffusion-Based Motion Synthesis"
+    },
+    "2212.05171": {
+        "arxivId": "2212.05171",
+        "title": "ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding"
+    },
+    "2105.01794": {
+        "arxivId": "2105.01794",
+        "title": "Real-time deep dynamic characters"
+    },
+    "2211.11610": {
+        "arxivId": "2211.11610",
+        "title": "Tensor4D: Efficient Neural 4D Decomposition for High-Fidelity Dynamic Reconstruction and Rendering"
+    },
+    "2211.09869": {
+        "arxivId": "2211.09869",
+        "title": "RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation"
+    },
+    "2207.13751": {
+        "arxivId": "2207.13751",
+        "title": "GAUDI: A Neural Architect for Immersive 3D Scene Generation"
+    },
+    "2012.09855": {
+        "arxivId": "2012.09855",
+        "title": "Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image"
+    },
+    "2304.06714": {
+        "arxivId": "2304.06714",
+        "title": "Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction"
+    },
+    "2211.12446": {
+        "arxivId": "2211.12446",
+        "title": "EDICT: Exact Diffusion Inversion via Coupled Transformations"
+    },
+    "2307.06949": {
+        "arxivId": "2307.06949",
+        "title": "HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models"
+    },
+    "2111.08897": {
+        "arxivId": "2111.08897",
+        "title": "ARKitScenes: A Diverse Real-World Dataset For 3D Indoor Scene Understanding Using Mobile RGB-D Data"
+    },
+    "2106.02019": {
+        "arxivId": "2106.02019",
+        "title": "Neural actor"
+    },
+    "2306.14435": {
+        "arxivId": "2306.14435",
+        "title": "DragDiffusion: Harnessing Diffusion Models for Interactive Point-Based Image Editing"
+    },
+    "2103.17265": {
+        "arxivId": "2103.17265",
+        "title": "Human POSEitioning System (HPS): 3D Human Pose Estimation and Self-localization in Large Scenes from Body-Mounted Sensors"
+    },
+    "1906.03173": {
+        "arxivId": "1906.03173",
+        "title": "Ego-Pose Estimation and Forecasting As Real-Time PD Control"
+    },
+    "2301.11445": {
+        "arxivId": "2301.11445",
+        "title": "3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models"
+    },
+    "2211.09707": {
+        "arxivId": "2211.09707",
+        "title": "Listen, Denoise, Action! Audio-Driven Motion Synthesis with Diffusion Models"
+    },
+    "2301.11280": {
+        "arxivId": "2301.11280",
+        "title": "Text-To-4D Dynamic Scene Generation"
+    },
+    "2204.11824": {
+        "arxivId": "2204.11824",
+        "title": "Retrieval-Augmented Diffusion Models"
+    },
+    "2305.18292": {
+        "arxivId": "2305.18292",
+        "title": "Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models"
+    },
+    "2304.00916": {
+        "arxivId": "2304.00916",
+        "title": "DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models"
+    },
+    "2204.13662": {
+        "arxivId": "2204.13662",
+        "title": "ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation"
+    },
+    "2108.10842": {
+        "arxivId": "2108.10842",
+        "title": "imGHUM: Implicit Generative Models of 3D Human Shape and Articulated Pose"
+    },
+    "2305.13840": {
+        "arxivId": "2305.13840",
+        "title": "Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models"
+    },
+    "2206.14314": {
+        "arxivId": "2206.14314",
+        "title": "Generative Neural Articulated Radiance Fields"
+    },
+    "2105.02976": {
+        "arxivId": "2105.02976",
+        "title": "LASR: Learning Articulated Shape Reconstruction from a Monocular Video"
+    },
+    "2303.14613": {
+        "arxivId": "2303.14613",
+        "title": "GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents"
+    },
+    "2306.00980": {
+        "arxivId": "2306.00980",
+        "title": "SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds"
+    },
+    "2209.08725": {
+        "arxivId": "2209.08725",
+        "title": "Neural Wavelet-domain Diffusion for 3D Shape Generation"
+    },
+    "2308.11417": {
+        "arxivId": "2308.11417",
+        "title": "ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes"
+    },
+    "2212.03293": {
+        "arxivId": "2212.03293",
+        "title": "Diffusion-SDF: Text-to-Shape via Voxelized Diffusion"
+    },
+    "2307.02421": {
+        "arxivId": "2307.02421",
+        "title": "DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models"
+    },
+    "2306.00983": {
+        "arxivId": "2306.00983",
+        "title": "StyleDrop: Text-to-Image Generation in Any Style"
+    },
+    "2303.16509": {
+        "arxivId": "2303.16509",
+        "title": "HOLODIFFUSION: Training a 3D Diffusion Model Using 2D Images"
+    },
+    "2303.17015": {
+        "arxivId": "2303.17015",
+        "title": "HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion"
+    },
+    "2306.13455": {
+        "arxivId": "2306.13455",
+        "title": "DreamEditor: Text-Driven 3D Scene Editing with Neural Fields"
+    },
+    "2304.06025": {
+        "arxivId": "2304.06025",
+        "title": "DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion"
+    },
+    "1912.04302": {
+        "arxivId": "1912.04302",
+        "title": "DeepDeform: Learning Non-Rigid RGB-D Reconstruction With Semi-Supervised Data"
+    },
+    "2304.02642": {
+        "arxivId": "2304.02642",
+        "title": "Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models"
+    },
+    "2105.01905": {
+        "arxivId": "2105.01905",
+        "title": "4DComplete: Non-Rigid Motion Estimation Beyond the Observable Surface"
+    },
+    "2102.06837": {
+        "arxivId": "2102.06837",
+        "title": "Learning Speech-driven 3D Conversational Gestures from Video"
+    },
+    "2305.04461": {
+        "arxivId": "2305.04461",
+        "title": "Locally Attentional SDF Diffusion for Controllable 3D Shape Generation"
+    },
+    "2302.01133": {
+        "arxivId": "2302.01133",
+        "title": "SceneScape: Text-Driven Consistent Scene Generation"
+    },
+    "2207.10662": {
+        "arxivId": "2207.10662",
+        "title": "Generalizable Patch-Based Neural Rendering"
+    },
+    "2305.06356": {
+        "arxivId": "2305.06356",
+        "title": "HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion"
+    },
+    "2206.03429": {
+        "arxivId": "2206.03429",
+        "title": "Generating Long Videos of Dynamic Scenes"
+    },
+    "1905.02925": {
+        "arxivId": "1905.02925",
+        "title": "Shapeglot: Learning Language for Shape Differentiation"
+    },
+    "2306.07881": {
+        "arxivId": "2306.07881",
+        "title": "Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data"
+    },
+    "2304.01893": {
+        "arxivId": "2304.01893",
+        "title": "Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion"
+    },
+    "2304.07090": {
+        "arxivId": "2304.07090",
+        "title": "Delta Denoising Score"
+    },
+    "2303.12218": {
+        "arxivId": "2303.12218",
+        "title": "Compositional 3D Scene Generation using Locally Conditioned Diffusion"
+    },
+    "2302.12228": {
+        "arxivId": "2302.12228",
+        "title": "Designing an Encoder for Fast Personalization of Text-to-Image Models"
+    },
+    "2308.10899": {
+        "arxivId": "2308.10899",
+        "title": "TADA! Text to Animatable Digital Avatars"
+    },
+    "2306.11719": {
+        "arxivId": "2306.11719",
+        "title": "Diffusion with Forward Models: Solving Stochastic Inverse Problems Without Direct Supervision"
+    },
+    "2304.03117": {
+        "arxivId": "2304.03117",
+        "title": "DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance"
+    },
+    "2306.09329": {
+        "arxivId": "2306.09329",
+        "title": "DreamHuman: Animatable 3D Avatars from Text"
+    },
+    "2112.07642": {
+        "arxivId": "2112.07642",
+        "title": "EgoBody: Human Body Shape and Motion of Interacting People from Head-Mounted Devices"
+    },
+    "2304.05684": {
+        "arxivId": "2304.05684",
+        "title": "InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions"
+    },
+    "2307.00818": {
+        "arxivId": "2307.00818",
+        "title": "Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset"
+    },
+    "2303.17606": {
+        "arxivId": "2303.17606",
+        "title": "AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control"
+    },
+    "2211.12497": {
+        "arxivId": "2211.12497",
+        "title": "MagicPony: Learning Articulated 3D Animals in the Wild"
+    },
+    "2308.07926": {
+        "arxivId": "2308.07926",
+        "title": "CoDeF: Content Deformation Fields for Temporally Consistent Video Processing"
+    },
+    "2306.09344": {
+        "arxivId": "2306.09344",
+        "title": "DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data"
+    },
+    "2303.12048": {
+        "arxivId": "2303.12048",
+        "title": "Vox-E: Text-guided Voxel Editing of 3D Objects"
+    },
+    "2309.16237": {
+        "arxivId": "2309.16237",
+        "title": "Object Motion Guided Human Motion Synthesis"
+    },
+    "2303.04248": {
+        "arxivId": "2303.04248",
+        "title": "TRACT: Denoising Diffusion Models with Transitive Closure Time-Distillation"
+    },
+    "2204.07151": {
+        "arxivId": "2204.07151",
+        "title": "Deformable Sprites for Unsupervised Video Decomposition"
+    },
+    "2305.03027": {
+        "arxivId": "2305.03027",
+        "title": "NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads"
+    },
+    "2304.08577": {
+        "arxivId": "2304.08577",
+        "title": "Avatars Grow Legs: Generating Smooth Human Motion from Sparse Tracking Inputs with Diffusion Model"
+    },
+    "2204.09443": {
+        "arxivId": "2204.09443",
+        "title": "GIMO: Gaze-Informed Human Motion Prediction in Context"
+    },
+    "2105.09266": {
+        "arxivId": "2105.09266",
+        "title": "Copyright in generative deep learning"
+    },
+    "2107.12514": {
+        "arxivId": "2107.12514",
+        "title": "Language Grounding with 3D Objects"
+    },
+    "2304.09787": {
+        "arxivId": "2304.09787",
+        "title": "NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models"
+    },
+    "2207.11148": {
+        "arxivId": "2207.11148",
+        "title": "InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images"
+    },
+    "2305.06131": {
+        "arxivId": "2305.06131",
+        "title": "Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era"
+    },
+    "2305.04919": {
+        "arxivId": "2305.04919",
+        "title": "DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models"
+    },
+    "2309.00398": {
+        "arxivId": "2309.00398",
+        "title": "VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation"
+    },
+    "2211.01427": {
+        "arxivId": "2211.01427",
+        "title": "CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language"
+    },
+    "2207.03434": {
+        "arxivId": "2207.03434",
+        "title": "LASSIE: Learning Articulated Shapes from Sparse Image Ensemble via 3D Part Discovery"
+    },
+    "2308.14749": {
+        "arxivId": "2308.14749",
+        "title": "MagicEdit: High-Fidelity and Temporally Coherent Video Editing"
+    },
+    "2303.17550": {
+        "arxivId": "2303.17550",
+        "title": "DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder"
+    },
+    "2210.15663": {
+        "arxivId": "2210.15663",
+        "title": "Deep Generative Models on 3D Representations: A Survey"
+    },
+    "2309.11306": {
+        "arxivId": "2309.11306",
+        "title": "FaceDiffuser: Speech-Driven 3D Facial Animation Synthesis Using Diffusion"
+    },
+    "2307.07511": {
+        "arxivId": "2307.07511",
+        "title": "NIFTY: Neural Object Interaction Fields for Guided Human Motion Synthesis"
+    },
+    "2301.13173": {
+        "arxivId": "2301.13173",
+        "title": "Shape-Aware Text-Driven Layered Video Editing"
+    },
+    "2309.07906": {
+        "arxivId": "2309.07906",
+        "title": "Generative Image Dynamics"
+    },
+    "2305.20082": {
+        "arxivId": "2305.20082",
+        "title": "Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor"
+    },
+    "2306.17115": {
+        "arxivId": "2306.17115",
+        "title": "Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation"
+    },
+    "2212.02761": {
+        "arxivId": "2212.02761",
+        "title": "Learning Neural Parametric Head Models"
+    },
+    "2303.17912": {
+        "arxivId": "2303.17912",
+        "title": "CIRCLE: Capture In Rich Contextual Environments"
+    },
+    "2110.04955": {
+        "arxivId": "2110.04955",
+        "title": "BuildingNet: Learning to Label 3D Buildings"
+    },
+    "2309.16668": {
+        "arxivId": "2309.16668",
+        "title": "RealFill: Reference-Driven Generation for Authentic Image Completion"
+    },
+    "2304.06700": {
+        "arxivId": "2304.06700",
+        "title": "Control3Diff: Learning Controllable 3D Diffusion Models from Single-view Images"
+    },
+    "2112.13592": {
+        "arxivId": "2112.13592",
+        "title": "Multimodal Image Synthesis and Editing: The Generative AI Era"
+    },
+    "2112.06390": {
+        "arxivId": "2112.06390",
+        "title": "PartGlot: Learning Shape Part Segmentation from Language Reference Games"
+    },
+    "2308.14244": {
+        "arxivId": "2308.14244",
+        "title": "HoloFusion: Towards Photo-realistic 3D Generative Modeling"
+    },
+    "2103.12975": {
+        "arxivId": "2103.12975",
+        "title": "VLGrammar: Grounded Grammar Induction of Vision and Language"
+    },
+    "2309.07125": {
+        "arxivId": "2309.07125",
+        "title": "TECA: Text-Guided Generation and Editing of Compositional 3D Avatars"
+    },
+    "2301.10047": {
+        "arxivId": "2301.10047",
+        "title": "DiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model"
+    },
+    "2306.00547": {
+        "arxivId": "2306.00547",
+        "title": "AvatarStudio: Text-Driven Editing of 3D Dynamic Human Head Avatars"
+    },
+    "2207.02363": {
+        "arxivId": "2207.02363",
+        "title": "SNeRF"
+    },
+    "2308.14078": {
+        "arxivId": "2308.14078",
+        "title": "Sparse3D: Distilling Multiview-Consistent Diffusion for Object Reconstruction from Sparse Views"
+    },
+    "2301.06782": {
+        "arxivId": "2301.06782",
+        "title": "A Large-Scale Outdoor Multi-modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction"
+    },
+    "2309.05455": {
+        "arxivId": "2309.05455",
+        "title": "Diffusion-Based Co-Speech Gesture Generation Using Joint Text and Audio Representation"
+    },
+    "2306.04619": {
+        "arxivId": "2306.04619",
+        "title": "ARTIC3D: Learning Robust Articulated 3D Shapes from Noisy Web Image Collections"
+    },
+    "2204.03648": {
+        "arxivId": "2204.03648",
+        "title": "SunStage: Portrait Reconstruction and Relighting Using the Sun as a Light Stage"
+    },
+    "2005.10360": {
+        "arxivId": "2005.10360",
+        "title": "Videoforensicshq: Detecting High-Quality Manipulated Face Videos"
+    },
+    "2307.15042": {
+        "arxivId": "2307.15042",
+        "title": "TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis"
+    },
+    "2203.01914": {
+        "arxivId": "2203.01914",
+        "title": "Playable Environments: Video Manipulation in Space and Time"
+    },
+    "2306.11496": {
+        "arxivId": "2306.11496",
+        "title": "EMoG: Synthesizing Emotive Co-speech 3D Gesture with Diffusion Model"
+    },
+    "2211.12131": {
+        "arxivId": "2211.12131",
+        "title": "DiffDreamer: Towards Consistent Unsupervised Single-view Scene Extrapolation with Conditional Diffusion Models"
+    },
+    "2308.10257": {
+        "arxivId": "2308.10257",
+        "title": "Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image"
+    },
+    "2305.16315": {
+        "arxivId": "2305.16315",
+        "title": "NAP: Neural 3D Articulation Prior"
+    },
+    "2303.16611": {
+        "arxivId": "2303.16611",
+        "title": "4D Facial Expression Diffusion Model"
+    },
+    "1106.1813": {
+        "arxivId": "1106.1813",
+        "title": "SMOTE: Synthetic Minority Over-sampling Technique"
+    },
+    "1510.00149": {
+        "arxivId": "1510.00149",
+        "title": "Deep Compression: Compressing Deep Neural Network with Pruning, Trained Quantization and Huffman Coding"
+    },
+    "1712.05877": {
+        "arxivId": "1712.05877",
+        "title": "Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference"
+    },
+    "1807.10225": {
+        "arxivId": "1807.10225",
+        "title": "Medical Image Synthesis for Data Augmentation and Anonymization using Generative Adversarial Networks"
+    },
+    "2303.16203": {
+        "arxivId": "2303.16203",
+        "title": "Your Diffusion Model is Secretly a Zero-Shot Classifier"
+    },
+    "2207.00050": {
+        "arxivId": "2207.00050",
+        "title": "Semantic Image Synthesis via Diffusion Models"
+    },
+    "2303.09833": {
+        "arxivId": "2303.09833",
+        "title": "FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model"
+    },
+    "2306.00306": {
+        "arxivId": "2306.00306",
+        "title": "Low-Light Image Enhancement with Wavelet-Based Diffusion Models"
+    },
+    "2212.03099": {
+        "arxivId": "2212.03099",
+        "title": "Semantic-Conditional Diffusion Networks for Image Captioning*"
+    },
+    "2305.03382": {
+        "arxivId": "2305.03382",
+        "title": "Guided Image Synthesis via Initial Image Editing in Diffusion Model"
+    },
+    "2304.10700": {
+        "arxivId": "2304.10700",
+        "title": "Long-Term Photometric Consistent Novel View Synthesis with Diffusion Models"
+    },
+    "2208.00542": {
+        "arxivId": "2208.00542",
+        "title": "DeScoD-ECG: Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal"
+    },
+    "2305.03892": {
+        "arxivId": "2305.03892",
+        "title": "DocDiff: Document Enhancement via Residual Diffusion Models"
+    },
+    "2308.06725": {
+        "arxivId": "2308.06725",
+        "title": "CLE Diffusion: Controllable Light Enhancement Diffusion Model"
+    },
+    "2311.00932": {
+        "arxivId": "2311.00932",
+        "title": "Toward High-Quality HDR Deghosting With Conditional Diffusion Models"
+    },
+    "2212.08034": {
+        "arxivId": "2212.08034",
+        "title": "Generating Realistic Brain MRIs via a Conditional Diffusion Probabilistic Model"
+    },
+    "2310.14197": {
+        "arxivId": "2310.14197",
+        "title": "Diffusion-Based Data Augmentation for Nuclei Image Segmentation"
+    },
+    "2304.04429": {
+        "arxivId": "2304.04429",
+        "title": "BerDiff: Conditional Bernoulli Diffusion Model for Medical Image Segmentation"
+    },
+    "2303.13933": {
+        "arxivId": "2303.13933",
+        "title": "DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution"
+    },
+    "2406.06539": {
+        "arxivId": "2406.06539",
+        "title": "MatFusion: A Generative Diffusion Model for SVBRDF Capture"
+    },
+    "2307.06272": {
+        "arxivId": "2307.06272",
+        "title": "Exposing the Fake: Effective Diffusion-Generated Images Detection"
+    },
+    "2303.15288": {
+        "arxivId": "2303.15288",
+        "title": "Memory-Efficient 3D Denoising Diffusion Models for Medical Image Processing"
+    },
+    "2306.09635": {
+        "arxivId": "2306.09635",
+        "title": "CLIPSonic: Text-to-Audio Synthesis with Unlabeled Videos and Pretrained Language-Vision Models"
+    },
+    "2303.11477": {
+        "arxivId": "2303.11477",
+        "title": "NASDM: Nuclei-Aware Semantic Histopathology Image Generation Using Diffusion Models"
+    },
+    "2308.02552": {
+        "arxivId": "2308.02552",
+        "title": "Degeneration-Tuning: Using Scrambled Grid shield Unwanted Concepts from Stable Diffusion"
+    },
+    "2306.07526": {
+        "arxivId": "2306.07526",
+        "title": "User-defined Event Sampling and Uncertainty Quantification in Diffusion Models for Physical Dynamical Systems"
+    },
+    "2308.06564": {
+        "arxivId": "2308.06564",
+        "title": "EquiDiff: A Conditional Equivariant Diffusion Model For Trajectory Prediction"
+    },
+    "2305.09241": {
+        "arxivId": "2305.09241",
+        "title": "Unlearnable Examples Give a False Sense of Security: Piercing through Unexploitable Data with Learnable Examples"
+    },
+    "2303.13006": {
+        "arxivId": "2303.13006",
+        "title": "Controllable Inversion of Black-Box Face Recognition Models via Diffusion"
+    },
+    "2002.05709": {
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations"
+    },
+    "1511.06434": {
+        "arxivId": "1511.06434",
+        "title": "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks"
+    },
+    "1612.00593": {
+        "arxivId": "1612.00593",
+        "title": "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation"
+    },
+    "1206.5538": {
+        "arxivId": "1206.5538",
+        "title": "Representation Learning: A Review and New Perspectives"
+    },
+    "1908.10084": {
+        "arxivId": "1908.10084",
+        "title": "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks"
+    },
+    "1807.03748": {
+        "arxivId": "1807.03748",
+        "title": "Representation Learning with Contrastive Predictive Coding"
+    },
+    "1606.06650": {
+        "arxivId": "1606.06650",
+        "title": "3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation"
+    },
+    "1703.10593": {
+        "arxivId": "1703.10593",
+        "title": "Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks"
+    },
+    "2006.09882": {
+        "arxivId": "2006.09882",
+        "title": "Unsupervised Learning of Visual Features by Contrasting Cluster Assignments"
+    },
+    "1809.00219": {
+        "arxivId": "1809.00219",
+        "title": "ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks"
+    },
+    "1611.06612": {
+        "arxivId": "1611.06612",
+        "title": "RefineNet: Multi-path Refinement Networks for High-Resolution Semantic Segmentation"
+    },
+    "1610.02242": {
+        "arxivId": "1610.02242",
+        "title": "Temporal Ensembling for Semi-Supervised Learning"
+    },
+    "1606.05328": {
+        "arxivId": "1606.05328",
+        "title": "Conditional Image Generation with PixelCNN Decoders"
+    },
+    "1701.04862": {
+        "arxivId": "1701.04862",
+        "title": "Towards Principled Methods for Training Generative Adversarial Networks"
+    },
+    "1703.01780": {
+        "arxivId": "1703.01780",
+        "title": "Weight-averaged consistency targets improve semi-supervised deep learning results"
+    },
+    "1907.10786": {
+        "arxivId": "1907.10786",
+        "title": "Interpreting the Latent Space of GANs for Semantic Face Editing"
+    },
+    "2003.14053": {
+        "arxivId": "2003.14053",
+        "title": "Inverting Gradients - How easy is it to break privacy in federated learning?"
+    },
+    "2112.04426": {
+        "arxivId": "2112.04426",
+        "title": "Improving language models by retrieving from trillions of tokens"
+    },
+    "1802.02604": {
+        "arxivId": "1802.02604",
+        "title": "An Unsupervised Learning Model for Deformable Medical Image Registration"
+    },
+    "1610.04490": {
+        "arxivId": "1610.04490",
+        "title": "Amortised MAP Inference for Image Super-resolution"
+    },
+    "1812.04960": {
+        "arxivId": "1812.04960",
+        "title": "Object-Centric Auto-Encoders and Dummy Anomalies for Abnormal Event Detection in Video"
+    },
+    "2001.01328": {
+        "arxivId": "2001.01328",
+        "title": "Scalable Gradients for Stochastic Differential Equations"
+    },
+    "2112.05744": {
+        "arxivId": "2112.05744",
+        "title": "More Control for Free! Image Synthesis with Semantic Diffusion Guidance"
+    },
+    "2105.14951": {
+        "arxivId": "2105.14951",
+        "title": "SNIPS: Solving Noisy Inverse Problems Stochastically"
+    },
+    "2207.14626": {
+        "arxivId": "2207.14626",
+        "title": "Restoring Vision in Adverse Weather Conditions With Patch-Based Denoising Diffusion Models"
+    },
+    "2104.05358": {
+        "arxivId": "2104.05358",
+        "title": "UNIT-DDPM: UNpaired Image Translation with Denoising Diffusion Probabilistic Models"
+    },
+    "2108.08827": {
+        "arxivId": "2108.08827",
+        "title": "ImageBART: Bidirectional Context with Multinomial Diffusion for Autoregressive Image Synthesis"
+    },
+    "2106.06819": {
+        "arxivId": "2106.06819",
+        "title": "D2C: Diffusion-Decoding Models for Few-Shot Conditional Generation"
+    },
+    "2206.03461": {
+        "arxivId": "2206.03461",
+        "title": "Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models"
+    },
+    "2106.10410": {
+        "arxivId": "2106.10410",
+        "title": "Deep Generative Learning via Schr\u00f6dinger Bridge"
+    },
+    "2207.13038": {
+        "arxivId": "2207.13038",
+        "title": "Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models"
+    },
+    "2110.03237": {
+        "arxivId": "2110.03237",
+        "title": "Score-based Generative Neural Networks for Large-Scale Optimal Transport"
+    },
+    "2112.09164": {
+        "arxivId": "2112.09164",
+        "title": "High Fidelity Visualization of What Your Self-Supervised Representation Knows About"
+    },
+    "2108.11514": {
+        "arxivId": "2108.11514",
+        "title": "Bilateral Denoising Diffusion Models"
+    },
+    "2203.15636": {
+        "arxivId": "2203.15636",
+        "title": "Diffusion Models for Counterfactual Explanations"
+    },
+    "2204.02641": {
+        "arxivId": "2204.02641",
+        "title": "The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models"
+    },
+    "2201.11760": {
+        "arxivId": "2201.11760",
+        "title": "Unsupervised denoising of retinal OCT with diffusion probabilistic model"
+    },
+    "2206.00386": {
+        "arxivId": "2206.00386",
+        "title": "DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder"
+    },
+    "2010.08029": {
+        "arxivId": "2010.08029",
+        "title": "Non-saturating GAN training as divergence minimization"
+    },
+    "2205.07680": {
+        "arxivId": "2205.07680",
+        "title": "VQBB: Image-to-image Translation with Vector Quantized Brownian Bridge"
+    },
+    "2206.04029": {
+        "arxivId": "2206.04029",
+        "title": "Accelerating Score-based Generative Models for High-Resolution Image Synthesis"
+    },
+    "2205.03859": {
+        "arxivId": "2205.03859",
+        "title": "On Conditioning the Input Noise for Controlled Image Generation with Diffusion Models"
+    },
+    "2112.09788": {
+        "arxivId": "2112.09788",
+        "title": "Heavy-tailed denoising score matching"
+    }
+}
