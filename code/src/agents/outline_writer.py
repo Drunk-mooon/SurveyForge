@@ -38,14 +38,14 @@ class outlineWriter():
                                                            arxivid_period)
         rag_outline_subset_ids = self.db["rag_outline"].retrieve_id(topic, 
                                                                     top_k=reference_num,
-                                                                    **rag_outline_subset_index_filter)
+                                                                    **rag_outline_subset_index_filter)  #yzy: 用topic检索survey outline数据
         references_infos = self.db["paper"].get_paper_info_from_ids(rag_outline_subset_ids)
 
         references_titles = [r['title'] for r in references_infos]
         references_date = [r['date'] for r in references_infos]
         references_abs = [r['abs'] for r in references_infos]
 
-        references_survey_ids = self.db["survey"].get_ids_from_query(topic, num = 20, shuffle = False)
+        references_survey_ids = self.db["survey"].get_ids_from_query(topic, num = 20, shuffle = False) #yzy: 用topic检索参考文章数据
         references_survey_infos = self.db["survey"].get_paper_info_from_ids(references_survey_ids)
 
 
@@ -79,7 +79,7 @@ class outlineWriter():
                 json.dump(outlines, f)
 
         # merge outline
-        references_survey_ids = self.db["survey"].get_ids_from_query(topic, num = 10, shuffle = False)
+        references_survey_ids = self.db["survey"].get_ids_from_query(topic, num = 10, shuffle = False) #yzy: 用topic检索survey outline数据，用于merge section-level的outline
         references_survey_infos = self.db["survey"].get_paper_info_from_ids(references_survey_ids)
 
         # choose the first 5 survey papers
@@ -117,6 +117,7 @@ class outlineWriter():
             with open(f"{self.args.saving_path}/2-Merged_outlines.txt", "r") as f:
                 section_outline = f.read().strip()
 
+        # yzy: 这里的输入数据看似跟之前一样，实际上在下面的函数中会进行重新检索（按照论文中所说，依照section的description进行检索）
         subsection_outlines = self.generate_subsection_outlines_with_survey(topic=topic, section_outline= section_outline,rag_num= 50, references_survey_titles=references_survey_titles, references_survey_abs=references_survey_abs,references_survey_date=references_survey_date, references_survey_outlines=references_survey_outlines)
         
         # Process introduction and conclusion
