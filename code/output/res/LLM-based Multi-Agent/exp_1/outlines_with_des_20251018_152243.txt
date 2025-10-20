@@ -1,0 +1,254 @@
+# Survey on Large Language Model-based Multi-Agent Systems
+
+## 1 Introduction
+Description: This section provides the foundational context and motivation for studying Large Language Model (LLM)-based multi-agent systems. It covers the evolution from standalone LLMs and single-agent systems to current advancements in multi-agent systems, highlighting their importance and research objectives.
+1. Evolution of Multi-Agent Systems: Tracing the transition from single-agent systems to multi-agent systems and the integration of LLMs.
+2. Importance of LLMs in Multi-Agent Systems: Clarifying the role and significance of Large Language Models in enhancing multi-agent system capabilities.
+3. Scope and Objectives: Outlining the goals and structure of the survey to provide a comprehensive review of the current state and future directions in the field.
+
+## 2 Fundamental Concepts and Theoretical Foundations
+Description: This section delves into the essential theories, definitions, and algorithms that form the basis of LLM-based multi-agent systems. It aims to arm the reader with the necessary theoretical understanding of these systems.
+1. Key Definitions and Terminology: Defining critical terms such as "multi-agent systems," "Large Language Models," and "autonomous agents."
+2. Theoretical Frameworks: Explaining the main theoretical models and frameworks that underpin the design and function of multi-agent systems.
+3. Core Algorithms: Discussing primary algorithms and methodologies used in decision-making, planning, and coordination within these systems.
+
+### 2.1 Key Definitions and Terminology
+Description: This subsection establishes fundamental definitions and terminology crucial for understanding LLM-based multi-agent systems. It aims to provide readers with a clear grasp of foundational concepts.
+1. Multi-Agent Systems: Defining a system where multiple autonomous agents interact within an environment to achieve individual or collective goals, emphasizing their coordination, communication, and collaboration aspects.
+2. Large Language Models (LLMs): Describing large-scale artificial intelligence models trained on vast datasets to understand and generate human language, highlighting their importance in multi-agent environments.
+3. Autonomous Agents: Defining entities capable of making independent decisions based on their perception of the environment, encompassing both human and artificial agents.
+
+### 2.2 Theoretical Frameworks
+Description: This subsection explores the principal theoretical models and frameworks that guide the design and functionality of LLM-based multi-agent systems, providing a conceptual structure for research and development.
+1. Agent-Based Modeling (ABM): Discussing the ABM approach for simulating interactions among agents, emphasizing emergent phenomena in complex systems and integrating LLMs to enhance agent behaviors and interactions.
+2. Game Theory: Explaining the application of game theory in modeling strategic interactions among rational agents, which helps in decision-making and policy formulation within multi-agent systems.
+3. Social Choice Theory: Addressing how social choice theory frameworks facilitate collective decision-making and preference aggregation, ensuring fair and optimal outcomes in multi-agent systems.
+
+### 2.3 Core Algorithms
+Description: This subsection highlights essential algorithms and methodologies employed in LLM-based multi-agent systems to enable effective decision-making, planning, and coordination.
+1. Reinforcement Learning (RL): Examining RL algorithms used for training agents to optimize their actions based on environmental feedback, particularly focusing on multi-agent reinforcement learning (MARL) scenarios.
+2. Monte Carlo Tree Search (MCTS): Discussing the use of MCTS in sequential decision processes, where it helps in planning by simulating various potential future actions and their outcomes.
+3. Coordination Algorithms: Exploring algorithms designed to manage the interactions and dependencies among multiple agents, such as the Max-Plus algorithm for dynamic coordination and strategies for minimizing conflicts in task allocation.
+
+### 2.4 Interaction Protocols and Communication Mechanisms
+Description: This subsection investigates the methods and protocols that facilitate interaction and communication between agents in an LLM-based multi-agent system, ensuring coherent and efficient collaboration.
+1. Agent Communication Languages: Reviewing standardized languages such as the Knowledge Query and Manipulation Language (KQML) and the Foundation for Intelligent Physical Agents (FIPA) protocols that enable structured agent communication.
+2. Dialog Systems: Explaining the role of LLMs in enhancing dialog systems within multi-agent frameworks, enabling more natural and context-aware interactions among agents.
+3. Protocols for Cooperation and Negotiation: Delving into established protocols that support cooperation and negotiation among agents, such as Contract Net Protocol (CNP) and mechanisms for conflict resolution.
+
+### 2.5 Memory and Learning in Multi-Agent Systems
+Description: This subsection addresses how memory mechanisms and learning processes contribute to the adaptability and performance of agents within LLM-based multi-agent systems.
+1. Memory Mechanisms: Assessing different forms of agent memory, such as episodic and semantic memories, and their significance in retaining past interactions and experiences to inform future decisions.
+2. Continuous Learning: Covering approaches for lifelong and online learning in agents, allowing them to continually update their knowledge and skills based on new data and interactions.
+3. Sharing Knowledge: Discussing the importance of knowledge transfer and sharing among agents to enhance collective learning and performance, including federated learning and multi-agent knowledge aggregation techniques.
+
+### 2.6 Ethical and Social Considerations
+Description: This subsection examines the ethical and social dimensions associated with deploying LLM-based multi-agent systems, addressing potential risks and strategies for responsible development.
+1. Bias and Fairness: Exploring the challenges of biases in LLMs and the impact on decision-making and fairness in multi-agent interactions, along with mitigation strategies.
+2. Transparency and Accountability: Highlighting the importance of making agent behaviors and decision processes transparent and accountable to build trust and ensure ethical standards.
+3. Social Impact and Acceptance: Assessing the broader social implications of integrating multi-agent systems into various sectors, considering factors like user acceptance, societal benefits, and potential disruptions.
+
+## 3 Architecture and Design of LLM-based Multi-Agent Systems
+Description: This section explores the various architectural designs and components involved in developing LLM-based multi-agent systems. It looks at different models and their interaction mechanisms.
+1. Architectural Models: Reviewing centralized, decentralized, and hybrid architectural models.
+2. Key Design Components: Examining essential components such as perception, reasoning, memory, and action modules.
+3. Communication Mechanisms: Evaluating the protocols and mechanisms that enable effective interaction among agents.
+
+### 3.1 Architectural Models
+Description: This subsection reviews various architectural models used in LLM-based multi-agent systems, emphasizing centralized, decentralized, and hybrid arrangements.
+1. Centralized Architecture: Discussing systems where a central controller coordinates the actions and interactions of all agents.
+2. Decentralized Architecture: Exploring architectures where agents operate independently and interact without centralized control.
+3. Hybrid Architecture: Examining models that combine elements of both centralized and decentralized architectures to leverage their combined strengths.
+
+### 3.2 Key Design Components
+Description: This subsection examines the essential components within LLM-based multi-agent systems that enable perception, reasoning, memory, and actions.
+1. Perception Modules: Description of mechanisms that allow agents to interpret and understand their environment.
+2. Reasoning Components: Exploration of logic and decision-making processes within agents, including techniques for problem-solving and inference.
+3. Memory Systems: Understanding how agents store and retrieve knowledge, both short-term and long-term.
+4. Action Modules: Examining how agents execute decisions and interact with the environment effectively.
+
+### 3.3 Interaction Mechanisms
+Description: This subsection evaluates the protocols and mechanisms that facilitate effective communication and coordination among agents.
+1. Communication Protocols: Reviewing the languages and formats used for agent interaction, such as natural language, symbolic logic, and mixed modes.
+2. Coordination Techniques: Exploring methods like negotiation, consensus-building, and synchronized actions that help agents work together efficiently.
+3. Conflict Resolution: Discussing strategies and algorithms for managing disagreements and ensuring smooth functioning of multi-agent systems.
+
+### 3.4 Self-Adaptive Architecture
+Description: This subsection delves into architectures that enable agents to dynamically adjust their behavior and interactions in response to changing environments and conditions.
+1. Flexibility in Agent Behaviors: Exploring how agents can adapt their actions and decision-making processes based on real-time data.
+2. Dynamic Reconfiguration: Examining mechanisms by which agents can change their roles and interactions within the system when new conditions arise.
+3. Scalability: Discussing how self-adaptive architectures manage large numbers of agents and maintain efficiency.
+
+### 3.5 Multi-Agent System Frameworks
+Description: This subsection presents various frameworks developed for implementing LLM-based multi-agent systems, focusing on their features and functionalities.
+1. Development Platforms: Reviewing popular libraries and tools for building multi-agent systems, such as AgentLite and MegaAgent.
+2. Integration Techniques: Exploring methodologies for incorporating different agent components and ensuring seamless functionality.
+3. Evaluation Frameworks: Presenting frameworks for assessing agent effectiveness and efficiency in varied scenarios.
+
+### 3.6 Multi-Agent Collaboration Strategies
+Description: This subsection investigates strategies that facilitate cooperation among agents to achieve common goals and improve overall system performance.
+1. Collaborative Planning: Discussing techniques for joint task planning and execution among multiple agents.
+2. Role Assignment: Exploring how roles are dynamically assigned to agents based on their capabilities and the system’s needs.
+3. Information Sharing: Evaluating methods for effective distribution and sharing of data among agents to enhance decision-making and performance.
+
+## 4 Applications and Case Studies
+Description: This section provides insights into real-world applications and detailed case studies where LLM-based multi-agent systems have been implemented successfully, demonstrating their impact and practical relevance.
+1. Industry Applications: Discussing implementations in domains like software engineering, healthcare, finance, and other industries.
+2. Case Studies: Presenting detailed examinations of specific successful deployment cases.
+3. Emerging Applications: Exploring new and emerging areas of application for LLM-based multi-agent systems.
+
+### 4.1 Industry Applications
+Description: This subsection discusses the real-world implementations of LLM-based multi-agent systems across various industries, highlighting their distinctive features and benefits. The aim is to demonstrate the broad applicability and transformative potential of these technologies in enhancing industry-specific operations and outcomes.
+1. Software Engineering: Exploring the use of LLM-based multi-agent systems in automating various aspects of software engineering, such as code generation, debugging, issue resolution, and software maintenance.
+2. Healthcare: Analyzing applications in medical diagnostics, personalized treatment planning, healthcare management, and real-time patient monitoring using collaborative LLM-based agents.
+3. Finance: Investigating the deployment of LLM-based multi-agent systems for fraud detection, risk assessment, algorithmic trading, and customer service automation in financial institutions.
+4. Manufacturing: Reviewing the impact of these systems in manufacturing processes, including adaptive control systems, predictive maintenance, and quality assurance.
+
+### 4.2 Case Studies
+Description: This subsection focuses on detailed examinations of specific successful deployment cases of LLM-based multi-agent systems. Each case study presents the problem addressed, the solution implemented, the outcomes achieved, and lessons learned.
+1. Autonomous Software Debugging: Case study on using LLM-based agents for automated identification and resolution of software bugs in a large-scale software development project.
+2. Personalized Healthcare Solutions: Analysis of a healthcare provider using LLM-based agents to deliver personalized treatment plans, improving patient outcomes and operational efficiency.
+3. Financial Fraud Detection: Examination of a financial institution leveraging LLM-based multi-agent systems for real-time fraud detection, showing a significant reduction in fraudulent activities.
+4. Collaborative Robotics in Manufacturing: Detailed review of a manufacturing plant that employed LLM-based multi-agent systems to enhance robotic collaboration and streamline production processes.
+
+### 4.3 Emerging Applications
+Description: This subsection explores new and emerging areas where LLM-based multi-agent systems show significant potential for impactful applications. It identifies nascent trends and innovative uses that are paving the way for future advancements.
+1. Smart Infrastructure Management: Investigating the use of LLM-based agents in managing and optimizing smart infrastructure, including energy grids, transportation systems, and urban planning.
+2. Education and Training: Exploring how LLM-based multi-agent systems can enhance educational environments through personalized tutoring, simulation-based learning, and automated feedback mechanisms.
+3. Environmental Monitoring and Sustainability: Reviewing emerging applications in monitoring environmental conditions, managing natural resources, and promoting sustainable practices through intelligent agent collaboration.
+4. Human-Agent Collaboration in Creativity: Examining novel applications in creative fields such as art, music, and content creation, where LLM-based agents assist humans in generating innovative ideas and outputs.
+
+## 5 Evaluation of LLM-based Multi-Agent Systems
+Description: This section covers the methodologies and criteria used to evaluate the performance and effectiveness of LLM-based multi-agent systems. It includes discussions of benchmarks and performance metrics.
+1. Evaluation Criteria: Identifying and discussing key metrics and criteria for system evaluation.
+2. Benchmarking Datasets: Reviewing commonly used datasets for performance assessment.
+3. Performance Metrics: Explaining metrics like accuracy, efficiency, and scalability used in evaluations.
+
+### 5.1 Evaluation Criteria
+Description: This subsection identifies and discusses key metrics and criteria for evaluating the effectiveness and performance of LLM-based multi-agent systems, providing a foundation for structured assessment.
+1. Accuracy: Measurement of how well the multi-agent system performs assigned tasks correctly, ensuring results are precise and reliable.
+2. Efficiency: Evaluation of the system’s resource usage, including computational power and time required to complete tasks.
+3. Scalability: Assessment of the system’s ability to maintain performance levels when scaled up, involving more agents or larger datasets.
+4. Robustness: Examination of the system’s ability to remain stable and perform under varying and unexpected conditions.
+
+### 5.2 Benchmarking Datasets
+Description: This subsection reviews commonly used datasets for performance assessment in LLM-based multi-agent systems and highlights their relevance and application contexts.
+1. LLMArena: A dynamic benchmark encompassing seven gaming environments designed to test a broad range of capabilities from spatial reasoning to team collaboration.
+2. MobileAgentBench: A benchmark focused on the interaction of mobile agents with mobile phone GUIs, categorized by task difficulty levels to evaluate performance systematically.
+3. InfiAgent-DABench: A benchmark for data analysis tasks involving interaction with execution environments and evaluation via DAEval dataset.
+4. BenchMARL: A training library for standardized benchmarking across various reinforcement learning algorithms and models in multi-agent contexts.
+
+### 5.3 Performance Metrics
+Description: This subsection explains the metrics used to evaluate the performance of LLM-based multi-agent systems, detailing their significance and application.
+1. Trueskill Scoring: A system used in LLMArena to assess abilities such as strategic planning and team collaboration based on performance in dynamic environments.
+2. Success Rate: A metric used to measure the frequency at which agents successfully complete tasks, indicative of their reliability and effectiveness.
+3. Communication Efficiency: Evaluation of how effectively agents communicate within the system to coordinate actions and achieve objectives.
+4. Task Completion Time: Measurement of the total time taken for agents to complete their assigned tasks, reflecting the system's efficiency and optimization.
+
+### 5.4 Dynamic Evaluation Methods
+Description: This subsection explores advanced and dynamic methods for evaluating LLM-based multi-agent systems, focusing on continuous and adaptive assessment techniques.
+1. Self-Evolving Benchmarks: Frameworks that dynamically adapt evaluation scenarios based on the system’s performance, ensuring continuous improvement and adaptation.
+2. Longitudinal Studies: Studies that evaluate the performance of systems over extended periods, capturing evolving capabilities and long-term efficiency.
+3. Simulation-Based Evaluation: Use of simulated environments to mimic real-world conditions and assess system performance under controlled yet variable scenarios.
+4. Human-in-the-Loop Evaluation: Involving human evaluators in assessment to provide qualitative insights and ensure the system meets practical and user-oriented requirements.
+
+### 5.5 Interactive and Visual Evaluation Tools
+Description: This subsection describes tools and frameworks that aid in the interactive analysis and visualization of LLM-based multi-agent system behaviors and performance metrics.
+1. AgentLens: A visual analysis system for exploring and debugging agent behaviors within LLMAS, employing hierarchical summaries and causal tracing.
+2. ReDel Toolkit: A framework supporting interactive replay and event-based logging to visualize and debug recursive multi-agent system operations.
+3. Visualization Dashboards: Graphical interfaces that display real-time data on agent performance, interactions, and system health, facilitating monitoring and optimization.
+4. Agent Profiling Tools: Tools that generate detailed profiles of individual agents’ actions and interactions, allowing for targeted performance analysis and improvements.
+
+### 5.6 Real-World Performance and Reliability Testing
+Description: This subsection focuses on methodologies for testing the reliability and performance of LLM-based multi-agent systems in real-world applications and scenarios.
+1. Field Testing: Evaluating system performance in real-world conditions, assessing robustness, adaptability, and practical utility.
+2. Stress Testing: Subjecting the system to extreme conditions to test its limits and identify potential failure points and bottlenecks.
+3. Error Analysis: Systematic examination of performance errors to understand root causes and improve system reliability.
+4. User Feedback Integration: Collecting and integrating feedback from end-users to refine system performance according to real-world needs and expectations.
+
+## 6 Challenges and Issues
+Description: This section addresses the technical, ethical, and practical challenges faced in the development and deployment of LLM-based multi-agent systems. It discusses potential strategies for overcoming these obstacles.
+1. Technical Challenges: Exploring issues like scalability, robustness, and real-time processing.
+2. Ethical and Social Challenges: Examining concerns related to biases in LLMs, decision-making transparency, and social implications.
+3. Practical Implementation Issues: Analyzing challenges related to integrating multi-agent systems into existing infrastructures and workflows.
+
+### 6.1 Technical Challenges in LLM-based Multi-Agent Systems
+Description: This subsection explores the various technical barriers encountered during the development and deployment of Large Language Model-based multi-agent systems. It focuses on issues related to scalability, robustness, real-time processing, and efficiency.
+1. Scalability: Discussing the challenges in scaling multi-agent systems, including computational constraints and resource allocation for managing numerous agents.
+2. Robustness: Addressing issues related to the reliability and stability of LLM-based agents in diverse and unpredictable environments.
+3. Real-time Processing: Examining the difficulties in ensuring timely responses and actions from agents, crucial for applications requiring immediate interactions.
+4. Efficiency: Exploring optimization techniques needed to enhance the system's performance without compromising accuracy and reliability.
+
+### 6.2 Ethical and Social Challenges
+Description: This subsection delves into the ethical and social implications of deploying LLM-based multi-agent systems. It examines the potential biases within LLMs, issues of decision-making transparency, and broader societal impacts.
+1. Bias and Fairness: Analyzing the inherent biases present in LLMs and strategies for mitigating unfair outcomes in multi-agent interactions.
+2. Decision-making Transparency: Discussing the need for clear and understandable decision-making processes within agent systems to build trust with users.
+3. Social Implications: Evaluating how the deployment of multi-agent systems affects societal norms, job markets, human relationships, and user privacy.
+
+### 6.3 Practical Implementation Issues
+Description: This subsection investigates practical hurdles faced when integrating multi-agent systems into existing infrastructures and workflows. It highlights challenges related to software compatibility, user interfaces, and maintaining system integrity during updates.
+1. Integration with Existing Systems: Exploring difficulties in harmonizing new multi-agent systems with legacy infrastructure and software platforms.
+2. User Interface Design: Discussing how UI/UX considerations can impact the effectiveness of LLM-based agents and their adoption by end-users.
+3. System Maintenance and Updates: Addressing challenges in keeping the multi-agent system up-to-date while ensuring continuous and reliable operation.
+
+### 6.4 Security Challenges in Multi-Agent Systems
+Description: This subsection covers the security concerns associated with LLM-based multi-agent systems. It looks into vulnerabilities, potential attacks, and the necessity for robust defense mechanisms.
+1. Vulnerability Assessment: Identifying common security vulnerabilities within multi-agent systems and the risks they pose.
+2. Attack Surfaces: Discussing potential attack methods, such as backdoor attacks, that can compromise agent operations.
+3. Defense Mechanisms: Exploring strategies and solutions to enhance the security and resilience of multi-agent systems against various threats.
+
+### 6.5 Communication and Coordination Issues
+Description: This subsection examines the challenges in achieving effective communication and coordination among agents. It addresses issues related to protocol design, information exchange, and synchronizing agent actions.
+1. Communication Protocols: Discussing the intricacies of designing and implementing protocols for seamless agent interaction.
+2. Information Exchange: Exploring challenges in ensuring accurate and efficient information sharing between agents to optimize decision-making.
+3. Coordination Mechanisms: Examining methods for synchronizing agent actions to achieve collective goals without conflicts or redundancy.
+
+### 6.6 Evaluation and Benchmarking Challenges
+Description: This subsection focuses on the difficulties in properly evaluating and benchmarking the performance of LLM-based multi-agent systems. It outlines the need for comprehensive criteria, suitable datasets, and reliable metrics.
+1. Comprehensive Evaluation Criteria: Identifying key metrics and standards to effectively assess the performance of multi-agent systems.
+2. Benchmarking Datasets: Highlighting the importance of robust, realistic datasets for evaluating agent performance in diverse scenarios.
+3. Performance Metrics: Discussing suitable metrics such as accuracy, efficiency, scalability, and user satisfaction for comprehensive evaluations.
+
+## 7 Potential Gaps and Future Research Directions
+Description: This section identifies current gaps in research and explores future directions to advance the field of LLM-based multi-agent systems, encouraging innovative solutions and new areas of inquiry.
+1. Unexplored Research Areas: Highlighting underrepresented research areas and their importance.
+2. Future Technological Advancements: Speculating on potential advancements and their impact on the field.
+3. Long-term Research Directions: Suggesting broad, visionary research goals aimed at achieving significant breakthroughs.
+
+### 7.1 Unexplored Research Areas
+Description: This subsection highlights specific research areas within LLM-based multi-agent systems that remain underexplored yet hold significant potential for advancements in the field.
+1. **Self-Adaptive Systems**: Investigating the integration of LLMs with autonomic computing frameworks to create self-adaptive multi-agent systems capable of dynamic adjustment in response to environmental changes.
+2. **Interdisciplinary Science Modeling**: Exploring the application of LLM-based agents in modeling complex interdisciplinary collaborations and knowledge discovery processes.
+3. **Enhanced Real-Time Collaboration**: Examining how LLMs can improve real-time decision-making and collaboration in multi-agent settings, focusing on high-density and time-constrained environments like Multi-Agent Path Finding.
+
+### 7.2 Future Technological Advancements
+Description: This subsection speculates on future technological advancements that could significantly impact LLM-based multi-agent systems, aiming to inspire innovative research and application development.
+1. **Advanced Multi-Modal Agents**: Investigating the development of multi-modal agents utilizing LLMs to integrate visual, auditory, and textual data for richer interaction and more sophisticated behavior modeling.
+2. **Scalable Real-World Applications**: Exploring advancements in scalability and efficiency to enable the deployment of LLM-based multi-agent systems in real-world scenarios involving thousands of agents, such as national policy simulations and urban planning.
+3. **Enhanced Collaboration Mechanisms**: Developing new protocols and mechanisms for improved coordination and collaboration among agents, including spontaneous collaboration in competitive environments.
+
+### 7.3 Long-term Research Directions
+Description: This subsection suggests broad, visionary research goals aimed at achieving significant breakthroughs in the field of LLM-based multi-agent systems.
+1. **Towards Ubiquitous Intelligent Systems**: Envisioning the integration of LLM-based agents into everyday environments to create ubiquitous intelligent systems that enhance daily life, from personal assistants to smart city applications.
+2. **Normative Reasoning and Ethical AI**: Fostering the ability of LLM-based agents to understand and implement normative reasoning, ensuring ethical behavior and decision-making in diverse social and economic contexts.
+3. **Autonomous Science and Innovation**: Investigating the potential for LLM-based agents to autonomously conduct scientific research, generate hypotheses, and validate experimental results, driving advancements in various scientific disciplines.
+
+### 7.4 Addressing Current Challenges
+Description: This subsection addresses key technical and practical challenges faced by LLM-based multi-agent systems, proposing possible solutions and research directions to overcome these obstacles.
+1. **Handling Execution Uncertainty**: Developing methodologies to manage and mitigate uncertainties in agent execution, such as integrating more reliable kinodynamic models and prediction mechanisms.
+2. **Bias Mitigation and Transparency**: Exploring strategies to reduce biases in LLM outputs and enhance transparency in decision-making processes, ensuring fair and explainable AI systems.
+3. **Robust Security Mechanisms**: Enhancing the security of multi-agent systems by addressing vulnerabilities like manipulated knowledge spread and implementing robust defense protocols and fact-checking tools.
+
+### 7.5 Integration into Existing Infrastructures
+Description: This subsection analyzes challenges related to integrating LLM-based multi-agent systems into existing infrastructures and workflows, and how research can address these integration issues.
+1. **Legacy System Integration**: Investigating methods to seamlessly integrate LLM-based agents with legacy systems without significant overhauls, ensuring continuity and minimizing disruptions.
+2. **Data Interoperability and Standardization**: Developing standards for data interoperability to facilitate communication and data exchange between LLM-based multi-agent systems and existing platforms.
+3. **Cross-Domain Applications**: Exploring the application of LLM-based multi-agent systems across various domains such as healthcare, finance, and public administration, focusing on domain-specific integration challenges.
+
+## 8 Conclusion
+Description: This section summarizes the key findings from the survey, reiterates the importance of LLM-based multi-agent systems, and presents final insights and reflections on the future of the field.
+1. Summary of Key Findings: Recapping the main points and insights from the survey.
+2. Final Thoughts on the Future: Offering concluding reflections on the potential and future direction of LLM-based multi-agent systems.
+
+
+

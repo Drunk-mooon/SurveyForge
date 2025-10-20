@@ -52,7 +52,7 @@ def run_experiment(topic, exp_num, base_path):
         "--topic", topic,
         "--gpu", "0",
         "--saving_path", save_path,
-        "--model", "gpt-4o-mini",# "claude-3-5-sonnet-20241022"
+        "--model", "gpt-4o-2024-05-13",# "claude-3-5-sonnet-20241022"
         "--section_num", "7",
         "--subsection_len", "500",
         "--rag_num", "100",

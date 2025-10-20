@@ -1,37 +1,52 @@
-import requests
-import json
 import os
-import time
-import re
+import json
 import argparse
-from datetime import datetime
 import numpy as np
+from tqdm import trange,tqdm
+import threading
+from src.model import APIModel
+from src.utils import tokenCounter
+from src.database import database
+from src.agents.judge import Judge
+from tqdm import tqdm
+import time
+##yzy: surveyForge eval library
+import requests
+import re
+from datetime import datetime
 
-def parse_args():
-    """Parse command line arguments"""
-    parser = argparse.ArgumentParser(description='Evaluate citation coverage for surveys')
-    
+def paras_args():
+    parser = argparse.ArgumentParser(description='')
+    parser.add_argument('--gpu',default='0', type=str, help='Specify the GPU to use')
+    parser.add_argument('--saving_path',default='./output/', type=str, help='Directory containing the output survey')
+    parser.add_argument('--model',default='gpt-4o-2024-05-13', type=str, help='Model for evaluation')
+    parser.add_argument('--topic',default='', type=str, help='Topic of the survey')
+    parser.add_argument('--api_url',default='https://api.openai.com/v1/chat/completions', type=str, help='url for API request')
+    parser.add_argument('--api_key',default='', type=str, help='API key for the model')
+    parser.add_argument('--db_path',default='./database', type=str, help='Directory of the database.')
+    parser.add_argument('--embedding_model',default='nomic-ai/nomic-embed-text-v1', type=str, help='Embedding model for retrieval.')
+    ## yzy: surveyForge eval parameter
     # Evaluation settings
     parser.add_argument('--is_human_eval', 
                     action='store_true',
                     help='True for human survey evaluation, False for generated surveys')
-
     parser.add_argument('--num_generations', type=int, default=1,
                         help='Number of generated surveys per topic')
-    
     # Path settings
-    parser.add_argument('--generated_surveys_ref_dir', type=str, default='../code/output/res',
-                        help='Directory path to generated surveys')
-    parser.add_argument('--benchmark_refs_dir', type=str, default='./ref_bench',
+    parser.add_argument('--benchmark_refs_dir', type=str, default='../SurveyBench/ref_bench',
                         help='Directory path to benchmark references')
-    parser.add_argument('--human_surveys_ref_dir', type=str, default='./human_written_ref',
+    parser.add_argument('--human_surveys_ref_dir', type=str, default='../SurveyBench/human_written_ref',
                         help='Directory path to human written surveys')
-    parser.add_argument('--topic_list_path', type=str, default='topics.txt',
-                        help='Path to topics list file')
-    
-    config = parser.parse_args()
-    return config
+    args = parser.parse_args()
 
+    return args
+
+def read_survey(path, topic):
+    with open(f'{path}/{topic}.json', 'r') as f:
+        dic = json.loads(f.read())
+    return dic['survey'], dic['reference']
+
+##yzy: surveyForge eval functions:
 def parse_arxiv_date(arxiv_id):
     """
     Parse date and sequence number from arXiv ID
@@ -46,7 +61,7 @@ def parse_arxiv_date(arxiv_id):
         except ValueError:
             return None, None
     return None, None
-
+    
 def compute_citation_coverage(target_refs, benchmark_refs):
     """
     Compute citation coverage between target references and benchmark references
@@ -110,7 +125,7 @@ def evaluate_domain_references(domain_name, survey_title, config):
     matched_papers_list = []
     for exp_num in range(1, config.num_generations + 1):
         print(domain_name)
-        refs_file_path = os.path.join(config.generated_surveys_ref_dir,domain_name, f"exp_{exp_num}",f"{domain_name}.json")
+        refs_file_path = os.path.join(config.saving_path,f"{domain_name}.json")
         with open(refs_file_path, "r") as f:
             generated_refs = json.load(f)
             #yzy: add debug
@@ -142,31 +157,48 @@ def get_survey_title_mapping():
         "Vision Transformers": "A survey of visual transformers"
     }
 
-def main():
-    # Parse arguments
-    config = parse_args()
-    
+def evaluate(args):
+    ##yzy add: surveyForge eval
     # Get survey titles mapping
     survey_titles = get_survey_title_mapping()
 
-    # Load research topics
-    with open(config.topic_list_path, "r") as f:
-        research_topics = [line.strip() for line in f if line.strip()]
-
-    # Evaluate each domain
-    coverage_ratios = []
-    for topic in research_topics:
-        _, coverage_ratio, _ = evaluate_domain_references(
-            topic, 
-            survey_titles[topic],
-            config
-        )
-        coverage_ratios.append(coverage_ratio)
+    # Evaluate coverage
+    _, coverage_ratio, _ = evaluate_domain_references(
+        args.topic, 
+        survey_titles[args.topic],
+        args
+    )
 
     # Print results
-    for topic, ratio in zip(research_topics, coverage_ratios):
-        print(f"{topic} citation coverage: {round(ratio, 3)}")
-    print(f"Average Coverage Across Topics: {np.mean([round(x, 3) for x in coverage_ratios])}")
+    print(f"{args.topic} citation coverage: {round(coverage_ratio, 3)}")
+    ## end
+    
+    db = database(db_path = args.db_path, embedding_model = args.embedding_model)
 
-if __name__ == "__main__":
-    main()
+    if not os.path.exists(args.saving_path):
+        os.mkdir(args.saving_path)
+
+    judge = Judge(args.model, args.api_key, args.api_url, db)
+
+    survey, references = read_survey(args.saving_path, args.topic)
+
+    criterion = ['Coverage', 'Structure', 'Relevance']
+
+    scores = judge.batch_criteria_based_judging(survey, args.topic, criterion)
+
+    recall, precision = judge.citation_quality(survey, references)
+    print("[DEBUG] ",recall, " ", precision)
+
+    
+    with open(f'{args.saving_path}/{args.topic}_evaluation.txt', 'a+') as f:
+        result = f'Judged by {args.model}:\n'
+        for c, s in zip(criterion, scores):
+            result += f'{c} = {s}\n'
+        result += f'Citation Recall = {recall:.4f}\nCitation Precision = {precision:.4f}\nReference Coverage = {coverage_ratio:.4f}'
+        f.write(result)
+
+if __name__ == '__main__':
+
+    args = paras_args()
+
+    evaluate(args)

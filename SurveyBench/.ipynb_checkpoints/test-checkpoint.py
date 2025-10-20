@@ -20,7 +20,7 @@ def parse_args():
                         help='Number of generated surveys per topic')
     
     # Path settings
-    parser.add_argument('--generated_surveys_ref_dir', type=str, default='./generated_surveys_ref',
+    parser.add_argument('--generated_surveys_ref_dir', type=str, default='../code/output/res',
                         help='Directory path to generated surveys')
     parser.add_argument('--benchmark_refs_dir', type=str, default='./ref_bench',
                         help='Directory path to benchmark references')
@@ -109,11 +109,14 @@ def evaluate_domain_references(domain_name, survey_title, config):
     total_citation_count = total_coverage_ratio = 0
     matched_papers_list = []
     for exp_num in range(1, config.num_generations + 1):
-        refs_file_path = os.path.join(config.generated_surveys_ref_dir, domain_name, f"exp_{exp_num}/", "ref.json")
+        print(domain_name)
+        refs_file_path = os.path.join(config.generated_surveys_ref_dir,domain_name, f"exp_{exp_num}",f"{domain_name}.json")
         with open(refs_file_path, "r") as f:
             generated_refs = json.load(f)
+            #yzy: add debug
+            #print("[DEBUG json read:] ",generated_refs)
         citations, coverage, matched = compute_citation_coverage(
-            generated_refs.keys(), 
+            generated_refs["reference"].values(), 
             [refs.keys() for refs in benchmark_data]
         )
         total_citation_count += citations

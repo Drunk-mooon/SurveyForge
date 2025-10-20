@@ -1,0 +1,42 @@
+# Survey on Large Language Model-based Multi-Agent Systems
+## 1 Introduction
+## 2 Fundamental Concepts and Theoretical Foundations
+### 2.1 Key Definitions and Terminology
+### 2.2 Theoretical Frameworks
+### 2.3 Core Algorithms
+### 2.4 Interaction Protocols and Communication Mechanisms
+### 2.5 Memory and Learning in Multi-Agent Systems
+### 2.6 Ethical and Social Considerations
+## 3 Architecture and Design of LLM-based Multi-Agent Systems
+### 3.1 Architectural Models
+### 3.2 Key Design Components
+### 3.3 Interaction Mechanisms
+### 3.4 Self-Adaptive Architecture
+### 3.5 Multi-Agent System Frameworks
+### 3.6 Multi-Agent Collaboration Strategies
+## 4 Applications and Case Studies
+### 4.1 Industry Applications
+### 4.2 Case Studies
+### 4.3 Emerging Applications
+## 5 Evaluation of LLM-based Multi-Agent Systems
+### 5.1 Evaluation Criteria
+### 5.2 Benchmarking Datasets
+### 5.3 Performance Metrics
+### 5.4 Dynamic Evaluation Methods
+### 5.5 Interactive and Visual Evaluation Tools
+### 5.6 Real-World Performance and Reliability Testing
+## 6 Challenges and Issues
+### 6.1 Technical Challenges in LLM-based Multi-Agent Systems
+### 6.2 Ethical and Social Challenges
+### 6.3 Practical Implementation Issues
+### 6.4 Security Challenges in Multi-Agent Systems
+### 6.5 Communication and Coordination Issues
+### 6.6 Evaluation and Benchmarking Challenges
+## 7 Potential Gaps and Future Research Directions
+### 7.1 Unexplored Research Areas
+### 7.2 Future Technological Advancements
+### 7.3 Long-term Research Directions
+### 7.4 Addressing Current Challenges
+### 7.5 Integration into Existing Infrastructures
+## 8 Conclusion
+

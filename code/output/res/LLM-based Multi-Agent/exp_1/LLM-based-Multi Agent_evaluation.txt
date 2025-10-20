@@ -1,0 +1,30 @@
+Judged by gpt-4o-2024-05-13:(normal)
+Coverage = 5
+Structure = 5
+Relevance = 5
+Citation Recall = 0.3566
+Citation Precision = 0.3233
+Judged by gpt-4o-2024-05-13:(use single claim prompt)
+Coverage = 5
+Structure = 5
+Relevance = 5
+Citation Recall = 0.3419
+Citation Precision = 0.3167
+Judged by gpt-4o-2024-05-13:(use new claim prompt)
+Coverage = 5
+Structure = 5
+Relevance = 5
+Citation Recall = 0.3603
+Citation Precision = 0.3367
+Judged by gpt-4o-2024-05-13:(use nomic-ai/nomic-embed-text-v1)
+Coverage = 5
+Structure = 5
+Relevance = 5
+Citation Recall = 0.3787
+Citation Precision = 0.3467
+Judged by gpt-4o-2024-05-13:
+Coverage = 5
+Structure = 5
+Relevance = 5
+Citation Recall = 0.3603
+Citation Precision = 0.3300

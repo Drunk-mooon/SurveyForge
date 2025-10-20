@@ -1,0 +1,6 @@
+Judged by gpt-4o-2024-05-13:
+Coverage = 5
+Structure = 5
+Relevance = 5
+Citation Recall = 0.2629
+Citation Precision = 0.2216
