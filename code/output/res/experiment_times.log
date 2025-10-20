@@ -1,0 +1,87 @@
+Experiment Start Time: 2025-10-20 12:54:29
+==================================================
+
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:00:05.005070
+Successful Experiments: 1/10
+==================================================
+Topic: 3D Object Detection in Autonomous Driving, Exp 1
+Start: 2025-10-20 12:54:34
+End: 2025-10-20 13:03:02
+Duration: 0:08:27.769946
+OutlineWriter Input token usage: 7421
+OutlineWriter Output token usage: 2066
+SubsectionWriter Input token usage: 808365
+SubsectionWriter Output token usage: 95299
+--------------------------------------------------
+
+Topic Summary: 3D Object Detection in Autonomous Driving
+Total Duration: 0:08:32.776883
+Successful Experiments: 1/10
+==================================================
+Topic: Evaluation of Large Language Models, Exp 1
+Start: 2025-10-20 13:03:07
+End: 2025-10-20 13:11:19
+Duration: 0:08:11.868695
+OutlineWriter Input token usage: 7560
+OutlineWriter Output token usage: 1942
+SubsectionWriter Input token usage: 778313
+SubsectionWriter Output token usage: 82965
+--------------------------------------------------
+
+Topic Summary: Evaluation of Large Language Models
+Total Duration: 0:08:16.874726
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: LLM-based Multi-Agent
+Total Duration: 0:00:05.005149
+Successful Experiments: 1/10
+==================================================
+Topic: Generative Diffusion Models, Exp 1
+Start: 2025-10-20 13:11:29
+End: 2025-10-20 13:20:00
+Duration: 0:08:31.295049
+OutlineWriter Input token usage: 7047
+OutlineWriter Output token usage: 2097
+SubsectionWriter Input token usage: 662750
+SubsectionWriter Output token usage: 82041
+--------------------------------------------------
+
+Topic Summary: Generative Diffusion Models
+Total Duration: 0:08:36.300869
+Successful Experiments: 1/10
+==================================================
+Topic: Graph Neural Networks, Exp 1
+Start: 2025-10-20 13:20:05
+End: 2025-10-20 13:28:44
+Duration: 0:08:38.673589
+OutlineWriter Input token usage: 6990
+OutlineWriter Output token usage: 1937
+SubsectionWriter Input token usage: 768055
+SubsectionWriter Output token usage: 76101
+--------------------------------------------------
+
+Topic Summary: Graph Neural Networks
+Total Duration: 0:08:43.679695
+Successful Experiments: 1/10
+==================================================
+Topic: Hallucination in Large Language Models, Exp 1 [FAILED]
+Start: 2025-10-20 13:28:49
+End: 2025-10-20 13:29:52
+Duration: 0:01:02.723900
+Error: Command '['python3', 'main.py', '--topic', 'Hallucination in Large Language Models', '--gpu', '0', '--saving_path', './output/res/Hallucination in Large Language Models/exp_1', '--model', 'gpt-4o-2024-05-13', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '5', '--survey_outline_path', '../database', '--db_path', '../database/database', '--embedding_model', '../gte-large-en-v1.5', '--api_key', 'sk-UCfwgl63Xg27JF8W33D746F3B80d4862979c82A51951485f', '--api_url', 'https://api.xi-ai.cn/v1/chat/completions']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: Hallucination in Large Language Models
+Total Duration: 0:01:07.729642
+Successful Experiments: 0/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-10-20 12:54:29
+Total End Time: 2025-10-20 13:29:57
+Total Duration: 0:35:27.374592
+Total Topics: 7
