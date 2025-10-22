@@ -85,3 +85,153 @@ Total Start Time: 2025-10-20 12:54:29
 Total End Time: 2025-10-20 13:29:57
 Total Duration: 0:35:27.374592
 Total Topics: 7
+
+Resuming experiments at: 2025-10-20 11:34:51
+==================================================
+
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:00:05.004804
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: 3D Object Detection in Autonomous Driving
+Total Duration: 0:00:05.004773
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: Evaluation of Large Language Models
+Total Duration: 0:00:05.004456
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: LLM-based Multi-Agent
+Total Duration: 0:00:05.004817
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: Generative Diffusion Models
+Total Duration: 0:00:05.005076
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: Graph Neural Networks
+Total Duration: 0:00:05.004495
+Successful Experiments: 1/10
+==================================================
+Topic: Hallucination in Large Language Models, Exp 1 [FAILED]
+Start: 2025-10-20 11:35:21
+End: 2025-10-20 11:35:25
+Duration: 0:00:04.630222
+Error: Command '['python3', 'main.py', '--topic', 'Hallucination in Large Language Models', '--gpu', '0', '--saving_path', './output/res/Hallucination in Large Language Models/exp_1', '--model', 'gpt-4o-2024-05-13', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '5', '--survey_outline_path', '../database', '--db_path', '../database/database', '--embedding_model', '../gte-large-en-v1.5', '--api_key', 'sk-UCfwgl63Xg27JF8W33D746F3B80d4862979c82A51951485f', '--api_url', 'https://api.xi-ai.cn/v1/chat/completions']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: Hallucination in Large Language Models
+Total Duration: 0:00:09.635760
+Successful Experiments: 0/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-10-20 11:34:51
+Total End Time: 2025-10-20 11:35:30
+Total Duration: 0:00:39.666645
+Total Topics: 7
+
+Resuming experiments at: 2025-10-20 11:55:40
+==================================================
+
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:00:05.005051
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: 3D Object Detection in Autonomous Driving
+Total Duration: 0:00:05.005072
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: Evaluation of Large Language Models
+Total Duration: 0:00:05.005103
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: LLM-based Multi-Agent
+Total Duration: 0:00:05.005083
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: Generative Diffusion Models
+Total Duration: 0:00:05.004272
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: Graph Neural Networks
+Total Duration: 0:00:05.004800
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: Hallucination in Large Language Models
+Total Duration: 0:00:05.005065
+Successful Experiments: 1/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-10-20 11:55:40
+Total End Time: 2025-10-20 11:56:15
+Total Duration: 0:00:35.037120
+Total Topics: 7
+
+Resuming experiments at: 2025-10-20 11:58:21
+==================================================
+
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:00:05.005053
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: 3D Object Detection in Autonomous Driving
+Total Duration: 0:00:05.005081
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: Evaluation of Large Language Models
+Total Duration: 0:00:05.004179
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: LLM-based Multi-Agent
+Total Duration: 0:00:05.004823
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: Generative Diffusion Models
+Total Duration: 0:00:05.004815
+Successful Experiments: 1/10
+==================================================
+
+Topic Summary: Graph Neural Networks
+Total Duration: 0:00:05.005071
+Successful Experiments: 1/10
+==================================================
+Topic: Hallucination in Large Language Models, Exp 1 [FAILED]
+Start: 2025-10-20 11:58:51
+End: 2025-10-20 12:00:54
+Duration: 0:02:03.214881
+Error: Command '['python3', 'main.py', '--topic', 'Hallucination in Large Language Models', '--gpu', '0', '--saving_path', './output/res/Hallucination in Large Language Models/exp_1', '--model', 'gpt-4o-2024-05-13', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '5', '--survey_outline_path', '../database', '--db_path', '../database/database', '--embedding_model', '../gte-large-en-v1.5', '--api_key', 'sk-UCfwgl63Xg27JF8W33D746F3B80d4862979c82A51951485f', '--api_url', 'https://api.xi-ai.cn/v1/chat/completions']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: Hallucination in Large Language Models
+Total Duration: 0:02:08.220605
+Successful Experiments: 0/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-10-20 11:58:21
+Total End Time: 2025-10-20 12:00:59
+Total Duration: 0:02:38.252082
+Total Topics: 7

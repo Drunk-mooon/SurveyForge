@@ -55,7 +55,9 @@ class GeneralRAG_langchain():
                 index_db = None
         else:
             index_db = None
-        
+            ##yzy: debug
+        print(type(index_db))
+        print(index_db)
         # load doc database and get index2id
         doc_list, doc_store, _ = autosurvey_db_json2doc_langchain(self.doc_db_path)
         # load arxiv_id to index mapping
